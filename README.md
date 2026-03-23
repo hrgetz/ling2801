@@ -1,5 +1,4 @@
-# ling2801
-Neuroscience of Language
+# LING-2801: Neuroscience of Language (Spring 2026)
 * [Syllabus](syllabus.md)
 * [Schedule](schedule.md)
 * [Reading List](readings.md)
