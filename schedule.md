@@ -1,4 +1,4 @@
-Schedule
+# Schedule
 
 | Week  | Class | Topic | Readings & Resources |
 | :---- | :---- | :---- | :---- |

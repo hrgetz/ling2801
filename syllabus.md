@@ -1,10 +1,17 @@
-# LING-2801: Neuroscience of Language
 
-**Professor**: Heidi Getz, Ph.D. [heidi.getz@georgetown.edu](mailto:heidi.getz@georgetown.edu) (Linguistics office: Poulton Hall 223; Neurology office: Building D, Room 154)  
+---
+title: "LING-2801: Neuroscience of Language"
+---
+
+**Professor**: Heidi Getz, Ph.D. [heidi.getz@georgetown.edu](mailto:heidi.getz@georgetown.edu)  
+Linguistics office: Poulton Hall 223 / Neurology office: Building D, Room 154  
 **Class schedule**: Tues/Thurs 9:30-10:45  
 **Office hours**: TBD  
 **Prerequisites**: None  
 **Required text**: Brennan, J. R. (2022). *Language and the brain: a slim guide to neurolinguistics*. Oxford University Press. (Additional readings will be posted on Canvas.)
+
+[Link to purchase text at bookstore](https://georgetown.bncollege.com/course-material-listing-page?utm_campaign=storeId=88131_langId=-1_courseData=LING_2801_01_F26&utm_source=wcs&utm_medium=registration_integration)
+
 
 # **Overview**
 
@@ -66,7 +73,7 @@ There is no Zoom option for this course.
 
 ## **Use of AI**
 
-I think that generative AI (Chat GPT, etc.) can be a great tool and that students should learn to use it. However, this course is not the place for you to do that. This course is also not one in which generative AI would do a particularly good job. In any case, I expect you to complete all of your work without the aid of generative AI, unless I specifically say otherwise. **In this course, presenting AI-generated work (including text and ideas) as your own constitutes a violation of academic integrity**. If I suspect that AI was used for an assignment, I will refer the submission to the Honor Council for investigation. This can have enormous consequences for you, including a permanent notation on your transcript or even suspension or dismissal from Georgetown.
+I think that generative AI (ChatGPT, etc.) can be a great tool and that students should learn to use it. However, this course is not the place for you to do that. This course is also not one in which generative AI would do a particularly good job. In any case, I expect you to complete all of your work without the aid of generative AI, unless I specifically say otherwise. **In this course, presenting AI-generated work (including text and ideas) as your own constitutes a violation of academic integrity**. If I suspect that AI was used for an assignment, I will refer the submission to the Honor Council for investigation. This can have enormous consequences for you, including a permanent notation on your transcript or even suspension or dismissal from Georgetown.
 
 It is ok to use basic copy-editing/spell-checking tools like the ones provided by Grammarly, Microsoft Word, and Google Docs.
 

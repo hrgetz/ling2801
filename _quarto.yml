@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Neuroscience of Language"
+  navbar:
+    left:
+      - href: syllabus.md
+        text: syllabus
+      - schedule.md
+      - readings.md
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
