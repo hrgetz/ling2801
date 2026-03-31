@@ -1,0 +1,27 @@
+---
+title: "Assignments"
+---
+## **Readings**
+
+There will be two types of readings. Each week, you will have readings that provide general background on the topic. These will be chapters from the Brennan text, encyclopedia articles, or similar sources. You will also read one or two of the original scientific articles that were cited in the background reading. See [Schedule & Readings](schedule.md) for week-by-week reading assignments.
+
+## **Exams: 60%**
+
+There will be four in-person exams. These are designed to assess your mastery of course content, as well as your ability to map scientific evidence to theoretical claims. 
+
+## **Figure Presentations: 15%**
+
+You’ll be assigned original research papers to read throughout the semester. These contain figures, tables, and charts that you will learn to interpret: these illustrate the methods and results of the researchers’ experiments. In class, you will be asked to present at least two of these tables/charts to your classmates. Your job will be to describe, in completely concrete terms, how the study worked (if this is a methods figure) or what the results were (in a results figure). These explanations must be completely factual, without any opinion. 
+
+## **Researcher Interview: 4%**
+
+For this assignment, you will conduct a structured interview with one of the predoctoral or  postdoctoral scholars in Georgetown’s [Neuroscience of Language training program](https://neurolang.georgetown.edu/). The goal of your interview will be to learn about a specific research question that this person is trying to answer; to understand the research approach or method that they are trying to use in order to answer it; and to identify some things that make it challenging to conduct this type of research. After the interview, you will briefly describe to your classmates the researcher’s main question and research approach, and you will submit a written reflection. 
+
+## **Researcher Panel: 1%**
+
+At the end of the semester, we will host a panel discussion with Neuroscience of Language researchers at various stages of their career, ranging from graduate students to senior professors. The focus of this panel will be on the future of the field: we’ll ask researchers where they think the field is going and what challenges the field faces. To prepare for this, I will ask each student to submit some questions for panelists in advance, and then the class will vote on which questions to present to the panelists. You will also submit a written reflection afterwards.
+
+## **Study Proposal: 20%**
+
+Over the course of the semester, you will work in small groups to identify a big-picture question about language and the brain; narrow this to an answerable research question; and propose an empirical study that would answer the question. You will present your proposal to the whole class and lead group discussion of your idea. At the end of the semester, you will submit a final written paper that includes details of your study proposal as well as discussion of anticipated results.
+

@@ -4,14 +4,21 @@ project:
 
 website:
   title: "Neuroscience of Language"
-  navbar:
-    left:
+
+  sidebar:
+    style: docked
+    search: true
+    contents:
       - href: syllabus.md
-        text: syllabus
+        text: Overview
+      - requirements.qmd
       - schedule.md
       - readings.md
+      - policies.qmd
+
+
 format:
   html:
-    theme: sandstone
+    theme: pulse
     css: styles.css
     toc: true

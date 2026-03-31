@@ -1,150 +1,214 @@
 [
   {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "LING-2801: Neuroscience of Language",
+    "objectID": "2.html",
+    "href": "2.html",
+    "title": "Neuroscience of Language",
     "section": "",
-    "text": "Professor: Heidi Getz, Ph.D. heidi.getz@georgetown.edu\nLinguistics office: Poulton Hall 223 / Neurology office: Building D, Room 154\nClass schedule: Tues/Thurs 9:30-10:45\nOffice hours: TBD\nPrerequisites: None\nRequired text: Brennan, J. R. (2022). Language and the brain: a slim guide to neurolinguistics. Oxford University Press. (Additional readings will be posted on Canvas.)\nLink to purchase text at bookstore"
+    "text": "class 2"
   },
   {
-    "objectID": "syllabus.html#course-description",
-    "href": "syllabus.html#course-description",
-    "title": "LING-2801: Neuroscience of Language",
-    "section": "Course Description",
-    "text": "Course Description\nThis is an introductory course on language and the brain, designed for students with no background in neuroscience. Its goal is to introduce students to the major scientific findings in this area as well as the scientific process that generated this evidence. Topics include the brain regions and networks involved in language processing in the healthy brain; how these structures develop in children; and how language skills are affected by damage to these structures."
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Policies",
+    "section": "",
+    "text": "To help me learn your name, please consider using this link to record yourself saying your name the way you’d like me to pronounce it.",
+    "crumbs": [
+      "Policies"
+    ]
   },
   {
-    "objectID": "syllabus.html#learning-goals",
-    "href": "syllabus.html#learning-goals",
-    "title": "LING-2801: Neuroscience of Language",
-    "section": "Learning Goals",
-    "text": "Learning Goals\nThe course is designed to achieve the following learning outcomes:\n\nKnowledge of the basic principles, foundational evidence, and current research challenges in the field of language and the brain\n\nUnderstanding of the scientific process through which researchers learn about this field\n\nThe ability to understand and interpret scientific evidence about language in the brain\n\nAn understanding of how research on language and the brain relates to broader societal issues"
+    "objectID": "policies.html#names",
+    "href": "policies.html#names",
+    "title": "Policies",
+    "section": "",
+    "text": "To help me learn your name, please consider using this link to record yourself saying your name the way you’d like me to pronounce it.",
+    "crumbs": [
+      "Policies"
+    ]
   },
   {
-    "objectID": "syllabus.html#readings",
-    "href": "syllabus.html#readings",
-    "title": "LING-2801: Neuroscience of Language",
-    "section": "Readings",
-    "text": "Readings\nThere will be two types of readings. Each week, you will have readings that provide general background on the topic. These will be chapters from the Brennan text, encyclopedia articles, or similar sources. You will also read one or two of the original scientific articles that were cited in the background reading. See Schedule & Readings for week-by-week reading assignments."
-  },
-  {
-    "objectID": "syllabus.html#exams-60",
-    "href": "syllabus.html#exams-60",
-    "title": "LING-2801: Neuroscience of Language",
-    "section": "Exams: 60%",
-    "text": "Exams: 60%\nThere will be four in-person exams. These are designed to assess your mastery of course content, as well as your ability to map scientific evidence to theoretical claims."
-  },
-  {
-    "objectID": "syllabus.html#figure-presentations-15",
-    "href": "syllabus.html#figure-presentations-15",
-    "title": "LING-2801: Neuroscience of Language",
-    "section": "Figure Presentations: 15%",
-    "text": "Figure Presentations: 15%\nYou’ll be assigned original research papers to read throughout the semester. These contain figures, tables, and charts that you will learn to interpret: these illustrate the methods and results of the researchers’ experiments. In class, you will be asked to present at least two of these tables/charts to your classmates. Your job will be to describe, in completely concrete terms, how the study worked (if this is a methods figure) or what the results were (in a results figure). These explanations must be completely factual, without any opinion."
-  },
-  {
-    "objectID": "syllabus.html#researcher-interview-4",
-    "href": "syllabus.html#researcher-interview-4",
-    "title": "LING-2801: Neuroscience of Language",
-    "section": "Researcher Interview: 4%",
-    "text": "Researcher Interview: 4%\nFor this assignment, you will conduct a structured interview with one of the predoctoral or postdoctoral scholars in Georgetown’s Neuroscience of Language training program. The goal of your interview will be to learn about a specific research question that this person is trying to answer; to understand the research approach or method that they are trying to use in order to answer it; and to identify some things that make it challenging to conduct this type of research. After the interview, you will briefly describe to your classmates the researcher’s main question and research approach, and you will submit a written reflection."
-  },
-  {
-    "objectID": "syllabus.html#researcher-panel-1",
-    "href": "syllabus.html#researcher-panel-1",
-    "title": "LING-2801: Neuroscience of Language",
-    "section": "Researcher Panel: 1%",
-    "text": "Researcher Panel: 1%\nAt the end of the semester, we will host a panel discussion with Neuroscience of Language researchers at various stages of their career, ranging from graduate students to senior professors. The focus of this panel will be on the future of the field: we’ll ask researchers where they think the field is going and what challenges the field faces. To prepare for this, I will ask each student to submit some questions for panelists in advance, and then the class will vote on which questions to present to the panelists. You will also submit a written reflection afterwards."
-  },
-  {
-    "objectID": "syllabus.html#study-proposal-20",
-    "href": "syllabus.html#study-proposal-20",
-    "title": "LING-2801: Neuroscience of Language",
-    "section": "Study Proposal: 20%",
-    "text": "Study Proposal: 20%\nOver the course of the semester, you will work in small groups to identify a big-picture question about language and the brain; narrow this to an answerable research question; and propose an empirical study that would answer the question. You will present your proposal to the whole class and lead group discussion of your idea. At the end of the semester, you will submit a final written paper that includes details of your study proposal as well as discussion of anticipated results."
-  },
-  {
-    "objectID": "syllabus.html#names",
-    "href": "syllabus.html#names",
-    "title": "LING-2801: Neuroscience of Language",
-    "section": "Names",
-    "text": "Names\nTo help me learn your name, please consider using this link to record yourself saying your name the way you’d like me to pronounce it."
-  },
-  {
-    "objectID": "syllabus.html#attendance",
-    "href": "syllabus.html#attendance",
-    "title": "LING-2801: Neuroscience of Language",
+    "objectID": "policies.html#attendance",
+    "href": "policies.html#attendance",
+    "title": "Policies",
     "section": "Attendance",
-    "text": "Attendance\nAttendance is mandatory. Unexplained absences will affect your grade. That said:\n\nIf you know in advance that you won’t be able to make it to a particular class due to a religious holiday, sports conflict, etc., no problem—just let me know ahead of time.\n\nIf you’re sick and/or contagious, please DO NOT come to class. Email me to let me know you are not well enough to come. I will not ask any follow-up questions, and I will never require you to provide a doctor’s note.\n\nThere is no Zoom option for this course."
+    "text": "Attendance\nAttendance is mandatory. Unexplained absences will affect your grade. That said:\n\nIf you know in advance that you won’t be able to make it to a particular class due to a religious holiday, sports conflict, etc., no problem—just let me know ahead of time.\n\nIf you’re sick and/or contagious, please DO NOT come to class. Email me to let me know you are not well enough to come. I will not ask any follow-up questions, and I will never require you to provide a doctor’s note.\n\nThere is no Zoom option for this course.",
+    "crumbs": [
+      "Policies"
+    ]
   },
   {
-    "objectID": "syllabus.html#use-of-ai",
-    "href": "syllabus.html#use-of-ai",
-    "title": "LING-2801: Neuroscience of Language",
+    "objectID": "policies.html#use-of-ai",
+    "href": "policies.html#use-of-ai",
+    "title": "Policies",
     "section": "Use of AI",
-    "text": "Use of AI\nI think that generative AI (ChatGPT, etc.) can be a great tool and that students should learn to use it. However, this course is not the place for you to do that. This course is also not one in which generative AI would do a particularly good job. In any case, I expect you to complete all of your work without the aid of generative AI, unless I specifically say otherwise. In this course, presenting AI-generated work (including text and ideas) as your own constitutes a violation of academic integrity. If I suspect that AI was used for an assignment, I will refer the submission to the Honor Council for investigation. This can have enormous consequences for you, including a permanent notation on your transcript or even suspension or dismissal from Georgetown.\nIt is ok to use basic copy-editing/spell-checking tools like the ones provided by Grammarly, Microsoft Word, and Google Docs."
+    "text": "Use of AI\nI think that generative AI (ChatGPT, etc.) can be a great tool and that students should learn to use it. However, this course is not the place for you to do that. This course is also not one in which generative AI would do a particularly good job. In any case, I expect you to complete all of your work without the aid of generative AI, unless I specifically say otherwise. In this course, presenting AI-generated work (including text and ideas) as your own constitutes a violation of academic integrity. If I suspect that AI was used for an assignment, I will refer the submission to the Honor Council for investigation. This can have enormous consequences for you, including a permanent notation on your transcript or even suspension or dismissal from Georgetown.\nIt is ok to use basic copy-editing/spell-checking tools like the ones provided by Grammarly, Microsoft Word, and Google Docs.",
+    "crumbs": [
+      "Policies"
+    ]
   },
   {
-    "objectID": "syllabus.html#accommodations",
-    "href": "syllabus.html#accommodations",
-    "title": "LING-2801: Neuroscience of Language",
+    "objectID": "policies.html#accommodations",
+    "href": "policies.html#accommodations",
+    "title": "Policies",
     "section": "Accommodations",
-    "text": "Accommodations\nIf you might require an accommodation in this course, you may contact the Academic Resource Center (ARC). Available accommodations include notetaking assistance, interpreting/CART services, extra time on assignments, or any other accommodation that the ARC deems “reasonable” based on a conversation with you and documentation from the appropriate people (e.g. your doctor). To arrange accommodations (or just to explore this option), email arc@georgetown.edu or visit the ARC in-person (Leavey Center, Suite 335, which is accessible from the elevators next to the student credit union, around the corner from the bookstore). There’s more information about this process on the ARC’s website.\nRecording course lectures: One possible ARC accommodation is access to special note-taking software. This software allows students to audio-record class, generate a transcription of that recording, and store it alongside other course materials (e.g., lecture slides). When students are approved for this accommodation, they must sign a document agreeing that recordings are for their personal use only, and they are required to delete all recordings at the end of the semester."
+    "text": "Accommodations\nIf you might require an accommodation in this course, you may contact the Academic Resource Center (ARC). Available accommodations include notetaking assistance, interpreting/CART services, extra time on assignments, or any other accommodation that the ARC deems “reasonable” based on a conversation with you and documentation from the appropriate people (e.g. your doctor). To arrange accommodations (or just to explore this option), email arc@georgetown.edu or visit the ARC in-person (Leavey Center, Suite 335, which is accessible from the elevators next to the student credit union, around the corner from the bookstore). There’s more information about this process on the ARC’s website.\nRecording course lectures: One possible ARC accommodation is access to special note-taking software. This software allows students to audio-record class, generate a transcription of that recording, and store it alongside other course materials (e.g., lecture slides). When students are approved for this accommodation, they must sign a document agreeing that recordings are for their personal use only, and they are required to delete all recordings at the end of the semester.",
+    "crumbs": [
+      "Policies"
+    ]
   },
   {
-    "objectID": "syllabus.html#communication",
-    "href": "syllabus.html#communication",
-    "title": "LING-2801: Neuroscience of Language",
+    "objectID": "policies.html#communication",
+    "href": "policies.html#communication",
+    "title": "Policies",
     "section": "Communication",
-    "text": "Communication\nTo promote the highest degree of education possible, we ask each student to respect the opinions, thoughts, and identity of other students and be courteous in the way that you choose to express yourself. We should all be respectful and considerate of all opinions."
+    "text": "Communication\nTo promote the highest degree of education possible, we ask each student to respect the opinions, thoughts, and identity of other students and be courteous in the way that you choose to express yourself. We should all be respectful and considerate of all opinions.",
+    "crumbs": [
+      "Policies"
+    ]
   },
   {
-    "objectID": "syllabus.html#religious-holidays",
-    "href": "syllabus.html#religious-holidays",
-    "title": "LING-2801: Neuroscience of Language",
+    "objectID": "policies.html#religious-holidays",
+    "href": "policies.html#religious-holidays",
+    "title": "Policies",
     "section": "Religious holidays",
-    "text": "Religious holidays\nGeorgetown University promotes respect for all religions. Any student who is unable to attend classes or to participate in any examination, presentation, or assignment on a given day because of the observance of a major religious holiday or related travel shall be excused and provided with the opportunity to make up, without unreasonable burden, any work that has been missed for this reason and shall not in any other way be penalized for the absence or rescheduled work. Students will remain responsible for all assigned work. Students should notify professors in writing at the beginning of the semester of religious observances that conflict with their classes. The Office of the Provost, in consultation with Campus Ministry and the Registrar, will publish, before classes begin for a given term, a list of major religious holidays likely to affect Georgetown students. This list can be found on the Campus Ministry website, http://campusministry.georgetown.edu. The Provost and the Main Campus Executive Faculty encourage faculty to accommodate students whose bona fide religious observances in other ways impede normal participation in a course. Students who cannot be accommodated should discuss the matter with an advising dean."
+    "text": "Religious holidays\nGeorgetown University promotes respect for all religions. Any student who is unable to attend classes or to participate in any examination, presentation, or assignment on a given day because of the observance of a major religious holiday or related travel shall be excused and provided with the opportunity to make up, without unreasonable burden, any work that has been missed for this reason and shall not in any other way be penalized for the absence or rescheduled work. Students will remain responsible for all assigned work. Students should notify professors in writing at the beginning of the semester of religious observances that conflict with their classes. The Office of the Provost, in consultation with Campus Ministry and the Registrar, will publish, before classes begin for a given term, a list of major religious holidays likely to affect Georgetown students. This list can be found on the Campus Ministry website, http://campusministry.georgetown.edu. The Provost and the Main Campus Executive Faculty encourage faculty to accommodate students whose bona fide religious observances in other ways impede normal participation in a course. Students who cannot be accommodated should discuss the matter with an advising dean.",
+    "crumbs": [
+      "Policies"
+    ]
   },
   {
-    "objectID": "syllabus.html#sexual-misconduct",
-    "href": "syllabus.html#sexual-misconduct",
-    "title": "LING-2801: Neuroscience of Language",
+    "objectID": "policies.html#sexual-misconduct",
+    "href": "policies.html#sexual-misconduct",
+    "title": "Policies",
     "section": "Sexual Misconduct",
-    "text": "Sexual Misconduct\nI am committed to supporting survivors of sexual misconduct, including relationship violence, sexual harassment, and sexual assault. However, university policy also requires me to report any disclosures about sexual misconduct to the Title IX Coordinator, whose role is to coordinate the University’s response to sexual misconduct. If I report an incident to the Title IX Coordinator, the coordinator would then reach out to you to provide support, resources, and the option to meet. You would not be required to meet with the coordinator. More information about reporting options and resources is available here.\nAs an alternative to speaking with me or another mandated reporter, you can reach out for support and assistance to these other fully confidential professional resources:\n\nConfidential email address for Sexual Assault Response and Prevention (SARP): sarp@georgetown.edu\n\nJen Schweer, MA, LPC, Associate Director of Health Education Services for Sexual Assault Response and Prevention (202) 687-0323 | jls242@georgetown.edu\n\nBrittany Egan, MSW, LICSW, CCTP, Staff Clinician and Sexual Assault Services Specialist, Health Education Services (202) 687-0323 | be200@georgetown.edu\n\nCounseling and Psychiatric Services (CAPS), (202) 687-6985"
+    "text": "Sexual Misconduct\nI am committed to supporting survivors of sexual misconduct, including relationship violence, sexual harassment, and sexual assault. However, university policy also requires me to report any disclosures about sexual misconduct to the Title IX Coordinator, whose role is to coordinate the University’s response to sexual misconduct. If I report an incident to the Title IX Coordinator, the coordinator would then reach out to you to provide support, resources, and the option to meet. You would not be required to meet with the coordinator. More information about reporting options and resources is available here.\nAs an alternative to speaking with me or another mandated reporter, you can reach out for support and assistance to these other fully confidential professional resources:\n\nConfidential email address for Sexual Assault Response and Prevention (SARP): sarp@georgetown.edu\n\nJen Schweer, MA, LPC, Associate Director of Health Education Services for Sexual Assault Response and Prevention (202) 687-0323 | jls242@georgetown.edu\n\nBrittany Egan, MSW, LICSW, CCTP, Staff Clinician and Sexual Assault Services Specialist, Health Education Services (202) 687-0323 | be200@georgetown.edu\n\nCounseling and Psychiatric Services (CAPS), (202) 687-6985",
+    "crumbs": [
+      "Policies"
+    ]
   },
   {
-    "objectID": "syllabus.html#office-of-the-student-ombuds-oso",
-    "href": "syllabus.html#office-of-the-student-ombuds-oso",
-    "title": "LING-2801: Neuroscience of Language",
+    "objectID": "policies.html#office-of-the-student-ombuds-oso",
+    "href": "policies.html#office-of-the-student-ombuds-oso",
+    "title": "Policies",
     "section": "Office of the Student Ombuds (OSO)",
-    "text": "Office of the Student Ombuds (OSO)\nConfidential | Independent | Impartial | Informal\nThe Office of the Student Ombuds (OSO) serves all undergraduate and graduate students, including SCS and BGE, on the main campus. Consider contacting the Student Ombuds when you want to talk to a caring professional about a University-related issue but don’t know where to turn. The OSO is a confidential and safe space that is independent of formal university organizations or structures where students can discuss their concerns, share their experiences, ask questions and explore their options. The student ombuds can help you problem-solve, identify your goals, and empower you to think through ways to navigate complex situations. Some reasons for you to visit the office may be to address academic concerns, clarify administrative policies, discuss interpersonal conflicts, seek coaching, mediation or facilitation to handle a sensitive situation, advise you on the process to file a formal complaint if you are experiencing bias, harassment, bullying or other forms of intimidation, identify other appropriate campus resources, and allow you to safely express your frustrations and concerns.\nRequest an in-person or zoom appointment with the Student Ombuds by writing studentombuds@georgetown.edu or calling 202-784-1081. The OSO is located in Room 207 of the Reiss Building (across from Arrupe Hall). Find more information at http://studentombuds.georgetown.edu."
+    "text": "Office of the Student Ombuds (OSO)\nConfidential | Independent | Impartial | Informal\nThe Office of the Student Ombuds (OSO) serves all undergraduate and graduate students, including SCS and BGE, on the main campus. Consider contacting the Student Ombuds when you want to talk to a caring professional about a University-related issue but don’t know where to turn. The OSO is a confidential and safe space that is independent of formal university organizations or structures where students can discuss their concerns, share their experiences, ask questions and explore their options. The student ombuds can help you problem-solve, identify your goals, and empower you to think through ways to navigate complex situations. Some reasons for you to visit the office may be to address academic concerns, clarify administrative policies, discuss interpersonal conflicts, seek coaching, mediation or facilitation to handle a sensitive situation, advise you on the process to file a formal complaint if you are experiencing bias, harassment, bullying or other forms of intimidation, identify other appropriate campus resources, and allow you to safely express your frustrations and concerns.\nRequest an in-person or zoom appointment with the Student Ombuds by writing studentombuds@georgetown.edu or calling 202-784-1081. The OSO is located in Room 207 of the Reiss Building (across from Arrupe Hall). Find more information at http://studentombuds.georgetown.edu.",
+    "crumbs": [
+      "Policies"
+    ]
   },
   {
-    "objectID": "syllabus.html#learning-resources",
-    "href": "syllabus.html#learning-resources",
-    "title": "LING-2801: Neuroscience of Language",
+    "objectID": "policies.html#learning-resources",
+    "href": "policies.html#learning-resources",
+    "title": "Policies",
     "section": "Learning Resources",
-    "text": "Learning Resources\nGeorgetown offers a host of learning resources to its students. Two that you might find particularly helpful in this course are the Writing Center and Refworks.\n\nThe Writing Center offers peer tutoring by trained graduate and undergraduate students who can assist you at any point in the writing process. They help at any stage of your writing process, from brainstorming to revision. Tutors can offer advice on thesis development, use of evidence, organization, flow, sentence structure, grammar, and more. The Writing Center will not proofread or edit papers; rather, they will help to improve your proofreading and editing skills to become a better writer. Appointments can be booked online through their website.\n\nRefworks is an online research management tool that aids in organizing, storing, and presenting citation sources for papers and projects."
+    "text": "Learning Resources\nGeorgetown offers a host of learning resources to its students. Two that you might find particularly helpful in this course are the Writing Center and Refworks.\n\nThe Writing Center offers peer tutoring by trained graduate and undergraduate students who can assist you at any point in the writing process. They help at any stage of your writing process, from brainstorming to revision. Tutors can offer advice on thesis development, use of evidence, organization, flow, sentence structure, grammar, and more. The Writing Center will not proofread or edit papers; rather, they will help to improve your proofreading and editing skills to become a better writer. Appointments can be booked online through their website.\n\nRefworks is an online research management tool that aids in organizing, storing, and presenting citation sources for papers and projects.",
+    "crumbs": [
+      "Policies"
+    ]
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
+    "objectID": "14.html",
+    "href": "14.html",
+    "title": "Neuroscience of Language",
     "section": "",
-    "text": "Schedule\n\n\n\nWeek\nClass\nTopic\nReadings & Resources\n\n\n\n\n1\n1\nCourse overview\n\n\n\n\n2\nIntroduction Linguistics 101\nCh. 1: Introduction\n\n\n2\n3\nMethods\nCh. 2: The Toolbox\n\n\n\n4\nInterpretation\nMcCabe & Castel (2008)\n\n\n3\n5\nExam #1\n\n\n\n\n6\nSounds & Phonemes\nCh. 3: Sounds in the brain\n\n\n4\n7\nSounds & Phonemes\nCh. 4: A neural code for speech *Mesgarani et al. (2014)\n\n\n\n8\nWords\nCh. 5: Activating words *Marinkovic et al. (2003)\n\n\n5\n9\nWords\nCh. 6: Representing meaning *Huth et al. (2016)\n\n\n\n10\nExam #2\n\n\n\n6\n11\nSentences\nCh. 7: Structure and prediction *Kim & Osterhout (2005)\n\n\n\n12\nSentences\nCh. 8: Composing sentences *Bemis & Pylkkanen (2011)\n\n\n7\n13\nSentences\nCh. 9: Building dependencies *Matchin, Sprouse, & Hickok (2014)\n\n\n\n14\nAphasia\nDronkers & Baldo (2009) UBC Stroke Lab\n\n\n8\n15\nExam #3\n\n\n\n\n16\nSigned Languages\nNewport & Supalla (1999)\n\n\n9\n17\nSigned Languages\nHickok, Bellugi, & Klima (1998)\n\n\n\n18\nLanguage Acquisition: Typical Development\nNewport & Getz (2025)\n\n\n10\n19\nLanguage Acquisition: Language Deprivation\nFerjan Ramirez et al. (2013)\n\n\n\n20\nLanguage Acquisition: Perinatal Stroke\nNewport et al. (2022)\n\n\n11\n21\nBilingualism\nCosta & Sebastián-Gallés (2014)\n\n\n\n22\nBilingualism\nAntoniou (2019)\n\n\n12\n23\nExam #4\n\n\n\n\n24\nExplanatory Frameworks\nEmbick & Poeppel (2014)\n\n\n13\n25\nNoL Researcher Panel\n\n\n\n\n26\nPresentations\n\n\n\n14\n27\nPresentations\n\n\n\n\n28\nPresentations"
+    "text": "UBC Stroke Lab"
+  },
+  {
+    "objectID": "requirements.html",
+    "href": "requirements.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "There will be two types of readings. Each week, you will have readings that provide general background on the topic. These will be chapters from the Brennan text, encyclopedia articles, or similar sources. You will also read one or two of the original scientific articles that were cited in the background reading. See Schedule & Readings for week-by-week reading assignments.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "requirements.html#readings",
+    "href": "requirements.html#readings",
+    "title": "Assignments",
+    "section": "",
+    "text": "There will be two types of readings. Each week, you will have readings that provide general background on the topic. These will be chapters from the Brennan text, encyclopedia articles, or similar sources. You will also read one or two of the original scientific articles that were cited in the background reading. See Schedule & Readings for week-by-week reading assignments.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "requirements.html#exams-60",
+    "href": "requirements.html#exams-60",
+    "title": "Assignments",
+    "section": "Exams: 60%",
+    "text": "Exams: 60%\nThere will be four in-person exams. These are designed to assess your mastery of course content, as well as your ability to map scientific evidence to theoretical claims.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "requirements.html#figure-presentations-15",
+    "href": "requirements.html#figure-presentations-15",
+    "title": "Assignments",
+    "section": "Figure Presentations: 15%",
+    "text": "Figure Presentations: 15%\nYou’ll be assigned original research papers to read throughout the semester. These contain figures, tables, and charts that you will learn to interpret: these illustrate the methods and results of the researchers’ experiments. In class, you will be asked to present at least two of these tables/charts to your classmates. Your job will be to describe, in completely concrete terms, how the study worked (if this is a methods figure) or what the results were (in a results figure). These explanations must be completely factual, without any opinion.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "requirements.html#researcher-interview-4",
+    "href": "requirements.html#researcher-interview-4",
+    "title": "Assignments",
+    "section": "Researcher Interview: 4%",
+    "text": "Researcher Interview: 4%\nFor this assignment, you will conduct a structured interview with one of the predoctoral or postdoctoral scholars in Georgetown’s Neuroscience of Language training program. The goal of your interview will be to learn about a specific research question that this person is trying to answer; to understand the research approach or method that they are trying to use in order to answer it; and to identify some things that make it challenging to conduct this type of research. After the interview, you will briefly describe to your classmates the researcher’s main question and research approach, and you will submit a written reflection.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "requirements.html#researcher-panel-1",
+    "href": "requirements.html#researcher-panel-1",
+    "title": "Assignments",
+    "section": "Researcher Panel: 1%",
+    "text": "Researcher Panel: 1%\nAt the end of the semester, we will host a panel discussion with Neuroscience of Language researchers at various stages of their career, ranging from graduate students to senior professors. The focus of this panel will be on the future of the field: we’ll ask researchers where they think the field is going and what challenges the field faces. To prepare for this, I will ask each student to submit some questions for panelists in advance, and then the class will vote on which questions to present to the panelists. You will also submit a written reflection afterwards.",
+    "crumbs": [
+      "Assignments"
+    ]
+  },
+  {
+    "objectID": "requirements.html#study-proposal-20",
+    "href": "requirements.html#study-proposal-20",
+    "title": "Assignments",
+    "section": "Study Proposal: 20%",
+    "text": "Study Proposal: 20%\nOver the course of the semester, you will work in small groups to identify a big-picture question about language and the brain; narrow this to an answerable research question; and propose an empirical study that would answer the question. You will present your proposal to the whole class and lead group discussion of your idea. At the end of the semester, you will submit a final written paper that includes details of your study proposal as well as discussion of anticipated results.",
+    "crumbs": [
+      "Assignments"
+    ]
   },
   {
     "objectID": "readings.html",
     "href": "readings.html",
     "title": "Readings",
     "section": "",
-    "text": "Readings\nNote: Not all of these are assigned readings, but all will be covered in class. Starred papers are the readings from which you’ll be asked to present figures.\n\nAntoniou, M. (2019). The advantages of bilingualism debate. Annual Review of Linguistics, 5(1), 395–415.\nBemis, D. K., & Pylkkänen, L. (2011). Simple composition: a magnetoencephalography investigation into the comprehension of minimal linguistic phrases. The Journal of Neuroscience, 31(8), 2801–2814.\nBennett, C., Baird, A., Miller, M., & Wolford, G. (2011). Neural Correlates of Interspecies Perspective Taking in the Post-Mortem Atlantic Salmon: An Argument For Proper Multiple Comparisons Correction. Journal of Serendipitous and Unexpected Results, 1, 1–5.\nBrennan, J. R. (2022). Language and the brain: a slim guide to neurolinguistics. Oxford University Press.\nCosta, A., & Sebastián-Gallés, N. (2014). How does the bilingual experience sculpt the brain? Nature Reviews Neuroscience, 15(5), 336–345.\nDronkers, N., & Baldo, J. V. (2009). Language: Aphasia. In L. Squire (Ed.), Encyclopedia of Neuroscience (pp. 343–348). Academic Press.\nDing, N., Melloni, L., Zhang, H., Tian, X., & Poeppel, D. (2016). Cortical tracking of hierarchical linguistic structures in connected speech. Nature Neuroscience, 19(1), 158–164.\nEmbick, D., & Poeppel, D. (2014). Towards a computational(ist) neurobiology of language: correlational, integrated and explanatory neurolinguistics. Language, Cognition and Neuroscience, 30(4), 357–366.\n*Ferjan Ramirez, N., Leonard, M. K., Torres, C., Hatrak, M., Halgren, E., & Mayberry, R. I. (2014). Neural language processing in adolescent first-language learners. Cerebral Cortex, 24(10), 2772–2783.\nFitch, W. T., & Martins, M. D. (2014). Hierarchical processing in music, language, and action: Lashley revisited. Annals of the New York Academy of Sciences, 1316, 87–104.\nGetz, H., Ding, N., Newport, E. L., & Poeppel, D. (2018). Cortical tracking of constituent structure in language acquisition. Cognition, 181, 135–140.\nGwilliams, L., King, J.-R., Marantz, A., & Poeppel, D. (2022). Neural dynamics of phoneme sequences reveal position-invariant code for content and order. Nature Communications, 13(1), 6606.\nHickok, G., Bellugi, U., & Klima, E. S. (1998). The neural organization of language: evidence from sign language aphasia. Trends in Cognitive Sciences, 2(4), 129–136.\n*Huth, A. G., de Heer, W. A., Griffiths, T. L., Theunissen, F. E., & Gallant, J. L. (2016). Natural speech reveals the semantic maps that tile human cerebral cortex. Nature, 532(7600), 453–458.\n*Kim, A., & Osterhout, L. (2005). The independence of combinatory semantic processing: Evidence from event-related potentials. Journal of Memory and Language, 52(2), 205–225.\n*Matchin, W., Sprouse, J., & Hickok, G. (2014). A structural distance effect for backward anaphora in Broca’s area: an fMRI study. Brain and Language, 138, 1–11.\n*Marinkovic, K., Dhond, R. P., Dale, A. M., Glessner, M., Carr, V., & Halgren, E. (2003). Spatiotemporal dynamics of modality-specific and supramodal word processing. Neuron, 38(3), 487–497.\nMcCabe, D. P., & Castel, A. D. (2008). Seeing is believing: The effect of brain images on judgments of scientific reasoning. Cognition, 107(1), 343–352.\n*Mesgarani, N., Cheung, C., Johnson, K., & Chang, E. F. (2014). Phonetic feature encoding in human superior temporal gyrus. Science, 343(6174), 1006–1010.\nNelson, M. J., El Karoui, I., Giber, K., Yang, X., Cohen, L., Koopman, H., Cash, S. S., Naccache, L., Hale, J. T., Pallier, C., & Dehaene, S. (2017). Neurophysiological dynamics of phrase-structure building during sentence processing. Proceedings of the National Academy of Sciences, 114(18), E3669–E3678.\nNewport, E. L., & Getz, H. R. (2025). Language acquisition and the human brain (Vol. 2). In J. Binder (Ed.), Encyclopedia of the Human Brain. Elsevier.\nNewport, E. L., Seydell-Greenwald, A., Landau, B., Turkeltaub, P. E., Chambers, C. E., Martin, K. C., Rennert, R., Giannetti, M., Dromerick, A. W., Ichord, R. N., Carpenter, J. L., Berl, M. M., & Gaillard, W. D. (2022). Language and developmental plasticity after perinatal stroke. Proceedings of the National Academy of Sciences, 119(42), e2207293119.\nNewport, E. L., & Supalla, T. (1999). Sign Languages. The MIT Encyclopedia of Cognitive Sciences.\nPallier, C., Devauchelle, A.-D., & Dehaene, S. (2011). Cortical representation of the constituent structure of sentences. Proceedings of the National Academy of Sciences, 108(6), 2522–2527.\nZatorre, R. J., Evans, A. C., Meyer, E., & Gjedde, A. (1992). Lateralization of phonetic and pitch discrimination in speech processing. Science, 256(5058), 846–849."
+    "text": "Readings\nNote: Not all of these are assigned readings, but all will be covered in class. Starred papers are the readings from which you’ll be asked to present figures.\n\nAntoniou, M. (2019). The advantages of bilingualism debate. Annual Review of Linguistics, 5(1), 395–415.\nBemis, D. K., & Pylkkänen, L. (2011). Simple composition: a magnetoencephalography investigation into the comprehension of minimal linguistic phrases. The Journal of Neuroscience, 31(8), 2801–2814.\nBennett, C., Baird, A., Miller, M., & Wolford, G. (2011). Neural Correlates of Interspecies Perspective Taking in the Post-Mortem Atlantic Salmon: An Argument For Proper Multiple Comparisons Correction. Journal of Serendipitous and Unexpected Results, 1, 1–5.\nBrennan, J. R. (2022). Language and the brain: a slim guide to neurolinguistics. Oxford University Press.\nCosta, A., & Sebastián-Gallés, N. (2014). How does the bilingual experience sculpt the brain? Nature Reviews Neuroscience, 15(5), 336–345.\nDronkers, N., & Baldo, J. V. (2009). Language: Aphasia. In L. Squire (Ed.), Encyclopedia of Neuroscience (pp. 343–348). Academic Press.\nDing, N., Melloni, L., Zhang, H., Tian, X., & Poeppel, D. (2016). Cortical tracking of hierarchical linguistic structures in connected speech. Nature Neuroscience, 19(1), 158–164.\nEmbick, D., & Poeppel, D. (2014). Towards a computational(ist) neurobiology of language: correlational, integrated and explanatory neurolinguistics. Language, Cognition and Neuroscience, 30(4), 357–366.\n*Ferjan Ramirez, N., Leonard, M. K., Torres, C., Hatrak, M., Halgren, E., & Mayberry, R. I. (2014). Neural language processing in adolescent first-language learners. Cerebral Cortex, 24(10), 2772–2783.\nFitch, W. T., & Martins, M. D. (2014). Hierarchical processing in music, language, and action: Lashley revisited. Annals of the New York Academy of Sciences, 1316, 87–104.\nGetz, H., Ding, N., Newport, E. L., & Poeppel, D. (2018). Cortical tracking of constituent structure in language acquisition. Cognition, 181, 135–140.\nGwilliams, L., King, J.-R., Marantz, A., & Poeppel, D. (2022). Neural dynamics of phoneme sequences reveal position-invariant code for content and order. Nature Communications, 13(1), 6606.\nHickok, G., Bellugi, U., & Klima, E. S. (1998). The neural organization of language: evidence from sign language aphasia. Trends in Cognitive Sciences, 2(4), 129–136.\n*Huth, A. G., de Heer, W. A., Griffiths, T. L., Theunissen, F. E., & Gallant, J. L. (2016). Natural speech reveals the semantic maps that tile human cerebral cortex. Nature, 532(7600), 453–458.\n*Kim, A., & Osterhout, L. (2005). The independence of combinatory semantic processing: Evidence from event-related potentials. Journal of Memory and Language, 52(2), 205–225.\n*Matchin, W., Sprouse, J., & Hickok, G. (2014). A structural distance effect for backward anaphora in Broca’s area: an fMRI study. Brain and Language, 138, 1–11.\n*Marinkovic, K., Dhond, R. P., Dale, A. M., Glessner, M., Carr, V., & Halgren, E. (2003). Spatiotemporal dynamics of modality-specific and supramodal word processing. Neuron, 38(3), 487–497.\nMcCabe, D. P., & Castel, A. D. (2008). Seeing is believing: The effect of brain images on judgments of scientific reasoning. Cognition, 107(1), 343–352.\n*Mesgarani, N., Cheung, C., Johnson, K., & Chang, E. F. (2014). Phonetic feature encoding in human superior temporal gyrus. Science, 343(6174), 1006–1010.\nNelson, M. J., El Karoui, I., Giber, K., Yang, X., Cohen, L., Koopman, H., Cash, S. S., Naccache, L., Hale, J. T., Pallier, C., & Dehaene, S. (2017). Neurophysiological dynamics of phrase-structure building during sentence processing. Proceedings of the National Academy of Sciences, 114(18), E3669–E3678.\nNewport, E. L., & Getz, H. R. (2025). Language acquisition and the human brain (Vol. 2). In J. Binder (Ed.), Encyclopedia of the Human Brain. Elsevier.\nNewport, E. L., Seydell-Greenwald, A., Landau, B., Turkeltaub, P. E., Chambers, C. E., Martin, K. C., Rennert, R., Giannetti, M., Dromerick, A. W., Ichord, R. N., Carpenter, J. L., Berl, M. M., & Gaillard, W. D. (2022). Language and developmental plasticity after perinatal stroke. Proceedings of the National Academy of Sciences, 119(42), e2207293119.\nNewport, E. L., & Supalla, T. (1999). Sign Languages. The MIT Encyclopedia of Cognitive Sciences.\nPallier, C., Devauchelle, A.-D., & Dehaene, S. (2011). Cortical representation of the constituent structure of sentences. Proceedings of the National Academy of Sciences, 108(6), 2522–2527.\nZatorre, R. J., Evans, A. C., Meyer, E., & Gjedde, A. (1992). Lateralization of phonetic and pitch discrimination in speech processing. Science, 256(5058), 846–849.",
+    "crumbs": [
+      "Readings"
+    ]
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Schedule\n\n\n\nWeek\nClass\nTopic\nReadings & Resources\n\n\n\n\n1\n1\nCourse overview\n\n\n\n\n2\nIntroduction Linguistics 101\nCh. 1: Introduction\n\n\n2\n3\nMethods\nCh. 2: The Toolbox\n\n\n\n4\nInterpretation\nMcCabe & Castel (2008)\n\n\n3\n5\nExam #1\n\n\n\n\n6\nSounds & Phonemes\nCh. 3: Sounds in the brain\n\n\n4\n7\nSounds & Phonemes\nCh. 4: A neural code for speech Mesgarani et al. (2014)\n\n\n\n8\nWords\nCh. 5: Activating words Marinkovic et al. (2003)\n\n\n5\n9\nWords\nCh. 6: Representing meaning Huth et al. (2016)\n\n\n\n10\nExam #2\n\n\n\n6\n11\nSentences\nCh. 7: Structure and predictionKim & Osterhout (2005)\n\n\n\n12\nSentences\nCh. 8: Composing sentences Bemis & Pylkkanen (2011)\n\n\n7\n13\nSentences\nCh. 9: Building dependencies  Matchin, Sprouse, & Hickok (2014)\n\n\n\n14\nAphasia\nDronkers & Baldo (2009)\n\n\n8\n15\nExam #3\n\n\n\n\n16\nSigned Languages\nNewport & Supalla (1999)\n\n\n9\n17\nSigned Languages\nHickok, Bellugi, & Klima (1998)\n\n\n\n18\nLanguage Acquisition: Typical Development\nNewport & Getz (2025)\n\n\n10\n19\nLanguage Acquisition: Language Deprivation\nFerjan Ramirez et al. (2013)\n\n\n\n20\nLanguage Acquisition: Perinatal Stroke\nNewport et al. (2022)\n\n\n11\n21\nBilingualism\nCosta & Sebastián-Gallés (2014)\n\n\n\n22\nBilingualism\nAntoniou (2019)\n\n\n12\n23\nExam #4\n\n\n\n\n24\nExplanatory Frameworks\nEmbick & Poeppel (2014)\n\n\n13\n25\nNoL Researcher Panel\n\n\n\n\n26\nPresentations\n\n\n\n14\n27\nPresentations\n\n\n\n\n28\nPresentations",
+    "crumbs": [
+      "Schedule"
+    ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "LING-2801: Neuroscience of Language",
     "section": "",
-    "text": "Spring 2026"
+    "text": "Professor: Heidi Getz, Ph.D. heidi.getz@georgetown.edu\nLinguistics office: Poulton Hall 223 / Neurology office: Building D, Room 154\nClass schedule: Tues/Thurs 9:30-10:45\nOffice hours: TBD\nPrerequisites: None\nRequired text: Brennan, J. R. (2022). Language and the brain: a slim guide to neurolinguistics. Oxford University Press. (Additional readings will be posted on Canvas.)\nLink to purchase text at bookstore"
   },
   {
     "objectID": "index.html#course-description",
@@ -158,6 +222,36 @@
     "href": "index.html#learning-goals",
     "title": "LING-2801: Neuroscience of Language",
     "section": "Learning Goals",
-    "text": "Learning Goals\nThe course is designed to achieve the following learning outcomes: 1. Knowledge of the basic principles, foundational evidence, and current research challenges in the field of language and the brain 2. Understanding of the scientific process through which researchers learn about this field 3. The ability to understand and interpret scientific evidence about language in the brain 4. An understanding of how research on language and the brain relates to broader societal issues"
+    "text": "Learning Goals\nThe course is designed to achieve the following learning outcomes:\n\nKnowledge of the basic principles, foundational evidence, and current research challenges in the field of language and the brain\n\nUnderstanding of the scientific process through which researchers learn about this field\n\nThe ability to understand and interpret scientific evidence about language in the brain\n\nAn understanding of how research on language and the brain relates to broader societal issues"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "LING-2801: Neuroscience of Language",
+    "section": "",
+    "text": "Professor: Heidi Getz, Ph.D. heidi.getz@georgetown.edu\nLinguistics office: Poulton Hall 223 / Neurology office: Building D, Room 154\nClass schedule: Tues/Thurs 9:30-10:45\nOffice hours: TBD\nPrerequisites: None\nRequired text: Brennan, J. R. (2022). Language and the brain: a slim guide to neurolinguistics. Oxford University Press. (Additional readings will be posted on Canvas.)\nLink to purchase text at bookstore",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "LING-2801: Neuroscience of Language",
+    "section": "Course Description",
+    "text": "Course Description\nThis is an introductory course on language and the brain, designed for students with no background in neuroscience. Its goal is to introduce students to the major scientific findings in this area as well as the scientific process that generated this evidence. Topics include the brain regions and networks involved in language processing in the healthy brain; how these structures develop in children; and how language skills are affected by damage to these structures.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#learning-goals",
+    "href": "syllabus.html#learning-goals",
+    "title": "LING-2801: Neuroscience of Language",
+    "section": "Learning Goals",
+    "text": "Learning Goals\nThe course is designed to achieve the following learning outcomes:\n\nKnowledge of the basic principles, foundational evidence, and current research challenges in the field of language and the brain\n\nUnderstanding of the scientific process through which researchers learn about this field\n\nThe ability to understand and interpret scientific evidence about language in the brain\n\nAn understanding of how research on language and the brain relates to broader societal issues",
+    "crumbs": [
+      "Overview"
+    ]
   }
 ]
