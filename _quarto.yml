@@ -9,7 +9,7 @@ website:
     style: docked
     search: true
     contents:
-      - href: syllabus.md
+      - href: index.qmd
         text: Overview
       - requirements.qmd
       - schedule.md
