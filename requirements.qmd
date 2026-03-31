@@ -3,7 +3,7 @@ title: "Assignments"
 ---
 ## **Readings**
 
-There will be two types of readings. Each week, you will have readings that provide general background on the topic. These will be chapters from the Brennan text, encyclopedia articles, or similar sources. You will also read one or two of the original scientific articles that were cited in the background reading. See [Schedule & Readings](schedule.md) for week-by-week reading assignments.
+There will be two types of readings. Each week, you will have readings that provide general background on the topic. These will be chapters from the Brennan text, encyclopedia articles, or similar sources. You will also read one or two of the original scientific articles that were cited in the background reading. See [Schedule](schedule.md) for week-by-week reading assignments.
 
 ## **Exams: 60%**
 
