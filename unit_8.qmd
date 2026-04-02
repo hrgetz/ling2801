@@ -1,10 +1,13 @@
 ---
 title: "Bilingualism"
 ---
+
+| Slides | Background reading | Primary literature | 
+| -- | -- | -- |
+| <span class="blue-badge">Bilingualism ↗</span> | Costa & Sebastián-Gallés (2014) | Antoniou (2019) |
+
+
 ::: {.callout-tip appearance=simple}
 # Learning Goals
 
 :::
-
-
-<span class="exam-badge">Slides: Bilingualism ↗</span>

@@ -5,11 +5,15 @@ title: "Overview"
 
 ## Course Overview
 * Course site (you are here)
-* [Syllabus](syllabus.md)
+* [Syllabus](index.qmd)
 * [Assignments](requirements.qmd)
 * [Schedule](schedule.md)
 
 ## Why study the neuroscience of language?
+
+| Slides | Background reading | Primary literature | 
+| -- | -- | -- |
+| [<span class="blue-badge">Overview ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0) | SGN Ch. 1: *Introduction*  | None |
 
 ::: {.callout-tip appearance=simple}
 # Learning Goals
@@ -18,7 +22,3 @@ title: "Overview"
 1. Recognize that there are multiple levels at which one can understand a cognitive system, and understand the differences
 
 :::
-
-Slides: [<span class="blue-badge">Overview ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0)
-
-Readings: <span class = "reading-badge">SGN Ch. 1: **Introduction**</span>

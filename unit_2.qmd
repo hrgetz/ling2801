@@ -1,7 +1,11 @@
+---
+title: "Methods"
+---
 
----
-title: "Methods & Interpretation"
----
+| Slides | Background reading | Primary literature | 
+| -- | -- | -- |
+| [<span class="blue-badge">Methods & Interpretation ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p)  | SGN Ch. 2: *The Toolbox*  | McCabe & Castel 2008 |
+
 
 ::: {.callout-tip}
 ## Learning Goals
@@ -15,9 +19,3 @@ title: "Methods & Interpretation"
 :::
 
 <!-- lobes; anterior, posterior, inferior, superior, medial, ventral -->
-
-Slides: [<span class="blue-badge">Methods & Interpretation ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p)
-
-
-Readings: <span class = "reading-badge">SGN Ch. 2: **Toolbox**</span>
-<span class = "reading-badge">McCabe & Castel 2008</span>

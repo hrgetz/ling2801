@@ -4,6 +4,14 @@
   margin-bottom: 0.75em;
 }
 
+.schedule-table table tbody tr:nth-child(odd) {
+  background-color: #f7fbfc;
+}
+
+.schedule-table table tbody tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
 .purple-badge {
   display: inline-block;
   padding: 0.15em 0.5em;
@@ -27,11 +35,10 @@
   font-weight: 700;
   line-height: 1.2;
   vertical-align: baseline;
-  background-color: #e8f1fb;
-  color: #1f4e79;
-  border: 1px solid #bdd3ee;
+  background-color: #e9f6fb;
+  color: #0b5f75;
+  border: 1px solid #b9e2ee;
 }
-
 
 .exam-badge {
   display: inline-block;
@@ -57,7 +64,7 @@
   font-weight: 700;
   line-height: 1.2;
   vertical-align: baseline;
-  background-color: #e8f7ee;
-  color: #1f6b43;
-  border: 1px solid #b7e4c7;
+  background-color: #eaf7ef;
+  color: #2f6b45;
+  border: 1px solid #b8dfc5;
 }

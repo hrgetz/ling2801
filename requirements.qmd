@@ -14,8 +14,9 @@ title: "Assignments"
 
 ## **Readings**
 
-There will be two types of readings. Each week, you will have readings that provide general background on the topic. These will be chapters from the Brennan text, encyclopedia articles, or similar sources. Most weeks, you will also be assigned one or two of the original scientific articles that were cited in the background reading. See [Schedule](schedule.md) for week-by-week reading assignments.
+There will be two types of readings. Each week, you will have readings that provide general background on the topic. These will be chapters from the Brennan text, encyclopedia articles, or similar sources. Most weeks, you will also be assigned one or two of the original scientific articles that were cited in the background reading.
 
+Readings for each unit will be listed on that unit's page on the course site.
 
 ::: {.callout-tip appearance=simple}
 **When reviewing the scientific articles, I strongly recommend following the process here: <br>[**Guide to reading scientific papers**](https://hrgetz.github.io/guide.html)**
@@ -23,7 +24,7 @@ There will be two types of readings. Each week, you will have readings that prov
 
 ## **Exams** {#exams}
 
-There will be four in-person exams, each worth 15% of your grade. These are designed to assess your mastery of course content, as well as your ability to map scientific evidence to theoretical claims.
+There will be four in-person exams, each worth 15% of your grade. These are designed to assess your mastery of course content; your ability to map scientific evidence about language and the brain to theoretical claims; and your ability to interpret new evidence about language and the brain. Exams will cover lecture material, background readings, and primary literature that was assigned as reading.
 
 ::: {.callout-important appearance=simple}
 **Tentative exam dates are listed on the [**schedule**](schedule.md).** The exact timing of the exams may be adjusted depending on course needs.

@@ -1,12 +1,12 @@
 ---
 title: "Sounds & Phonemes"
 ---
+| Slides | Background reading | Primary literature | 
+| -- | -- | -- |
+| <span class="blue-badge">Sounds & Phonemes ↗</span> | SGN Ch. 3: *Sounds in the Brain* <br>SGN Ch. 4: *A neural code for speech* | <br>Mesgarani et al. 2014 |
+
+
 ::: {.callout-tip appearance=simple}
 # Learning Goals
 
 :::
-
-
-Slides: <span class="blue-badge">Sounds & Phonemes ↗</span>
-
-Readings: <span class = "reading-badge">SGN Ch. 3: *Sounds in the Brain*</span> <span class = "reading-badge">SGN Ch. 4: *A neural code for speech*</span> <span class = "exam-badge">Mesgarani et al. 2014</span>

@@ -1,6 +1,17 @@
-# Readings
+---
+title: "Readings"
+---
+::: {.callout-note appearance=simple}
+# Where can I find the actual readings?
+The textbook for this course is *Language and the Brain: A slim guide to neurolinguistics* by [Jon Brennan](https://jobrenn.gitlab.io/). You can purchase it [through the bookstore]((https://georgetown.bncollege.com/course-material-listing-page?utm_campaign=storeId=88131_langId=-1_courseData=LING_2801_01_F26&utm_source=wcs&utm_medium=registration_integration)).  
 
-**Note: Not all of these are assigned readings, but all will be covered in class. Starred papers are the readings from which you'll be asked to present figures.**
+PDFs of all other readings are available [here](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB?usp=sharing).
+:::
+
+::: {.callout-note appearance=simple}
+# Do I have to read all of these?
+Nope. This is the full course bibliography, meaning that it lists all of the sources for the studies we will cover in class. Only some of these papers will be actually assigned as reading. Each unit's page will specify the papers that are assigned as reading.
+:::
 
 ::: {.references}
 Antoniou, M. (2019). The advantages of bilingualism debate. *Annual Review of Linguistics*, *5*(1), 395–415.
@@ -9,7 +20,7 @@ Bemis, D. K., & Pylkkänen, L. (2011). Simple composition: a magnetoencephalogra
 
 Bennett, C., Baird, A., Miller, M., & Wolford, G. (2011). Neural Correlates of Interspecies Perspective Taking in the Post-Mortem Atlantic Salmon: An Argument For Proper Multiple Comparisons Correction. *Journal of Serendipitous and Unexpected Results*, *1*, 1–5.
 
-Brennan, J. R. (2022). *Language and the brain: a slim guide to neurolinguistics*. Oxford University Press.  
+Brennan, J. R. (2022). *Language and the brain: A slim guide to neurolinguistics*. Oxford University Press.  
 
 Costa, A., & Sebastián-Gallés, N. (2014). How does the bilingual experience sculpt the brain? *Nature Reviews Neuroscience*, *15*(5), 336–345.  
 
@@ -29,7 +40,7 @@ Gwilliams, L., King, J.-R., Marantz, A., & Poeppel, D. (2022). Neural dynamics o
 
 Hickok, G., Bellugi, U., & Klima, E. S. (1998). The neural organization of language: evidence from sign language aphasia. *Trends in Cognitive Sciences*, *2*(4), 129–136.  
 
-\*Huth, A. G., de Heer, W. A., Griffiths, T. L., Theunissen, F. E., & Gallant, J. L. (2016). Natural speech reveals the semantic maps that tile human cerebral cortex. *Nature*, *532*(7600), 453–458.  
+[Huth, A. G., de Heer, W. A., Griffiths, T. L., Theunissen, F. E., & Gallant, J. L. (2016). Natural speech reveals the semantic maps that tile human cerebral cortex. *Nature*, *532*(7600), 453–458.]{.mark}
 
 \*Kim, A., & Osterhout, L. (2005). The independence of combinatory semantic processing: Evidence from event-related potentials. *Journal of Memory and Language*, *52*(2), 205–225.  
 

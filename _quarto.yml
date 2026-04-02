@@ -6,6 +6,7 @@ website:
   title: "Neuroscience of Language"
 
   sidebar:
+    collapse-level: 1
     style: docked
     search: true
     contents:
@@ -26,10 +27,14 @@ website:
           - unit_9.qmd
       - readings.md
       - policies.qmd
+      - resources.qmd
 
+
+#brite
+#united
 
 format:
   html:
-    theme: pulse
+    theme: yeti
     css: styles.css
     toc: true

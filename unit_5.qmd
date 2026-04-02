@@ -1,21 +1,13 @@
 ---
 title: "Sentences"
 ---
+
+| Slides | Background reading | Primary literature | 
+| -- | -- | -- |
+| <span class="blue-badge">Sentences ↗</span> | SGN Ch. 7: *Structure and prediction* <br>SGN Ch. 8: *Composing sentences* <br> SGN Ch. 9: *Building dependencies* <br> Dronkers & Baldo (2009)| Kim & Osterhout (2005) <br> Bemis & Pylkkanen (2011) <br> Matchin, Sprouse, & Hickok (2014) |
+
+
 ::: {.callout-tip appearance=simple}
 # Learning Goals
 
 :::
-
-
-<span class="blue-badge">Slides: Sentences ↗</span>
-
-Readings: 
-
-<span class = "reading-badge">SGN Ch. 7: *Structure and prediction*</span>
-<span class = "exam-badge">Kim & Osterhout (2005)</span>
-
-<span class = "reading-badge">SGN Ch. 8: *Composing sentences*</span>
-<span class = "exam-badge">Bemis & Pylkkanen (2011))</span>
-
-<span class = "reading-badge">SGN Ch. 9: *Building dependencies*</span>
-<span class = "exam-badge">Matchin, Sprouse, & Hickok (2014))</span>
