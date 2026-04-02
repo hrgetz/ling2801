@@ -1,0 +1,23 @@
+
+---
+title: "Week 1"
+---
+
+
+## Course Overview
+* Course site (you are here)
+* [Syllabus](syllabus.md)
+* [Assignments](requirements.qmd)
+* [Schedule](schedule.md)
+
+## Why study the neuroscience of language?
+
+::: {.callout-tip appearance=simple}
+# Learning Goals
+1. Identify one reason to study language
+1. Identify one reason to study the brain
+1. Recognize that there are multiple levels at which one can understand a cognitive system, and understand the differences
+
+:::
+
+### [<span class="exam-badge">Week 1 slides ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0)

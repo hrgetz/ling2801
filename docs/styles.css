@@ -4,7 +4,21 @@
   margin-bottom: 0.75em;
 }
 
-.slides-badge {
+.purple-badge {
+  display: inline-block;
+  padding: 0.15em 0.5em;
+  margin-right: 0.35em;
+  border-radius: 999px;
+  font-size: 0.9em;
+  font-weight: 700;
+  line-height: 1.2;
+  vertical-align: baseline;
+  background-color: #efe7ff;
+  color: #5b3aa3;
+  border: 1px solid #cdbcf6;
+}
+
+.blue-badge {
   display: inline-block;
   padding: 0.15em 0.5em;
   margin-right: 0.35em;

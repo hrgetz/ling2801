@@ -1,11 +1,11 @@
 # Schedule
 
-| Week  | Class | Topic | Readings & Resources |
-| :---- | :---- | :---- | :---- |
-| 1 | [<span class="slides-badge">1</span>](1.qmd) |  Course overview |  |
-|   | [<span class="slides-badge">2</span>](2.qmd) |  Introduction Linguistics 101 | Ch. 1: *Introduction* |
-| 2 | [<span class="slides-badge">3</span>](3.qmd) | Methods | Ch. 2: *The Toolbox* |
-|  | [<span class="slides-badge">4</span>](4.qmd) | Interpretation | McCabe & Castel (2008) |
+| Week  | Class | Topic | Reading |
+| :---- | :---- | :---- | :---- | 
+| 1 | 1 |  [<span class="slides-badge">Course Overview</span>](week_1.qmd) |   | |
+|   | 2 |  [<span class="slides-badge">Neuroscience 101</span>](week_1.qmd) | Ch. 1: *Introduction* | |
+| 2 | 3 | [<span class="slides-badge">Methods</span>](week_2.qmd) | | Ch. 2: *The Toolbox* | |
+|  | [<span class="slides-badge">4</span>](4.qmd) | Interpretation | |McCabe & Castel (2008) | |
 | 3 | [<span class="slides-badge">5</span>](5.qmd) |  <span class="exam-badge">Exam #1</span> |  |
 |  | [<span class="slides-badge">6</span>](6.qmd) | Sounds & Phonemes | Ch. 3: *Sounds in the brain* |
 | 4 | [<span class="slides-badge">7</span>](7.qmd) | Sounds & Phonemes | Ch. 4: *A neural code for speech* <br>Mesgarani et al. (2014) |
