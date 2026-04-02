@@ -3,7 +3,7 @@ title: "Readings"
 ---
 ::: {.callout-note appearance=simple}
 # Where can I find the actual readings?
-The textbook for this course is *Language and the Brain: A slim guide to neurolinguistics* by [Jon Brennan](https://jobrenn.gitlab.io/). You can purchase it [through the bookstore]((https://georgetown.bncollege.com/course-material-listing-page?utm_campaign=storeId=88131_langId=-1_courseData=LING_2801_01_F26&utm_source=wcs&utm_medium=registration_integration)).  
+The textbook for this course is *Language and the Brain: A slim guide to neurolinguistics* by [Jon Brennan](https://jobrenn.gitlab.io/). You can purchase it [through the bookstore](https://georgetown.bncollege.com/course-material-listing-page?utm_campaign=storeId=88131_langId=-1_courseData=LING_2801_01_F26&utm_source=wcs&utm_medium=registration_integration).  
 
 PDFs of all other readings are available [here](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB?usp=sharing).
 :::
@@ -40,7 +40,7 @@ Gwilliams, L., King, J.-R., Marantz, A., & Poeppel, D. (2022). Neural dynamics o
 
 Hickok, G., Bellugi, U., & Klima, E. S. (1998). The neural organization of language: evidence from sign language aphasia. *Trends in Cognitive Sciences*, *2*(4), 129–136.  
 
-[Huth, A. G., de Heer, W. A., Griffiths, T. L., Theunissen, F. E., & Gallant, J. L. (2016). Natural speech reveals the semantic maps that tile human cerebral cortex. *Nature*, *532*(7600), 453–458.]{.mark}
+Huth, A. G., de Heer, W. A., Griffiths, T. L., Theunissen, F. E., & Gallant, J. L. (2016). Natural speech reveals the semantic maps that tile human cerebral cortex. *Nature*, *532*(7600), 453–458.]
 
 \*Kim, A., & Osterhout, L. (2005). The independence of combinatory semantic processing: Evidence from event-related potentials. *Journal of Memory and Language*, *52*(2), 205–225.  
 
