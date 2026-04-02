@@ -1,0 +1,10 @@
+---
+title: "Frameworks"
+---
+::: {.callout-tip appearance=simple}
+# Learning Goals
+
+:::
+
+
+<span class="exam-badge">Slides: Frameworks ↗</span>

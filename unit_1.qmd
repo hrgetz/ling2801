@@ -1,6 +1,5 @@
-
 ---
-title: "Week 1"
+title: "Overview"
 ---
 
 
@@ -20,4 +19,6 @@ title: "Week 1"
 
 :::
 
-### [<span class="exam-badge">Week 1 slides ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0)
+Slides: [<span class="blue-badge">Overview ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0)
+
+Readings: <span class = "reading-badge">SGN Ch. 1: **Introduction**</span>

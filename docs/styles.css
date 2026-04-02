@@ -46,3 +46,18 @@
   color: #6b1f48;
   border: 1px solid #ffabcc;
 }
+
+
+.reading-badge {
+  display: inline-block;
+  padding: 0.15em 0.5em;
+  margin-right: 0.35em;
+  border-radius: 999px;
+  font-size: 0.9em;
+  font-weight: 700;
+  line-height: 1.2;
+  vertical-align: baseline;
+  background-color: #e8f7ee;
+  color: #1f6b43;
+  border: 1px solid #b7e4c7;
+}

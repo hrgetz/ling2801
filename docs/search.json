@@ -80,30 +80,46 @@
   {
     "objectID": "week_1.html",
     "href": "week_1.html",
-    "title": "Week 1",
+    "title": "Overview",
     "section": "",
-    "text": "Course site (you are here)\nSyllabus\nAssignments\nSchedule"
+    "text": "Course site (you are here)\nSyllabus\nAssignments\nSchedule",
+    "crumbs": [
+      "Schedule",
+      "Overview"
+    ]
   },
   {
     "objectID": "week_1.html#course-overview",
     "href": "week_1.html#course-overview",
-    "title": "Week 1",
+    "title": "Overview",
     "section": "",
-    "text": "Course site (you are here)\nSyllabus\nAssignments\nSchedule"
+    "text": "Course site (you are here)\nSyllabus\nAssignments\nSchedule",
+    "crumbs": [
+      "Schedule",
+      "Overview"
+    ]
   },
   {
     "objectID": "week_1.html#why-study-the-neuroscience-of-language",
     "href": "week_1.html#why-study-the-neuroscience-of-language",
-    "title": "Week 1",
+    "title": "Overview",
     "section": "Why study the neuroscience of language?",
-    "text": "Why study the neuroscience of language?\n\n\n\n\n\n\nTipLearning Goals\n\n\n\n\nIdentify one reason to study language\nIdentify one reason to study the brain\nRecognize that there are multiple levels at which one can understand a cognitive system, and understand the differences\n\n\n\n\nWeek 1 slides ↗"
+    "text": "Why study the neuroscience of language?\n\n\n\n\n\n\nTipLearning Goals\n\n\n\n\nIdentify one reason to study language\nIdentify one reason to study the brain\nRecognize that there are multiple levels at which one can understand a cognitive system, and understand the differences\n\n\n\n\nWeek 1 slides ↗",
+    "crumbs": [
+      "Schedule",
+      "Overview"
+    ]
   },
   {
     "objectID": "week_2.html",
     "href": "week_2.html",
     "title": "Methods & Interpretation",
     "section": "",
-    "text": "TipLearning Goals\n\n\n\n\nKnow the names of the major methods used to study language in the brain\nUnderstand the difference between spatial and temporal resolution\nIdentify one thing that brain data can tell us, and one thing it can’t\nUse basic neuroanatomy terms to “navigate” the brain\n\n\n\n\n\nWeek 2 Slides ↗"
+    "text": "TipLearning Goals\n\n\n\n\nUse basic neuroanatomy terms to “navigate” the brain\nUnderstand the difference between spatial and temporal resolution for brain imaging studies\nKnow the names of the major methods used to study language in the brain, and identify one pro and one con of each\nUnderstand the process for reading scientific papers\nIdentify one thing that brain data can tell us, and one thing it can’t\n\n\n\n\n\nWeek 2 Slides ↗",
+    "crumbs": [
+      "Schedule",
+      "Methods & Interpretation"
+    ]
   },
   {
     "objectID": "14.html",
@@ -280,6 +296,127 @@
     "text": "Learning Resources\nGeorgetown offers a host of learning resources to its students. Two that you might find particularly helpful in this course are the Writing Center and Refworks.\n\nThe Writing Center offers peer tutoring by trained graduate and undergraduate students who can assist you at any point in the writing process. They help at any stage of your writing process, from brainstorming to revision. Tutors can offer advice on thesis development, use of evidence, organization, flow, sentence structure, grammar, and more. The Writing Center will not proofread or edit papers; rather, they will help to improve your proofreading and editing skills to become a better writer. Appointments can be booked online through their website.\n\nRefworks is an online research management tool that aids in organizing, storing, and presenting citation sources for papers and projects.",
     "crumbs": [
       "Policies"
+    ]
+  },
+  {
+    "objectID": "unit_2.html",
+    "href": "unit_2.html",
+    "title": "Methods & Interpretation",
+    "section": "",
+    "text": "TipLearning Goals\n\n\n\n\nUse basic neuroanatomy terms to “navigate” the brain\nUnderstand the difference between spatial and temporal resolution for brain imaging studies\nKnow the names of the major methods used to study language in the brain, and identify one pro and one con of each\nUnderstand the process for reading scientific papers\nIdentify one thing that brain data can tell us, and one thing it can’t\n\n\n\n\nSlides: Methods & Interpretation ↗\nReadings: SGN Ch. 2: Toolbox McCabe & Castel 2008",
+    "crumbs": [
+      "Schedule",
+      "Methods & Interpretation"
+    ]
+  },
+  {
+    "objectID": "unit_1.html",
+    "href": "unit_1.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Course site (you are here)\nSyllabus\nAssignments\nSchedule",
+    "crumbs": [
+      "Schedule",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "unit_1.html#course-overview",
+    "href": "unit_1.html#course-overview",
+    "title": "Overview",
+    "section": "",
+    "text": "Course site (you are here)\nSyllabus\nAssignments\nSchedule",
+    "crumbs": [
+      "Schedule",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "unit_1.html#why-study-the-neuroscience-of-language",
+    "href": "unit_1.html#why-study-the-neuroscience-of-language",
+    "title": "Overview",
+    "section": "Why study the neuroscience of language?",
+    "text": "Why study the neuroscience of language?\n\n\n\n\n\n\nTipLearning Goals\n\n\n\n\nIdentify one reason to study language\nIdentify one reason to study the brain\nRecognize that there are multiple levels at which one can understand a cognitive system, and understand the differences\n\n\n\nSlides: Overview ↗\nReadings: SGN Ch. 1: Introduction",
+    "crumbs": [
+      "Schedule",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "unit_3.html",
+    "href": "unit_3.html",
+    "title": "Sounds & Phonemes",
+    "section": "",
+    "text": "TipLearning Goals\n\n\n\n\n\n\nSlides: Sounds & Phonemes ↗",
+    "crumbs": [
+      "Schedule",
+      "Sounds & Phonemes"
+    ]
+  },
+  {
+    "objectID": "unit_4.html",
+    "href": "unit_4.html",
+    "title": "Words",
+    "section": "",
+    "text": "TipLearning Goals\n\n\n\n\n\n\nSlides: Words ↗",
+    "crumbs": [
+      "Schedule",
+      "Words"
+    ]
+  },
+  {
+    "objectID": "unit_5.html",
+    "href": "unit_5.html",
+    "title": "Sentences",
+    "section": "",
+    "text": "TipLearning Goals\n\n\n\n\n\n\nSlides: Sentences ↗",
+    "crumbs": [
+      "Schedule",
+      "Sentences"
+    ]
+  },
+  {
+    "objectID": "unit_6.html",
+    "href": "unit_6.html",
+    "title": "Signed Languages",
+    "section": "",
+    "text": "TipLearning Goals\n\n\n\n\n\n\nSlides: Signed Languages↗\nReadings: Newport & Supalla (1999) Hickok, Bellugi, & Klima (1998)",
+    "crumbs": [
+      "Schedule",
+      "Signed Languages"
+    ]
+  },
+  {
+    "objectID": "unit_7.html",
+    "href": "unit_7.html",
+    "title": "Language Acquisition",
+    "section": "",
+    "text": "TipLearning Goals\n\n\n\n\n\n\nSlides: Language Acquisition ↗",
+    "crumbs": [
+      "Schedule",
+      "Language Acquisition"
+    ]
+  },
+  {
+    "objectID": "unit_8.html",
+    "href": "unit_8.html",
+    "title": "Bilingualism",
+    "section": "",
+    "text": "TipLearning Goals\n\n\n\n\n\n\nSlides: Bilingualism ↗",
+    "crumbs": [
+      "Schedule",
+      "Bilingualism"
+    ]
+  },
+  {
+    "objectID": "unit_9.html",
+    "href": "unit_9.html",
+    "title": "Frameworks",
+    "section": "",
+    "text": "TipLearning Goals\n\n\n\n\n\n\nSlides: Frameworks ↗",
+    "crumbs": [
+      "Schedule",
+      "Frameworks"
     ]
   }
 ]

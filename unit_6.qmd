@@ -1,0 +1,15 @@
+---
+title: "Signed Languages"
+---
+::: {.callout-tip appearance=simple}
+# Learning Goals
+
+:::
+
+
+
+Slides: <span class="blue-badge">Signed Languages↗</span>
+
+Readings: 
+<span class = "reading-badge">Newport & Supalla (1999)</span>
+<span class = "exam-badge">Hickok, Bellugi, & Klima (1998)</span>

@@ -1,0 +1,21 @@
+---
+title: "Sentences"
+---
+::: {.callout-tip appearance=simple}
+# Learning Goals
+
+:::
+
+
+<span class="blue-badge">Slides: Sentences ↗</span>
+
+Readings: 
+
+<span class = "reading-badge">SGN Ch. 7: *Structure and prediction*</span>
+<span class = "exam-badge">Kim & Osterhout (2005)</span>
+
+<span class = "reading-badge">SGN Ch. 8: *Composing sentences*</span>
+<span class = "exam-badge">Bemis & Pylkkanen (2011))</span>
+
+<span class = "reading-badge">SGN Ch. 9: *Building dependencies*</span>
+<span class = "exam-badge">Matchin, Sprouse, & Hickok (2014))</span>

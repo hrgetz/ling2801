@@ -12,7 +12,18 @@ website:
       - href: index.qmd
         text: Overview
       - requirements.qmd
-      - schedule.md
+      - section: "Schedule"
+        href: schedule.md
+        contents:
+          - unit_1.qmd
+          - unit_2.qmd
+          - unit_3.qmd
+          - unit_4.qmd
+          - unit_5.qmd
+          - unit_6.qmd
+          - unit_7.qmd
+          - unit_8.qmd
+          - unit_9.qmd
       - readings.md
       - policies.qmd
 
