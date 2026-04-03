@@ -7,12 +7,11 @@ title: "Assignments"
 | 15%| [Figure presentations](#figures)  |
 | 4%| [Researcher interview](#interview)  |
 | 1%| [Researcher panel](#panel)|
-| 20% | [Study proposal](#paper)
+| 20% |[Study proposal](#paper)
+| 5% | [In-class participation](#participation)
 
 
-
-
-## **Readings**
+## Readings
 
 There will be two types of readings. Each week, you will have readings that provide general background on the topic. These will be chapters from the Brennan text, encyclopedia articles, or similar sources. Most weeks, you will also be assigned one or two of the original scientific articles that were cited in the background reading.
 
@@ -22,7 +21,7 @@ Readings for each unit will be listed on that unit's page on the course site.
 **When reviewing the scientific articles, I strongly recommend following the process here: <br>[**Guide to reading scientific papers**](https://hrgetz.github.io/guide.html)**
 :::
 
-## **Exams** {#exams}
+## Exams {#exams}
 
 There will be four in-person exams, each worth 15% of your grade. These are designed to assess your mastery of course content; your ability to map scientific evidence about language and the brain to theoretical claims; and your ability to interpret new evidence about language and the brain. Exams will cover lecture material, background readings, and primary literature that was assigned as reading.
 
@@ -30,7 +29,7 @@ There will be four in-person exams, each worth 15% of your grade. These are desi
 **Tentative exam dates are listed on the [**schedule**](schedule.md).** The exact timing of the exams may be adjusted depending on course needs.
 :::
 
-## **Figure Presentations** {#figures}
+## Figure Presentations {#figures}
 
 You’ll be assigned original research papers to read throughout the semester. These contain figures, tables, and charts that you will learn to interpret: these illustrate the methods and results of the researchers’ experiments. In class, you will be asked to present at least two of these tables/charts to your classmates. Your job will be to describe, in completely concrete terms, how the study worked (if this is a methods figure) or what the results were (in a results figure). These explanations must be completely factual, without any opinion. 
 
@@ -40,7 +39,7 @@ You’ll be assigned original research papers to read throughout the semester. T
 * Grading rubric
 :::
 
-## **Researcher Interview** {#interview}
+## Researcher Interview {#interview}
 
 For this assignment, you will conduct a structured interview with one of the predoctoral or  postdoctoral scholars in Georgetown’s [Neuroscience of Language training program](https://neurolang.georgetown.edu/). The goal of your interview will be to learn about a specific research question that this person is trying to answer; to understand the research approach or method that they are trying to use in order to answer it; and to identify some things that make it challenging to conduct this type of research. After the interview, you will briefly describe to your classmates the researcher’s main question and research approach, and you will submit a written reflection. 
 
@@ -51,7 +50,7 @@ For this assignment, you will conduct a structured interview with one of the pre
 
 :::
 
-## **Researcher Panel** {#panel}
+## Researcher Panel {#panel}
 
 At the end of the semester, we will host a panel discussion with Neuroscience of Language researchers at various stages of their career, ranging from graduate students to senior professors. The focus of this panel will be on the future of the field: we’ll ask researchers where they think the field is going and what challenges the field faces. To prepare for this, I will ask each student to submit some questions for panelists in advance, and then the class will vote on which questions to present to the panelists. You will also submit a written reflection afterwards.
 
@@ -62,10 +61,20 @@ At the end of the semester, we will host a panel discussion with Neuroscience of
 * Instructions for written reflection
 :::
 
-## **Study Proposal** {#paper}
+## Study Proposal {#paper}
 
 Over the course of the semester, you will work in small groups to identify a big-picture question about language and the brain; narrow this to an answerable research question; and propose an empirical study that would answer the question. You will present your proposal to the whole class and lead group discussion of your idea. At the end of the semester, you will submit a final written paper that includes details of your study proposal as well as discussion of anticipated results.
 
 ::: {.callout-note collapse="true" appearance=simple}
 # Detailed guidance for study proposal
 :::
+
+## Participation {#participation}
+
+During class, I'll ask you to respond to occasional questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but you *do* need to participate in the polls to receive credit for class participation that day. 
+
+You can have three classes "free" where your grade won't be affected by failure to participate in the polls. After that, each missed poll will affect your participation grade.
+
+I won't take attendance. There's no need to tell me if you will be absent. 
+
+There is no Zoom option for this course. 

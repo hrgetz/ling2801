@@ -10,12 +10,23 @@ title: "Methods"
 ::: {.callout-tip}
 ## Learning Goals
 
-1. Use basic neuroanatomy terms to "navigate" the brain
-1. Understand the difference between spatial and temporal resolution for brain imaging studies
-1. Know the names of the major methods used to study language in the brain, and identify one pro and one con of each
-1. Understand the process for reading scientific papers
-1. Identify one thing that brain data can tell us, and one thing it can't
+
 
 :::
 
-<!-- lobes; anterior, posterior, inferior, superior, medial, ventral -->
+<!-- Mentimeter
+intro: temp check
+
+1. Which view is this? 
+(Sagittal, axial, coronal)
+
+1. Label the lobes
+label, one at a time:
+* lobes
+* anterior, posterior, inferior, superior, medial, ventral
+
+
+
+how much did you understand of today's class?
+muddiest point?
+-->

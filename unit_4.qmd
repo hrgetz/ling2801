@@ -3,10 +3,18 @@ title: "Words"
 ---
 | Slides | Background reading | Primary literature | 
 | -- | -- | -- |
-| <span class="blue-badge">Words ↗</span> | SGN Ch. 5: *Activating Words* <br>SGN Ch. 6: *Representing Meaning* | Marinkovic et al. (2003)<br> Huth et al. (2016) |
+| <span class="blue-badge">Words ↗</span> | SGN Ch. 5: *Activating Words*  | Marinkovic et al. (2003) |
 
 
 ::: {.callout-tip appearance=simple}
 # Learning Goals
 
 :::
+
+<!-- Mentimeter>
+
+
+<!-- Skip 
+- SGN Ch. 6: *Representing Meaning*
+- Huth et al. (2016)
+-->
