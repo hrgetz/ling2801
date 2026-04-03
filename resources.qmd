@@ -2,8 +2,21 @@
 title: "Resources"
 ---
 
-## Learning resources
+## Neuroscience
+* NeuroVault
+* NeuroSynth
+* BrainMap
+* https://neurotorium.org/tool/brain-atlas/
+* https://atlas.brain-map.org/atlas?atlas=265297126#atlas=265297126&structure=10390&resolution=134.57&x=31682.70733173077&y=42748.009314903844&zoom=-6&plate=112360949&z=4
+* https://pursue.richmond.edu/
+
+## Scientific Literacy
+
 For this course, an important resource is [my guide to reading scientific papers](https://hrgetz.github.io/guide.html). Feel free to share this with anyone you like, now and in the future.
+
+You may also be interested in the [Scientific Literacy Tips](https://hrgetz.github.io/tips.html) that I have shared with students in other classes.
+
+## General Learning Resources
 
 Georgetown also offers a host of [learning resources](http://scs.georgetown.edu/academic-affairs/resources/) to its students. Two that you might find particularly helpful in this course are the [Writing Center](https://writingcenter.georgetown.edu/) and [Refworks](http://guides.library.georgetown.edu/refworks).
 
