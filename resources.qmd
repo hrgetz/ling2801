@@ -6,8 +6,8 @@ title: "Resources"
 * NeuroVault
 * NeuroSynth
 * BrainMap
-* https://neurotorium.org/tool/brain-atlas/
-* https://atlas.brain-map.org/atlas?atlas=265297126#atlas=265297126&structure=10390&resolution=134.57&x=31682.70733173077&y=42748.009314903844&zoom=-6&plate=112360949&z=4
+* [Neurotorium]https://neurotorium.org/tool/brain-atlas/
+* [Brain atlast with Brodmann areas](https://atlas.brain-map.org/atlas?atlas=265297126#atlas=265297126&structure=10390&resolution=134.57&x=31682.70733173077&y=42748.009314903844&zoom=-6&plate=112360949&z=4)
 * https://pursue.richmond.edu/
 
 ## Scientific Literacy
@@ -15,6 +15,8 @@ title: "Resources"
 For this course, an important resource is [my guide to reading scientific papers](https://hrgetz.github.io/guide.html). Feel free to share this with anyone you like, now and in the future.
 
 You may also be interested in the [Scientific Literacy Tips](https://hrgetz.github.io/tips.html) that I have shared with students in other classes.
+
+And here are some [tips for engaging in constructive, collegial debate](https://hrgetz.github.io/diplomacy.html).
 
 ## General Learning Resources
 

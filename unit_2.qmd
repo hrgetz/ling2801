@@ -7,7 +7,7 @@ title: "Methods"
 | [<span class="blue-badge">Methods & Interpretation ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p)  | SGN Ch. 2: *The Toolbox*  | McCabe & Castel 2008 |
 
 
-::: {.callout-tip}
+::: {.callout-tip appearance=simple}
 ## Learning Goals
 
 
