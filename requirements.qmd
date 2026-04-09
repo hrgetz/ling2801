@@ -3,13 +3,20 @@ title: "Assignments"
 ---
 | Weight | Assignment |
 | -- | -- | -- | -- | -- |
+| 5% | [In-class participation](#participation) |
 | 60%| [Exams](#exams) |
 | 15%| [Figure presentations](#figures)  |
 | 4%| [Researcher interview](#interview)  |
 | 1%| [Researcher panel](#panel)|
-| 20% |[Study proposal](#paper)
-| 5% | [In-class participation](#participation)
+| 20% |[Study proposal](#paper) |
 
+<br>
+
+## Participation {#participation}
+
+During class, I'll ask you to respond to occasional questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but you *do* need to participate in the polls to receive credit for class participation that day. 
+
+You'll have three classes "free" where your grade won't be affected by failure to participate in the polls. After that, each missed poll will affect your participation grade.
 
 ## Readings
 
@@ -35,8 +42,7 @@ You’ll be assigned original research papers to read throughout the semester. T
 
 ::: {.callout-note collapse="true" appearance=simple}
 # Detailed guidance for figure presentations
-* Tips
-* Grading rubric
+(To be added: Guidance and grading rubric)
 :::
 
 ## Researcher Interview {#interview}
@@ -45,8 +51,7 @@ For this assignment, you will conduct a structured interview with one of the pre
 
 ::: {.callout-note collapse="true" appearance=simple}
 # Detailed guidance for researcher interview
-* Tips for conducting the interview
-* Instructions for written reflection
+(To be added: Tips for conducting the interview, instructions for written reflection)
 
 :::
 
@@ -57,8 +62,7 @@ At the end of the semester, we will host a panel discussion with Neuroscience of
 ::: {.callout-note collapse="true" appearance=simple}
 
 # Detailed guidance for researcher panel
-* Link for question submission
-* Instructions for written reflection
+(To be added: Link for question submission; Instructions for written reflection)
 :::
 
 ## Study Proposal {#paper}
@@ -67,14 +71,6 @@ Over the course of the semester, you will work in small groups to identify a big
 
 ::: {.callout-note collapse="true" appearance=simple}
 # Detailed guidance for study proposal
+(To be added: Guidance and grading rubric)
 :::
 
-## Participation {#participation}
-
-During class, I'll ask you to respond to occasional questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but you *do* need to participate in the polls to receive credit for class participation that day. 
-
-You can have three classes "free" where your grade won't be affected by failure to participate in the polls. After that, each missed poll will affect your participation grade.
-
-I won't take attendance. There's no need to tell me if you will be absent. 
-
-There is no Zoom option for this course. 

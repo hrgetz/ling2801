@@ -1,15 +1,18 @@
 ---
 title: "Signed Languages"
 ---
+
+::: {.callout-tip}
+# Learning Goals: Signed languages
+1. Recognize signed languages as linguistically equivalent to spoken languages
+1. Describe evidence for this claim: The same brain network underlies the processing of spoken and signed languages
+:::
+
 | Slides | Background reading | Primary literature | 
 | -- | -- | -- |
 | <span class="blue-badge">Signed Languages ↗</span> | Newport & Supalla (1999) | Hickok, Bellugi, & Klima (1998) |
 
 
-::: {.callout-tip appearance=simple}
-# Learning Goals
-
-:::
 
 
 <!-- Mentimeter: Myth check 

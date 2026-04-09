@@ -4,7 +4,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "NeuroVault\nNeuroSynth\nBrainMap\nhttps://neurotorium.org/tool/brain-atlas/\nhttps://atlas.brain-map.org/atlas?atlas=265297126#atlas=265297126&structure=10390&resolution=134.57&x=31682.70733173077&y=42748.009314903844&zoom=-6&plate=112360949&z=4\nhttps://pursue.richmond.edu/",
+    "text": "NeuroVault\nNeuroSynth\nBrainMap\n[Neurotorium]https://neurotorium.org/tool/brain-atlas/\nBrain atlast with Brodmann areas\nhttps://pursue.richmond.edu/",
     "crumbs": [
       "Resources"
     ]
@@ -136,7 +136,7 @@
     "href": "requirements.html",
     "title": "Assignments",
     "section": "",
-    "text": "Weight\nAssignment\n\n\n\n\n\n\n\n60%\nExams\n\n\n\n\n\n15%\nFigure presentations\n\n\n\n\n\n4%\nResearcher interview\n\n\n\n\n\n1%\nResearcher panel\n\n\n\n\n\n20%\nStudy proposal\n\n\n\n\n\n5%\nIn-class participation",
+    "text": "Weight\nAssignment\n\n\n\n\n\n\n\n5%\nIn-class participation\n\n\n\n\n\n60%\nExams\n\n\n\n\n\n15%\nFigure presentations\n\n\n\n\n\n4%\nResearcher interview\n\n\n\n\n\n1%\nResearcher panel\n\n\n\n\n\n20%\nStudy proposal",
     "crumbs": [
       "Assignments"
     ]
@@ -166,7 +166,7 @@
     "href": "requirements.html#figures",
     "title": "Assignments",
     "section": "Figure Presentations",
-    "text": "Figure Presentations\nYou’ll be assigned original research papers to read throughout the semester. These contain figures, tables, and charts that you will learn to interpret: these illustrate the methods and results of the researchers’ experiments. In class, you will be asked to present at least two of these tables/charts to your classmates. Your job will be to describe, in completely concrete terms, how the study worked (if this is a methods figure) or what the results were (in a results figure). These explanations must be completely factual, without any opinion.\n\n\n\n\n\n\nNoteDetailed guidance for figure presentations\n\n\n\n\n\n\nTips\nGrading rubric",
+    "text": "Figure Presentations\nYou’ll be assigned original research papers to read throughout the semester. These contain figures, tables, and charts that you will learn to interpret: these illustrate the methods and results of the researchers’ experiments. In class, you will be asked to present at least two of these tables/charts to your classmates. Your job will be to describe, in completely concrete terms, how the study worked (if this is a methods figure) or what the results were (in a results figure). These explanations must be completely factual, without any opinion.\n\n\n\n\n\n\nNoteDetailed guidance for figure presentations\n\n\n\n\n\n(To be added: Guidance and grading rubric)",
     "crumbs": [
       "Assignments"
     ]
@@ -176,7 +176,7 @@
     "href": "requirements.html#interview",
     "title": "Assignments",
     "section": "Researcher Interview",
-    "text": "Researcher Interview\nFor this assignment, you will conduct a structured interview with one of the predoctoral or postdoctoral scholars in Georgetown’s Neuroscience of Language training program. The goal of your interview will be to learn about a specific research question that this person is trying to answer; to understand the research approach or method that they are trying to use in order to answer it; and to identify some things that make it challenging to conduct this type of research. After the interview, you will briefly describe to your classmates the researcher’s main question and research approach, and you will submit a written reflection.\n\n\n\n\n\n\nNoteDetailed guidance for researcher interview\n\n\n\n\n\n\nTips for conducting the interview\nInstructions for written reflection",
+    "text": "Researcher Interview\nFor this assignment, you will conduct a structured interview with one of the predoctoral or postdoctoral scholars in Georgetown’s Neuroscience of Language training program. The goal of your interview will be to learn about a specific research question that this person is trying to answer; to understand the research approach or method that they are trying to use in order to answer it; and to identify some things that make it challenging to conduct this type of research. After the interview, you will briefly describe to your classmates the researcher’s main question and research approach, and you will submit a written reflection.\n\n\n\n\n\n\nNoteDetailed guidance for researcher interview\n\n\n\n\n\n(To be added: Tips for conducting the interview, instructions for written reflection)",
     "crumbs": [
       "Assignments"
     ]
@@ -186,7 +186,7 @@
     "href": "requirements.html#panel",
     "title": "Assignments",
     "section": "Researcher Panel",
-    "text": "Researcher Panel\nAt the end of the semester, we will host a panel discussion with Neuroscience of Language researchers at various stages of their career, ranging from graduate students to senior professors. The focus of this panel will be on the future of the field: we’ll ask researchers where they think the field is going and what challenges the field faces. To prepare for this, I will ask each student to submit some questions for panelists in advance, and then the class will vote on which questions to present to the panelists. You will also submit a written reflection afterwards.\n\n\n\n\n\n\nNoteDetailed guidance for researcher panel\n\n\n\n\n\n\nLink for question submission\nInstructions for written reflection",
+    "text": "Researcher Panel\nAt the end of the semester, we will host a panel discussion with Neuroscience of Language researchers at various stages of their career, ranging from graduate students to senior professors. The focus of this panel will be on the future of the field: we’ll ask researchers where they think the field is going and what challenges the field faces. To prepare for this, I will ask each student to submit some questions for panelists in advance, and then the class will vote on which questions to present to the panelists. You will also submit a written reflection afterwards.\n\n\n\n\n\n\nNoteDetailed guidance for researcher panel\n\n\n\n\n\n(To be added: Link for question submission; Instructions for written reflection)",
     "crumbs": [
       "Assignments"
     ]
@@ -196,7 +196,7 @@
     "href": "requirements.html#paper",
     "title": "Assignments",
     "section": "Study Proposal",
-    "text": "Study Proposal\nOver the course of the semester, you will work in small groups to identify a big-picture question about language and the brain; narrow this to an answerable research question; and propose an empirical study that would answer the question. You will present your proposal to the whole class and lead group discussion of your idea. At the end of the semester, you will submit a final written paper that includes details of your study proposal as well as discussion of anticipated results.\n\n\n\n\n\n\nNoteDetailed guidance for study proposal",
+    "text": "Study Proposal\nOver the course of the semester, you will work in small groups to identify a big-picture question about language and the brain; narrow this to an answerable research question; and propose an empirical study that would answer the question. You will present your proposal to the whole class and lead group discussion of your idea. At the end of the semester, you will submit a final written paper that includes details of your study proposal as well as discussion of anticipated results.\n\n\n\n\n\n\nNoteDetailed guidance for study proposal\n\n\n\n\n\n(To be added: Guidance and grading rubric)",
     "crumbs": [
       "Assignments"
     ]
@@ -306,7 +306,7 @@
     "href": "unit_2.html",
     "title": "Methods",
     "section": "",
-    "text": "Slides\nBackground reading\nPrimary literature\n\n\n\n\nMethods & Interpretation ↗\nSGN Ch. 2: The Toolbox\nMcCabe & Castel 2008\n\n\n\n\n\n\n\n\n\nTipLearning Goals",
+    "text": "TipLearning Goals: Methods\n\n\n\n\nBe able to “navigate” the brain using the following terms: left hemisphere, right hemisphere, frontal, temporal, parietal, occipital, anterior, posterior, inferior, superior, medial, ventral, sulcus, gyrus\nIdentify and distinguish coronal, axial, and sagittal sections of the human brain\nUnderstand the difference between spatial and temporal resolution\nKnow the names of the major research tools that are used to study language in the brain and what is measured by each tool\nUnderstand how scientific papers are meant to be read\n\n\n\n\n\n\nDate\nTopic\nReading\nSlides\nPoll\n\n\n\n\nThurs 9/3\nMethods\nSGN Ch. 2: The Toolbox\nMethods & Interpretation ↗\nPoll\n\n\nTues 9/8\nNo class (Monday schedule)\n\n\n\n\n\nThurs 9/10\nInterpreting brain data\nMcCabe & Castel 2008",
     "crumbs": [
       "Schedule",
       "Methods"
@@ -315,34 +315,34 @@
   {
     "objectID": "unit_1.html",
     "href": "unit_1.html",
-    "title": "Overview",
+    "title": "Introduction",
     "section": "",
-    "text": "Course site (you are here)\nSyllabus\nAssignments\nSchedule",
+    "text": "TipLearning Goals: Introduction\n\n\n\n\nKnow who your professor is\nIdentify one reason language is worth studying\nIdentify one reason that the brain is worth studying\nRecognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation), and understand the differences\nDefine functional specialization\n\n\n\nClasses in this unit:\n\n\n\nDate\nTopic\nReading\nSlides\nPoll\n\n\n\n\nThurs 9/27\nOverview\nNone\n\nIntroductions\n\n\nTues 9/1\nWhy neuroscience of language?\nSGN Ch. 1: Introduction\nOverview ↗\n\n\n\n\n\nCourse Overview\n\nIntroductions\nCourse site (you are here)\nSyllabus\nAssignments\nSchedule\n\n\n\nWhy study the neuroscience of language?",
     "crumbs": [
       "Schedule",
-      "Overview"
+      "Introduction"
     ]
   },
   {
     "objectID": "unit_1.html#course-overview",
     "href": "unit_1.html#course-overview",
-    "title": "Overview",
-    "section": "",
-    "text": "Course site (you are here)\nSyllabus\nAssignments\nSchedule",
+    "title": "Introduction",
+    "section": "Course Overview",
+    "text": "Course Overview\n\nIntroductions and first poll\nCourse site (you are here)\nSyllabus\nAssignments\nSchedule",
     "crumbs": [
       "Schedule",
-      "Overview"
+      "Introduction"
     ]
   },
   {
     "objectID": "unit_1.html#why-study-the-neuroscience-of-language",
     "href": "unit_1.html#why-study-the-neuroscience-of-language",
-    "title": "Overview",
+    "title": "Introduction",
     "section": "Why study the neuroscience of language?",
-    "text": "Why study the neuroscience of language?\n\n\n\nSlides\nBackground reading\nPrimary literature\n\n\n\n\nOverview ↗\nSGN Ch. 1: Introduction\nNone\n\n\n\n\n\n\n\n\n\nTipLearning Goals\n\n\n\n\nIdentify one reason to study language\nIdentify one reason to study the brain\nRecognize that there are multiple levels at which one can understand a cognitive system, and understand the differences",
+    "text": "Why study the neuroscience of language?\n\n\n\n\n\n\nTipLearning Goals\n\n\n\n\nIdentify one reason language is worth studying\nIdentify one reason that the brain is worth studying\nRecognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation), and understand the differences",
     "crumbs": [
       "Schedule",
-      "Overview"
+      "Introduction"
     ]
   },
   {
@@ -350,7 +350,7 @@
     "href": "unit_3.html",
     "title": "Sounds & Phonemes",
     "section": "",
-    "text": "Slides\nBackground reading\nPrimary literature\n\n\n\n\nSounds & Phonemes ↗\nSGN Ch. 3: Sounds in the Brain\nMesgarani et al. 2014\n\n\n\n\n\n\n\n\n\nTipLearning Goals",
+    "text": "TipLearning Goals: Sounds & Phonemes\n\n\n\n\nBe able to define the following terms: phoneme, phonetic feature, contrastive\nIdentify the regions of the brain that are involved in processing sounds\nDescribe the evidence for the following claim: The brain represents sounds in terms of phonetic features\n\n\n\n\n\n\n\n\n\n\n\n\n\nDate\nTopic\nReading\nSlides\nPoll\n\n\n\n\nThurs 9/17\nSounds & Phonemes\nSGN Ch. 3: Sounds in the Brain\n↗\n\n\n\nTues 9/22\nSounds & Phonemes\nMesgarani et al. 2014",
     "crumbs": [
       "Schedule",
       "Sounds & Phonemes"
@@ -361,7 +361,7 @@
     "href": "unit_4.html",
     "title": "Words",
     "section": "",
-    "text": "Slides\nBackground reading\nPrimary literature\n\n\n\n\nWords ↗\nSGN Ch. 5: Activating Words\nMarinkovic et al. (2003)\n\n\n\n\n\n\n\n\n\nTipLearning Goals",
+    "text": "TipLearning Goals: Words\n\n\n\n\nBe able to define the following terms: lexicon, morpheme, supramodal\nIdentify the stages involved in processing spoken and written words\nName three reasons why someone with brain damage might struggle with naming tasks\nDescribe evidence for the following claim: Spoken words and written words are eventually processed by the same regions of the brain\n\n\n\n\n\n\n\n\n\n\n\nSlides\nBackground reading\nPrimary literature\n\n\n\n\nWords ↗\nSGN Ch. 5: Activating Words\nMarinkovic et al. (2003)",
     "crumbs": [
       "Schedule",
       "Words"
@@ -372,7 +372,7 @@
     "href": "unit_5.html",
     "title": "Sentences",
     "section": "",
-    "text": "Slides\nBackground reading\nPrimary literature\n\n\n\n\nSentences ↗\nSGN Ch. 9: Building dependencies  Dronkers & Baldo (2009)\nMatchin, Sprouse, & Hickok (2014)\n\n\n\n\n\n\n\n\n\nTipLearning Goals",
+    "text": "TipLearning Goals: Sentences\n\n\n\n\nBe able to define the following terms: syntax, constituent\nBe able to locate Broca’s area and Wernicke’s area on an image of the brain\nExplain the difference between functional specialization and functional specificity\nDescribe evidence for the following claim: Broca’s region is not dedicated exclusively to language processing\n\n\n\n\n\n\n\n\n\n\n\nSlides\nBackground reading\nPrimary literature\n\n\n\n\nSentences ↗\nSGN Ch. 9: Building dependencies  Dronkers & Baldo (2009)\nMatchin, Sprouse, & Hickok (2014)",
     "crumbs": [
       "Schedule",
       "Sentences"
@@ -383,7 +383,7 @@
     "href": "unit_6.html",
     "title": "Signed Languages",
     "section": "",
-    "text": "Slides\nBackground reading\nPrimary literature\n\n\n\n\nSigned Languages ↗\nNewport & Supalla (1999)\nHickok, Bellugi, & Klima (1998)\n\n\n\n\n\n\n\n\n\nTipLearning Goals",
+    "text": "TipLearning Goals: Signed languages\n\n\n\n\nRecognize signed languages as linguistically equivalent to spoken languages\nDescribe evidence for this claim: The same brain network underlies the processing of spoken and signed languages\n\n\n\n\n\n\n\n\n\n\n\nSlides\nBackground reading\nPrimary literature\n\n\n\n\nSigned Languages ↗\nNewport & Supalla (1999)\nHickok, Bellugi, & Klima (1998)",
     "crumbs": [
       "Schedule",
       "Signed Languages"
@@ -531,7 +531,7 @@
     "href": "requirements.html#participation",
     "title": "Assignments",
     "section": "Participation",
-    "text": "Participation\nDuring class, I’ll ask you to respond to occasional questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but you do need to participate in the polls to receive credit for class participation that day.\nYou can have three classes “free” where your grade won’t be affected by failure to participate in the polls. After that, each missed poll will affect your participation grade.\nI won’t take attendance. There’s no need to tell me if you will be absent.\nThere is no Zoom option for this course.",
+    "text": "Participation\nDuring class, I’ll ask you to respond to occasional questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but you do need to participate in the polls to receive credit for class participation that day.\nYou’ll have three classes “free” where your grade won’t be affected by failure to participate in the polls. After that, each missed poll will affect your participation grade.",
     "crumbs": [
       "Assignments"
     ]
@@ -541,7 +541,7 @@
     "href": "resources.html#neuroscience",
     "title": "Resources",
     "section": "",
-    "text": "NeuroVault\nNeuroSynth\nBrainMap\nhttps://neurotorium.org/tool/brain-atlas/\nhttps://atlas.brain-map.org/atlas?atlas=265297126#atlas=265297126&structure=10390&resolution=134.57&x=31682.70733173077&y=42748.009314903844&zoom=-6&plate=112360949&z=4\nhttps://pursue.richmond.edu/",
+    "text": "NeuroVault\nNeuroSynth\nBrainMap\n[Neurotorium]https://neurotorium.org/tool/brain-atlas/\nBrain atlast with Brodmann areas\nhttps://pursue.richmond.edu/",
     "crumbs": [
       "Resources"
     ]
@@ -551,7 +551,7 @@
     "href": "resources.html#scientific-literacy",
     "title": "Resources",
     "section": "Scientific Literacy",
-    "text": "Scientific Literacy\nFor this course, an important resource is my guide to reading scientific papers. Feel free to share this with anyone you like, now and in the future.\nYou may also be interested in the Scientific Literacy Tips that I have shared with students in other classes.",
+    "text": "Scientific Literacy\nFor this course, an important resource is my guide to reading scientific papers. Feel free to share this with anyone you like, now and in the future.\nYou may also be interested in the Scientific Literacy Tips that I have shared with students in other classes.\nAnd here are some tips for engaging in constructive, collegial debate.",
     "crumbs": [
       "Resources"
     ]
@@ -564,6 +564,83 @@
     "text": "General Learning Resources\nGeorgetown also offers a host of learning resources to its students. Two that you might find particularly helpful in this course are the Writing Center and Refworks.\n\nThe Writing Center offers peer tutoring by trained graduate and undergraduate students who can assist you at any point in the writing process. They help at any stage of your writing process, from brainstorming to revision. Tutors can offer advice on thesis development, use of evidence, organization, flow, sentence structure, grammar, and more. The Writing Center will not proofread or edit papers; rather, they will help to improve your proofreading and editing skills to become a better writer. Appointments can be booked online through their website.\n\nRefworks is an online research management tool that aids in organizing, storing, and presenting citation sources for papers and projects.",
     "crumbs": [
       "Resources"
+    ]
+  },
+  {
+    "objectID": "unit_1.html#thursday-827",
+    "href": "unit_1.html#thursday-827",
+    "title": "Introduction",
+    "section": "Thursday 8/27",
+    "text": "Thursday 8/27",
+    "crumbs": [
+      "Schedule",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "unit_1.html#thurs-827-course-overview",
+    "href": "unit_1.html#thurs-827-course-overview",
+    "title": "Introduction",
+    "section": "",
+    "text": "Course site (you are here)\nSyllabus\nAssignments\nSchedule",
+    "crumbs": [
+      "Schedule",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "unit_1.html#overview",
+    "href": "unit_1.html#overview",
+    "title": "Introduction",
+    "section": "Course Overview",
+    "text": "Course Overview\n\nIntroductions and first poll\nCourse site (you are here)\nSyllabus\nAssignments\nSchedule",
+    "crumbs": [
+      "Schedule",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "unit_1.html#why",
+    "href": "unit_1.html#why",
+    "title": "Introduction",
+    "section": "Why study the neuroscience of language?",
+    "text": "Why study the neuroscience of language?\nSlides for this unit: Overview ↗\n\n\n\n\n\n\nTipLearning Goals\n\n\n\n\nIdentify one reason language is worth studying\nIdentify one reason that the brain is worth studying\nRecognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation), and understand the differences",
+    "crumbs": [
+      "Schedule",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "unit_2.html#thurs-93",
+    "href": "unit_2.html#thurs-93",
+    "title": "Methods",
+    "section": "Thurs 9/3",
+    "text": "Thurs 9/3\n\nMethods\nReading: SGN Ch. 2: The Toolbox\nResources:",
+    "crumbs": [
+      "Schedule",
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "unit_2.html#tues-98",
+    "href": "unit_2.html#tues-98",
+    "title": "Methods",
+    "section": "Tues 9/8",
+    "text": "Tues 9/8",
+    "crumbs": [
+      "Schedule",
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "unit_2.html#thurs-910",
+    "href": "unit_2.html#thurs-910",
+    "title": "Methods",
+    "section": "Thurs 9/10",
+    "text": "Thurs 9/10\n\nReading: McCabe & Catsel 2008\n\n\n\n\nDate\nTopic\nReading\nSlides\nPoll\n\n\n\n\nThurs 9/3\nMethods\nSGN Ch. 2: The Toolbox\nMethods & Interpretation ↗\n\n\n\nTues 9/8\nNo class (Monday schedule)\n\n\n\n\n\nThurs 9/10\nInterpreting brain data\nMcCabe & Castel 2008",
+    "crumbs": [
+      "Schedule",
+      "Methods"
     ]
   }
 ]

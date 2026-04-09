@@ -2,30 +2,30 @@
 title: "Methods"
 ---
 
-| Slides | Background reading | Primary literature | 
-| -- | -- | -- |
-| [<span class="blue-badge">Methods & Interpretation ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p)  | SGN Ch. 2: *The Toolbox*  | McCabe & Castel 2008 |
-
-
-::: {.callout-tip appearance=simple}
-## Learning Goals
-
-
-
+::: {.callout-tip}
+## Learning Goals: Methods
+1. Be able to "navigate" the brain using the following terms: left hemisphere, right hemisphere, frontal, temporal, parietal, occipital, anterior, posterior, inferior, superior, medial, ventral, sulcus, gyrus
+1. Identify and distinguish coronal, axial, and sagittal sections of the human brain
+1. Understand the difference between spatial and temporal resolution
+1. Know the names of the major research tools that are used to study language in the brain and what is measured by each tool
+1. Understand how scientific papers are meant to be read
 :::
+
+
+| Date | Topic | Reading | Slides | Poll |
+| -- | -- | -- | -- | -- |
+| Thurs 9/3 | Methods | SGN Ch. 2: *The Toolbox*  |  [<span class="blue-badge">Methods & Interpretation ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p)| [Poll](https://www.menti.com/blzw41uh6xjx)
+| Tues 9/8 | *No class (Monday schedule)* | | | 
+| Thurs 9/10 | Interpreting brain data | McCabe & Castel 2008 |
+
 
 <!-- Mentimeter
 intro: temp check
-
-1. Which view is this? 
-(Sagittal, axial, coronal)
 
 1. Label the lobes
 label, one at a time:
 * lobes
 * anterior, posterior, inferior, superior, medial, ventral
-
-
 
 how much did you understand of today's class?
 muddiest point?

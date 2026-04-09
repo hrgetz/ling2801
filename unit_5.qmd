@@ -2,14 +2,20 @@
 title: "Sentences"
 ---
 
+::: {.callout-tip}
+# Learning Goals: Sentences
+1. Be able to define the following terms: *syntax*, *constituent*
+1. Be able to locate Broca's area and Wernicke's area on an image of the brain
+1. Explain the difference between *functional specialization* and *functional specificity*
+1. Describe evidence for the following claim: Broca's region is not dedicated exclusively to language processing
+
+:::
+
 | Slides | Background reading | Primary literature | 
 | -- | -- | -- |
 | <span class="blue-badge">Sentences ↗</span> |  SGN Ch. 9: *Building dependencies* <br> Dronkers & Baldo (2009) | Matchin, Sprouse, & Hickok (2014) |
 
-::: {.callout-tip appearance=simple}
-# Learning Goals
 
-:::
 
 
 <!-- Mentimeter>

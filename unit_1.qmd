@@ -1,38 +1,33 @@
 ---
-title: "Overview"
+title: "Introduction"
 ---
 
 
-## Course Overview
+::: {.callout-tip}
+# Learning Goals: Introduction
+1. Know who your professor is
+1. Identify one reason language is worth studying
+1. Identify one reason that the brain is worth studying
+1. Recognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation), and understand the differences
+1. Define *functional specialization*
+:::
+
+
+Classes in this unit:
+
+| Date | Topic | Reading | Slides | Poll |
+| -- | -- | -- | -- | -- |
+| Thurs 9/27 | [Overview](#overview)  | None | | [Introductions](https://www.menti.com/bl6rvxw8d8o1) | 
+| Tues 9/1 | [Why neuroscience of language?](#why) | SGN Ch. 1: *Introduction* | [<span class="blue-badge">Overview ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0) | |
+
+
+### Course Overview {#overview}
+
+* Introductions
 * Course site (you are here)
 * [Syllabus](index.qmd)
 * [Assignments](requirements.qmd)
 * [Schedule](schedule.md)
 
-## Why study the neuroscience of language?
 
-| Slides | Background reading | Primary literature | 
-| -- | -- | -- |
-| [<span class="blue-badge">Overview ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0) | SGN Ch. 1: *Introduction*  | None |
-
-::: {.callout-tip appearance=simple}
-# Learning Goals
-1. Identify one reason to study language
-1. Identify one reason to study the brain
-1. Recognize that there are multiple levels at which one can understand a cognitive system, and understand the differences
-
-:::
-
-
-<!-- Mentimeter poll ideas:
-- what are your expectations for this class (https://www.mentimeter.com/templates/p/education-check-expectations)
-- how are you feeling about this class
-
-
-icebreakers:
-- Word cloud: What is your major?
-- Poll: what year are you?
-- three truths & a lie: raised Baha'i, have narcolepsy, went to college at Georgetown, have 3 kids
-
-Q&A
--->
+### Why study the neuroscience of language? {#why}
