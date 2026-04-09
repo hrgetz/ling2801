@@ -4,17 +4,18 @@ title: "Words"
 
 ::: {.callout-tip}
 # Learning Goals: Words
-1. Be able to define the following terms: *lexicon*, *morpheme*, *supramodal*
+1. Be able to define the following terms: *lexical item*, *morpheme*, *supramodal*
 1. Identify the stages involved in processing spoken and written words
-1. Name three reasons why someone with brain damage might struggle with naming tasks 
-1. Describe evidence for the following claim: Spoken words and written words are eventually processed by the same regions of the brain
+1. Identify the major brain regions involved in processing words
+1. Describe evidence for the following claim: There is a shared lexical-semantic processing system for spoken, signed, and written words
+1. Name one area of current controversy
 :::
 
 
-| Slides | Background reading | Primary literature | 
-| -- | -- | -- |
-| <span class="blue-badge">Words ↗</span> | SGN Ch. 5: *Activating Words*  | Marinkovic et al. (2003) |
-
+| Date | Topic | Reading | Slides | Poll |
+| -- | -- | -- | -- | -- |
+| Thurs 9/24 | Words | SGN Ch. 5: *Activating Words* | <span class="blue-badge">↗</span>| |
+| Tues 9/29 | Time course |  Marinkovic et al. (2003) | | | 
 
 <!-- Mentimeter>
 (deficit in conceptual processing, in lexical items, phonology)

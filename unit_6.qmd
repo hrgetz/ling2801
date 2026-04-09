@@ -6,6 +6,7 @@ title: "Signed Languages"
 # Learning Goals: Signed languages
 1. Recognize signed languages as linguistically equivalent to spoken languages
 1. Describe evidence for this claim: The same brain network underlies the processing of spoken and signed languages
+1. Name one area of current controversy
 :::
 
 | Slides | Background reading | Primary literature | 

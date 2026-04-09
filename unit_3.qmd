@@ -4,12 +4,14 @@ title: "Sounds & Phonemes"
 
 ::: {.callout-tip}
 # Learning Goals: Sounds & Phonemes
-1. Be able to define the following terms: *phoneme*, *phonetic feature*, *contrastive*
-1. Identify the regions of the brain that are involved in processing sounds
-1. Describe the evidence for the following claim: The brain represents sounds in terms of phonetic features
+1. Be able to define the following terms: *functional specialization*, *lateralization*, *phoneme*, *phonetic feature*, *contrastive*, *categorical perception*, *speech envelope*, *entrainment*
+1. Identify the major brain regions that are involved in processing sounds.
+1. Describe the evidence for the following claim: Speech perception is categorical.
+1. Describe the evidence for the following claim: The brain represents language sounds in terms of phonetic features.
+1. Name one area of current controversy
 :::
 
 | Date | Topic | Reading | Slides | Poll |
 | -- | -- | -- | -- | -- |
-| Thurs 9/17 | Sounds & Phonemes | SGN Ch. 3: *Sounds in the Brain* |<span class="blue-badge">↗</span>| |
+| Thurs 9/17 | Sounds & Phonemes | SGN Ch. 3: *Sounds in the Brain* | <span class="blue-badge">↗</span> | |
 | Tues 9/22 | Sounds & Phonemes | Mesgarani et al. 2014 | | 

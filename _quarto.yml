@@ -28,6 +28,7 @@ website:
       - readings.md
       - policies.qmd
       - resources.qmd
+  page-navigation: true
 
 
 #brite

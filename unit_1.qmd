@@ -6,28 +6,16 @@ title: "Introduction"
 ::: {.callout-tip}
 # Learning Goals: Introduction
 1. Know who your professor is
+1. Know what you'll need to do to earn an A in this class
 1. Identify one reason language is worth studying
 1. Identify one reason that the brain is worth studying
-1. Recognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation), and understand the differences
-1. Define *functional specialization*
+1. Recognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation)
+1. Give an arugment for why studying implementation alone is insufficient for complete understanding
 :::
-
 
 Classes in this unit:
 
 | Date | Topic | Reading | Slides | Poll |
 | -- | -- | -- | -- | -- |
-| Thurs 9/27 | [Overview](#overview)  | None | | [Introductions](https://www.menti.com/bl6rvxw8d8o1) | 
-| Tues 9/1 | [Why neuroscience of language?](#why) | SGN Ch. 1: *Introduction* | [<span class="blue-badge">Overview ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0) | |
-
-
-### Course Overview {#overview}
-
-* Introductions
-* Course site (you are here)
-* [Syllabus](index.qmd)
-* [Assignments](requirements.qmd)
-* [Schedule](schedule.md)
-
-
-### Why study the neuroscience of language? {#why}
+| Thurs 9/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) | None |[<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0)| [<span class="purple-badge">↗</span>](https://www.menti.com/bl6rvxw8d8o1) | 
+| Tues 9/1 | Why neuroscience of language? | SGN Ch. 1: *Introduction* |  | 

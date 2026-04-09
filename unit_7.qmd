@@ -9,5 +9,5 @@ title: "Language Acquisition"
 
 ::: {.callout-tip appearance=simple}
 # Learning Goals
-
+1. Name one area of current controversy
 :::
