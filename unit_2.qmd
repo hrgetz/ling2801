@@ -12,12 +12,11 @@ title: "Methods"
 1. Understand how scientific papers are meant to be read
 :::
 
-
-| Date | Topic | Reading | Slides | Poll |
+| Date | Topic | Reading | Resources
 | -- | -- | -- | -- | -- |
-| Thurs 9/3 | Methods | SGN Ch. 2: *The Toolbox*  |  | [<span class="purple-badge">↗</span>](https://www.menti.com/blzw41uh6xjx)
+| Thurs 9/3 | Methods | SGN Ch. 2: *The Toolbox*  |  [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p)[<span class="purple-badge">Poll ↗</span>](https://www.menti.com/blzw41uh6xjx)
 | Tues 9/8 | *No class (Monday schedule)* | | | 
-| Thurs 9/10 | Interpreting brain data | McCabe & Castel 2008 |[<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p) | | 
+| Thurs 9/10 | Interpreting brain data | McCabe & Castel 2008 | | | 
 
 
 <!-- Mentimeter

@@ -9,11 +9,10 @@ title: "Signed Languages"
 1. Name one area of current controversy
 :::
 
-| Slides | Background reading | Primary literature | 
-| -- | -- | -- |
-| <span class="blue-badge">Signed Languages ↗</span> | Newport & Supalla (1999) | Hickok, Bellugi, & Klima (1998) |
-
-
+| Date | Topic | Reading | Resources |
+| -- | -- | -- | -- | -- |
+| Thurs 10/22 | Sign language linguistics | Newport & Supalla (1999) |<span class="blue-badge"> Slides ↗</span>|
+| Tues 10/27 | Sign language in the brain |  Hickok, Bellugi, & Klima (1998) | |
 
 
 <!-- Mentimeter: Myth check 

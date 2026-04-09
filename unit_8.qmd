@@ -1,20 +1,11 @@
 ---
 title: "Bilingualism"
 ---
-
-| Slides | Background reading | Primary literature | 
-| -- | -- | -- |
-| <span class="blue-badge">Bilingualism ↗</span> | Costa & Sebastián-Gallés (2014) | Antoniou (2019) |
-
-
 ::: {.callout-tip appearance=simple}
 # Learning Goals
 
 :::
-
-<!-- Mentimeter 
-
-beliefs: Does bilingualism affect the brain?
-
-
--->
+| Date | Topic | Reading | Resources |
+| -- | -- | -- | -- | 
+| 11/10 | Bilingualism | Costa & Sebastián-Gallés (2014)
+| 11/12 | Bilingualism | Antoniou (2019) 

@@ -1,13 +1,13 @@
 ---
 title: "Frameworks"
 ---
-
-| Slides | Background reading | Primary literature | 
-| -- | -- | -- |
-| <span class="blue-badge">Frameworks ↗</span> | Embick & Poeppel (2014) | None |
-
-
-::: {.callout-tip appearance=simple}
-# Learning Goals
+::: {.callout-tip}
+# Learning Goals: Frameworks
 
 :::
+
+
+| Date | Topic | Reading | Resources |
+| -- | -- | -- | -- | -- |
+| 11/19 | Explanatory frameworks | Embick & Poeppel (2014) | [Submit questions](https://www.menti.com/bldf9ra1coas)
+| 11/24 | Researcher panel

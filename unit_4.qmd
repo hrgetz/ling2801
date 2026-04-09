@@ -12,9 +12,9 @@ title: "Words"
 :::
 
 
-| Date | Topic | Reading | Slides | Poll |
-| -- | -- | -- | -- | -- |
-| Thurs 9/24 | Words | SGN Ch. 5: *Activating Words* | <span class="blue-badge">↗</span>| |
+| Date | Topic | Reading | Resources |
+| -- | -- | -- | -- | 
+| Thurs 9/24 | Words | SGN Ch. 5: *Activating Words* | <span class="blue-badge">Slides ↗</span>| |
 | Tues 9/29 | Time course |  Marinkovic et al. (2003) | | | 
 
 <!-- Mentimeter>

@@ -11,7 +11,7 @@ title: "Sounds & Phonemes"
 1. Name one area of current controversy
 :::
 
-| Date | Topic | Reading | Slides | Poll |
+| Date | Topic | Reading | Resources
 | -- | -- | -- | -- | -- |
-| Thurs 9/17 | Sounds & Phonemes | SGN Ch. 3: *Sounds in the Brain* | <span class="blue-badge">↗</span> | |
+| Thurs 9/17 | Sounds & Phonemes | SGN Ch. 3: *Sounds in the Brain* | <span class="blue-badge">Slides ↗</span> | |
 | Tues 9/22 | Sounds & Phonemes | Mesgarani et al. 2014 | | 

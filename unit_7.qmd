@@ -2,12 +2,12 @@
 title: "Language Acquisition"
 ---
 
-| Slides | Background reading | Primary literature | 
-| -- | -- | -- |
-| <span class="blue-badge">Language Acquisition ↗</span> | Newport & Getz (2025) | Ferjan Ramirez et al. (2013) <br> Newport et al. (2022) |
-
-
 ::: {.callout-tip appearance=simple}
 # Learning Goals
-1. Name one area of current controversy
 :::
+
+| Date | Topic | Reading | Resources |
+| -- | -- | -- | -- | -- |
+| 10/29 | Typical development |  Newport & Getz (2025) |  <span class="blue-badge">Slides ↗</span>
+| 11/3 | Language deprivation | Ferjan Ramirez et al. (2013) |
+| 11/5 | Perinatal stroke | Newport et al. (2022) |

@@ -13,9 +13,9 @@ title: "Sentences"
 
 :::
 
-| Date | Topic | Reading | Slides | Poll |
+| Date | Topic | Reading | Resources |
 | -- | -- | -- | -- | -- |
-| Tues 10/6 | Sentences | SGN Ch. 9: *Building dependencies* | <span class="blue-badge">↗</span> | 
+| Tues 10/6 | Sentences | SGN Ch. 9: *Building dependencies* | <span class="blue-badge">Slides ↗</span> | 
 | Thurs 10/8 | Sentences | | 
 | Tues 10/13 | Sentences | Matchin, Sprouse, & Hickok (2014)
 | Thurs 10/15 | Aphasia | Dronkers & Baldo (2009)
