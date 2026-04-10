@@ -13,6 +13,7 @@ title: "Sounds, Phonemes, Words"
 # Learning Goals: Unit 2
 
 **Sounds & Phonemes**
+
 1. Be able to define the following terms: *phoneme*, *phonetic feature*, *contrastive*, *categorical perception*, *speech envelope*, *entrainment*
 1. Be able to identify the major brain regions that are involved in processing language sounds using neuroanatomical and directional terms
 1. Be able to point to these regions on a picture of the brain
