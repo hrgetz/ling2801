@@ -1,13 +1,14 @@
 ---
 title: "Sounds, Phonemes, Words"
 ---
+
 | Date | Topic | Reading | Resources
 | -- | -- | -- | -- | 
-| Thurs 9/17 | Sounds | SGN Ch. 3: *Sounds in the Brain* ||
-| Tues 9/22 | Phonemes | Mesgarani et al. 2014 ||
+| Thurs 9/17 | Sounds | SGN Ch. 3: *Sounds in the Brain* | |
+| Tues 9/22 | Phonemes | Mesgarani et al. 2014 | |
 | Thurs 9/24 | Words | SGN Ch. 5: *Activating Words* | |
-| Tues 9/29 | Time course of word processing |  Marinkovic et al. (2003) ||
-| Thurs 10/1 | <span class="exam-badge">Exam #2</span> ||
+| Tues 9/29 | Time course of word processing |  Marinkovic et al. (2003) | |
+| Thurs 10/1 | <span class="exam-badge">Exam #2</span> | |
 
 ::: {.callout-tip}
 # Learning Goals: Unit 2

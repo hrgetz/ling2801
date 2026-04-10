@@ -1,28 +1,27 @@
 ---
-title: "Neuroscience 101"
+title: "Introduction & Methods"
 ---
 | Date | Topic | Reading | Resources |
 | -- | -- | -- | -- |
-| Thurs 9/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) | None |[<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0) [<span class="purple-badge">Poll ↗</span>](https://www.menti.com/bl6rvxw8d8o1) | 
-| Tues 9/1 | Why neuroscience of language? | SGN Ch. 1: *Introduction* |  | 
-| Thurs 9/3 | Brain geography; tools | SGN Ch. 2: *The Toolbox*  |  [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p)[<span class="purple-badge">Poll ↗</span>](https://www.menti.com/blzw41uh6xjx)
-| Tues 9/8 | *No class (Monday schedule)* | | | 
-| Thurs 9/10 | Interpreting brain data | McCabe & Castel 2008 | | | 
+| Thurs 9/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) | None | [<span class="purple-badge">Poll ↗</span>](https://www.menti.com/bl6rvxw8d8o1) | 
+| Tues 9/1 | How can we study the neuroscience of language?<br>Neuroanatomical terms and brain geography | SGN Ch. 1: *Introduction* | [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0) <br>[UBC: The Cortex](https://www.neuroanatomy.ca/modules/Cortex/story.html)|
+| Thurs 9/3 | Research methods and interpretation | SGN Ch. 2: *The Toolbox*  |  [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p) |
+| Tues 9/8 | *No class (Monday schedule)* | | 
+| Thurs 9/10 | Research methods and interpretation | McCabe & Castel 2008 | | 
 | Tues 9/15 | <span class="exam-badge">Exam #1</span>
+
 ::: {.callout-tip}
-
 # Learning Goals: Unit 1
-
 **Course**
 
 1. Know who your professor is  
 2. Know how I will assess your mastery of course content
 
-**Introudction**
+**Introduction**
 
 1. Recognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation)  
-2. Understand the argument for studying a system at all three of these levels. 
-3. Be able to define the term *localization*   
+2. Understand the argument for studying a system at all three of these levels 
+3. Be able to define the term *localization*
 4. Explain the difference between *functional specialization* and *functional specificity*
 
 **Brain Geography**
