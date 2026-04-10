@@ -1,21 +1,39 @@
 ---
-title: "Introduction"
+title: "Neuroscience 101"
 ---
-
-
-::: {.callout-tip}
-# Learning Goals: Introduction
-1. Know who your professor is
-1. Know what you'll need to do to earn an A in this class
-1. Identify one reason language is worth studying
-1. Identify one reason that the brain is worth studying
-1. Recognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation)
-1. Give an arugment for why studying implementation alone is insufficient for complete understanding
-:::
-
-Classes in this unit:
-
-| Date | Topic | Reading | Slides | Poll |
-| -- | -- | -- | -- | -- |
-| Thurs 9/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) | None |[<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0)| [<span class="purple-badge">↗</span>](https://www.menti.com/bl6rvxw8d8o1) | 
+| Date | Topic | Reading | Resources |
+| -- | -- | -- | -- |
+| Thurs 9/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) | None |[<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0) [<span class="purple-badge">Poll ↗</span>](https://www.menti.com/bl6rvxw8d8o1) | 
 | Tues 9/1 | Why neuroscience of language? | SGN Ch. 1: *Introduction* |  | 
+| Thurs 9/3 | Brain geography; tools | SGN Ch. 2: *The Toolbox*  |  [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p)[<span class="purple-badge">Poll ↗</span>](https://www.menti.com/blzw41uh6xjx)
+| Tues 9/8 | *No class (Monday schedule)* | | | 
+| Thurs 9/10 | Interpreting brain data | McCabe & Castel 2008 | | | 
+| Tues 9/15 | <span class="exam-badge">Exam #1</span>
+::: {.callout-tip}
+
+# Learning Goals: Unit 1
+
+**Course**
+
+1. Know who your professor is  
+2. Know how I will assess your mastery of course content
+
+**Introudction**
+
+1. Recognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation)  
+2. Understand the argument for studying a system at all three of these levels. 
+3. Be able to define the term *localization*   
+4. Explain the difference between *functional specialization* and *functional specificity*
+
+**Brain Geography**
+
+1. Be able to tell which way a brain is "facing" based on its orientation
+2. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain
+3. Be able to "navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *medial*, *ventral*, *sulcus*, *gyrus*
+
+**The Toolbox**
+
+1. Understand the difference between spatial and temporal resolution
+2. Know the names of the major research tools that are used to study language in the brain, what is measured by each tool, and the major strengths and weaknesses of each method
+3. Understand how scientific papers are meant to be read
+:::

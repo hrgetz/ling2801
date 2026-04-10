@@ -1,32 +1,30 @@
 ---
-title: "Methods"
+title: "Sounds, Phonemes, Words"
 ---
+| Date | Topic | Reading | Resources
+| -- | -- | -- | -- | 
+| Thurs 9/17 | Sounds | SGN Ch. 3: *Sounds in the Brain* ||
+| Tues 9/22 | Phonemes | Mesgarani et al. 2014 ||
+| Thurs 9/24 | Words | SGN Ch. 5: *Activating Words* | |
+| Tues 9/29 | Time course of word processing |  Marinkovic et al. (2003) ||
+| Thurs 10/1 | <span class="exam-badge">Exam #2</span> ||
 
 ::: {.callout-tip}
-## Learning Goals: The Toolbox
-1. Be able to point to the following brain regions on a picture: *left hemisphere*, *right hemisphere*, *frontal lobe*, *temporal lobe*, *parietal lobe*, *occipital lobe*
-1. Be able to "navigate" to a region of the brain using the following terms: *anterior*, *posterior*, *inferior*, *superior*, *medial*, *ventral*, *sulcus*, *gyrus*
-1. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain
-1. Understand the difference between spatial and temporal resolution
-1. Know the names of the major research tools that are used to study language in the brain, what is measured by each tool, and the major strengths and weaknesses of each method
-1. Understand how scientific papers are meant to be read
+# Learning Goals: Unit 2
+
+**Sounds & Phonemes**
+1. Be able to define the following terms: *phoneme*, *phonetic feature*, *contrastive*, *categorical perception*, *speech envelope*, *entrainment*
+1. Be able to identify the major brain regions that are involved in processing language sounds using neuroanatomical and directional terms
+1. Be able to point to these regions on a picture of the brain
+1. Describe the evidence for the following claim: Speech perception is categorical
+1. Describe the evidence for the following claim: The brain represents language sounds in terms of phonetic features.
+1. Name one area of current controversy
+
+**Words**
+
+1. Be able to define the following terms: *lexical item*, *morpheme*, *supramodal*
+1. Identify the stages involved in processing spoken and written words
+1. Be able to identify the major brain regions that are involved in processing words using neuroanatomical and directional terms
+1. Describe evidence for the following claim: Spoken and written words activate a shared lexical-semantic processing system in the brain
+1. Name one area of current controversy
 :::
-
-| Date | Topic | Reading | Resources
-| -- | -- | -- | -- | -- |
-| Thurs 9/3 | Methods | SGN Ch. 2: *The Toolbox*  |  [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p)[<span class="purple-badge">Poll ↗</span>](https://www.menti.com/blzw41uh6xjx)
-| Tues 9/8 | *No class (Monday schedule)* | | | 
-| Thurs 9/10 | Interpreting brain data | McCabe & Castel 2008 | | | 
-
-
-<!-- Mentimeter
-intro: temp check
-
-1. Label the lobes
-label, one at a time:
-* lobes
-* anterior, posterior, inferior, superior, medial, ventral
-
-how much did you understand of today's class?
-muddiest point?
--->

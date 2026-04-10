@@ -1,33 +1,18 @@
 ---
-title: "Sentences"
+title: "Integration"
 ---
 
-::: {.callout-tip}
-# Learning Goals: Sentences
-1. Be able to define the following terms: *syntax*, *constituent*
-1. Identify the major brain regions involved in processing sentences
-1. Be able to locate Broca's area and Wernicke's area on an image of the brain
-1. Explain the difference between *functional specialization* and *functional specificity*
-1. Describe the evidence for this claim: Broca's region is not dedicated exclusively to language processing
-1. Name one area of current controversy
-
-:::
-
 | Date | Topic | Reading | Resources |
-| -- | -- | -- | -- | -- |
-| Tues 10/6 | Sentences | SGN Ch. 9: *Building dependencies* | <span class="blue-badge">Slides ↗</span> | 
-| Thurs 10/8 | Sentences | | 
-| Tues 10/13 | Sentences | Matchin, Sprouse, & Hickok (2014)
-| Thurs 10/15 | Aphasia | Dronkers & Baldo (2009)
+| -- | -- | -- | -- |
+| 11/19 | Explanatory frameworks | Embick & Poeppel (2014) | [Submit questions](https://www.menti.com/bldf9ra1coas)
+| 11/24 | Researcher panel
+| Thurs 11/26 | *No class (Thanksgiving)*|
+| Tues 12/1  |Presentations | 
+| Thurs 12/3  |Presentations | 
+| Tues 12/8  |Presentations | 
 
 
-
-<!-- Mentimeter>
-
-
-<!-- Skip 
-- SGN Ch. 7: *Structure and prediction* 
-- SGN Ch. 8: *Composing sentences*
-- Kim & Osterhout (2005)
-- Bemis & Pylkkanen (2011?)
--->
+::: {.callout-tip}
+# Learning Goals: Integration
+(To be added)
+:::

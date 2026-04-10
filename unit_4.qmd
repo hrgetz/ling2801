@@ -1,26 +1,18 @@
 ---
-title: "Words"
+title: "Language Acquisition"
 ---
+| Date | Topic | Reading | Resources |
+| -- | -- | -- | -- |
+| 10/29 | Typical development |  Newport & Getz (2025) |
+| 11/3 | Language deprivation | Ferjan Ramirez et al. (2013) |
+| 11/5 | Perinatal stroke | Newport et al. (2022) |
+| 11/10 | Bilingualism | Costa & Sebastián-Gallés (2014)
+| 11/12 | Bilingualism | Antoniou (2019) 
+| 11/17 |  <span class="exam-badge">Exam #3</span> | 
+
 
 ::: {.callout-tip}
-# Learning Goals: Words
-1. Be able to define the following terms: *lexical item*, *morpheme*, *supramodal*
-1. Identify the stages involved in processing spoken and written words
-1. Identify the major brain regions involved in processing words
-1. Describe evidence for the following claim: There is a shared lexical-semantic processing system for spoken, signed, and written words
-1. Name one area of current controversy
+# Learning Goals: Language Acquisition
+(To be added)
+
 :::
-
-
-| Date | Topic | Reading | Resources |
-| -- | -- | -- | -- | 
-| Thurs 9/24 | Words | SGN Ch. 5: *Activating Words* | <span class="blue-badge">Slides ↗</span>| |
-| Tues 9/29 | Time course |  Marinkovic et al. (2003) | | | 
-
-<!-- Mentimeter>
-(deficit in conceptual processing, in lexical items, phonology)
-
-<!-- Skip 
-- SGN Ch. 6: *Representing Meaning*
-- Huth et al. (2016)
--->

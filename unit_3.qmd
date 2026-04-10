@@ -1,17 +1,20 @@
 ---
-title: "Sounds & Phonemes"
+title: "Sentences"
 ---
 
-::: {.callout-tip}
-# Learning Goals: Sounds & Phonemes
-1. Be able to define the following terms: *functional specialization*, *lateralization*, *phoneme*, *phonetic feature*, *contrastive*, *categorical perception*, *speech envelope*, *entrainment*
-1. Identify the major brain regions that are involved in processing sounds.
-1. Describe the evidence for the following claim: Speech perception is categorical.
-1. Describe the evidence for the following claim: The brain represents language sounds in terms of phonetic features.
-1. Name one area of current controversy
-:::
+| Date | Topic | Reading | Resources |
+| -- | -- | -- | -- |
+| Tues 10/6 | Sentences | SGN Ch. 9: *Building dependencies* | | 
+| Thurs 10/8 | Sentences | | 
+| Tues 10/13 | Sentences | Matchin, Sprouse, & Hickok (2014)
+| Tues 10/20 |  Sentence structure in aphasia | Dronkers & Baldo (2009) | [UBC aphasia videos](https://neuroanatomy.ca/modules/Language/story.html) |
+| Thurs 10/15 | Sign language linguistics | Newport & Supalla (1999) | |
+| Thurs 10/22 | Sign language aphasia |  Hickok, Bellugi, & Klima (1998) | |
+| Tues 10/27 | <span class="exam-badge">Exam #3</span>
 
-| Date | Topic | Reading | Resources
-| -- | -- | -- | -- | -- |
-| Thurs 9/17 | Sounds & Phonemes | SGN Ch. 3: *Sounds in the Brain* | <span class="blue-badge">Slides ↗</span> | |
-| Tues 9/22 | Sounds & Phonemes | Mesgarani et al. 2014 | | 
+
+::: {.callout-tip}
+# Learning Goals: Sentences
+(To be added)
+
+:::
