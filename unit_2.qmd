@@ -4,11 +4,11 @@ title: "Sounds, Phonemes, Words"
 
 | Date | Topic | Reading | Resources
 | -- | -- | -- | -- | 
-| Thurs 9/17 | Sounds | SGN Ch. 3: *Sounds in the Brain* | |
-| Tues 9/22 | Phonemes | Mesgarani et al. 2014 | |
-| Thurs 9/24 | Words | SGN Ch. 5: *Activating Words* | |
-| Tues 9/29 | Time course of word processing |  Marinkovic et al. (2003) | |
-| Thurs 10/1 | <span class="exam-badge">Exam #2</span> | |
+| Tues 9/22  | Sounds | SGN Ch. 3: *Sounds in the Brain* | |
+| Thurs 9/24 | Phonemes | Phillips et al. 2000 | |
+| Tues 9/29  | Words | SGN Ch. 5: *Activating Words* | |
+| Thurs 10/1 | Time course of word processing |  Marinkovic et al. (2003) | |
+| Tues 10/6 | <span class="exam-badge">Exam #2</span> | |
 
 ::: {.callout-tip}
 # Learning Goals: Unit 2
@@ -18,8 +18,7 @@ title: "Sounds, Phonemes, Words"
 1. Be able to define the following terms: *phoneme*, *phonetic feature*, *contrastive*, *categorical perception*, *speech envelope*, *entrainment*
 1. Be able to identify the major brain regions that are involved in processing language sounds using neuroanatomical and directional terms
 1. Be able to point to these regions on a picture of the brain
-1. Describe the evidence for the following claim: Speech perception is categorical
-1. Describe the evidence for the following claim: The brain represents language sounds in terms of phonetic features.
+1. Describe the evidence for the following claim: Speech perception is categorical.
 1. Name one area of current controversy
 
 **Words**

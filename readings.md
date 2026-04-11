@@ -52,7 +52,7 @@ Huth, A. G., de Heer, W. A., Griffiths, T. L., Theunissen, F. E., & Gallant, J. 
 
 McCabe, D. P., & Castel, A. D. (2008). Seeing is believing: The effect of brain images on judgments of scientific reasoning. *Cognition*, *107*(1), 343–352.  
 
-\*Mesgarani, N., Cheung, C., Johnson, K., & Chang, E. F. (2014). Phonetic feature encoding in human superior temporal gyrus. *Science*, *343*(6174), 1006–1010.  
+Mesgarani, N., Cheung, C., Johnson, K., & Chang, E. F. (2014). Phonetic feature encoding in human superior temporal gyrus. *Science*, *343*(6174), 1006–1010.  
 
 Nelson, M. J., El Karoui, I., Giber, K., Yang, X., Cohen, L., Koopman, H., Cash, S. S., Naccache, L., Hale, J. T., Pallier, C., & Dehaene, S. (2017). Neurophysiological dynamics of phrase-structure building during sentence processing. *Proceedings of the National Academy of Sciences*, *114*(18), E3669–E3678.  
 
@@ -64,6 +64,9 @@ Newport, E. L., Seydell-Greenwald, A., Landau, B., Turkeltaub, P. E., Chambers, 
 Newport, E. L., & Supalla, T. (1999). Sign Languages. *The MIT Encyclopedia of Cognitive Sciences*.  
 
 Pallier, C., Devauchelle, A.-D., & Dehaene, S. (2011). Cortical representation of the constituent structure of sentences. *Proceedings of the National Academy of Sciences*, *108*(6), 2522–2527.  
+
+\*Phillips, C., Pellathy, T., Marantz, A., Yellin, E., Wexler, K., Poeppel, D., & Roberts. (2000). Auditory cortex accesses phonological categories: an MEG mismatch study. Journal of Cognitive Neuroscience, 12(6), 1038–1055.
+
 
 Zatorre, R. J., Evans, A. C., Meyer, E., & Gjedde, A. (1992). Lateralization of phonetic and pitch discrimination in speech processing. *Science*, *256*(5058), 846–849.
 :::

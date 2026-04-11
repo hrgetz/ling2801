@@ -4,7 +4,7 @@ title: "Language Acquisition"
 | Date | Topic | Reading | Resources |
 | -- | -- | -- | -- |
 | 10/29 | Typical development |  Newport & Getz (2025) |
-| 11/3 | Language deprivation | Ferjan Ramirez et al. (2013) |
+| 11/3 | Language deprivation | Ferjan Ramirez et al. (2014) |
 | 11/5 | Perinatal stroke | Newport et al. (2022) |
 | 11/10 | Bilingualism | Costa & Sebastián-Gallés (2014)
 | 11/12 | Bilingualism | Antoniou (2019) 

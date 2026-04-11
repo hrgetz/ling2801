@@ -6,7 +6,7 @@ title: "Sentences"
 | -- | -- | -- | -- |
 | Tues 10/6 | Sentences | SGN Ch. 9: *Building dependencies* | | 
 | Thurs 10/8 | Sentences | | 
-| Tues 10/13 | Sentences | Matchin, Sprouse, & Hickok (2014)
+| Tues 10/13 | Sentences | Ding et al. (2016)
 | Tues 10/20 |  Sentence structure in aphasia | Dronkers & Baldo (2009) | [UBC aphasia videos](https://neuroanatomy.ca/modules/Language/story.html) |
 | Thurs 10/15 | Sign language linguistics | Newport & Supalla (1999) | |
 | Thurs 10/22 | Sign language aphasia |  Hickok, Bellugi, & Klima (1998) | |
