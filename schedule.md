@@ -2,6 +2,10 @@
 title: "Schedule"
 ---
 
+:::{.callout-warning}
+Under development
+:::
+
 ::: {.schedule-table}
 | Unit  | Topic | Exam date | 
 | :---- | :--- | :--- | 

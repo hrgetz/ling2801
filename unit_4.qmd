@@ -1,6 +1,10 @@
 ---
 title: "Language Acquisition"
 ---
+:::{.callout-warning}
+Under development
+:::
+
 | Date | Topic | Reading | Resources |
 | -- | -- | -- | -- |
 | Thurs 11/5    | Language development in the healthy brain |  Newport & Getz (2025) |

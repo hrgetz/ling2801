@@ -1,6 +1,11 @@
 ---
 title: "Introduction & Methods"
 ---
+:::{.callout-warning}
+Under development
+:::
+
+
 | Date | Topic | Reading | Resources |
 | -- | -- | -- | -- |
 | Thurs 9/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) | None | [<span class="purple-badge">Poll ↗</span>](https://www.menti.com/bl6rvxw8d8o1) | 

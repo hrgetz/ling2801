@@ -2,10 +2,14 @@
 title: "Sentences"
 ---
 
+:::{.callout-warning}
+Under development
+:::
+
 | Date | Topic | Reading | Resources |
 | -- | -- | -- | -- |
 | Thurs 10/15 | Sentences | SGN Ch. 7, *Structure and prediction* (p. 116-138) | | 
-| Tues 10/20 | Constituent structure | Pallier et al. (2011) | 
+| Tues 10/20 | Constituent structure<br>Methods spotlight: fMRI | Pallier et al. (2011) | 
 | Thurs 10/22 | Is Broca's area dedicated to syntax? | Matchin et al. (2014) | 
 | Tues 10/27 | Sentence structure in aphasia | Dronkers & Baldo (2009) | [UBC aphasia videos](https://neuroanatomy.ca/modules/Language/story.html) |
 | Thurs 10/29 | Sign language aphasia |  Hickok, Bellugi, & Klima (1998) | |

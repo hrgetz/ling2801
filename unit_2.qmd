@@ -2,11 +2,16 @@
 title: "Sounds, Phonemes, Words"
 ---
 
+:::{.callout-warning}
+Under development
+:::
+
 | Date | Topic | Reading | Resources |
-| -- | -- | -- | -- | 
-| Tues 9/22  | Sounds | SGN Ch. 3, *Sounds in the Brain* (p. 44 - 51) | |
-| Thurs 9/24 | Lateralization of speech processing | Zatorre et al. 1992 |  |
-| Tues 9/29 | Categorical perception | SGN Ch. 4, *A neural code for speech* (p. 64   - 71) |
+| - | --- | --- | - |
+| | | Binder et al. 1997 | 
+| Tues 9/22 | Sounds | SGN Ch. 3, *Sounds in the Brain* (p. 44 - 51) | |
+| Thurs 9/24 | Lateralization of speech processing| Zatorre et al. 1992 | |
+| Tues 9/29 | Categorical perception | SGN Ch. 4, *A neural code for speech* (p. 64   - 71) ||
 | Thurs 10/1 | Phonemes in the brain | Phillips et al. 2000 | |
 | Tues 10/6 | Words | SGN Ch. 5: *Activating Words* | |
 | Thurs 10/8 | Time course of word processing |  Marinkovic et al. (2003) | |
