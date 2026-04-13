@@ -65,7 +65,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Week\nClass\nDate\nTopic\n\n\n\n\n1\n1\nThurs 9/27\nCourse Overview\n\n\n2\n2\nTues 9/1\nNeuroscience 101\n\n\n\n3\nThurs 9/3\nNeuroscience 101\n\n\n3\n\nTues 9/8\nNo class (Monday schedule)\n\n\n\n4\nThurs 9/10\nNeuroscience 101\n\n\n4\n5\nTues 9/15\nExam #1\n\n\n\n6\nThurs 9/17\nSounds, Phonemes, Words\n\n\n5\n7\nTues 9/22\nSounds, Phonemes, Words\n\n\n\n8\nThurs 9/24\nSounds, Phonemes, Words\n\n\n6\n9\nTues 9/29\nSounds, Phonemes, Words\n\n\n\n10\nThurs 10/1\nExam #2\n\n\n7\n11\nTues 10/6\nSentences\n\n\n\n12\nThurs 10/8\nSentences\n\n\n8\n13\nTues 10/13\nSentences\n\n\n\n14\nThurs 10/15\nSentences\n\n\n9\n15\nTues 10/20\nSentences\n\n\n\n16\nThurs 10/22\nSentences\n\n\n10\n17\nTues 10/27\nExam #3\n\n\n\n18\nThurs 10/29\nLanguage acquisition\n\n\n11\n19\nTues 11/3\nLanguage & acquisition\n\n\n\n20\nThurs 11/5\nLanguage & acquisition\n\n\n12\n21\nTues 11/10\nLanguage & acquisition\n\n\n\n22\nThurs 11/12\nLanguage & acquisition\n\n\n13\n23\nTues 11/17\nExam #4\n\n\n\n24\nThurs 11/19\nExplanatory Frameworks\n\n\n14\n25\nTues 11/24\nResearcher Panel\n\n\n\n\nThurs 11/26\nNo class (Thanksgiving)\n\n\n15\n26\nTues 12/1\nPresentations\n\n\n\n27\nThurs 12/3\nPresentations\n\n\n16\n28\nTues 12/8\nPresentations",
+    "text": "Unit\nTopic\nExam date\n\n\n\n\n1\nIntroduction & Methods\nThurs 9/17\n\n\n2\nSounds, Phonemes, Words\nTues 10/13\n\n\n3\nSentences\nTues 11/3\n\n\n4\nLanguage acquisition\nTues 11/24\n\n\n5\nWraping up\nNone",
     "crumbs": [
       "Schedule"
     ]
@@ -306,7 +306,7 @@
     "href": "unit_2.html",
     "title": "Sounds, Phonemes, Words",
     "section": "",
-    "text": "Date\nTopic\nReading\nResources\n\n\n\n\nTues 9/22\nSounds\nSGN Ch. 3: Sounds in the Brain\n\n\n\nThurs 9/24\nLateralization\nZatorre et al. 1992\n\n\n\nTues 9/29\nPhonemes\nPhillips et al. 2000\n\n\n\nThurs 10/1\nWords\nSGN Ch. 5: Activating Words\n\n\n\nTues 10/6\nTime course of word processing\nMarinkovic et al. (2003)\n\n\n\nTues 10/6\nExam #2\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Unit 2\n\n\n\nSounds & Phonemes\n\nBe able to define the following terms: phoneme, phonetic feature, contrastive, categorical perception, speech envelope, entrainment\nBe able to identify the major brain regions that are involved in processing language sounds using neuroanatomical and directional terms\nBe able to point to these regions on a picture of the brain\nDescribe the evidence for the following claim: Speech perception is categorical.\nName one area of current controversy\n\nWords\n\nBe able to define the following terms: lexical item, morpheme, supramodal\nIdentify the stages involved in processing spoken and written words\nBe able to identify the major brain regions that are involved in processing words using neuroanatomical and directional terms\nDescribe evidence for the following claim: Spoken and written words activate a shared lexical-semantic processing system in the brain\nName one area of current controversy",
+    "text": "Date\nTopic\nReading\nResources\n\n\n\n\nTues 9/22\nSounds\nSGN Ch. 3, Sounds in the Brain (p. 44 - 51)\n\n\n\nThurs 9/24\nLateralization of speech processing\nZatorre et al. 1992\n\n\n\nTues 9/29\nCategorical perception\nSGN Ch. 4, A neural code for speech (p. 64 - 71)\n\n\n\nThurs 10/1\nPhonemes in the brain\nPhillips et al. 2000\n\n\n\nTues 10/6\nWords\nSGN Ch. 5: Activating Words\n\n\n\nThurs 10/8\nTime course of word processing\nMarinkovic et al. (2003)\n\n\n\nTues 10/13\nExam #2\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Unit 2\n\n\n\nSounds & Phonemes\n\nDefine the following terms: phoneme, phonetic feature, contrastive, categorical perception, speech envelope, entrainment\nIdentify the major brain regions that are involved in processing language sounds using neuroanatomical and directional terms\nPoint to these regions on a picture of the brain\nDescribe the evidence for the following claim: Speech perception is categorical.\nExplain what pure word deafness is\nDescribe evidence relevant to the question: Is speech special?\n\nWords\n\nDefine the following terms: lexical item, morpheme, supramodal\nIdentify the stages involved in processing spoken and written words\nIdentify the major brain regions that are involved in processing words using neuroanatomical and directional terms\nDescribe evidence for the following claim: Spoken and written words activate a shared lexical-semantic processing system in the brain",
     "crumbs": [
       "Schedule",
       "Sounds, Phonemes, Words"
@@ -317,7 +317,7 @@
     "href": "unit_1.html",
     "title": "Introduction & Methods",
     "section": "",
-    "text": "Date\nTopic\nReading\nResources\n\n\n\n\nThurs 9/27\nSyllabus, assignments, schedule\nNone\nPoll ↗\n\n\nTues 9/1\nComputation, algorithm, and implementationThe classical model\nSGN Ch. 1: Introduction\nSlides ↗\n\n\nThurs 9/3\nBrain geography\n\nUBC: The Cortex\n\n\nTues 9/8\nNo class (Monday schedule)\n\n\n\n\nThurs 9/10\nResearch methods\nSGN Ch. 2: The Toolbox\nSlides ↗\n\n\nTues 9/15\nReading scientific papers\nMcCabe & Castel 2008\n\n\n\nThurs 9/17\nExam #1\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Unit 1\n\n\n\nCourse\n\nKnow who your professor is\n\nKnow how I will assess your mastery of course content\n\nIntroduction\n\nRecognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation)\n\nUnderstand the argument for studying a system at all three of these levels\nBe able to define the terms localization and lateralization\nExplain the difference between functional specialization and functional specificity\n\nBrain Geography\n\nBe able to tell which way a brain is “facing” based on its orientation\nIdentify and distinguish coronal, axial, and sagittal views of the human brain\nBe able to “navigate” to a region of the brain using the following neuroanatomical and directional terms: frontal, temporal, parietal, occipital, anterior, posterior, inferior, superior, lateral, medial, sulcus, gyrus\n\nThe Toolbox\n\nUnderstand the difference between spatial and temporal resolution\nKnow the names of the major research tools that are used to study language in the brain, what is measured by each tool, and the major strengths and weaknesses of each method\nUnderstand how scientific papers are meant to be read",
+    "text": "Date\nTopic\nReading\nResources\n\n\n\n\nThurs 9/27\nSyllabus, assignments, schedule\nNone\nPoll ↗\n\n\nTues 9/1\nComputation, algorithm, and implementationThe classical model\nSGN Ch. 1, Introduction (p. 1-17)\nSlides ↗\n\n\nThurs 9/3\nBrain geography\nSGN Ch. 2, The Toolbox (p. 18-25)\nUBC: The Cortex\n\n\nTues 9/8\nNo class (Monday schedule)\n\n\n\n\nThurs 9/10\nResearch methods\nSGN Ch. 2, The Toolbox (p. 25-43)\nSlides ↗\n\n\nTues 9/15\nReading scientific papers\nMcCabe & Castel 2008\n\n\n\nThurs 9/17\nExam #1\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Unit 1\n\n\n\nCourse\n\nKnow who your professor is\n\nKnow how I will assess your mastery of course content\n\nIntroduction\n\nRecognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation)\n\nUnderstand the argument for studying a system at all three of these levels\nSummarize the classical model of language in the brain\nDefine the terms localization and lateralization\nExplain the difference between functional specialization and functional specificity\n\nBrain Geography\n\nTell which way a brain is “facing” based on its orientation\nIdentify and distinguish coronal, axial, and sagittal views of the human brain\n“Navigate” to a region of the brain using the following neuroanatomical and directional terms: frontal, temporal, parietal, occipital, anterior, posterior, inferior, superior, lateral, medial, sulcus, gyrus\n\nThe Toolbox\n\nUnderstand the difference between spatial and temporal resolution\nKnow the names of the major research tools that are used to study language in the brain, what is measured by each tool, and the major strengths and weaknesses of each method\nUnderstand how scientific papers are meant to be read",
     "crumbs": [
       "Schedule",
       "Introduction & Methods"
@@ -350,7 +350,7 @@
     "href": "unit_3.html",
     "title": "Sentences",
     "section": "",
-    "text": "Date\nTopic\nReading\nResources\n\n\n\n\nTues 10/6\nSentences\nSGN Ch. 9: Building dependencies\n\n\n\nThurs 10/8\nSentences\n\n\n\n\nTues 10/13\nSentences\nDing et al. (2016)\n\n\n\nTues 10/20\nSentence structure in aphasia\nDronkers & Baldo (2009)\nUBC aphasia videos\n\n\nThurs 10/15\nSign language linguistics\nNewport & Supalla (1999)\n\n\n\nThurs 10/22\nSign language aphasia\nHickok, Bellugi, & Klima (1998)\n\n\n\nTues 10/27\nExam #3\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Sentences\n\n\n\n(To be added)",
+    "text": "Date\nTopic\nReading\nResources\n\n\n\n\nThurs 10/15\nSentences\nSGN Ch. 7, Structure and prediction (p. 116-138)\n\n\n\nTues 10/20\nConstituent structure\nPallier et al. (2011)\n\n\n\nThurs 10/22\nIs Broca’s area dedicated to syntax?\nMatchin et al. (2014)\n\n\n\nTues 10/27\nSentence structure in aphasia\nDronkers & Baldo (2009)\nUBC aphasia videos\n\n\nThurs 10/29\nSign language aphasia\nHickok, Bellugi, & Klima (1998)\n\n\n\nTues 11/3\nExam #3\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Sentences\n\n\n\n(To be added)",
     "crumbs": [
       "Schedule",
       "Sentences"
@@ -361,7 +361,7 @@
     "href": "unit_4.html",
     "title": "Language Acquisition",
     "section": "",
-    "text": "Date\nTopic\nReading\nResources\n\n\n\n\n10/29\nTypical development\nNewport & Getz (2025)\n\n\n\n11/3\nLanguage deprivation\nFerjan Ramirez et al. (2014)\n\n\n\n11/5\nPerinatal stroke\nNewport et al. (2022)\n\n\n\n11/10\nBilingualism\nCosta & Sebastián-Gallés (2014)\n\n\n\n11/12\nBilingualism\nAntoniou (2019)\n\n\n\n11/17\nExam #3\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Language Acquisition\n\n\n\n(To be added)",
+    "text": "Date\nTopic\nReading\nResources\n\n\n\n\nThurs 11/5\nLanguage development in the healthy brain\nNewport & Getz (2025)\n\n\n\nTues 11/10\nLanguage deprivation\nFerjan Ramirez et al. (2014)\n\n\n\nThurs 11/12\nPerinatal stroke\nNewport et al. (2022)\n\n\n\nTues 11/17\nBilingualism\nCosta & Sebastián-Gallés (2014)\n\n\n\nThurs 11/19\nBilingualism\nAntoniou (2019)\n\n\n\nTues 11/24\nExam #3\n\n\n\n\nThurs 11/26\nNo class (Thanksgiving)\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Language Acquisition\n\n\n\n(To be added)",
     "crumbs": [
       "Schedule",
       "Language Acquisition"
@@ -370,12 +370,12 @@
   {
     "objectID": "unit_5.html",
     "href": "unit_5.html",
-    "title": "Integration",
+    "title": "Wrapping up",
     "section": "",
-    "text": "Date\nTopic\nReading\nResources\n\n\n\n\n11/19\nExplanatory frameworks\nEmbick & Poeppel (2014)\nSubmit questions\n\n\n11/24\nResearcher panel\n\n\n\n\nThurs 11/26\nNo class (Thanksgiving)\n\n\n\n\nTues 12/1\nPresentations\n\n\n\n\nThurs 12/3\nPresentations\n\n\n\n\nTues 12/8\nPresentations\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Integration\n\n\n\n(To be added)",
+    "text": "Date\nTopic\nReading\nResources\n\n\n\n\nTues 12/1\nExplanatory frameworks\nEmbick & Poeppel (2014)\nSubmit questions\n\n\nThurs 12/3\nResearcher panel\n\n\n\n\nTues 12/8\nPresentations\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Integration\n\n\n\n(To be added)",
     "crumbs": [
       "Schedule",
-      "Integration"
+      "Wrapping up"
     ]
   },
   {

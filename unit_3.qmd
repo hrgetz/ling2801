@@ -4,13 +4,12 @@ title: "Sentences"
 
 | Date | Topic | Reading | Resources |
 | -- | -- | -- | -- |
-| Tues 10/6 | Sentences | SGN Ch. 9: *Building dependencies* | | 
-| Thurs 10/8 | Sentences | | 
-| Tues 10/13 | Sentences | Ding et al. (2016)
-| Tues 10/20 |  Sentence structure in aphasia | Dronkers & Baldo (2009) | [UBC aphasia videos](https://neuroanatomy.ca/modules/Language/story.html) |
-| Thurs 10/15 | Sign language linguistics | Newport & Supalla (1999) | |
-| Thurs 10/22 | Sign language aphasia |  Hickok, Bellugi, & Klima (1998) | |
-| Tues 10/27 | <span class="exam-badge">Exam #3</span>
+| Thurs 10/15 | Sentences | SGN Ch. 7, *Structure and prediction* (p. 116-138) | | 
+| Tues 10/20 | Constituent structure | Pallier et al. (2011) | 
+| Thurs 10/22 | Is Broca's area dedicated to syntax? | Matchin et al. (2014) | 
+| Tues 10/27 | Sentence structure in aphasia | Dronkers & Baldo (2009) | [UBC aphasia videos](https://neuroanatomy.ca/modules/Language/story.html) |
+| Thurs 10/29 | Sign language aphasia |  Hickok, Bellugi, & Klima (1998) | |
+| Tues 11/3 | <span class="exam-badge">Exam #3</span>
 
 
 ::: {.callout-tip}

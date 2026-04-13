@@ -2,31 +2,32 @@
 title: "Sounds, Phonemes, Words"
 ---
 
-| Date | Topic | Reading | Resources
+| Date | Topic | Reading | Resources |
 | -- | -- | -- | -- | 
-| Tues 9/22  | Sounds | SGN Ch. 3: *Sounds in the Brain* | |
-| Thurs 9/24 | Lateralization | Zatorre et al. 1992 |  |
-| Tues 9/29 | Phonemes | Phillips et al. 2000 | |
-| Thurs 10/1   | Words | SGN Ch. 5: *Activating Words* | |
-| Tues 10/6 | Time course of word processing |  Marinkovic et al. (2003) | |
-| Tues 10/6 | <span class="exam-badge">Exam #2</span> | |
+| Tues 9/22  | Sounds | SGN Ch. 3, *Sounds in the Brain* (p. 44 - 51) | |
+| Thurs 9/24 | Lateralization of speech processing | Zatorre et al. 1992 |  |
+| Tues 9/29 | Categorical perception | SGN Ch. 4, *A neural code for speech* (p. 64   - 71) |
+| Thurs 10/1 | Phonemes in the brain | Phillips et al. 2000 | |
+| Tues 10/6 | Words | SGN Ch. 5: *Activating Words* | |
+| Thurs 10/8 | Time course of word processing |  Marinkovic et al. (2003) | |
+| Tues 10/13 | <span class="exam-badge">Exam #2</span> | |
 
 ::: {.callout-tip}
 # Learning Goals: Unit 2
 
 **Sounds & Phonemes**
 
-1. Be able to define the following terms: *phoneme*, *phonetic feature*, *contrastive*, *categorical perception*, *speech envelope*, *entrainment*
-1. Be able to identify the major brain regions that are involved in processing language sounds using neuroanatomical and directional terms
-1. Be able to point to these regions on a picture of the brain
+1. Define the following terms: *phoneme*, *phonetic feature*, *contrastive*, *categorical perception*, *speech envelope*, *entrainment*
+1. Identify the major brain regions that are involved in processing language sounds using neuroanatomical and directional terms
+1. Point to these regions on a picture of the brain
 1. Describe the evidence for the following claim: Speech perception is categorical.
-1. Name one area of current controversy
+1. Explain what pure word deafness is
+1. Describe evidence relevant to the question: Is speech special?
 
 **Words**
 
-1. Be able to define the following terms: *lexical item*, *morpheme*, *supramodal*
+1. Define the following terms: *lexical item*, *morpheme*, *supramodal*
 1. Identify the stages involved in processing spoken and written words
-1. Be able to identify the major brain regions that are involved in processing words using neuroanatomical and directional terms
+1. Identify the major brain regions that are involved in processing words using neuroanatomical and directional terms
 1. Describe evidence for the following claim: Spoken and written words activate a shared lexical-semantic processing system in the brain
-1. Name one area of current controversy
 :::

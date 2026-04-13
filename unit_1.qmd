@@ -4,10 +4,10 @@ title: "Introduction & Methods"
 | Date | Topic | Reading | Resources |
 | -- | -- | -- | -- |
 | Thurs 9/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) | None | [<span class="purple-badge">Poll ↗</span>](https://www.menti.com/bl6rvxw8d8o1) | 
-| Tues 9/1 | Computation, algorithm, and implementation<br>The classical model| SGN Ch. 1: *Introduction* | [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0)|
-| Thurs 9/3 |  Brain geography || [UBC: The Cortex](https://www.neuroanatomy.ca/modules/Cortex/story.html)
+| Tues 9/1 | Computation, algorithm, and implementation<br>The classical model| SGN Ch. 1, *Introduction* (p. 1-17) | [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0)|
+| Thurs 9/3 |  Brain geography | SGN Ch. 2, *The Toolbox* (p. 18-25) | [UBC: The Cortex](https://www.neuroanatomy.ca/modules/Cortex/story.html)
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Research methods | SGN Ch. 2: *The Toolbox*   | [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p) 
+| Thurs 9/10 | Research methods | SGN Ch. 2, *The Toolbox* (p. 25-43)   | [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p) 
 | Tues 9/15 | Reading scientific papers| McCabe & Castel 2008 | | 
 | Thurs 9/17 | <span class="exam-badge">Exam #1</span>
 
@@ -24,14 +24,15 @@ title: "Introduction & Methods"
 
 1. Recognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation)  
 2. Understand the argument for studying a system at all three of these levels 
-3. Be able to define the terms *localization* and *lateralization*
-4. Explain the difference between *functional specialization* and *functional specificity*
+3. Summarize the classical model of language in the brain
+4. Define the terms *localization* and *lateralization*
+5. Explain the difference between *functional specialization* and *functional specificity*
 
 **Brain Geography**
 
-1. Be able to tell which way a brain is "facing" based on its orientation
+1. Tell which way a brain is "facing" based on its orientation
 2. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain
-3. Be able to "navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*
+3. "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*
 
 **The Toolbox**
 

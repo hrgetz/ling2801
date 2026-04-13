@@ -3,12 +3,13 @@ title: "Language Acquisition"
 ---
 | Date | Topic | Reading | Resources |
 | -- | -- | -- | -- |
-| 10/29 | Typical development |  Newport & Getz (2025) |
-| 11/3 | Language deprivation | Ferjan Ramirez et al. (2014) |
-| 11/5 | Perinatal stroke | Newport et al. (2022) |
-| 11/10 | Bilingualism | Costa & Sebastián-Gallés (2014)
-| 11/12 | Bilingualism | Antoniou (2019) 
-| 11/17 |  <span class="exam-badge">Exam #3</span> | 
+| Thurs 11/5    | Language development in the healthy brain |  Newport & Getz (2025) |
+| Tues 11/10    | Language deprivation | Ferjan Ramirez et al. (2014) |
+| Thurs 11/12   | Perinatal stroke  | Newport et al. (2022) |
+| Tues 11/17    | Bilingualism | Costa & Sebastián-Gallés (2014) |
+| Thurs 11/19   | Bilingualism | Antoniou (2019) 
+| Tues 11/24    | <span class="exam-badge">Exam #3</span> | 
+| Thurs 11/26 | *No class (Thanksgiving)*|
 
 
 ::: {.callout-tip}
