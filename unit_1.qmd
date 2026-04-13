@@ -4,12 +4,14 @@ title: "Introduction & Methods"
 | Date | Topic | Reading | Resources |
 | -- | -- | -- | -- |
 | Thurs 9/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) | None | [<span class="purple-badge">Poll ↗</span>](https://www.menti.com/bl6rvxw8d8o1) | 
-| Tues 9/1 | Computation, algorithm, and implementation<br>Neuroanatomical terms | SGN Ch. 1: *Introduction* | [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0) <br>[UBC: The Cortex](https://www.neuroanatomy.ca/modules/Cortex/story.html)|
-| Thurs 9/3 | Brain geography <br>Interpretating data about brain and behavior| McCabe & Castel 2008 | | 
+| Tues 9/1 | Computation, algorithm, and implementation<br>The classical model| SGN Ch. 1: *Introduction* | [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0)|
+| Thurs 9/3 |  Brain geography || [UBC: The Cortex](https://www.neuroanatomy.ca/modules/Cortex/story.html)
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Localization and lateralization | Zatorre et al. 1992 | 
-| Tues 9/15 | Research methods | SGN Ch. 2: *The Toolbox*  |  [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p) |
+| Thurs 9/10 | Research methods | SGN Ch. 2: *The Toolbox*   | [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p) 
+| Tues 9/15 | Reading scientific papers| McCabe & Castel 2008 | | 
 | Thurs 9/17 | <span class="exam-badge">Exam #1</span>
+
+
 
 ::: {.callout-tip}
 # Learning Goals: Unit 1

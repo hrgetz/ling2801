@@ -5,9 +5,10 @@ title: "Sounds, Phonemes, Words"
 | Date | Topic | Reading | Resources
 | -- | -- | -- | -- | 
 | Tues 9/22  | Sounds | SGN Ch. 3: *Sounds in the Brain* | |
-| Thurs 9/24 | Phonemes | Phillips et al. 2000 | |
-| Tues 9/29  | Words | SGN Ch. 5: *Activating Words* | |
-| Thurs 10/1 | Time course of word processing |  Marinkovic et al. (2003) | |
+| Thurs 9/24 | Lateralization | Zatorre et al. 1992 |  |
+| Tues 9/29 | Phonemes | Phillips et al. 2000 | |
+| Thurs 10/1   | Words | SGN Ch. 5: *Activating Words* | |
+| Tues 10/6 | Time course of word processing |  Marinkovic et al. (2003) | |
 | Tues 10/6 | <span class="exam-badge">Exam #2</span> | |
 
 ::: {.callout-tip}
