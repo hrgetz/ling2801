@@ -9,9 +9,9 @@ title: "Processing"
 
 | Date | Topic | Reading | Slides |
 | - | --- | --- | - |
-| Thurs 11/12 | Phonemes; categorical perception |
+| Thurs 11/12 | Phonemes; categorical perception | SGN Ch. 2, *The Toolbox*, p. 39-40; p. 51-77
 | Tues 11/17 | Motor system involvement | Möttönen & Watkins (2009)
-| Thurs 11/19 | Constituency in psycholinguistics | 
+| Thurs 11/19 | Constituency in psycholinguistics | SGN Ch. 8 *Composing Sentences*, p. 139-155
 | Tues 11/24 | Constituency in the brain | Pallier et al. (2011)
 | Thurs 11/26 | *No class (Thanksgiving)* |
 | Tues 12/1 |  <span class="exam-badge">Exam #4</span>

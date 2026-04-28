@@ -24,6 +24,7 @@ website:
           - unit_3.qmd
           - unit_4.qmd
           - unit_5.qmd
+      - abbreviations.qmd
   page-navigation: true
 
 

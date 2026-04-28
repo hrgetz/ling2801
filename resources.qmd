@@ -16,7 +16,6 @@ Georgetown also offers a host of [learning resources](http://scs.georgetown.edu/
 * [Refworks](http://guides.library.georgetown.edu/refworks) is an online research management tool that aids in organizing, storing, and presenting citation sources for papers and projects.
 
 
-
 ## Well-being and support
 
 ::: {.callout-note}

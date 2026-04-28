@@ -1,0 +1,38 @@
+---
+title: "Abbreviations"
+---
+
+These abbreviations are provided at the very end of the Brennan text. I've copied them here for easy reference:
+
+| Abbreviation | Term                                       |
+| ------------ | ------------------------------------------ |
+| AG           | Angular Gyrus                              |
+| ASD          | Autism Spectrum Disorders                  |
+| ATL          | Anterior Temporal Lobe                     |
+| BOLD         | Blood Oxygenation-Level Dependent          |
+| DCS          | Direct Cortical Stimulation                |
+| DTI          | Diffusion Tensor Imaging                   |
+| ECoG         | Electrocorticography                       |
+| EEG          | Electroencephalography                     |
+| ERF          | Event-Related Field                        |
+| ERP          | Event-Related Potential                    |
+| fMRI         | Functional Magnetic Resonance Imaging      |
+| fNIRS        | Functional Near-Infrared Spectroscopy      |
+| IFG          | Inferior Frontal Gyrus                     |
+| IPL          | Inferior Parietal Lobe                     |
+| LATL         | Left Anterior Temporal Lobe                |
+| LIFG         | Left Inferior Frontal Gyrus                |
+| LPTL         | Left Posterior Temporal Lobe               |
+| MMR          | Mismatch Response                          |
+| MRI          | Magnetic Resonance Imaging                 |
+| MVPA         | Multi-Voxel Pattern Analysis               |
+| PET          | Positron Emission Tomography               |
+| pMTG         | Posterior Middle Temporal Gyrus            |
+| PPA          | Primary Progressive Aphasia                |
+| PWD          | Pure Word Deafness                         |
+| rTMS         | Repeated Transcranial Magnetic Stimulation |
+| SMG          | Supramarginal Gyrus                        |
+| TMS          | Transcranial Magnetic Stimulation          |
+| VBM          | Voxel-based Morphometry                    |
+| VLSM         | Voxel-based Lesion Symptom Mapping         |
+| VMPFC        | Ventro-Medial Prefrontal Cortex            |
