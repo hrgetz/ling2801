@@ -3,7 +3,7 @@ title: "The language network"
 ---
 ::: {.callout-tip collapse=true}
 # Learning Goals: The language network
-
+ 
 **The Toolbox**
 
 1. Orient to a figure showing brain activation in an fMRI or PET study and explain which view(s) of the brain are being shown and what the colors represent
@@ -33,8 +33,6 @@ title: "The language network"
 | Thurs 10/8 | Lesion studies; aphasia (speech) |  TBD
 | Tues 10/13 | Aphasia (sign) | Hickok et al. 1998
 | Thurs 10/15 | <span class="exam-badge">Exam #2</span>
-
-<br>
 
 
 **Resources**
