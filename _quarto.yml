@@ -16,6 +16,14 @@ website:
       - readings.md
       - policies.qmd
       - resources.qmd
+      - section: "Schedule"
+        href: schedule.md
+        contents:
+          - unit_1.qmd
+          - unit_2.qmd
+          - unit_3.qmd
+          - unit_4.qmd
+          - unit_5.qmd
   page-navigation: true
 
 
@@ -29,11 +37,4 @@ format:
     toc: true
 
 
-# - section: "Schedule"
-#        href: schedule.md
-#        contents:
-#          - unit_1.qmd
-#          - unit_2.qmd
-#          - unit_3.qmd
-#          - unit_4.qmd
-#          - unit_5.qmd
+

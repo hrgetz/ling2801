@@ -4,7 +4,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "NeuroVault\nNeuroSynth\nBrainMap\n[Neurotorium]https://neurotorium.org/tool/brain-atlas/\nBrain atlast with Brodmann areas\nhttps://pursue.richmond.edu/",
+    "text": "TipSome resources from me\n\n\n\nFor this course, an important resource is my guide to reading scientific papers. Feel free to share this with anyone you like, now and in the future. You may also be interested in the Scientific Literacy Tips that I have shared with students in other classes. And here are some things I’ve learned about how to engage respectfully in a scientific debate.\n\n\nGeorgetown also offers a host of learning resources to its students. Two that you might find particularly helpful in this course are these:\n\nThe Writing Center offers peer tutoring by trained graduate and undergraduate students who can assist you at any point in the writing process. They help at any stage of your writing process, from brainstorming to revision. Tutors can offer advice on thesis development, use of evidence, organization, flow, sentence structure, grammar, and more. The Writing Center will not proofread or edit papers; rather, they will help to improve your proofreading and editing skills to become a better writer. Appointments can be booked online through their website.\n\nRefworks is an online research management tool that aids in organizing, storing, and presenting citation sources for papers and projects.",
     "crumbs": [
       "Resources"
     ]
@@ -65,7 +65,10 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Warning\n\n\n\nUnder development\n\n\n\n\n\n\nUnit\nTopic\nExam date\n\n\n\n\n1\nIntroduction & Methods\nThurs 9/17\n\n\n2\nSounds, Phonemes, Words\nTues 10/13\n\n\n3\nSentences\nTues 11/3\n\n\n4\nLanguage acquisition\nTues 11/24\n\n\n5\nWraping up\nNone"
+    "text": "Unit\nTopic\nExam date (tentative)\n\n\n\n\n1\nOverview\nThurs 9/17\n\n\n2\nThe language network\nThurs 10/15\n\n\n3\nDevelopment\nThurs 11/5\n\n\n4\nProcessing\nTues 12/1\n\n\n5\nWraping up\nNone",
+    "crumbs": [
+      "Schedule"
+    ]
   },
   {
     "objectID": "readings.html",
@@ -133,7 +136,7 @@
     "href": "requirements.html",
     "title": "Assignments",
     "section": "",
-    "text": "Weight\nAssignment\n\n\n\n\n\n\n\n5%\nIn-class participation\n\n\n\n\n\n60%\nExams\n\n\n\n\n\n15%\nFigure presentations\n\n\n\n\n\n4%\nResearcher interview\n\n\n\n\n\n1%\nResearcher panel\n\n\n\n\n\n20%\nStudy proposal",
+    "text": "Weight\nAssignment\n\n\n\n\n\n\n\n5%\nIn-class participation\n\n\n\n\n\n60%\nExams\n\n\n\n\n\n15%\nGroup work on scientific papers\n\n\n\n\n\n4%\nResearcher interview\n\n\n\n\n\n1%\nResearcher panel\n\n\n\n\n\n20%\nStudy proposal",
     "crumbs": [
       "Assignments"
     ]
@@ -143,7 +146,7 @@
     "href": "requirements.html#readings",
     "title": "Assignments",
     "section": "Readings",
-    "text": "Readings\nThere will be two types of readings. Each week, you will have readings that provide general background on the topic. These will be chapters from the Brennan text, encyclopedia articles, or similar sources. Most weeks, you will also be assigned one or two of the original scientific articles that were cited in the background reading.\nReadings for each unit will be listed on that unit’s page on the course site.\n\n\n\n\n\n\nWhen reviewing the scientific articles, I strongly recommend following the process here: Guide to reading scientific papers",
+    "text": "Readings\nThere will be two types of readings. The specific readings are listed on that unit’s page on the course site (see Schedule).\n\nBackground readings: I’ll assign chapters from the Brennan text, encyclopedia articles, or similar sources to provide general background on a topic. Some of the material in these readings will be reinforced in class, but all of the material is fair game for the exams.\nScientific articles: We’ll also read some primary literature (real scientific papers). These will be dense and technical. It is very important to review thesse papers before class (otherwise, you will struggle to contribute to your group’s in-class work), but don’t worry if there are some parts you don’t understand. We will work through them together in class.\n\n\n\n\n\n\n\nTipTips for reading scientific papers\n\n\n\nWhen reviewing the scientific articles, I strongly recommend following the process here: Guide to reading scientific papers. We’ll go over this in class.",
     "crumbs": [
       "Assignments"
     ]
@@ -153,7 +156,7 @@
     "href": "requirements.html#exams",
     "title": "Assignments",
     "section": "Exams",
-    "text": "Exams\nThere will be four in-person exams, each worth 15% of your grade. These are designed to assess your mastery of course content; your ability to map scientific evidence about language and the brain to theoretical claims; and your ability to interpret new evidence about language and the brain. Exams will cover lecture material, background readings, and primary literature that was assigned as reading.\n\n\n\n\n\n\nTentative exam dates are listed on the schedule. The exact timing of the exams may be adjusted depending on course needs.",
+    "text": "Exams\nThere will be four in-person exams, each worth 15% of your grade. These are designed to assess your mastery of course content; your ability to map scientific evidence about language and the brain to theoretical claims; and your ability to interpret new evidence about language and the brain. Exams will cover lecture material, background readings, and primary literature that was assigned as reading.\n\n\n\n\n\n\nImportantExam dates\n\n\n\nTentative exam dates are listed on the schedule. The exact timing of the exams may be adjusted depending on course needs.",
     "crumbs": [
       "Assignments"
     ]
@@ -193,7 +196,7 @@
     "href": "requirements.html#paper",
     "title": "Assignments",
     "section": "Study Proposal",
-    "text": "Study Proposal\nOver the course of the semester, you will work in small groups to identify a big-picture question about language and the brain; narrow this to an answerable research question; and propose an empirical study that would answer the question. You will present your proposal to the whole class and lead group discussion of your idea. At the end of the semester, you will submit a final written paper that includes details of your study proposal as well as discussion of anticipated results.\n\n\n\n\n\n\nNoteDetailed guidance for study proposal\n\n\n\n\n\n(To be added: Guidance and grading rubric)",
+    "text": "Study Proposal\nOver the course of the semester, you will work in small groups outside the classroom to identify a big-picture question about language and the brain; narrow this to an answerable research question; and propose an empirical study that would answer the question. You will present your proposal to the whole class and lead group discussion of your idea. At the end of the semester, you will submit a final written paper that includes details of your study proposal as well as discussion of anticipated results.\n\n\n\n\n\n\nNoteDetailed guidance for study proposal\n\n\n\n\n\n(To be added: Guidance and grading rubric)",
     "crumbs": [
       "Assignments"
     ]
@@ -301,16 +304,24 @@
   {
     "objectID": "unit_2.html",
     "href": "unit_2.html",
-    "title": "Sounds, Phonemes, Words",
+    "title": "The language network",
     "section": "",
-    "text": "Warning\n\n\n\nUnder development\n\n\n\n\n\n\n\n\n\n\n\nDate\nTopic\nReading\nResources\n\n\n\n\n\n\nBinder et al. 1997\n\n\n\nTues 9/22\nSounds\nSGN Ch. 3, Sounds in the Brain (p. 44 - 51)\n\n\n\nThurs 9/24\nLateralization of speech processing\nZatorre et al. 1992\n\n\n\nTues 9/29\nCategorical perception\nSGN Ch. 4, A neural code for speech (p. 64 - 71)\n\n\n\nThurs 10/1\nPhonemes in the brain\nPhillips et al. 2000\n\n\n\nTues 10/6\nWords\nSGN Ch. 5: Activating Words\n\n\n\nThurs 10/8\nTime course of word processing\nMarinkovic et al. (2003)\n\n\n\nTues 10/13\nExam #2\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Unit 2\n\n\n\nSounds & Phonemes\n\nDefine the following terms: phoneme, phonetic feature, contrastive, categorical perception, speech envelope, entrainment\nIdentify the major brain regions that are involved in processing language sounds using neuroanatomical and directional terms\nPoint to these regions on a picture of the brain\nDescribe the evidence for the following claim: Speech perception is categorical.\nExplain what pure word deafness is\nDescribe evidence relevant to the question: Is speech special?\n\nWords\n\nDefine the following terms: lexical item, morpheme, supramodal\nIdentify the stages involved in processing spoken and written words\nIdentify the major brain regions that are involved in processing words using neuroanatomical and directional terms\nDescribe evidence for the following claim: Spoken and written words activate a shared lexical-semantic processing system in the brain"
+    "text": "Date\nTopic\nReading\nSlides\n\n\n\n\nTues 9/22\nResearch design: hemodynamic methods\nSGN Ch. 2, The Toolbox (p. 31-34)Binder et al. 1997\n\n\n\nThurs 9/24\nInterpreting fMRI results\nBinder et al. 1997\n\n\n\nTues 9/29\nCFMI tour\n\n\n\n\nThurs 10/1\nSign languages\nPetitto et al. 2000\n\n\n\nTues 10/6\nSign languages\nPetitto et al. 2000\n\n\n\nThurs 10/8\nLesion studies; aphasia (speech)\nTBD\n\n\n\nTues 10/13\nAphasia (sign)\nHickok et al. 1998\n\n\n\nThurs 10/15\nExam #2",
+    "crumbs": [
+      "Schedule",
+      "The language network"
+    ]
   },
   {
     "objectID": "unit_1.html",
     "href": "unit_1.html",
-    "title": "Introduction & Methods",
+    "title": "Introduction",
     "section": "",
-    "text": "Warning\n\n\n\nUnder development\n\n\n\n\n\nDate\nTopic\nReading\nResources\n\n\n\n\nThurs 9/27\nSyllabus, assignments, schedule\nNone\nPoll ↗\n\n\nTues 9/1\nComputation, algorithm, and implementationThe classical model\nSGN Ch. 1, Introduction (p. 1-17)\nSlides ↗\n\n\nThurs 9/3\nBrain geography\nSGN Ch. 2, The Toolbox (p. 18-25)\nUBC: The Cortex\n\n\nTues 9/8\nNo class (Monday schedule)\n\n\n\n\nThurs 9/10\nResearch methods\nSGN Ch. 2, The Toolbox (p. 25-43)\nSlides ↗\n\n\nTues 9/15\nReading scientific papers\nMcCabe & Castel 2008\n\n\n\nThurs 9/17\nExam #1\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Unit 1\n\n\n\nCourse\n\nKnow who your professor is\n\nKnow how I will assess your mastery of course content\n\nIntroduction\n\nRecognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation)\n\nUnderstand the argument for studying a system at all three of these levels\nSummarize the classical model of language in the brain\nDefine the terms localization and lateralization\nExplain the difference between functional specialization and functional specificity\n\nBrain Geography\n\nTell which way a brain is “facing” based on its orientation\nIdentify and distinguish coronal, axial, and sagittal views of the human brain\n“Navigate” to a region of the brain using the following neuroanatomical and directional terms: frontal, temporal, parietal, occipital, anterior, posterior, inferior, superior, lateral, medial, sulcus, gyrus\n\nThe Toolbox\n\nUnderstand the difference between spatial and temporal resolution\nKnow the names of the major research tools that are used to study language in the brain, what is measured by each tool, and the major strengths and weaknesses of each method\nUnderstand how scientific papers are meant to be read"
+    "text": "TipLearning Goals: Introduction\n\n\n\n\n\nCourse\n\nKnow who your professor is\n\nKnow how I will assess your mastery of course content\n\nScientific Foundations\n\nRecognize that there are multiple scientifically valid ways to study human language; identify scientific evidence relevant to understanding (i) how languages are organized structurally, (ii) how humans perceive and process language in real time, and (iii) the brain basis of language\nDefine localization\nSummarize the classical model of language in the brain and describe the original evidence for that model\nDefine lateralization\nDescribe two methods that can be used to assess lateralization\nExplain the difference between functional specialization and functional specificity\n\nBrain Geography\n\nIdentify and distinguish coronal, axial, and sagittal views of the human brain; for each view, be able to tell which way the brain is “facing”\n“Navigate” to a region of the brain using the following neuroanatomical and directional terms: frontal, temporal, parietal, occipital, anterior, posterior, inferior, superior, lateral, medial, sulcus, gyrus, left, right\n\n\n\n\n\n\n\nDate\nTopic\nReading\nSlides\n\n\n\n\nThurs 8/27\nSyllabus, assignments, schedule\n\n↗\n\n\nTues 9/1\nStudying language; types of evidence\nSGN Ch. 1, Introduction (p. 1-9)\n↗\n\n\nThurs 9/3\nLocalization, classical model\nSGN Ch. 2, The Toolbox (p. 10-17)\n↗\n\n\nTues 9/8\nNo class (Monday schedule)\n\n\n\n\nThurs 9/10\nLateralization\nTBD\n↗\n\n\nTues 9/15\nBrain geography\nSGN Ch. 2, The Toolbox (p. 18-25)\n↗\n\n\nThurs 9/17\nExam #1\n\n\n\n\n\nResources\n\nAllen Brain Reference Atlases\nNeurotorium Brain Atlas\nUBC: The Cortex\nDichotic listening task",
+    "crumbs": [
+      "Schedule",
+      "Introduction"
+    ]
   },
   {
     "objectID": "unit_1.html#course-overview",
@@ -337,23 +348,35 @@
   {
     "objectID": "unit_3.html",
     "href": "unit_3.html",
-    "title": "Sentences",
+    "title": "Development",
     "section": "",
-    "text": "Warning\n\n\n\nUnder development\n\n\n\n\n\nDate\nTopic\nReading\nResources\n\n\n\n\nThurs 10/15\nSentences\nSGN Ch. 7, Structure and prediction (p. 116-138)\n\n\n\nTues 10/20\nConstituent structureMethods spotlight: fMRI\nPallier et al. (2011)\n\n\n\nThurs 10/22\nIs Broca’s area dedicated to syntax?\nMatchin et al. (2014)\n\n\n\nTues 10/27\nSentence structure in aphasia\nDronkers & Baldo (2009)\nUBC aphasia videos\n\n\nThurs 10/29\nSign language aphasia\nHickok, Bellugi, & Klima (1998)\n\n\n\nTues 11/3\nExam #3\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Sentences\n\n\n\n(To be added)"
+    "text": "TipLearning Goals: Development\n\n\n\n\n\n(To be added)\n\n\n\n\n\n\nDate\nTopic\nReading\nSlides\n\n\n\n\nTues 10/20\nTypical language acquisition\nNewport & Getz 2025\n\n\n\nThurs 10/22\nCritical periods\n\n\n\n\nTues 10/27\nPerinatal stroke\nNewport et al. 2022\n\n\n\nThurs 10/29\nLanguage deprivation\nFerjan Ramirez et al. 2014\n\n\n\nTues 11/3\nBilingualism\nTBD\n\n\n\nThurs 11/5\nBilingualism\nTBD\n\n\n\nTues 11/10\nExam #3\n\n\n\n\n\nResources",
+    "crumbs": [
+      "Schedule",
+      "Development"
+    ]
   },
   {
     "objectID": "unit_4.html",
     "href": "unit_4.html",
-    "title": "Language Acquisition",
+    "title": "Processing",
     "section": "",
-    "text": "Warning\n\n\n\nUnder development\n\n\n\n\n\n\n\n\n\n\n\nDate\nTopic\nReading\nResources\n\n\n\n\nThurs 11/5\nLanguage development in the healthy brain\nNewport & Getz (2025)\n\n\n\nTues 11/10\nLanguage deprivation\nFerjan Ramirez et al. (2014)\n\n\n\nThurs 11/12\nPerinatal stroke\nNewport et al. (2022)\n\n\n\nTues 11/17\nBilingualism\nCosta & Sebastián-Gallés (2014)\n\n\n\nThurs 11/19\nBilingualism\nAntoniou (2019)\n\n\n\nTues 11/24\nExam #3\n\n\n\n\nThurs 11/26\nNo class (Thanksgiving)\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Language Acquisition\n\n\n\n(To be added)"
+    "text": "TipLearning Goals: Language Processing\n\n\n\n\n\n(To be added)\n\n\n\n\n\n\nDate\nTopic\nReading\nSlides\n\n\n\n\nThurs 11/12\nPhonemes; categorical perception\n\n\n\n\nTues 11/17\nMotor system involvement\nMöttönen & Watkins (2009)\n\n\n\nThurs 11/19\nConstituency in psycholinguistics\n\n\n\n\nTues 11/24\nConstituency in the brain\nPallier et al. (2011)\n\n\n\nThurs 11/26\nNo class (Thanksgiving)\n\n\n\n\nTues 12/1\nExam #4\n\n\n\n\n\nResources\n\nCategorical Perception stimuli\nThe McGurk effect\nThe phoneme restoration effect",
+    "crumbs": [
+      "Schedule",
+      "Processing"
+    ]
   },
   {
     "objectID": "unit_5.html",
     "href": "unit_5.html",
     "title": "Wrapping up",
     "section": "",
-    "text": "Warning\n\n\n\nUnder development\n\n\n\n\n\nDate\nTopic\nReading\nResources\n\n\n\n\nTues 12/1\nExplanatory frameworks\nEmbick & Poeppel (2014)\nSubmit questions\n\n\nThurs 12/3\nResearcher panel\n\n\n\n\nTues 12/8\nPresentations\n\n\n\n\n\n\n\n\n\n\n\nTipLearning Goals: Integration\n\n\n\n(To be added)"
+    "text": "TipLearning Goals: Wrapping up\n\n\n\n\n\n(To be added)\n\n\n\n\n\n\nDate\nTopic\nReading\nResources\n\n\n\n\nThurs 12/3\nExplanatory frameworks\nEmbick & Poeppel (2014)\nSubmit questions\n\n\nTues 12/8\nResearcher panel",
+    "crumbs": [
+      "Schedule",
+      "Wrapping up"
+    ]
   },
   {
     "objectID": "unit_6.html",
@@ -488,7 +511,7 @@
     "href": "resources.html#learning-resources",
     "title": "Resources",
     "section": "",
-    "text": "For this course, an important resource is my guide to reading scientific papers. Feel free to share this with anyone you like, now and in the future.\nGeorgetown also offers a host of learning resources to its students. Two that you might find particularly helpful in this course are the Writing Center and Refworks.\n\nThe Writing Center offers peer tutoring by trained graduate and undergraduate students who can assist you at any point in the writing process. They help at any stage of your writing process, from brainstorming to revision. Tutors can offer advice on thesis development, use of evidence, organization, flow, sentence structure, grammar, and more. The Writing Center will not proofread or edit papers; rather, they will help to improve your proofreading and editing skills to become a better writer. Appointments can be booked online through their website.\n\nRefworks is an online research management tool that aids in organizing, storing, and presenting citation sources for papers and projects.",
+    "text": "TipSome resources from me\n\n\n\nFor this course, an important resource is my guide to reading scientific papers. Feel free to share this with anyone you like, now and in the future. You may also be interested in the Scientific Literacy Tips that I have shared with students in other classes. And here are some things I’ve learned about how to engage respectfully in a scientific debate.\n\n\nGeorgetown also offers a host of learning resources to its students. Two that you might find particularly helpful in this course are these:\n\nThe Writing Center offers peer tutoring by trained graduate and undergraduate students who can assist you at any point in the writing process. They help at any stage of your writing process, from brainstorming to revision. Tutors can offer advice on thesis development, use of evidence, organization, flow, sentence structure, grammar, and more. The Writing Center will not proofread or edit papers; rather, they will help to improve your proofreading and editing skills to become a better writer. Appointments can be booked online through their website.\n\nRefworks is an online research management tool that aids in organizing, storing, and presenting citation sources for papers and projects.",
     "crumbs": [
       "Resources"
     ]
@@ -508,7 +531,7 @@
     "href": "requirements.html#participation",
     "title": "Assignments",
     "section": "Participation",
-    "text": "Participation\nDuring class, I’ll ask you to respond to occasional questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but you do need to participate in the polls to receive credit for class participation that day.\nYou’ll have three classes “free” where your grade won’t be affected by failure to participate in the polls. After that, each missed poll will affect your participation grade.",
+    "text": "Participation\nDuring class, I’ll occasionally ask you to respond to questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but repeated failure to participate in the polls will affect your participation grade.",
     "crumbs": [
       "Assignments"
     ]
@@ -518,7 +541,7 @@
     "href": "resources.html#neuroscience",
     "title": "Resources",
     "section": "",
-    "text": "NeuroVault\nNeuroSynth\nBrainMap\n[Neurotorium]https://neurotorium.org/tool/brain-atlas/\nBrain atlast with Brodmann areas\nhttps://pursue.richmond.edu/",
+    "text": "NeuroVault\nNeuroSynth\nBrainMap\nNeurotorium\nBrain atlast with Brodmann areas\nhttps://pursue.richmond.edu/",
     "crumbs": [
       "Resources"
     ]
@@ -527,8 +550,8 @@
     "objectID": "resources.html#scientific-literacy",
     "href": "resources.html#scientific-literacy",
     "title": "Resources",
-    "section": "Scientific Literacy",
-    "text": "Scientific Literacy\nFor this course, an important resource is my guide to reading scientific papers. Feel free to share this with anyone you like, now and in the future.\nYou may also be interested in the Scientific Literacy Tips that I have shared with students in other classes.\nAnd here are some tips for engaging in constructive, collegial debate.",
+    "section": "",
+    "text": "For this course, an important resource is my guide to reading scientific papers. Feel free to share this with anyone you like, now and in the future.\nYou may also be interested in the Scientific Literacy Tips that I have shared with students in other classes.\nAnd here are some tips for engaging in constructive, collegial debate.",
     "crumbs": [
       "Resources"
     ]
@@ -662,6 +685,58 @@
     "crumbs": [
       "Schedule",
       "Introduction"
+    ]
+  },
+  {
+    "objectID": "unit_2.html#resources",
+    "href": "unit_2.html#resources",
+    "title": "The language network",
+    "section": "Resources",
+    "text": "Resources\n\nUnderstanding fMRI\nMNI &lt;-&gt; Talairach Converter with Brodmann Areas\nNeurosynth\nNeuroVault\nBrainMap",
+    "crumbs": [
+      "Schedule",
+      "The language network"
+    ]
+  },
+  {
+    "objectID": "unit_2.html#learning-goals",
+    "href": "unit_2.html#learning-goals",
+    "title": "The language network",
+    "section": "Learning goals",
+    "text": "Learning goals\n\n\n\n\n\n\nTipLearning Goals: Unit 2\n\n\n\nThe Toolbox\n\nOrient to a figure showing brain activation in an fMRI or PET study and explain which view(s) of the brain are being shown and what the colors represent\nUse a brain atlas to translate between XYZ coordinates and anatomical landmarks\nExplain the logic of the subtraction method used in fMRI and PET studies\n\nInterpreting results\n\nState the general regions of the brain that are involved in language processing, using neuroanatomical and directional terms\nDescribe evidence from lesion studies for functional localization of language\nDescribe evidence from fMRI studies for functional localization of language\nDescribe evidence for this claim: Spoken languages and signed languages are processed by the same network in the brain\nInterpret new evidence bearing on the controversial question of functional selectivity",
+    "crumbs": [
+      "Schedule",
+      "The language network"
+    ]
+  },
+  {
+    "objectID": "resources.html#mental-health",
+    "href": "resources.html#mental-health",
+    "title": "Resources",
+    "section": "Mental health",
+    "text": "Mental health\n\nTo talk to a crisis counselor 24/7, call or text 988 or chat online.\nIf you are not in a crisis but need mental health support, try the helpline for the National Alliance on Mental Illness, available M-F, 10am-10pm: call 800-950-6264, text “NAMI” to 62640, or email helpline@nami.org.\nTo reach Counseling and Psychiatric Services (CAPS) at Georgetown during business hours, call 202-687-6985, option 2; after hours, call 202-687-6985, option 1.\nIf you are worried about a friend, you can report your concerns through Georgetown’s Safety Net. See here for information about what happens when you do that.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "resources.html#well-being-and-support",
+    "href": "resources.html#well-being-and-support",
+    "title": "Resources",
+    "section": "Well-being and support",
+    "text": "Well-being and support\n\n\n\n\n\n\nNoteMental health resources\n\n\n\n\nTo reach Counseling and Psychiatric Services (CAPS) at Georgetown during business hours, call 202-687-6985, option 2; after hours, call 202-687-6985, option 1.\nIf you are worried about a friend, you can report your concerns through Georgetown’s Safety Net. See here for information about what happens when you do that.\nFor mental health support from someone outside Georgetown, try the helpline for the National Alliance on Mental Illness, available M-F, 10am-10pm: call 800-950-6264, text “NAMI” to 62640, or email helpline@nami.org.\nFor urgent support, connect with the Suicide & Crisis Lifeline: call or text 988 or chat online with a trained crisis counselor.\nList of additional helplines\n\n\n\n\nNeurodivergence and accommodations\nIf you might require an accommodation in this course, you may contact the Academic Resource Center (ARC). Available accommodations include notetaking assistance, interpreting/CART services, extra time on assignments, or any other accommodation that the ARC deems “reasonable” based on a conversation with you and documentation from the appropriate people (e.g. your doctor).\n\n\n\n\n\n\nNoteHow to reach out to the ARC\n\n\n\n\nConnect with an Accessibility Coordinator at the ARC’s confidential drop-in office hours (in-person or zoom)\nEmail arc@georgetown.edu to schedule a meeting with an Accessibility Coordiantor\n\n\n\nNote: One possible ARC accommodation is access to special note-taking software. This software allows students to audio-record class, generate a transcription of that recording, and store it alongside other course materials (e.g., lecture slides). When students are approved for this accommodation, they must sign a document agreeing that recordings are for their personal use only, and they are required to delete all recordings at the end of the semester.\nSome other resources you may find helpful:\n\nADHD helpline through the National Resource Center on ADHD: 1-866-200-8098, M-F, 1-5 pm ET\nAutism Society National Helpline: 800-328-8476 (or fill out a form on their website)\n\n\n\nSexual Misconduct\nI am committed to supporting survivors of sexual misconduct, including relationship violence, sexual harassment, and sexual assault. However, university policy also requires me to report any disclosures about sexual misconduct to the Title IX Coordinator, whose role is to coordinate the University’s response to sexual misconduct. If I report an incident to the Title IX Coordinator, the coordinator would then reach out to you to provide support, resources, and the option to meet. You would not be required to meet with the coordinator. More information about reporting options and resources is available here.\nAs an alternative to speaking with me or another mandated reporter, you can reach out for support and assistance to these other fully confidential professional resources:\n\nConfidential email address for Sexual Assault Response and Prevention (SARP): sarp@georgetown.edu\n\nJen Schweer, MA, LPC, Associate Director of Health Education Services for Sexual Assault Response and Prevention (202) 687-0323 | jls242@georgetown.edu\n\nBrittany Egan, MSW, LICSW, CCTP, Staff Clinician and Sexual Assault Services Specialist, Health Education Services (202) 687-0323 | be200@georgetown.edu\n\nCounseling and Psychiatric Services (CAPS), (202) 687-6985\n\n\n\nOffice of the Student Ombuds (OSO)\nConfidential | Independent | Impartial | Informal\nThe Office of the Student Ombuds (OSO) serves all undergraduate and graduate students, including SCS and BGE, on the main campus. Consider contacting the Student Ombuds when you want to talk to a caring professional about a University-related issue but don’t know where to turn. The OSO is a confidential and safe space that is independent of formal university organizations or structures where students can discuss their concerns, share their experiences, ask questions and explore their options. The student ombuds can help you problem-solve, identify your goals, and empower you to think through ways to navigate complex situations. Some reasons for you to visit the office may be to address academic concerns, clarify administrative policies, discuss interpersonal conflicts, seek coaching, mediation or facilitation to handle a sensitive situation, advise you on the process to file a formal complaint if you are experiencing bias, harassment, bullying or other forms of intimidation, identify other appropriate campus resources, and allow you to safely express your frustrations and concerns.\nRequest an in-person or zoom appointment with the Student Ombuds by writing studentombuds@georgetown.edu or calling 202-784-1081. The OSO is located in Room 207 of the Reiss Building (across from Arrupe Hall). Find more information at http://studentombuds.georgetown.edu.",
+    "crumbs": [
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "requirements.html#papers",
+    "href": "requirements.html#papers",
+    "title": "Assignments",
+    "section": "Group work on scientific papers",
+    "text": "Group work on scientific papers\nA significant portion of class will be dedicated to small group work. The groups will be different for each of the four main course units (see schedule).\nSometimes, you will work together to practice applying concepts from the readings/lectures. That work will not be graded.\nOther times, you will work with your group members to understand and summarize the scientific papers on the reading list. For example, you may be asked to create a visual aid showing how a study worked, or to use a brain atlas to visualize which brain regions were active during a particular experiment. This work will be graded.",
+    "crumbs": [
+      "Assignments"
     ]
   }
 ]

@@ -1,47 +1,43 @@
 ---
-title: "Introduction & Methods"
+title: "Introduction"
 ---
-:::{.callout-warning}
-Under development
-:::
-
-
-| Date | Topic | Reading | Resources |
-| -- | -- | -- | -- |
-| Thurs 9/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) | None | [<span class="purple-badge">Poll ↗</span>](https://www.menti.com/bl6rvxw8d8o1) | 
-| Tues 9/1 | Computation, algorithm, and implementation<br>The classical model| SGN Ch. 1, *Introduction* (p. 1-17) | [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.g3d423b79775_0_0#slide=id.g3d423b79775_0_0)|
-| Thurs 9/3 |  Brain geography | SGN Ch. 2, *The Toolbox* (p. 18-25) | [UBC: The Cortex](https://www.neuroanatomy.ca/modules/Cortex/story.html)
-| Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Research methods | SGN Ch. 2, *The Toolbox* (p. 25-43)   | [<span class="blue-badge">Slides ↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.p#slide=id.p) 
-| Tues 9/15 | Reading scientific papers| McCabe & Castel 2008 | | 
-| Thurs 9/17 | <span class="exam-badge">Exam #1</span>
-
-
-
-::: {.callout-tip}
-# Learning Goals: Unit 1
+::: {.callout-tip collapse=true}
+# Learning Goals: Introduction
 **Course**
 
 1. Know who your professor is  
 2. Know how I will assess your mastery of course content
 
-**Introduction**
+**Scientific Foundations**
 
-1. Recognize that there are multiple levels at which one can understand a cognitive system (computational, algorithmic, implementation)  
-2. Understand the argument for studying a system at all three of these levels 
-3. Summarize the classical model of language in the brain
-4. Define the terms *localization* and *lateralization*
+1. Recognize that there are multiple scientifically valid ways to study human language; identify scientific evidence relevant to understanding (i) how languages are organized structurally, (ii) how humans perceive and process language in real time, and (iii) the brain basis of language
+2. Define *localization*
+3. Summarize the classical model of language in the brain and describe the original evidence for that model
+4. Define *lateralization*
+5. Describe two methods that can be used to assess lateralization
 5. Explain the difference between *functional specialization* and *functional specificity*
 
 **Brain Geography**
 
-1. Tell which way a brain is "facing" based on its orientation
-2. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain
-3. "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*
-
-**The Toolbox**
-
-1. Understand the difference between spatial and temporal resolution
-2. Know the names of the major research tools that are used to study language in the brain, what is measured by each tool, and the major strengths and weaknesses of each method
-3. Understand how scientific papers are meant to be read
+1. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain; for each view, be able to tell which way the brain is "facing"
+2. "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
 :::
+
+| Date | Topic | Reading | Slides |
+| -- | -- | -- | -- |
+| Thurs 8/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) || [<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.p#slide=id.p) |
+| Tues 9/1 | Studying language; types of evidence | SGN Ch. 1, *Introduction* (p. 1-9) | [<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.g3d40f98fbaf_3_0#slide=id.g3d40f98fbaf_3_0)
+| Thurs 9/3 | Localization, classical model | SGN Ch. 2, *The Toolbox* (p. 10-17) | [<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/17lZzHZe0HFpVxne9vD_WBngnSxhRwL6ujtAinhx3ULc/edit?slide=id.p#slide=id.p)
+| Tues 9/8 | *No class (Monday schedule)* |
+| Thurs 9/10 | Lateralization | TBD | [<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?slide=id.p#slide=id.p)
+| Tues 9/15 | Brain geography | SGN Ch. 2, *The Toolbox* (p. 18-25) | [<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/1OF3vQvqHdez7yOyLC89PxaUPbzD0EITDRsRl_dkVMsc/edit?slide=id.p#slide=id.p)
+| Thurs 9/17 | <span class="exam-badge">Exam #1</span> |
+
+
+
+**Resources**
+
+* [Allen Brain Reference Atlases](https://atlas.brain-map.org/)
+* [Neurotorium Brain Atlas](https://neurotorium.org/tool/brain-atlas/)
+* [UBC: The Cortex](https://www.neuroanatomy.ca/modules/Cortex/story.html)
+* [Dichotic listening task](https://learninglink.oup.com/access/content/sedivy-2e-student-resources/sedivy2e-chapter-3-web-activity-1?previousFilter=tag_chapter-03)

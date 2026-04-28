@@ -1,23 +1,24 @@
 ---
-title: "Language Acquisition"
+title: "Processing"
 ---
-:::{.callout-warning}
-Under development
-:::
-
-| Date | Topic | Reading | Resources |
-| -- | -- | -- | -- |
-| Thurs 11/5    | Language development in the healthy brain |  Newport & Getz (2025) |
-| Tues 11/10    | Language deprivation | Ferjan Ramirez et al. (2014) |
-| Thurs 11/12   | Perinatal stroke  | Newport et al. (2022) |
-| Tues 11/17    | Bilingualism | Costa & Sebastián-Gallés (2014) |
-| Thurs 11/19   | Bilingualism | Antoniou (2019) 
-| Tues 11/24    | <span class="exam-badge">Exam #3</span> | 
-| Thurs 11/26 | *No class (Thanksgiving)*|
-
-
-::: {.callout-tip}
-# Learning Goals: Language Acquisition
+::: {.callout-tip collapse=true}
+# Learning Goals: Language Processing
 (To be added)
 
 :::
+
+| Date | Topic | Reading | Slides |
+| - | --- | --- | - |
+| Thurs 11/12 | Phonemes; categorical perception |
+| Tues 11/17 | Motor system involvement | Möttönen & Watkins (2009)
+| Thurs 11/19 | Constituency in psycholinguistics | 
+| Tues 11/24 | Constituency in the brain | Pallier et al. (2011)
+| Thurs 11/26 | *No class (Thanksgiving)* |
+| Tues 12/1 |  <span class="exam-badge">Exam #4</span>
+
+
+**Resources** 
+
+* [Categorical Perception stimuli](https://splab.net/apd/u100/)
+* [The McGurk effect](https://www.intro2psycholing.net/resources/McGurk/McGurk1.php)
+* [The phoneme restoration effect](https://learninglink.oup.com/access/content/sedivy-2e-student-resources/sedivy2e-chapter-7-web-activity-4?previousFilter=tag_activities)

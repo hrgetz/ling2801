@@ -1,38 +1,46 @@
 ---
-title: "Sounds, Phonemes, Words"
+title: "The language network"
 ---
+::: {.callout-tip collapse=true}
+# Learning Goals: The language network
 
-:::{.callout-warning}
-Under development
+**The Toolbox**
+
+1. Orient to a figure showing brain activation in an fMRI or PET study and explain which view(s) of the brain are being shown and what the colors represent
+2. Use a brain atlas to translate between XYZ coordinates and anatomical landmarks
+3. Explain the logic of the subtraction method used in fMRI and PET studies
+
+**Language network geography**
+
+1. Be able to roughly locate Broca's area and Wernicke's area on a side view of the brain
+2. State the general regions of the brain that are involved in language processing, using neuroanatomical and directional terms, and point to these regions on an image of the brain
+
+**Evidence interpretation**
+
+1. Describe evidence from lesion studies for functional localization of language
+2. Describe evidence from fMRI studies for functional localization of language
+3. Describe evidence for this claim: Spoken languages and signed languages are processed by the same network in the brain
+4. Interpret new evidence bearing on the controversial question of functional selectivity
 :::
 
-| Date | Topic | Reading | Resources |
+| Date | Topic | Reading | Slides |
 | - | --- | --- | - |
-| | | Binder et al. 1997 | 
-| Tues 9/22 | Sounds | SGN Ch. 3, *Sounds in the Brain* (p. 44 - 51) | |
-| Thurs 9/24 | Lateralization of speech processing| Zatorre et al. 1992 | |
-| Tues 9/29 | Categorical perception | SGN Ch. 4, *A neural code for speech* (p. 64   - 71) ||
-| Thurs 10/1 | Phonemes in the brain | Phillips et al. 2000 | |
-| Tues 10/6 | Words | SGN Ch. 5: *Activating Words* | |
-| Thurs 10/8 | Time course of word processing |  Marinkovic et al. (2003) | |
-| Tues 10/13 | <span class="exam-badge">Exam #2</span> | |
+| Tues 9/22 | Research design: hemodynamic methods | SGN Ch. 2, *The Toolbox* (p. 31-34)<br>Binder et al. 1997
+| Thurs 9/24 | Interpreting fMRI results | Binder et al. 1997
+| Tues 9/29 | CFMI tour |
+| Thurs 10/1 | Sign languages | Petitto et al. 2000 | 
+| Tues 10/6 | Sign languages | Petitto et al. 2000 |
+| Thurs 10/8 | Lesion studies; aphasia (speech) |  TBD
+| Tues 10/13 | Aphasia (sign) | Hickok et al. 1998
+| Thurs 10/15 | <span class="exam-badge">Exam #2</span>
 
-::: {.callout-tip}
-# Learning Goals: Unit 2
+<br>
 
-**Sounds & Phonemes**
 
-1. Define the following terms: *phoneme*, *phonetic feature*, *contrastive*, *categorical perception*, *speech envelope*, *entrainment*
-1. Identify the major brain regions that are involved in processing language sounds using neuroanatomical and directional terms
-1. Point to these regions on a picture of the brain
-1. Describe the evidence for the following claim: Speech perception is categorical.
-1. Explain what pure word deafness is
-1. Describe evidence relevant to the question: Is speech special?
+**Resources**
 
-**Words**
-
-1. Define the following terms: *lexical item*, *morpheme*, *supramodal*
-1. Identify the stages involved in processing spoken and written words
-1. Identify the major brain regions that are involved in processing words using neuroanatomical and directional terms
-1. Describe evidence for the following claim: Spoken and written words activate a shared lexical-semantic processing system in the brain
-:::
+* [Understanding fMRI](https://www.youtube.com/watch?v=4UOeBM5BwdY)
+* [MNI <-> Talairach Converter with Brodmann Areas](https://bioimagesuiteweb.github.io/webapp/mni2tal.html)
+* [Neurosynth](https://neurosynth.org/)
+* [NeuroVault](https://neurovault.org/)
+* [BrainMap](https://www.brainmap.org/)

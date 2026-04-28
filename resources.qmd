@@ -2,30 +2,53 @@
 title: "Resources"
 ---
 
-## Neuroscience
-* NeuroVault
-* NeuroSynth
-* BrainMap
-* [Neurotorium]https://neurotorium.org/tool/brain-atlas/
-* [Brain atlast with Brodmann areas](https://atlas.brain-map.org/atlas?atlas=265297126#atlas=265297126&structure=10390&resolution=134.57&x=31682.70733173077&y=42748.009314903844&zoom=-6&plate=112360949&z=4)
-* https://pursue.richmond.edu/
+## Learning Resources
 
-## Scientific Literacy
+::: {.callout-tip}
+# Some resources from me
+For this course, an important resource is [my guide to reading scientific papers](https://hrgetz.github.io/guide.html). Feel free to share this with anyone you like, now and in the future. You may also be interested in the [Scientific Literacy Tips](https://hrgetz.github.io/tips.html) that I have shared with students in other classes. And here are some things I've learned about [how to engage respectfully in a scientific debate](https://hrgetz.github.io/disagreement.html).
 
-For this course, an important resource is [my guide to reading scientific papers](https://hrgetz.github.io/guide.html). Feel free to share this with anyone you like, now and in the future.
+:::
 
-You may also be interested in the [Scientific Literacy Tips](https://hrgetz.github.io/tips.html) that I have shared with students in other classes.
-
-And here are some [tips for engaging in constructive, collegial debate](https://hrgetz.github.io/diplomacy.html).
-
-## General Learning Resources
-
-Georgetown also offers a host of [learning resources](http://scs.georgetown.edu/academic-affairs/resources/) to its students. Two that you might find particularly helpful in this course are the [Writing Center](https://writingcenter.georgetown.edu/) and [Refworks](http://guides.library.georgetown.edu/refworks).
+Georgetown also offers a host of [learning resources](http://scs.georgetown.edu/academic-affairs/resources/) to its students. Two that you might find particularly helpful in this course are these:
 
 * [The Writing Center](https://writingcenter.georgetown.edu/) offers peer tutoring by trained graduate and undergraduate students who can assist you at any point in the writing process. They help at any stage of your writing process, from brainstorming to revision. Tutors can offer advice on thesis development, use of evidence, organization, flow, sentence structure, grammar, and more. The Writing Center will not proofread or edit papers; rather, they will help to improve your proofreading and editing skills to become a better writer. Appointments can be booked online through their website.  
 * [Refworks](http://guides.library.georgetown.edu/refworks) is an online research management tool that aids in organizing, storing, and presenting citation sources for papers and projects.
 
-## Sexual Misconduct
+
+
+## Well-being and support
+
+::: {.callout-note}
+# Mental health resources
+
+* To reach Counseling and Psychiatric Services (CAPS) at Georgetown during business hours, call 202-687-6985, option 2; after hours, call 202-687-6985, option 1.
+* If you are worried about a friend, you can report your concerns through Georgetown's [Safety Net](https://cm.maxient.com/reportingform.php?GeorgetownUniv&layout_id=16). See [here](https://studentaffairs.georgetown.edu/studentoutreach/reportform/) for information about what happens when you do that. 
+* For mental health support from someone outside Georgetown, try the helpline for the National Alliance on Mental Illness, available M-F, 10am-10pm: call 800-950-6264, text “NAMI” to 62640, or email helpline@nami.org. 
+* For urgent support, connect with the Suicide & Crisis Lifeline: call or text 988 or [chat online](https://chat.988lifeline.org/) with a trained crisis counselor. 
+* [List of additional helplines](https://www.helpguide.org/find-help)
+:::
+
+### Neurodivergence and accommodations
+
+If you might require an accommodation in this course, you may contact the [Academic Resource Center (ARC)](https://academicsupport.georgetown.edu/). Available accommodations include notetaking assistance, interpreting/CART services, extra time on assignments, or any other accommodation that the ARC deems “reasonable” based on a conversation with you and documentation from the appropriate people (e.g. your doctor).
+
+::: {.callout-note}
+# How to reach out to the ARC
+* Connect with an Accessibility Coordinator at the ARC's [confidential drop-in office hours](https://academicsupport.georgetown.edu/) (in-person or zoom)
+* Email arc@georgetown.edu to schedule a meeting with an Accessibility Coordiantor
+
+:::
+
+Note: One possible ARC accommodation is access to special note-taking software. This software allows students to audio-record class, generate a transcription of that recording, and store it alongside other course materials (e.g., lecture slides). When students are approved for this accommodation, they must sign a document agreeing that recordings are for their personal use only, and they are required to delete all recordings at the end of the semester. 
+
+Some other resources you may find helpful:
+
+* ADHD helpline through the [National Resource Center on ADHD](https://chadd.org/about/about-nrc/): 1-866-200-8098, M-F, 1-5 pm ET
+* Autism Society National Helpline: 800-328-8476 (or [fill out a form on their website](https://autismsociety.org/helpline/))
+
+
+### Sexual Misconduct
 
 I am committed to supporting survivors of sexual misconduct, including relationship violence, sexual harassment, and sexual assault. **However, university policy also requires me to report any disclosures about sexual misconduct to the Title IX Coordinator, whose role is to coordinate the University’s response to sexual misconduct.** If I report an incident to the Title IX Coordinator, the coordinator would then reach out to you to provide support, resources, and the option to meet. You would not be required to meet with the coordinator. More information about reporting options and resources is available [here](https://sexualassault.georgetown.edu/#_ga=2.84763163.302405512.1597672771-114879328.1580830596).
 
@@ -36,7 +59,7 @@ As an alternative to speaking with me or another mandated reporter, you can reac
 * Brittany Egan, MSW, LICSW, CCTP, Staff Clinician and Sexual Assault Services Specialist, Health Education Services (202) 687-0323 | [be200@georgetown.edu](mailto:be200@georgetown.edu)  
 * Counseling and Psychiatric Services (CAPS), (202) 687-6985
 
-## Office of the Student Ombuds (OSO)
+### Office of the Student Ombuds (OSO)
 
 Confidential | Independent | Impartial | Informal
 
