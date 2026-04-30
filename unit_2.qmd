@@ -26,15 +26,16 @@ title: "The language network"
 
 :::
 
-| Date | Topic | Reading | Slides |
-| - | --- | --- | - |
-| Tues 9/22 | Research design: hemodynamic methods | SGN Ch. 2, *The Toolbox* (p. 25-27; 31-34)<br>Binder et al. 1997
-| Thurs 9/24 | Interpreting brain activation figures | Binder et al. 1997
+| Date | Topic | Slides | Due |
+| -- | -- | -- | -- |
+| Tues 9/22 | Research design: hemodynamic methods || <span class="reading-badge">SGN Ch. 2, *The Toolbox* (p. 25-27; 31-34)</span><br><span class="article-badge">Binder et al. 1997</span>
+| Thurs 9/24 | Interpreting brain activation figures | | 
+| Mon 9/28 ||| <span class="controversy-badge">Bibliography</span>
 | Tues 9/29 | Tour Georgetown's [Center for Functional and Molecular Imaging](https://cfmi.georgetown.edu/) |
-| Thurs 10/1 | Sign languages | Petitto et al. 2000 | 
-| Tues 10/6 | Sign languages | Petitto et al. 2000 |
-| Thurs 10/8 | Lesion studies; aphasia (speech) |  SGN Ch. 2, *The Toolbox* (p. 27-31)
-| Tues 10/13 | Aphasia (sign) | Hickok et al. 1998
+| Thurs 10/1 | Sign languages || <span class="article-badge">Petitto et al. 2000</span> | 
+| Tues 10/6 | Sign languages || |
+| Thurs 10/8 | Lesion studies; aphasia (speech) |  |<span class="reading-badge">SGN Ch. 2, *The Toolbox* (p. 27-31)</span>
+| Tues 10/13 | Aphasia (sign) | |<span class="reading-badge">Hickok et al. 1998</span>
 | Thurs 10/15 | <span class="exam-badge">Exam #2</span>
 
 

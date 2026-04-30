@@ -16,13 +16,13 @@ title: "Development of language networks"
 
 :::
 
-| Date | Topic | Reading | Slides |
-| - | --- | --- | - |
-| Tues 10/20 | Children's language networks | Newport & Getz 2025 |
+| Date | Topic | Slides | Due | 
+| - | --- | - | --- |
+| Tues 10/20 | Children's language networks | |<span class="reading-badge">Newport & Getz 2025</span> |
 | Thurs 10/22 | Critical periods, language deprivation | 
-| Tues 10/27 | Perinatal stroke | Newport et al. 2022 | 
+| Tues 10/27 | Perinatal stroke || <span class="article-badge">Newport et al. 2022</span> | 
 | Thurs 10/29 | Bilingualism | 
-| Tues 11/3 | Bilingualism | Wartenburger et al. 2003
+| Tues 11/3 | Bilingualism || <span class="article-badge">Wartenburger et al. 2003</span>
 | Thurs 11/5 |  <span class="exam-badge">Exam #3</span>
 
 

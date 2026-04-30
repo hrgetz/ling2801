@@ -26,14 +26,15 @@ title: "Introduction"
 
 :::
 
-| Date | Topic | Reading | Slides |
+| Date | Class Topic | Slides | Due |
 | -- | -- | -- | -- |
-| Thurs 8/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) || [<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.p#slide=id.p) |
-| Tues 9/1 | Studying language; types of evidence | SGN Ch. 1, *Introduction* (p. 1-9) | [<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.g3d40f98fbaf_3_0#slide=id.g3d40f98fbaf_3_0)
-| Thurs 9/3 | Localization, classical model | SGN Ch. 2, *The Toolbox* (p. 10-17) | [<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/17lZzHZe0HFpVxne9vD_WBngnSxhRwL6ujtAinhx3ULc/edit?slide=id.p#slide=id.p)
-| Tues 9/8 | *No class (Monday schedule)* |
-| Thurs 9/10 | Lateralization | TBD | [<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?slide=id.p#slide=id.p)
-| Tues 9/15 | Brain geography | SGN Ch. 2, *The Toolbox* (p. 18-25) | [<span class="blue-badge">↗</span>](https://docs.google.com/presentation/d/1OF3vQvqHdez7yOyLC89PxaUPbzD0EITDRsRl_dkVMsc/edit?slide=id.p#slide=id.p)
+| Thurs 8/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) | [↗](https://docs.google.com/presentation/d/1Sfffbc1-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.p#slide=id.p) |
+| Tues 9/1 | Studying language; types of evidence | [↗](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.g3d40f98fbaf_3_0#slide=id.g3d40f98fbaf_3_0)| <span class="reading-badge">SGN Ch. 1, *Introduction* (p. 1-9)</span>
+| Thurs 9/3 | Localization, classical model | [↗](https://docs.google.com/presentation/d/17lZzHZe0HFpVxne9vD_WBngnSxhRwL6ujtAinhx3ULc/edit?slide=id.p#slide=id.p) | <span class="reading-badge">SGN Ch. 2, *The Toolbox* (p. 10-17)</span> 
+| Tues 9/8 | *No class (Monday schedule)* | | 
+| Thurs 9/10 | Lateralization | [↗](https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?slide=id.p#slide=id.p)
+| Monday 9/14| | |<span class="controversy-badge">Choose issue</span>|
+| Tues 9/15 | Brain geography | [↗](https://docs.google.com/presentation/d/1OF3vQvqHdez7yOyLC89PxaUPbzD0EITDRsRl_dkVMsc/edit?slide=id.p#slide=id.p)| <span class="reading-badge">SGN Ch. 2, *The Toolbox* (p. 18-25)</span>
 | Thurs 9/17 | <span class="exam-badge">Exam #1</span> |
 
 
