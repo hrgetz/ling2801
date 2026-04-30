@@ -1,21 +1,33 @@
 ---
-title: "Development"
+title: "Development of language networks"
 ---
 ::: {.callout-tip collapse=true}
-# Learning Goals: Development
-(To be added) 
+# Learning Goals: Development of language networks
+
+**Claim-evidence mapping** 
+
+1. Describe evidence for the following claims:
+   a) Children’s language networks develop gradually
+   b) Language networks are profoundly altered in Deaf people who were not exposed to a signed language in early childhood
+   c) In survivors of left-hemisphere perinatal stroke, language is processed by the brain regions in the right hemisphere that correspond to the typical language areas in the left hemisphere
+   e) In multilinguals, the neural organization of language is affected by both (i) the age at which the person began acquiring the language, and (2) the person's proficiency level in the language
+
+2. Given a new piece of evidence, explain what it suggests about the aspects of the language network that are already established in infancy
 
 :::
 
 | Date | Topic | Reading | Slides |
 | - | --- | --- | - |
-| Tues 10/20 | Typical language acquisition | Newport & Getz 2025 |
-| Thurs 10/22 | Critical periods
+| Tues 10/20 | Children's language networks | Newport & Getz 2025 |
+| Thurs 10/22 | Critical periods, language deprivation | 
 | Tues 10/27 | Perinatal stroke | Newport et al. 2022 | 
-| Thurs 10/29 | Language deprivation | Ferjan Ramirez et al. 2014
-| Tues 11/3 | Bilingualism | TBD
-| Thurs 11/5 | Bilingualism | TBD
-| Tues 11/10 | <span class="exam-badge">Exam #3</span>
+| Thurs 10/29 | Bilingualism | 
+| Tues 11/3 | Bilingualism | Wartenburger et al. 2003
+| Thurs 11/5 |  <span class="exam-badge">Exam #3</span>
 
 
 **Resources**
+
+* [BrainFacts.org: Critical periods](https://www.brainfacts.org/archives/2012/critical-periods)
+* [PBS: Deaf advocates say learning sign language early is crucial](https://www.pbs.org/video/deaf-learning-1687030137/)
+* [Stroke.org: Perinatal stroke](https://www.stroke.org.uk/stroke/childhood/stroke-unborn-newborn-babies-perinatal-stroke)

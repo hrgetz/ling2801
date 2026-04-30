@@ -16,11 +16,14 @@ title: "Introduction"
 4. Define *lateralization*
 5. Describe two methods that can be used to assess lateralization
 5. Explain the difference between *functional specialization* and *functional specificity*
+6. Summarize the approach of 19th-century phrenology, identify unscientific aspects of this approach, and give an example of the societal harm it caused 
 
 **Brain Geography**
 
-1. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain; for each view, be able to tell which way the brain is "facing"
-2. "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
+1. Be able to roughly locate Broca's area and Wernicke's area on a side view of the brain
+2. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain; for each view, be able to tell which way the brain is "facing"
+3. "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
+
 :::
 
 | Date | Topic | Reading | Slides |

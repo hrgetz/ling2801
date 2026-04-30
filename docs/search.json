@@ -65,7 +65,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Unit\nTopic\nExam date (tentative)\n\n\n\n\n1\nIntroduction\nThurs 9/17\n\n\n2\nThe language network in adults\nThurs 10/15\n\n\n3\nDevelopment of the language network in children\nThurs 11/5\n\n\n4\nLanguage processing in real time\nTues 12/1\n\n\n5\nWrapping up\nNone",
+    "text": "Unit\nTopic\n\n\n\n\n1\nIntroduction\n\n\n2\nThe language network in adults\n\n\n3\nDevelopment of the language network in children\n\n\n4\nLanguage processing in real time\n\n\n5\nWrapping up",
     "crumbs": [
       "Schedule"
     ]
@@ -134,11 +134,11 @@
   {
     "objectID": "requirements.html",
     "href": "requirements.html",
-    "title": "Assignments",
+    "title": "Course Requirements",
     "section": "",
-    "text": "Weight\nAssignment\n\n\n\n\n\n\n\n5%\nIn-class participation\n\n\n\n\n\n60%\nExams\n\n\n\n\n\n15%\nGroup work on scientific papers\n\n\n\n\n\n4%\nResearcher interview\n\n\n\n\n\n1%\nResearcher panel\n\n\n\n\n\n20%\nStudy proposal",
+    "text": "Weight\nAssignment\n\n\n\n\n\n\n\nUngraded\nReadings\n\n\n\n\n\n5%\nIn-class participation\n\n\n\n\n\n48%\nExams\n\n\n\n\n\n15%\nGroup work on scientific papers\n\n\n\n\n\n32%\nControversy Investigation\n\n\n\n\n\n4%\nResearcher interview\n\n\n\n\n\n1%\nResearcher panel",
     "crumbs": [
-      "Assignments"
+      "Requirements"
     ]
   },
   {
@@ -154,11 +154,11 @@
   {
     "objectID": "requirements.html#exams",
     "href": "requirements.html#exams",
-    "title": "Assignments",
+    "title": "Course Requirements",
     "section": "Exams",
-    "text": "Exams\nThere will be four in-person exams, each worth 15% of your grade. These are designed to assess your mastery of course content; your ability to map scientific evidence about language and the brain to theoretical claims; and your ability to interpret new evidence about language and the brain. Exams will cover lecture material, background readings, and primary literature that was assigned as reading.\n\n\n\n\n\n\nImportantExam dates\n\n\n\nTentative exam dates are listed on the schedule. The exact timing of the exams may be adjusted depending on course needs.",
+    "text": "Exams\nThere will be four short in-person exams, each worth 12% of your grade. These are designed to assess your mastery of course content; your ability to map scientific evidence about language and the brain to theoretical claims; and your ability to interpret new evidence about language and the brain. Exams will cover lecture material, background readings, and primary literature that was assigned as reading.\n\n\n\n\n\n\nImportantExam dates\n\n\n\nTentative exam dates for each unit are listed on the corresponding unit page (see schedule). The exact timing of the exams may be adjusted depending on course needs.",
     "crumbs": [
-      "Assignments"
+      "Requirements"
     ]
   },
   {
@@ -174,31 +174,31 @@
   {
     "objectID": "requirements.html#interview",
     "href": "requirements.html#interview",
-    "title": "Assignments",
+    "title": "Course Requirements",
     "section": "Researcher Interview",
     "text": "Researcher Interview\nFor this assignment, you will conduct a structured interview with one of the predoctoral or postdoctoral scholars in Georgetown’s Neuroscience of Language training program. The goal of your interview will be to learn about a specific research question that this person is trying to answer; to understand the research approach or method that they are trying to use in order to answer it; and to identify some things that make it challenging to conduct this type of research. After the interview, you will briefly describe to your classmates the researcher’s main question and research approach, and you will submit a written reflection.\n\n\n\n\n\n\nNoteDetailed guidance for researcher interview\n\n\n\n\n\n(To be added: Tips for conducting the interview, instructions for written reflection)",
     "crumbs": [
-      "Assignments"
+      "Requirements"
     ]
   },
   {
     "objectID": "requirements.html#panel",
     "href": "requirements.html#panel",
-    "title": "Assignments",
+    "title": "Course Requirements",
     "section": "Researcher Panel",
     "text": "Researcher Panel\nAt the end of the semester, we will host a panel discussion with Neuroscience of Language researchers at various stages of their career, ranging from graduate students to senior professors. The focus of this panel will be on the future of the field: we’ll ask researchers where they think the field is going and what challenges the field faces. To prepare for this, I will ask each student to submit some questions for panelists in advance, and then the class will vote on which questions to present to the panelists. You will also submit a written reflection afterwards.\n\n\n\n\n\n\nNoteDetailed guidance for researcher panel\n\n\n\n\n\n(To be added: Link for question submission; Instructions for written reflection)",
     "crumbs": [
-      "Assignments"
+      "Requirements"
     ]
   },
   {
     "objectID": "requirements.html#paper",
     "href": "requirements.html#paper",
-    "title": "Assignments",
-    "section": "Study Proposal",
-    "text": "Study Proposal\nOver the course of the semester, you will work in small groups outside the classroom to identify a big-picture question about language and the brain; narrow this to an answerable research question; and propose an empirical study that would answer the question. You will present your proposal to the whole class and lead group discussion of your idea. At the end of the semester, you will submit a final written paper that includes details of your study proposal as well as discussion of anticipated results.\n\n\n\n\n\n\nNoteDetailed guidance for study proposal\n\n\n\n\n\n(To be added: Guidance and grading rubric)",
+    "title": "Course Requirements",
+    "section": "Controversy Investigation",
+    "text": "Controversy Investigation\nScientists don’t fully understand how language works in the brain, and there are many areas of controversy and debate. Throughout the semester, in small groups, you will identify one such area; read and summarize ~5 scientific papers that represent a range of views on the issue; and come up with an idea for a follow-up study that would contribute new relevant evidence. At the end of the semester, you will submit some type of deliverable in which you present the conflicting evidence, propose your follow-up study, and explain how your study would move the debate forward. I’m open to a variety of formats for your final deliverable, including a traditional written paper; a podcast episode; a video developed for YouTube or TikTok; or something else that you suggest.\n\n\n\n\n\n\nTipIdeas for controversies to investigate\n\n\n\n\nWhat is the function of Broca’s area?\nDoes bi/multilingualism protect against dementia?\nDoes the brain network for language overlap with the brain network for music/math/action?\nWhat parallels are there between large language models (LLMs) and language processing in the human brain?\n\n\n\nHere are some tentative deadlines (I will provide firm deadlines and additional guidance as the semester progresses):\n\n\n\nDate\nAssignment\n\n\n\n\nMonday 9/14\nIdentify an area of controversy to investigate\n\n\nMonday 9/28\nSubmit a list of 5 relevant papers wth PDFs\n\n\nOctober, November\nSubmit filled-out summary sheets for the scientific papers\n\n\nMonday 11/23\nGet my approval of the format of your final deliverable\n\n\nDecember\nSubmit final deliverable",
     "crumbs": [
-      "Assignments"
+      "Requirements"
     ]
   },
   {
@@ -306,7 +306,7 @@
     "href": "unit_2.html",
     "title": "The language network",
     "section": "",
-    "text": "TipLearning Goals: The language network\n\n\n\n\n\nThe Toolbox\n\nOrient to a figure showing brain activation in an fMRI or PET study and explain which view(s) of the brain are being shown and what the colors represent\nUse a brain atlas to translate between XYZ coordinates and anatomical landmarks\nExplain the logic of the subtraction method used in fMRI and PET studies\n\nLanguage network geography\n\nBe able to roughly locate Broca’s area and Wernicke’s area on a side view of the brain\nState the main regions of the brain that are involved in language processing, using neuroanatomical and directional terms, and locate these regions on saggital, coronal, and axial slices of the brain\n\nEvidence interpretation\n\nDescribe evidence from lesion studies for functional localization of language\nDescribe evidence from fMRI studies for functional localization of language\nDescribe evidence for this claim: Spoken languages and signed languages are processed by the same network in the brain\nInterpret new evidence bearing on the controversial question of functional selectivity\n\n\n\n\n\n\n\nDate\nTopic\nReading\nSlides\n\n\n\n\nTues 9/22\nResearch design: hemodynamic methods\nSGN Ch. 2, The Toolbox (p. 25-27; 31-34)Binder et al. 1997\n\n\n\nThurs 9/24\nInterpreting brain activation figures\nBinder et al. 1997\n\n\n\nTues 9/29\nTour Georgetown’s Center for Functional and Molecular Imaging\n\n\n\n\nThurs 10/1\nSign languages\nPetitto et al. 2000\n\n\n\nTues 10/6\nSign languages\nPetitto et al. 2000\n\n\n\nThurs 10/8\nLesion studies; aphasia (speech)\nSGN Ch. 2, The Toolbox (p. 27-31)\n\n\n\nTues 10/13\nAphasia (sign)\nHickok et al. 1998\n\n\n\nThurs 10/15\nExam #2\n\n\n\n\n\nResources\n\nAbbreviations\nUnderstanding fMRI\nMNI &lt;-&gt; Talairach Converter with Brodmann Areas\nNeurosynth\nNeuroVault\nBrainMap",
+    "text": "TipLearning Goals: The language network\n\n\n\n\n\nThe toolbox\n\nExplain in general terms what is measured by fMRI and PET studies\nExplain the logic of the subtraction method used in fMRI and PET studies\nOrient to a figure showing brain activation in an fMRI or PET study and explain which view(s) of the brain are being shown and what the colors represent\nUse a brain atlas to translate between XYZ coordinates and anatomical landmarks\nExplain the logic of lesion/deficit mapping studies\n\nClaim-evidence mapping\n\nDescribe evidence for the following claims:\n\nThe same specific network of brain regions underlies language processing in all healthy individuals\nSpoken languages and signed languages are processed by the same language network\n\nGiven a new piece of evidence, explain whether it suggests functional localization, functional specialization, or functional specificity\n\nBrain geography\n\nState the main regions of the brain that are involved in language processing, using neuroanatomical and directional terms, and locate these regions on saggital, coronal, and axial slices of the brain\n\n\n\n\n\n\n\nDate\nTopic\nReading\nSlides\n\n\n\n\nTues 9/22\nResearch design: hemodynamic methods\nSGN Ch. 2, The Toolbox (p. 25-27; 31-34)Binder et al. 1997\n\n\n\nThurs 9/24\nInterpreting brain activation figures\nBinder et al. 1997\n\n\n\nTues 9/29\nTour Georgetown’s Center for Functional and Molecular Imaging\n\n\n\n\nThurs 10/1\nSign languages\nPetitto et al. 2000\n\n\n\nTues 10/6\nSign languages\nPetitto et al. 2000\n\n\n\nThurs 10/8\nLesion studies; aphasia (speech)\nSGN Ch. 2, The Toolbox (p. 27-31)\n\n\n\nTues 10/13\nAphasia (sign)\nHickok et al. 1998\n\n\n\nThurs 10/15\nExam #2\n\n\n\n\n\nResources\n\nAbbreviations\nUnderstanding fMRI\nMNI &lt;-&gt; Talairach Converter with Brodmann Areas\nNeurosynth\nNeuroVault\nBrainMap",
     "crumbs": [
       "Schedule",
       "The language network"
@@ -317,7 +317,7 @@
     "href": "unit_1.html",
     "title": "Introduction",
     "section": "",
-    "text": "TipLearning Goals: Introduction\n\n\n\n\n\nCourse\n\nKnow who your professor is\n\nKnow how I will assess your mastery of course content\n\nScientific Foundations\n\nRecognize that there are multiple scientifically valid ways to study human language; identify scientific evidence relevant to understanding (i) how languages are organized structurally, (ii) how humans perceive and process language in real time, and (iii) the brain basis of language\nDefine localization\nSummarize the classical model of language in the brain and describe the original evidence for that model\nDefine lateralization\nDescribe two methods that can be used to assess lateralization\nExplain the difference between functional specialization and functional specificity\n\nBrain Geography\n\nIdentify and distinguish coronal, axial, and sagittal views of the human brain; for each view, be able to tell which way the brain is “facing”\n“Navigate” to a region of the brain using the following neuroanatomical and directional terms: frontal, temporal, parietal, occipital, anterior, posterior, inferior, superior, lateral, medial, sulcus, gyrus, left, right\n\n\n\n\n\n\n\nDate\nTopic\nReading\nSlides\n\n\n\n\nThurs 8/27\nSyllabus, assignments, schedule\n\n↗\n\n\nTues 9/1\nStudying language; types of evidence\nSGN Ch. 1, Introduction (p. 1-9)\n↗\n\n\nThurs 9/3\nLocalization, classical model\nSGN Ch. 2, The Toolbox (p. 10-17)\n↗\n\n\nTues 9/8\nNo class (Monday schedule)\n\n\n\n\nThurs 9/10\nLateralization\nTBD\n↗\n\n\nTues 9/15\nBrain geography\nSGN Ch. 2, The Toolbox (p. 18-25)\n↗\n\n\nThurs 9/17\nExam #1\n\n\n\n\n\nResources\n\nAllen Brain Reference Atlases\nNeurotorium Brain Atlas\nUBC: The Cortex\nDichotic listening task",
+    "text": "TipLearning Goals: Introduction\n\n\n\n\n\nCourse\n\nKnow who your professor is\n\nKnow how I will assess your mastery of course content\n\nScientific Foundations\n\nRecognize that there are multiple scientifically valid ways to study human language; identify scientific evidence relevant to understanding (i) how languages are organized structurally, (ii) how humans perceive and process language in real time, and (iii) the brain basis of language\nDefine localization\nSummarize the classical model of language in the brain and describe the original evidence for that model\nDefine lateralization\nDescribe two methods that can be used to assess lateralization\nExplain the difference between functional specialization and functional specificity\nSummarize the approach of 19th-century phrenology, identify unscientific aspects of this approach, and give an example of the societal harm it caused\n\nBrain Geography\n\nBe able to roughly locate Broca’s area and Wernicke’s area on a side view of the brain\nIdentify and distinguish coronal, axial, and sagittal views of the human brain; for each view, be able to tell which way the brain is “facing”\n“Navigate” to a region of the brain using the following neuroanatomical and directional terms: frontal, temporal, parietal, occipital, anterior, posterior, inferior, superior, lateral, medial, sulcus, gyrus, left, right\n\n\n\n\n\n\n\nDate\nTopic\nReading\nSlides\n\n\n\n\nThurs 8/27\nSyllabus, assignments, schedule\n\n↗\n\n\nTues 9/1\nStudying language; types of evidence\nSGN Ch. 1, Introduction (p. 1-9)\n↗\n\n\nThurs 9/3\nLocalization, classical model\nSGN Ch. 2, The Toolbox (p. 10-17)\n↗\n\n\nTues 9/8\nNo class (Monday schedule)\n\n\n\n\nThurs 9/10\nLateralization\nTBD\n↗\n\n\nTues 9/15\nBrain geography\nSGN Ch. 2, The Toolbox (p. 18-25)\n↗\n\n\nThurs 9/17\nExam #1\n\n\n\n\n\nResources\n\nAllen Brain Reference Atlases\nNeurotorium Brain Atlas\nUBC: The Cortex\nDichotic listening task",
     "crumbs": [
       "Schedule",
       "Introduction"
@@ -348,12 +348,12 @@
   {
     "objectID": "unit_3.html",
     "href": "unit_3.html",
-    "title": "Development",
+    "title": "Development of language networks",
     "section": "",
-    "text": "TipLearning Goals: Development\n\n\n\n\n\n(To be added)\n\n\n\n\n\n\nDate\nTopic\nReading\nSlides\n\n\n\n\nTues 10/20\nTypical language acquisition\nNewport & Getz 2025\n\n\n\nThurs 10/22\nCritical periods\n\n\n\n\nTues 10/27\nPerinatal stroke\nNewport et al. 2022\n\n\n\nThurs 10/29\nLanguage deprivation\nFerjan Ramirez et al. 2014\n\n\n\nTues 11/3\nBilingualism\nTBD\n\n\n\nThurs 11/5\nBilingualism\nTBD\n\n\n\nTues 11/10\nExam #3\n\n\n\n\n\nResources",
+    "text": "TipLearning Goals: Development of language networks\n\n\n\n\n\nClaim-evidence mapping\n\nDescribe evidence for the following claims:\n\nChildren’s language networks develop gradually\nLanguage networks are profoundly altered in Deaf people who were not exposed to a signed language in early childhood\nIn survivors of left-hemisphere perinatal stroke, language is processed by the brain regions in the right hemisphere that correspond to the typical language areas in the left hemisphere\nIn multilinguals, the neural organization of language is affected by both (i) the age at which the person began acquiring the language, and (2) the person’s proficiency level in the language\n\nGiven a new piece of evidence, explain what it suggests about the aspects of the language network that are already established in infancy\n\n\n\n\n\n\n\nDate\nTopic\nReading\nSlides\n\n\n\n\nTues 10/20\nChildren’s language networks\nNewport & Getz 2025\n\n\n\nThurs 10/22\nCritical periods, language deprivation\n\n\n\n\nTues 10/27\nPerinatal stroke\nNewport et al. 2022\n\n\n\nThurs 10/29\nBilingualism\n\n\n\n\nTues 11/3\nBilingualism\nWartenburger et al. 2003\n\n\n\nThurs 11/5\nExam #3\n\n\n\n\n\nResources\n\nBrainFacts.org: Critical periods\nPBS: Deaf advocates say learning sign language early is crucial\nStroke.org: Perinatal stroke",
     "crumbs": [
       "Schedule",
-      "Development"
+      "Development of language networks"
     ]
   },
   {
@@ -437,7 +437,7 @@
     "href": "index.html#science-for-all",
     "title": "LING-2801: Neuroscience of Language",
     "section": "Science for All",
-    "text": "Science for All\nThis course fulfills Georgetown’s Science for All core requirement.",
+    "text": "Science for All\nThis course fulfills Georgetown’s Science for All core requirement. I designed the course around the learning goals of that program. According to the Science for All website:\n\nThe primary goal of courses specifically designed to fulfill the core science requirement will not be to provide a summary of current knowledge in a particular discipline, but instead to illustrate, in the context of a scientific discipline, how scientific understanding is developed, tested, and revised.\n\nIn this course, you will learn about language in the brain by studying the scientific research that led to our current understanding of this topic. There will be some traditional lectures, in which I provide conceptual background or historical context for a topic. But we will also spend a substantial amount of time unpacking and understanding specific studies. You’ll also watch demonstrations of specific research methodologies, practice evaluating and interpreting scientific evidence, and interview some of the scientists who conduct research on the neuroscience of language at Georgetown.\nA secondary goal of the SFA program is this:\n\nIn addition, Science For All courses will help and encourage students to understand better the significant role that science plays in their daily lives, and will include examples of the use of scientific methods in addressing complex social problems and of the ethical issues that science can raise.\n\nThroughout the course we’ll consider issues within the neuroscience of language that have broad social relevance. We’ll start by discussing the core scientific principle of functional localization—the idea that specific cognitive functions, like language, are handled by particular specific brain regions—along with the problematic and unscientific ways in which this idea has been interpreted throughout history. Other important topics will include signed languages and their neural representation (spoiler: it’s basically the same as for spoken languages); language networks in language-deprived individuals (i.e., profoundly Deaf people who had no access to a signed language until after childhood); and the neural and cognitive characteristics of language networks in multilingual people.",
     "crumbs": [
       "Overview"
     ]
@@ -529,11 +529,11 @@
   {
     "objectID": "requirements.html#participation",
     "href": "requirements.html#participation",
-    "title": "Assignments",
+    "title": "Course Requirements",
     "section": "Participation",
     "text": "Participation\nDuring class, I’ll occasionally ask you to respond to questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but repeated failure to participate in the polls will affect your participation grade.",
     "crumbs": [
-      "Assignments"
+      "Requirements"
     ]
   },
   {
@@ -732,11 +732,11 @@
   {
     "objectID": "requirements.html#papers",
     "href": "requirements.html#papers",
-    "title": "Assignments",
+    "title": "Course Requirements",
     "section": "Group work on scientific papers",
-    "text": "Group work on scientific papers\nA significant portion of class will be dedicated to small group work. The groups will be different for each of the four main course units (see schedule).\nSometimes, you will work together to practice applying concepts from the readings/lectures. That work will not be graded.\nOther times, you will work with your group members to understand and summarize the scientific papers on the reading list. For example, you may be asked to create a visual aid showing how a study worked, or to use a brain atlas to visualize which brain regions were active during a particular experiment. This work will be graded.",
+    "text": "Group work on scientific papers\nA significant portion of class will be dedicated to small group work. The groups will be different for each of the four main course units (see schedule).\nSometimes, you will work together to practice applying concepts from the readings/lectures. That work will not be graded.\nOther times, you will work with your group members to understand and summarize the scientific papers on the reading list. For example, you may be asked to create a visual aid showing how a study worked, or to use a brain atlas to visualize which brain regions were active during a particular experiment. This work will be graded.\nI’ll always try to make clear whether a particular group assignment will be graded or not, but feel free to ask if I forget.",
     "crumbs": [
-      "Assignments"
+      "Requirements"
     ]
   },
   {
@@ -747,6 +747,16 @@
     "text": "These abbreviations are provided at the very end of the Brennan text. I’ve copied them here for easy reference:\n\n\n\nAbbreviation\nTerm\n\n\n\n\nAG\nAngular Gyrus\n\n\nASD\nAutism Spectrum Disorders\n\n\nATL\nAnterior Temporal Lobe\n\n\nBOLD\nBlood Oxygenation-Level Dependent\n\n\nDCS\nDirect Cortical Stimulation\n\n\nDTI\nDiffusion Tensor Imaging\n\n\nECoG\nElectrocorticography\n\n\nEEG\nElectroencephalography\n\n\nERF\nEvent-Related Field\n\n\nERP\nEvent-Related Potential\n\n\nfMRI\nFunctional Magnetic Resonance Imaging\n\n\nfNIRS\nFunctional Near-Infrared Spectroscopy\n\n\nIFG\nInferior Frontal Gyrus\n\n\nIPL\nInferior Parietal Lobe\n\n\nLATL\nLeft Anterior Temporal Lobe\n\n\nLIFG\nLeft Inferior Frontal Gyrus\n\n\nLPTL\nLeft Posterior Temporal Lobe\n\n\nMMR\nMismatch Response\n\n\nMRI\nMagnetic Resonance Imaging\n\n\nMVPA\nMulti-Voxel Pattern Analysis\n\n\nPET\nPositron Emission Tomography\n\n\npMTG\nPosterior Middle Temporal Gyrus\n\n\nPPA\nPrimary Progressive Aphasia\n\n\nPWD\nPure Word Deafness\n\n\nrTMS\nRepeated Transcranial Magnetic Stimulation\n\n\nSMG\nSupramarginal Gyrus\n\n\nTMS\nTranscranial Magnetic Stimulation\n\n\nVBM\nVoxel-based Morphometry\n\n\nVLSM\nVoxel-based Lesion Symptom Mapping\n\n\nVMPFC\nVentro-Medial Prefrontal Cortex",
     "crumbs": [
       "Abbreviations"
+    ]
+  },
+  {
+    "objectID": "requirements.html#reading",
+    "href": "requirements.html#reading",
+    "title": "Course Requirements",
+    "section": "Readings",
+    "text": "Readings\nThere will be two types of readings. The specific readings are listed on that unit’s page on the course site (see Schedule).\n\nBackground readings: I’ll assign chapters from the Brennan text, encyclopedia articles, or similar sources to provide general background on a topic. Some of the material in these readings will be reinforced in class, but all of the material is fair game for the exams.\nScientific articles: We’ll also read some primary literature (real scientific papers). These will be dense and technical. It is very important to review thesse papers before class (otherwise, you will struggle to contribute to your group’s in-class work), but don’t worry if there are some parts you don’t understand. We will work through them together in class.\n\n\n\n\n\n\n\nTipTips for reading scientific papers\n\n\n\nWhen reviewing the scientific articles, I strongly recommend following the process here: Guide to reading scientific papers. We’ll go over this in class.",
+    "crumbs": [
+      "Requirements"
     ]
   }
 ]

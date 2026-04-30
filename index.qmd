@@ -18,7 +18,18 @@ This is an introductory course on language and the brain, designed for students 
 
 ## Science for All
 
-This course fulfills Georgetown's [*Science for All*](https://sfa.georgetown.edu/) core requirement. 
+This course fulfills Georgetown's *Science for All* core requirement. I designed the course around the learning goals of that program. According to the [*Science for All* website](https://sfa.georgetown.edu/): 
+
+> The primary goal of courses specifically designed to fulfill the core science requirement will not be to provide a summary of current knowledge in a particular discipline, but instead to illustrate, in the context of a scientific discipline, how scientific understanding is developed, tested, and revised. 
+
+In this course, you will learn about language in the brain by studying the scientific research that led to our current understanding of this topic. There will be some traditional lectures, in which I provide conceptual background or historical context for a topic. But we will also spend a substantial amount of time unpacking and understanding specific studies. You’ll also watch demonstrations of specific research methodologies, practice evaluating and interpreting scientific evidence, and interview some of the scientists who conduct research on the neuroscience of language at Georgetown.
+
+A secondary goal of the SFA program is this:
+
+> In addition, Science For All courses will help and encourage students to understand better the significant role that science plays in their daily lives, and will include examples of the use of scientific methods in addressing complex social problems and of the ethical issues that science can raise. 
+
+Throughout the course we’ll consider issues within the neuroscience of language that have broad social relevance. We’ll start by discussing the core scientific principle of functional localization—the idea that specific cognitive functions, like language, are handled by particular specific brain regions—along with the problematic and unscientific ways in which this idea has been interpreted throughout history. Other important topics will include signed languages and their neural representation (spoiler: it’s basically the same as for spoken languages); language networks in language-deprived individuals (i.e., profoundly Deaf people who had no access to a signed language until after childhood); and the neural and cognitive characteristics of language networks in multilingual people. 
+
 
 ## Learning Goals
 

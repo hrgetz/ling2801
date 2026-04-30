@@ -1,23 +1,20 @@
 ---
-title: "Assignments"
+title: "Course Requirements"
 ---
 | Weight | Assignment |
 | -- | -- | -- | -- | -- |
+| Ungraded | [Readings](#reading) |
 | 5% | [In-class participation](#participation) |
-| 60%| [Exams](#exams) |
+| 48%| [Exams](#exams) |
 | 15%| [Group work on scientific papers](#papers)  |
+| 32% |[Controversy Investigation](#paper) |
 | 4%| [Researcher interview](#interview)  |
 | 1%| [Researcher panel](#panel)|
-| 20% |[Study proposal](#paper) |
 
 <br>
 
-## Participation {#participation}
 
-During class, I'll occasionally ask you to respond to questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but repeated failure to participate in the polls will affect your participation grade.
-
-## Readings
-
+## Readings {#reading}
 There will be two types of readings. The specific readings are listed on that unit's page on the course site (see [Schedule](schedule.md)).
 
 1. Background readings: I'll assign chapters from the Brennan text, encyclopedia articles, or similar sources to provide general background on a topic. Some of the material in these readings will be reinforced in class, but *all* of the material is fair game for the exams.
@@ -29,14 +26,18 @@ There will be two types of readings. The specific readings are listed on that un
 When reviewing the scientific articles, I strongly recommend following the process here: [**Guide to reading scientific papers**](https://hrgetz.github.io/guide.html). We'll go over this in class.
 :::
 
+## Participation {#participation}
+
+During class, I'll occasionally ask you to respond to questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but repeated failure to participate in the polls will affect your participation grade.
+
 
 ## Exams {#exams}
 
-There will be four in-person exams, each worth 15% of your grade. These are designed to assess your mastery of course content; your ability to map scientific evidence about language and the brain to theoretical claims; and your ability to interpret new evidence about language and the brain. Exams will cover lecture material, background readings, and primary literature that was assigned as reading.
+There will be four short in-person exams, each worth 12% of your grade. These are designed to assess your mastery of course content; your ability to map scientific evidence about language and the brain to theoretical claims; and your ability to interpret new evidence about language and the brain. Exams will cover lecture material, background readings, and primary literature that was assigned as reading.
 
 ::: {.callout-important}
 # Exam dates
-**Tentative exam dates are listed on the [**schedule**](schedule.md).** The exact timing of the exams may be adjusted depending on course needs.
+**Tentative exam dates for each unit are listed on the corresponding unit page (see [schedule](schedule.md)).** The exact timing of the exams may be adjusted depending on course needs.
 :::
 
 ## Group work on scientific papers {#papers}
@@ -46,6 +47,30 @@ A significant portion of class will be dedicated to small group work. The groups
 Sometimes, you will work together to practice applying concepts from the readings/lectures. That work will not be graded. 
 
 Other times, you will work with your group members to understand and summarize the scientific papers on the reading list. For example, you may be asked to create a visual aid showing how a study worked, or to use a brain atlas to visualize which brain regions were active during a particular experiment. This work will be graded. 
+
+I'll always try to make clear whether a particular group assignment will be graded or not, but feel free to ask if I forget.
+
+## Controversy Investigation {#paper}
+
+Scientists don't fully understand how language works in the brain, and there are many areas of controversy and debate. Throughout the semester, in small groups, you will identify one such area; read and summarize ~5 scientific papers that represent a range of views on the issue; and come up with an idea for a follow-up study that would contribute new relevant evidence. At the end of the semester, you will submit some type of deliverable in which you present the conflicting evidence, propose your follow-up study, and explain how your study would move the debate forward. I'm open to a variety of formats for your final deliverable, including a traditional written paper; a podcast episode; a video developed for YouTube or TikTok; or something else that you suggest.
+
+::: {.callout-tip appearance=simple}
+# Ideas for controversies to investigate
+1. What is the function of Broca's area? 
+2. Does bi/multilingualism protect against dementia? 
+3. Does the brain network for language overlap with the brain network for music/math/action?
+4. What parallels are there between large language models (LLMs) and language processing in the human brain?
+:::
+
+Here are some tentative deadlines (I will provide firm deadlines and additional guidance as the semester progresses):
+
+| Date | Assignment |
+| --- | --- |
+| Monday 9/14 | Identify an area of controversy to investigate |
+| Monday 9/28 | Submit a list of 5 relevant papers wth PDFs
+| October, November | Submit filled-out [summary sheets](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for the scientific papers |
+| Monday 11/23 | Get my approval of the format of your final deliverable | 
+| December | Submit final deliverable |
 
 ## Researcher Interview {#interview}
 
@@ -65,14 +90,5 @@ At the end of the semester, we will host a panel discussion with Neuroscience of
 
 # Detailed guidance for researcher panel
 (To be added: Link for question submission; Instructions for written reflection)
-:::
-
-## Study Proposal {#paper}
-
-Over the course of the semester, you will work in small groups outside the classroom to identify a big-picture question about language and the brain; narrow this to an answerable research question; and propose an empirical study that would answer the question. You will present your proposal to the whole class and lead group discussion of your idea. At the end of the semester, you will submit a final written paper that includes details of your study proposal as well as discussion of anticipated results.
-
-::: {.callout-note collapse="true" appearance=simple}
-# Detailed guidance for study proposal
-(To be added: Guidance and grading rubric)
 :::
 

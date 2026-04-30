@@ -4,23 +4,26 @@ title: "The language network"
 ::: {.callout-tip collapse=true}
 # Learning Goals: The language network
  
-**The Toolbox**
+**The toolbox**
 
-1. Orient to a figure showing brain activation in an fMRI or PET study and explain which view(s) of the brain are being shown and what the colors represent
-2. Use a brain atlas to translate between XYZ coordinates and anatomical landmarks
-3. Explain the logic of the subtraction method used in fMRI and PET studies
+1. Explain in general terms what is measured by fMRI and PET studies
+2. Explain the logic of the subtraction method used in fMRI and PET studies
+3. Orient to a figure showing brain activation in an fMRI or PET study and explain which view(s) of the brain are being shown and what the colors represent
+4. Use a brain atlas to translate between XYZ coordinates and anatomical landmarks
+5. Explain the logic of lesion/deficit mapping studies
 
-**Language network geography**
+**Claim-evidence mapping**
 
-1. Be able to roughly locate Broca's area and Wernicke's area on a side view of the brain
-2. State the main regions of the brain that are involved in language processing, using neuroanatomical and directional terms, and locate these regions on saggital, coronal, and axial slices of the brain
+1. Describe evidence for the following claims:
+    a) The same specific network of brain regions underlies language processing in all healthy individuals
+    b) Spoken languages and signed languages are processed by the same language network
 
-**Evidence interpretation**
+2. Given a new piece of evidence, explain whether it suggests functional localization, functional specialization, or functional specificity
 
-1. Describe evidence from lesion studies for functional localization of language
-2. Describe evidence from fMRI studies for functional localization of language
-3. Describe evidence for this claim: Spoken languages and signed languages are processed by the same network in the brain
-4. Interpret new evidence bearing on the controversial question of functional selectivity
+**Brain geography**
+
+1. State the main regions of the brain that are involved in language processing, using neuroanatomical and directional terms, and locate these regions on saggital, coronal, and axial slices of the brain
+
 :::
 
 | Date | Topic | Reading | Slides |

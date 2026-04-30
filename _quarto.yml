@@ -12,7 +12,8 @@ website:
     contents:
       - href: index.qmd
         text: Overview
-      - requirements.qmd
+      - href: requirements.qmd
+        text: Requirements
       - readings.md
       - policies.qmd
       - resources.qmd
