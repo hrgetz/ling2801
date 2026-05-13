@@ -44,7 +44,7 @@ Unit-specific learning goals are listed on their respective pages; see [schedule
 
 ## AI use statement
 
-I used ChatGPT to help me create this course website. This included asking for help with Quarto/Markdown code, CSS styling, page organization, and visual design elements. I also used ChatGPT to search for human-created teaching resources online, such as grading rubrics and ideas for teaching scientific literacy. Chat GPT generated the first draft of this AI use statement.
+I used ChatGPT to help me create this course website. This included asking for help with Quarto/Markdown code, CSS styling, page organization, and visual design elements. I also regularly use ChatGPT to search for human-created teaching resources online, such as grading rubrics and small group activities. Chat GPT generated the first draft of this AI use statement.
 
 I did not use AI to determine the content of the course, to create any of my lecture material, or to generate any of the exam questions.
 

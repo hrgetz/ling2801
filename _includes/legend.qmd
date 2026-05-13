@@ -9,7 +9,7 @@
   <div>This is a general background reading. Read this the usual way people read things, from start to finish.</div>
 
   <div>[]{.article}</div>
-  <div>This is a scientific article (primary literature). Do not try to read this from start to finish. Instead, read/survey the article using [this process](https://hrgetz.github.io/guide.html). Fill out a [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for your own notes (summary sheets will not be graded). Come prepared to work in small groups to further understand the paper.
+  <div>This is a scientific article (primary literature). Do not try to read this from start to finish. Instead, read/survey the article using [this process](https://hrgetz.github.io/guide.html). Fill out a [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for your own notes (summary sheets will not be graded, but they will be really helpful when you are studying for the exams). Come prepared to work in small groups to further understand the paper.
   </div>
   <div>[]{.controversy}</div>
   <div>Something is due for your group project. See [Controversy Investigation](https://hrgetz.github.io/ling2801/requirements.html#paper) for more information.</div>

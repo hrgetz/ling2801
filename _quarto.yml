@@ -14,7 +14,6 @@ website:
         text: Overview
       - href: requirements.qmd
         text: Requirements
-      - readings.md
       - policies.qmd
       - resources.qmd
       - section: "Schedule"
@@ -26,6 +25,7 @@ website:
           - unit_4.qmd
           - unit_5.qmd
       - abbreviations.qmd
+      - readings.md
   page-navigation: true
 
 
