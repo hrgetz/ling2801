@@ -19,7 +19,9 @@ There will be two types of readings. The specific readings are listed on that un
 
 1. Background readings: I'll assign chapters from the Brennan text, encyclopedia articles, or similar sources to provide general background on a topic. Some of the material in these readings will be reinforced in class, but *all* of the material is fair game for the exams.
 
-2. Scientific articles: We'll also read some primary literature (real scientific papers). These will be dense and technical. It is very important to review thesse papers before class (otherwise, you will struggle to contribute to your group's in-class work), but don't worry if there are some parts you don't understand. We will work through them together in class. 
+2. Scientific articles: We'll also read some primary literature (real scientific papers). These will be dense and technical. It is very important to review these papers before class; otherwise, you will struggle to contribute to your group's in-class work. But don't worry if (when) there are parts you don't understand. We will work through the papers together in class.
+
+Hard copies of the articles will be handed out in class. You may reference these hard copies, along with any notes you've written on them, during in-class exams.
 
 ::: {.callout-tip}
 # Tips for reading scientific papers
@@ -33,7 +35,9 @@ During class, I'll occasionally ask you to respond to questions in real time usi
 
 ## Exams {#exams}
 
-There will be four short in-person exams, each worth 12% of your grade. These are designed to assess your mastery of course content; your ability to map scientific evidence about language and the brain to theoretical claims; and your ability to interpret new evidence about language and the brain. Exams will cover lecture material, background readings, and primary literature that was assigned as reading.
+There will be four short in-person exams, each worth 12% of your grade. These are designed to assess your mastery of course content; your ability to map scientific evidence about language and the brain to theoretical claims; and your ability to interpret new evidence about language and the brain. Exams will cover lecture material, background readings, and the scientific articles that we worked through in class. 
+
+During exams, you are allowed to reference the hard copies of the scientific articles we covered during that unit. This includes any notes you have written on the copies.
 
 ::: {.callout-important}
 # Exam dates
@@ -52,24 +56,27 @@ I'll always try to make clear whether a particular group assignment will be grad
 
 ## Controversy Investigation {#paper}
 
-Scientists don't fully understand how language works in the brain, and there are many areas of controversy and debate. Throughout the semester, in small groups, you will identify one such area; read and summarize ~5 scientific papers that represent a range of views on the issue; and come up with an idea for a follow-up study that would contribute new relevant evidence. At the end of the semester, you will submit some type of deliverable in which you present the conflicting evidence, propose your follow-up study, and explain how your study would move the debate forward. I'm open to a variety of formats for your final deliverable, including a traditional written paper; a podcast episode; a video developed for YouTube or TikTok; or something else that you suggest.
+Scientists don't fully understand how language works in the brain, and there are many areas of controversy and debate. Throughout the semester, in groups of 2 or 3, you will identify one such area; read and summarize ~5 scientific papers that represent a range of views on the issue; and come up with an idea for a follow-up study that would contribute new relevant evidence. At the end of the semester, you will submit some type of deliverable in which you summarize the conflicting evidence, propose your follow-up study, and explain how your proposed study would move the debate forward.
+
+I'm open to a variety of formats for your final deliverable. Some examples: a short-form video for TikTok or Youtube, a longer educational video, a podcast episode, or a mock (scripted) debate among scientists. 
+
+**AI use**: In class, we will decide together what kinds of AI use, if any, are permissible for your final project. If we decide that some AI use is permissible, you must include an AI use statement with your submission. 
 
 ::: {.callout-tip appearance=simple}
 # Ideas for controversies to investigate
-1. What is the function of Broca's area? 
+1. What is the function of Broca's area?
 2. Does bi/multilingualism protect against dementia? 
 3. Does the brain network for language overlap with the brain network for music/math/action?
-4. What parallels are there between large language models (LLMs) and language processing in the human brain?
 :::
 
 Here are some tentative deadlines (I will provide firm deadlines and additional guidance as the semester progresses):
 
 | Date | Assignment |
 | --- | --- |
-| Monday 9/14 | Identify an area of controversy to investigate |
-| Monday 9/28 | Submit a list of 5 relevant papers wth PDFs
+| Friday 9/25 | Identify an area of controversy to investigate |
+| Friday 10/2 | Submit a list of 5 relevant papers wth PDFs
 | October, November | Submit filled-out [summary sheets](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for the scientific papers |
-| Monday 11/23 | Get my approval of the format of your final deliverable | 
+| Friday 11/13 | Get my approval of the format of your final deliverable | 
 | December | Submit final deliverable |
 
 ## Researcher Interview {#interview}

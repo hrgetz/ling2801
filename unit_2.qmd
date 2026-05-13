@@ -10,15 +10,15 @@ title: "The language network"
 2. Explain the logic of the subtraction method used in fMRI and PET studies
 3. Orient to a figure showing brain activation in an fMRI or PET study and explain which view(s) of the brain are being shown and what the colors represent
 4. Use a brain atlas to translate between XYZ coordinates and anatomical landmarks
-5. Explain the logic of lesion/deficit mapping studies
 
 **Claim-evidence mapping**
 
-1. Describe evidence for the following claims:
+1. Describe evidence for the following claims:  
     a) The same specific network of brain regions underlies language processing in all healthy individuals
     b) Spoken languages and signed languages are processed by the same language network
 
-2. Given a new piece of evidence, explain whether it suggests functional localization, functional specialization, or functional specificity
+2. Interpret new evidence that bears on the following issue:
+    a) functional localization vs. functional specialization vs. functional specificity
 
 **Brain geography**
 
@@ -28,16 +28,22 @@ title: "The language network"
 
 | Date | Topic | Slides | Due |
 | -- | -- | -- | -- |
-| Tues 9/22 | Research design: hemodynamic methods || <span class="reading-badge">SGN Ch. 2, *The Toolbox* (p. 25-27; 31-34)</span><br><span class="article-badge">Binder et al. 1997</span>
-| Thurs 9/24 | Interpreting brain activation figures | | 
-| Mon 9/28 ||| <span class="controversy-badge">Bibliography</span>
-| Tues 9/29 | Tour Georgetown's [Center for Functional and Molecular Imaging](https://cfmi.georgetown.edu/) |
-| Thurs 10/1 | Sign languages || <span class="article-badge">Petitto et al. 2000</span> | 
-| Tues 10/6 | Sign languages || |
-| Thurs 10/8 | Lesion studies; aphasia (speech) |  |<span class="reading-badge">SGN Ch. 2, *The Toolbox* (p. 27-31)</span>
-| Tues 10/13 | Aphasia (sign) | |<span class="reading-badge">Hickok et al. 1998</span>
-| Thurs 10/15 | <span class="exam-badge">Exam #2</span>
+| Thurs 9/24 | Research design: hemodynamic methods | [][8]{.slides}| [SGN Ch. 2, *The Toolbox* (p. 25-27; 31-34)]{.reading}
+| Friday 9/25 | ||[Choose a controversy]{.controversy}|
+| Tues 9/29 | Tour [CFMI](https://cfmi.georgetown.edu/) |
+| Thurs 10/1 | fMRI experimental design | | [Binder et al. 1997]{.article}
+| Friday 10/2 |||[Bibliography]{.controversy}| | 
+| Tues 10/6 | fMRI activation maps || 
+| Thurs 10/8 | Sign language |  | [Petitto et al. 2000]{.article}
+| Friday 10/9 ||| [Article summary]{.controversy}
+| Tues 10/13 | Sign language |  | 
+| Thurs 10/15 | [Exam #2]{.exam} | 
+| Friday 10/16 ||| [Article summary]{.controversy}
 
+{{< include _includes/legend.qmd >}}
+
+
+[8]: https://docs.google.com/presentation/d/1OF3vQvqHdez7yOyLC89PxaUPbzD0EITDRsRl_dkVMsc/edit?slide=id.p#slide=id.p
 
 **Resources**
 

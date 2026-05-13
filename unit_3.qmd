@@ -1,29 +1,33 @@
 ---
-title: "Development of language networks"
+title: "Development of Language Networks"
 ---
+
 ::: {.callout-tip collapse=true}
-# Learning Goals: Development of language networks
 
-**Claim-evidence mapping** 
-
-1. Describe evidence for the following claims:
-   a) Children’s language networks develop gradually
-   b) Language networks are profoundly altered in Deaf people who were not exposed to a signed language in early childhood
-   c) In survivors of left-hemisphere perinatal stroke, language is processed by the brain regions in the right hemisphere that correspond to the typical language areas in the left hemisphere
-   e) In multilinguals, the neural organization of language is affected by both (i) the age at which the person began acquiring the language, and (2) the person's proficiency level in the language
-
-2. Given a new piece of evidence, explain what it suggests about the aspects of the language network that are already established in infancy
+# Learning Goals: Development of Language Networks
+1. Describe evidence for the following claims:  
+    a) Children’s language networks develop gradually
+    b) Language networks are profoundly altered in Deaf people who were not exposed to a signed language in early childhood
+    c) In survivors of left-hemisphere perinatal stroke, language is processed by the brain regions in the right hemisphere that correspond to the typical language areas in the left hemisphere
+    d) In multilinguals, the neural organization of language is affected by both (i) the age at which the person began acquiring the language, and (2) the person's proficiency level in the language
+2. Interpret new evidence that bears on the following issues: 
+   a) language networks in infancy
+   b) language networks in multilinguals
 
 :::
 
-| Date | Topic | Slides | Due | 
-| - | --- | - | --- |
-| Tues 10/20 | Children's language networks | |<span class="reading-badge">Newport & Getz 2025</span> |
-| Thurs 10/22 | Critical periods, language deprivation | 
-| Tues 10/27 | Perinatal stroke || <span class="article-badge">Newport et al. 2022</span> | 
-| Thurs 10/29 | Bilingualism | 
-| Tues 11/3 | Bilingualism || <span class="article-badge">Wartenburger et al. 2003</span>
-| Thurs 11/5 |  <span class="exam-badge">Exam #3</span>
+| Date | Topic | Slides | Due |
+| - | -- | - | -- |
+| Tues 10/20 | Children's language networks | | [Newport & Getz 2025]{.reading}
+| Thurs 10/22 | Critical periods & language deprivation | 
+| Friday 10/23 ||| [Article summary]{.controversy}
+| Tues 10/27 | Perinatal stroke || [Newport et al. 2022]{.article} | 
+| Thurs 10/29 | Bilingualism | | [TBD]{.reading}
+| Friday 10/30 ||| [Article summary]{.controversy}
+| Tues 11/3 | Bilingualism ||[Wartenburger et al. 2003]{.article}
+| Thurs 11/5 | [Exam #3]{.exam}
+| Fri 11/6 |||[Article summary]{.controversy}| | 
+{{< include _includes/legend.qmd >}}
 
 
 **Resources**

@@ -41,3 +41,13 @@ The course is designed to achieve the following overall learning outcomes:
 * An understanding of how research on language and the brain relates to broader societal issues
 
 Unit-specific learning goals are listed on their respective pages; see [schedule](schedule.md).
+
+## AI use statement
+
+I used ChatGPT to help me create this course website. This included asking for help with Quarto/Markdown code, CSS styling, page organization, and visual design elements. I also used ChatGPT to search for human-created teaching resources online, such as grading rubrics and ideas for teaching scientific literacy. Chat GPT generated the first draft of this AI use statement.
+
+I did not use AI to determine the content of the course, to create any of my lecture material, or to generate any of the exam questions.
+
+During the time when I was setting up this website, my friend group started sharing their Chat GPT responses to the prompt "roast me in one line". Here's what mine said:
+
+> You’ve spent enough time optimizing Quarto sidebars, badge CSS, and classroom interaction workflows that your students are probably getting a more carefully engineered user experience than most commercial software products.

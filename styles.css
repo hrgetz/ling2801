@@ -4,71 +4,86 @@
   margin-bottom: 0.75em;
 }
 
-.controversy-badge {
+.slides {
   display: inline-block;
   padding: 0.1rem 0.62rem;
   border-radius: 999px;
   font-size: 0.82rem;
   white-space: nowrap;
-  background-color: #fdfdfd;
+  background-color: #eaffdf;
+  text-decoration: none;
+  border: 1px solid #d8e9cf;
 }
 
-.controversy-badge::before {
-  content: "🔎 ";
+/*
+ color: var(--bs-link-color);
+  border: 1px solid var(--bs-link-color);
+*/
+
+
+.slides::after {
+  content: " ↗";
 }
 
-.exam-badge {
+.slides:hover {
+  color: var(--bs-link-hover-color);
+  text-decoration: none;
+  border-color: var(--bs-link-hover-color);
+  background-color: #ffffff;
+
+}
+
+.reading {
   display: inline-block;
   padding: 0.1rem 0.62rem;
-  border-radius: 999px;
+  border-radius: 5px;
+  font-size: 0.82rem;
+  white-space: nowrap;
+  background-color: #e8f4ffb8;
+}
+
+.reading::before {
+  content: "📖 ";
+}
+
+.article {
+  display: inline-block;
+  padding: 0.1rem 0.62rem;
+  border-radius: 5px;
+  font-size: 0.82rem;
+  white-space: nowrap;
+  background-color: #ffd3d390;
+}
+
+.article::before {
+  content: "🧠 ";
+}
+
+.exam {
+  display: inline-block;
+  padding: 0.1rem 0.62rem;
+  border-radius: 5px;
   font-size: 0.82rem;
   white-space: nowrap;
   background-color: #fffbc1;
 }
 
-.exam-badge::before {
+.exam::before {
   content: "✏️ ";
 }
 
-.article-badge {
+.controversy {
   display: inline-block;
   padding: 0.1rem 0.62rem;
-  border-radius: 999px;
+  border-radius: 5px;
   font-size: 0.82rem;
   white-space: nowrap;
-  background-color: #fdfdfd;
+  background-color: #ffd997aa;
 }
 
-.article-badge::before {
-  content: "🧠 ";
+.controversy::before {
+  content: "🔎 ";
 }
-
-.reading-badge {
-  display: inline-block;
-  padding: 0.1rem 0.62rem;
-  border-radius: 999px;
-  font-size: 0.82rem;
-  white-space: nowrap;
-  background-color: #fdfdfd;
-}
-
-.reading-badge::before {
-  content: "📖 ";
-}
-
-.blue-badge {
-  display: inline-block;
-  padding: 0.15em 0.5em;
-  margin-right: 0.35em;
-  border-radius: 999px;
-  line-height: 1.2;
-  border: 1px solid #b4b4b4;
-}
-
-.blue-badge::after {
-  content: " ↗";
-}
-
 
 .purple-badge {
   display: inline-block;
@@ -83,3 +98,19 @@
   border: 1px solid #cdbcf6;
 }
 
+.legend {
+  margin: 1rem 0 1rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 0.6rem;
+  background-color: #f8f8f84c;
+  font-size: 0.82rem;
+}
+
+.legend-grid {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 1rem;
+  row-gap: 0.3rem;
+  align-items: start;
+}

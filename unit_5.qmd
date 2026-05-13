@@ -9,7 +9,8 @@ title: "Wrapping up"
 
 | Date | Topic | Slides | Due |
 | -- | -- | -- | -- |
-| Thurs 12/3  | Explanatory frameworks | |<span class="reading-badge">Embick & Poeppel (2014)</span><br> [Submit questions](https://www.menti.com/bldf9ra1coas) |
-| Tues 12/8 | Researcher panel
+| Tues 12/1 | Frameworks | |[Embick & Poeppel 2014]{.reading}
+| Thurs 12/3 | Researcher panel | | [Submit questions](https://www.menti.com/bldf9ra1coas)
+| Tues 12/8 | [Presentations]{.controversy} |
 
-
+{{< include _includes/legend.qmd >}}

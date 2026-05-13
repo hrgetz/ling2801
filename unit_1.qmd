@@ -10,34 +10,52 @@ title: "Introduction"
 
 **Scientific Foundations**
 
+
 1. Recognize that there are multiple scientifically valid ways to study human language; identify scientific evidence relevant to understanding (i) how languages are organized structurally, (ii) how humans perceive and process language in real time, and (iii) the brain basis of language
-2. Define *localization*
-3. Summarize the classical model of language in the brain and describe the original evidence for that model
-4. Define *lateralization*
-5. Describe two methods that can be used to assess lateralization
-5. Explain the difference between *functional specialization* and *functional specificity*
-6. Summarize the approach of 19th-century phrenology, identify unscientific aspects of this approach, and give an example of the societal harm it caused 
+2. Define the following terms: *localization*, *lateralization*, *aphasia*
+3. Explain the difference between *functional specialization* and *functional specificity*
+4. Summarize the approach of 19th-century phrenology, identify unscientific aspects of this approach, and give an example of how this approach was used to cause societal harm 
+5. Summarize the classical model of language in the brain and describe the original evidence for that model
+
+**The toolbox**
+
+1. Explain the logic of the lesion/deficit mapping method
+2. Describe two methods that can be used to assess lateralization
+
+**Claim-evidence mapping**
+
+Describe scientific evidence for the following claim:  
+1. Language processing in humans is lateralized to the left hemisphere.
 
 **Brain Geography**
 
 1. Be able to roughly locate Broca's area and Wernicke's area on a side view of the brain
 2. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain; for each view, be able to tell which way the brain is "facing"
 3. "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
-
 :::
 
 | Date | Class Topic | Slides | Due |
 | -- | -- | -- | -- |
-| Thurs 8/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) | [↗](https://docs.google.com/presentation/d/1Sfffbc1-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit?slide=id.p#slide=id.p) |
-| Tues 9/1 | Studying language; types of evidence | [↗](https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit?slide=id.g3d40f98fbaf_3_0#slide=id.g3d40f98fbaf_3_0)| <span class="reading-badge">SGN Ch. 1, *Introduction* (p. 1-9)</span>
-| Thurs 9/3 | Localization, classical model | [↗](https://docs.google.com/presentation/d/17lZzHZe0HFpVxne9vD_WBngnSxhRwL6ujtAinhx3ULc/edit?slide=id.p#slide=id.p) | <span class="reading-badge">SGN Ch. 2, *The Toolbox* (p. 10-17)</span> 
+| Thurs 8/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) <br> Studying language; types of evidence | [][1]{.slides} | [SGN Ch. 1, *Introduction* (p. 1-9)]{.reading} | 
+| Tues 9/1 | Functional localization and phrenology | [][2]{.slides} | [SGN Ch. 1, *Introduction* (p. 10-17)]{.reading}  |
+| Thurs 9/3 | Brain geography | [][3]{.slides}| [SGN Ch. 2, *The Toolbox* (p. 18-25)]{.reading}
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Lateralization | [↗](https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?slide=id.p#slide=id.p)
-| Monday 9/14| | |<span class="controversy-badge">Choose issue</span>|
-| Tues 9/15 | Brain geography | [↗](https://docs.google.com/presentation/d/1OF3vQvqHdez7yOyLC89PxaUPbzD0EITDRsRl_dkVMsc/edit?slide=id.p#slide=id.p)| <span class="reading-badge">SGN Ch. 2, *The Toolbox* (p. 18-25)</span>
-| Thurs 9/17 | <span class="exam-badge">Exam #1</span> |
+| Thurs 9/10 | Lesion/deficit mapping; classical model |[][4]{.slides} | [SGN Ch. 2, *The Toolbox* (p. 27-31)]{.reading} |
+| Tues 9/15 | Sign language aphasia | [][5]{.slides} | [Hickok et al. 1998]{.reading}
+| Thurs 9/17 |  Lateralization | [][6]{.slides} | [*TBD*]{.reading} |
+| Tues 9/22 | [Exam #1]{.exam} |
 
 
+
+[1]:https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit
+[2]:https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit
+[3]:https://docs.google.com/presentation/d/1jyQqxVLcxgUTMdSuKAvVXysoGkv5phrmmoFLspAKKng/edit
+[4]:https://docs.google.com/presentation/d/1-ezBcrR7-fW8k9VVZgU28ZpjAFoxlYTB2a67PofzSqo/edit?slide=id.p#slide=id.p
+[5]:https://docs.google.com/presentation/d/1b5J07ecFhEIT58eD0hmq3WWEVxPnfBgvdifn58McDXs/edit?slide=id.p#slide=id.p
+[6]: https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?slide=id.p#slide=id.p
+
+
+{{< include _includes/legend.qmd >}}
 
 **Resources**
 
@@ -45,3 +63,4 @@ title: "Introduction"
 * [Neurotorium Brain Atlas](https://neurotorium.org/tool/brain-atlas/)
 * [UBC: The Cortex](https://www.neuroanatomy.ca/modules/Cortex/story.html)
 * [Dichotic listening task](https://learninglink.oup.com/access/content/sedivy-2e-student-resources/sedivy2e-chapter-3-web-activity-1?previousFilter=tag_chapter-03)
+* [UBC Aphasia Videos](https://neuroanatomy.ca/modules/Language/story.html)
