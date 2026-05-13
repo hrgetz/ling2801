@@ -31,10 +31,13 @@ website:
 
 #brite
 #united
+#yeti
+# journal
+# cerulean
 
 format:
   html:
-    theme: yeti
+    theme: brite
     css: styles.css
     toc: true
 
