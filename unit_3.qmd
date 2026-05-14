@@ -26,7 +26,8 @@ title: "Development of Language Networks"
 | Friday 10/30 ||| [Article summary]{.controversy}
 | Tues 11/3 | Bilingualism ||[Wartenburger et al. 2003]{.article}
 | Thurs 11/5 | [Exam #3]{.exam}
-| Fri 11/6 |||[Article summary]{.controversy}| | 
+| Fri 11/6 |||[Approved project format]{.controversy}| | 
+
 {{< include _includes/legend.qmd >}}
 
 

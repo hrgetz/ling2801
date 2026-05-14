@@ -14,8 +14,6 @@ website:
         text: Overview
       - href: requirements.qmd
         text: Requirements
-      - policies.qmd
-      - resources.qmd
       - section: "Schedule"
         href: schedule.md
         contents:
@@ -24,8 +22,10 @@ website:
           - unit_3.qmd
           - unit_4.qmd
           - unit_5.qmd
-      - abbreviations.qmd
       - readings.md
+      - policies.qmd
+      - resources.qmd
+      - abbreviations.qmd
   page-navigation: true
 
 

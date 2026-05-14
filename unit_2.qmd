@@ -28,7 +28,7 @@ title: "The language network"
 
 | Date | Topic | Slides | Due |
 | -- | -- | -- | -- |
-| Thurs 9/24 | Research design: hemodynamic methods | [][8]{.slides}| [SGN Ch. 2, *The Toolbox* (p. 25-27; 31-34)]{.reading}
+| Thurs 9/24 | Research design: hemodynamic methods | [][8]{.slides}| [SGN p. 25-27; 31-34]{.reading}
 | Friday 9/25 | ||[Choose a controversy]{.controversy}|
 | Tues 9/29 | Tour [CFMI](https://cfmi.georgetown.edu/) |
 | Thurs 10/1 | fMRI experimental design | | [Binder et al. 1997]{.article}
@@ -41,7 +41,6 @@ title: "The language network"
 | Friday 10/16 ||| [Article summary]{.controversy}
 
 {{< include _includes/legend.qmd >}}
-
 
 [8]: https://docs.google.com/presentation/d/1OF3vQvqHdez7yOyLC89PxaUPbzD0EITDRsRl_dkVMsc/edit?slide=id.p#slide=id.p
 

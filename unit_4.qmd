@@ -12,7 +12,7 @@ title: "Processing"
 | - | --- | - | --- |
 | Tues 11/10 |  Phonemes; categorical perception | | [SGN p. 39-40; p. 51-77]{.reading}
 | Thurs 11/12 | TMS; motor and speech | | [Möttönen & Watkins (2009)]{.article}
-| Friday 11/13 ||| [Get HRG approval of project format]{.controversy}
+| Friday 11/13 ||| [Researcher interview]{.due}
 | Tues 11/17 | Constituency in psycholinguistics || [SGN p. 139-155]{.reading}
 | Thurs 11/19 | Constituency in the brain || [Pallier et al. (2011)]{.article}
 | Tues 11/24 | [Exam #4]{.exam}

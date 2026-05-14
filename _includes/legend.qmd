@@ -1,10 +1,11 @@
-::: {.legend}
 
-[]{#legend-info}
-**Explanation of symbols and color-coding**
+<details class="custom-details">
+<summary>Explanation of symbols and color-coding</summary>
 
 <div class="legend-grid">
 
+  <div>[]{.slides}</div>
+  <div>Lecture slides are linked here. I will make them available the morning of the lecture.</div>
   <div>[]{.reading}</div>
   <div>This is a general background reading. Read this the usual way people read things, from start to finish.</div>
 
@@ -14,8 +15,11 @@
   <div>[]{.controversy}</div>
   <div>Something is due for your group project. See [Controversy Investigation](https://hrgetz.github.io/ling2801/requirements.html#paper) for more information.</div>
 
+  <div>[]{.due}</div>
+  <div>Some other thing is due.</div>
   <div>[]{.exam}</div>
   <div>There's an exam in class on this day. Remember to bring hard copies of any primary literature that we covered during this unit. You're allowed to use this during the exam.</div>
 
 </div>
-:::
+
+</details>

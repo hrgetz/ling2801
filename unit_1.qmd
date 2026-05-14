@@ -10,7 +10,6 @@ title: "Introduction"
 
 **Scientific Foundations**
 
-
 1. Recognize that there are multiple scientifically valid ways to study human language; identify scientific evidence relevant to understanding (i) how languages are organized structurally, (ii) how humans perceive and process language in real time, and (iii) the brain basis of language
 2. Define the following terms: *localization*, *lateralization*, *aphasia*
 3. Explain the difference between *functional specialization* and *functional specificity*
@@ -34,16 +33,22 @@ Describe scientific evidence for the following claim:
 3. "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
 :::
 
-| Date | Class Topic | Slides | Due |
+
+
+
+| Date | Class Topic | Due |
 | -- | -- | -- | -- |
-| Thurs 8/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) <br> Studying language; types of evidence | [][1]{.slides} | [SGN Ch. 1, *Introduction* (p. 1-9)]{.reading} | 
-| Tues 9/1 | Functional localization and phrenology | [][2]{.slides} | [SGN Ch. 1, *Introduction* (p. 10-17)]{.reading}  |
-| Thurs 9/3 | Brain geography | [][3]{.slides}| [SGN Ch. 2, *The Toolbox* (p. 18-25)]{.reading}
+| Thurs 8/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) <br> Studying language; types of evidence [][1]{.slides} |  [SGN p. 1-9]{.reading} | 
+| Tues 9/1 | Functional localization and phrenology [][2]{.slides} | [SGN p. 10-17]{.reading}  |
+| Thurs 9/3 | Brain geography [][3]{.slides} |  [SGN p. 18-25]{.reading}
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Lesion/deficit mapping; classical model |[][4]{.slides} | [SGN Ch. 2, *The Toolbox* (p. 27-31)]{.reading} |
-| Tues 9/15 | Sign language aphasia | [][5]{.slides} | [Hickok et al. 1998]{.reading}
-| Thurs 9/17 |  Lateralization | [][6]{.slides} | [*TBD*]{.reading} |
+| Thurs 9/10 | Lesion/deficit mapping; classical model [][4]{.slides} | [SGN p. 27-31]{.reading} |
+| Tues 9/15 | Sign language aphasia [][5]{.slides} | [Hickok et al. 1998]{.reading}
+| Thurs 9/17 |  Lateralization [][6]{.slides} | [*TBD*]{.reading} |
 | Tues 9/22 | [Exam #1]{.exam} |
+
+{{< include _includes/legend.qmd >}}
+
 
 
 
@@ -55,7 +60,7 @@ Describe scientific evidence for the following claim:
 [6]: https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?slide=id.p#slide=id.p
 
 
-{{< include _includes/legend.qmd >}}
+
 
 **Resources**
 
