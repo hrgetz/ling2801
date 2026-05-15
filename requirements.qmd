@@ -56,28 +56,8 @@ I'll always try to make clear whether a particular group assignment will be grad
 
 ## Controversy Investigation {#paper}
 
-Scientists don't fully understand how language works in the brain, and there are many areas of controversy and debate. Throughout the semester, in groups of 2 or 3, you will identify one such area; read and summarize ~5 scientific papers that represent a range of views on the issue; and come up with an idea for a follow-up study that would contribute new relevant evidence. At the end of the semester, you will submit some type of deliverable in which you summarize the conflicting evidence, propose your follow-up study, and explain how your proposed study would move the debate forward.
+See [here](controversy.qmd). 
 
-I'm open to a variety of formats for your final deliverable. Some examples: a short-form video for TikTok or Youtube, a longer educational video, a podcast episode, or a mock (scripted) debate among scientists. 
-
-**AI use**: In class, we will decide together what kinds of AI use, if any, are permissible for your final project. If we decide that some AI use is permissible, you must include an AI use statement with your submission. 
-
-::: {.callout-tip appearance=simple}
-# Ideas for controversies to investigate
-1. What is the function of Broca's area?
-2. Does bi/multilingualism protect against dementia? 
-3. Does the brain network for language overlap with the brain network for music/math/action?
-:::
-
-Here are some tentative deadlines (I will provide firm deadlines and additional guidance as the semester progresses):
-
-| Date | Assignment |
-| --- | --- |
-| Friday 9/25 | Identify an area of controversy to investigate |
-| Friday 10/2 | Submit a list of 5 relevant papers wth PDFs
-| October, November | Submit filled-out [summary sheets](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for the scientific papers |
-| Friday 11/13 | Get my approval of the format of your final deliverable | 
-| December | Submit final deliverable |
 
 ## Researcher Interview {#interview}
 

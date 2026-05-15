@@ -15,7 +15,7 @@ title: "The language network"
 
 1. Describe evidence for the following claims:  
     a) The same specific network of brain regions underlies language processing in all healthy individuals
-    b) Spoken languages and signed languages are processed by the same language network
+    b) Spoken languages and signed languages are processed by the same general language network
 
 2. Interpret new evidence that bears on the following issue:
     a) functional localization vs. functional specialization vs. functional specificity
@@ -26,19 +26,18 @@ title: "The language network"
 
 :::
 
-| Date | Topic | Slides | Due |
-| -- | -- | -- | -- |
-| Thurs 9/24 | Research design: hemodynamic methods | [][8]{.slides}| [SGN p. 25-27; 31-34]{.reading}
-| Friday 9/25 | ||[Choose a controversy]{.controversy}|
+| Date | Topic | Due |
+| -- | -- |  -- |
+| Thurs 9/24 | Research design: hemodynamic methods [][8]{.slides}| [SGN p. 25-27; 31-34]{.reading}
+| Friday 9/25 || [](controversy.qmd#project-timeline){.controversy}
 | Tues 9/29 | Tour [CFMI](https://cfmi.georgetown.edu/) |
-| Thurs 10/1 | fMRI experimental design | | [Binder et al. 1997]{.article}
-| Friday 10/2 |||[Bibliography]{.controversy}| | 
-| Tues 10/6 | fMRI activation maps || 
-| Thurs 10/8 | Sign language |  | [Petitto et al. 2000]{.article}
-| Friday 10/9 ||| [Article summary]{.controversy}
-| Tues 10/13 | Sign language |  | 
+| Thurs 10/1 | fMRI: experimental design | [Binder et al. 1997]{.article}
+| Friday 10/2 || [](controversy.qmd#project-timeline){.controversy}
+| Tues 10/6 | fMRI: interpreting activation maps || 
+| Thurs 10/8 | Sign language |  [Petitto et al. 2000]{.article}
+| Friday 10/9 || [](controversy.qmd#project-timeline){.controversy}
+| Tues 10/13 | Sign language |  
 | Thurs 10/15 | [Exam #2]{.exam} | 
-| Friday 10/16 ||| [Article summary]{.controversy}
 
 {{< include _includes/legend.qmd >}}
 

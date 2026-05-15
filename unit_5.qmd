@@ -12,5 +12,5 @@ title: "Wrapping up"
 | Thurs 12/3 | Researcher panel | | [Submit questions](https://www.menti.com/bldf9ra1coas)
 | Friday 12/4 || | [Panel reflection]{.due}
 | Tues 12/8 | [Presentations]{.controversy} | 
-
+| TBD | [Exam #4]{.exam}
 {{< include _includes/legend.qmd >}}

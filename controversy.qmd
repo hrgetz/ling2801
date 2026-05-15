@@ -1,0 +1,211 @@
+
+
+::: {.case-hero}
+::: {.case-hero-text}
+## Controversy Investigation
+
+Scientists don't fully understand how language works in the brain, and there are many areas of controversy and debate. Throughout the semester, in groups of 2 or 3, you will:
+
+* choose an area of controversy to investigate;
+* read a review/opinion piece explaining the issue;
+* study the evidence yourself, as reported in the primary literature;
+* come up with an idea for a follow-up study that would contribute new relevant evidence; and
+* present your findings and ideas to the class. 
+:::
+![](images/detective-cat.png){.case-hero-img}
+
+:::
+
+
+## Controversies
+
+::: {.case-grid}
+
+::: {.case-card}
+![](images/girl-detective-with-magnifying-glass.png){.case-icon}
+
+### Case #1  
+## What is the function of Broca's area?
+
+Fedorenko, E., & Blank, I. A. (2020). Broca’s area is not a natural kind. Trends in Cognitive Sciences, 24(4), 270–284.
+
+**Evidence:** 1, 2, 3.
+
+[Open case file](case-brocas.qmd){.case-button}
+:::
+
+::: {.case-card}
+![](images/little-boy-detective.png){.case-icon}
+
+### Case #2  
+## Does multilingualism protect the brain?
+
+Anderson, J. A. E., Hawrylewicz, K., & Grundy, J. G. (2020). Does bilingualism protect against dementia? A meta-analysis. Psychonomic Bulletin & Review, 27(5), 952–965.
+
+**Evidence:** 1, 2, 3.
+
+[Open case file](case-multilingualism.qmd){.case-button}
+:::
+
+::: {.case-card}
+![](images/little-girl-detective.png){.case-icon}
+
+### Case #3  
+## Are large language models like humans?
+
+Tuckute, G., Kanwisher, N., & Fedorenko, E. (2024). Language in brains, minds, and machines. Annual Review of Neuroscience, 47(1), 277–301.
+
+**Evidence:** 1, 2, 3.
+
+[Open case file](case-llms.qmd){.case-button}
+:::
+
+::: {.case-card}
+![](images/boy-detective-with-magnifying-glass.png){.case-icon}
+
+
+### Case #4  
+## What is the status of infants' language networks?
+
+Olson, H. A., Day, T. K. M., Hiersche, K. J., Manning, B. L., Bradley, H., Choi, S., Abdurokhmonova, G., McCormick, S. A., Conrad, A. L., Scheinost, D., & Vaughn, K. A. (2025). Utilizing functional neuroimaging to study early language development. Developmental Cognitive Neuroscience, 76(101641), 101641.
+
+**Evidence:** 1, 2, 3.
+
+[Open case file](case-sign-language.qmd){.case-button}
+:::
+
+:::
+
+
+
+
+## Project timeline
+
+::: {.project-timeline}
+
+::: {.timeline-item}
+::: {.timeline-date}
+Friday, 9/4
+:::
+::: {.timeline-content}
+### Select your case
+Form a group, identify the issue you'll investigate, and set up a shared Hypothes.is folder.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Friday, 9/11
+:::
+::: {.timeline-content}
+### Orientation
+* Read the review/opinion piece for your issue and annotate the article in Hypothes.is.
+* Meet with your group to go over the article and identify the most important evidence.
+
+:::
+:::
+
+
+::: {.timeline-item}
+::: {.timeline-date}
+Friday, 9/25
+:::
+::: {.timeline-content}
+### Source list
+* Submit a list of the 5 sources you want to study for yourselves. 
+* Include PDFs.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+:::
+
+::: {.timeline-content}
+### Article summary #1
+Submit a filled-out [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for Article #1.
+
+:::
+:::
+
+
+::: {.timeline-item}
+::: {.timeline-date}
+Friday, 10/9
+:::
+
+::: {.timeline-content}
+### Article summary #2
+Submit a filled-out [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for Article #2.
+
+:::
+:::
+
+
+
+::: {.timeline-item}
+::: {.timeline-date}
+October, November
+:::
+
+::: {.timeline-content}
+### Review the evidence
+:::
+:::
+
+
+::: {.timeline-item}
+::: {.timeline-date}
+Friday 11/13
+:::
+::: {.timeline-content}
+### Propose deliverable format
+Get my approval of the format of your final deliverable.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+December 8
+:::
+::: {.timeline-content}
+### Present the case
+Present your results to the class.
+:::
+:::
+
+
+
+
+:::
+
+
+
+## Final deliverable
+
+I'm open to a variety of formats for your final deliverable. Some examples: a short-form video for TikTok or Youtube, a longer educational video, a podcast episode, or a mock (scripted) debate among scientists. 
+
+
+Your final project may take several forms. Regardless of format, it must clearly explain the controversy, summarize competing evidence, propose a follow-up study, and explain how that study would move the debate forward.
+
+## AI use
+In class, we will decide together what kinds of AI use, if any, are permissible for your final project. If we decide that some AI use is permissible, you must include an AI use statement with your submission. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+::: {.credit}
+Detective graphics from [MyCuteGraphics](https://www.mycutegraphics.com/graphics/detective-images.html). Visual layout of this page by ChatGPT and HRG.
+:::
+

@@ -1,8 +1,8 @@
 ---
-title: "Introduction"
+title: "Foundation"
 ---
 ::: {.callout-tip collapse=true}
-# Learning Goals: Introduction
+# Learning Goals: Foundation
 **Course**
 
 1. Know who your professor is  
@@ -24,6 +24,7 @@ title: "Introduction"
 **Claim-evidence mapping**
 
 Describe scientific evidence for the following claim:  
+
 1. Language processing in humans is lateralized to the left hemisphere.
 
 **Brain Geography**
@@ -41,16 +42,15 @@ Describe scientific evidence for the following claim:
 | Thurs 8/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) <br> Studying language; types of evidence [][1]{.slides} |  [SGN p. 1-9]{.reading} | 
 | Tues 9/1 | Functional localization and phrenology [][2]{.slides} | [SGN p. 10-17]{.reading}  |
 | Thurs 9/3 | Brain geography [][3]{.slides} |  [SGN p. 18-25]{.reading}
+| Fri 9/4 || [](controversy.qmd#project-timeline){.controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
 | Thurs 9/10 | Lesion/deficit mapping; classical model [][4]{.slides} | [SGN p. 27-31]{.reading} |
+| Fri 9/11 || [](controversy.qmd#project-timeline){.controversy}
 | Tues 9/15 | Sign language aphasia [][5]{.slides} | [Hickok et al. 1998]{.reading}
-| Thurs 9/17 |  Lateralization [][6]{.slides} | [*TBD*]{.reading} |
+| Thurs 9/17 |  Lateralization [][6]{.slides} | [TBD]{.reading} |
 | Tues 9/22 | [Exam #1]{.exam} |
 
 {{< include _includes/legend.qmd >}}
-
-
-
 
 [1]:https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit
 [2]:https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit

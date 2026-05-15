@@ -15,7 +15,7 @@ title: "Processing"
 | Friday 11/13 ||| [Researcher interview]{.due}
 | Tues 11/17 | Constituency in psycholinguistics || [SGN p. 139-155]{.reading}
 | Thurs 11/19 | Constituency in the brain || [Pallier et al. (2011)]{.article}
-| Tues 11/24 | [Exam #4]{.exam}
+| Tues 11/24 | 
 
 {{< include _includes/legend.qmd >}}
 

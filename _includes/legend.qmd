@@ -1,7 +1,6 @@
 
 <details class="custom-details">
 <summary>Explanation of symbols and color-coding</summary>
-
 <div class="legend-grid">
 
   <div>[]{.slides}</div>
