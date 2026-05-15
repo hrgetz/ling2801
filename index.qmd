@@ -44,6 +44,7 @@ Unit-specific learning goals are listed on their respective pages; see [schedule
 
 ## AI use statement
 
+
 I used ChatGPT to:  
 
 * Help me create this course website by generating or revising Quarto/Markdown code, suggesting visual design elements, and creating CSS styles
