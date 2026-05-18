@@ -1,0 +1,58 @@
+::: {.case-grid}
+
+::: {.case-card}
+![](images/girl-detective-with-magnifying-glass.png){.case-icon}
+
+### Case #1  
+## What is the function of Broca's area?
+
+**Evidence:** 1, 2, 3.
+
+[Open case file](case-brocas.qmd){.case-button}
+:::
+
+::: {.case-card}
+![](images/little-boy-detective.png){.case-icon}
+
+### Case #2  
+## Does multilingualism protect the brain?
+
+**Evidence:** 1, 2, 3.
+
+[Open case file](case-multilingualism.qmd){.case-button}
+:::
+
+::: {.case-card}
+![](images/little-girl-detective.png){.case-icon}
+
+### Case #3  
+## Are large language models anything like humans?
+
+**Evidence:** 1, 2, 3.
+
+[Open case file](case-llms.qmd){.case-button}
+:::
+
+::: {.case-card}
+![](images/boy-detective-with-magnifying-glass.png){.case-icon}
+
+### Case #4  
+## What is the status of infants' language networks?
+
+**Evidence:** 1, 2, 3.
+
+[Open case file](case-sign-language.qmd){.case-button}
+:::
+
+::: {.case-card}
+![](images/boy-detective-with-magnifying-glass.png){.case-icon}
+
+
+### Case #5  
+## What is the function of neural oscillations?
+
+**Evidence:** 1, 2, 3.
+
+[Open case file](case-oscillations.qmd){.case-button}
+:::
+:::

@@ -1,5 +1,4 @@
 
-
 ::: {.case-hero}
 ::: {.case-hero-text}
 ## Controversy Investigation
@@ -7,77 +6,14 @@
 Scientists don't fully understand how language works in the brain, and there are many areas of controversy and debate. Throughout the semester, in groups of 2 or 3, you will:
 
 * choose an area of controversy to investigate;
-* read a review/opinion piece explaining the issue;
-* study the evidence yourself, as reported in the primary literature;
+* learn about the controversy from two secondary sources;
+* study the evidence yourself by reading primary sources;
 * come up with an idea for a follow-up study that would contribute new relevant evidence; and
 * present your findings and ideas to the class. 
 :::
-![](images/detective-cat.png){.case-hero-img}
-
+![](images/dog-detective.png){.case-hero-img}
 :::
-
-
-## Controversies
-
-::: {.case-grid}
-
-::: {.case-card}
-![](images/girl-detective-with-magnifying-glass.png){.case-icon}
-
-### Case #1  
-## What is the function of Broca's area?
-
-Fedorenko, E., & Blank, I. A. (2020). Broca’s area is not a natural kind. Trends in Cognitive Sciences, 24(4), 270–284.
-
-**Evidence:** 1, 2, 3.
-
-[Open case file](case-brocas.qmd){.case-button}
-:::
-
-::: {.case-card}
-![](images/little-boy-detective.png){.case-icon}
-
-### Case #2  
-## Does multilingualism protect the brain?
-
-Anderson, J. A. E., Hawrylewicz, K., & Grundy, J. G. (2020). Does bilingualism protect against dementia? A meta-analysis. Psychonomic Bulletin & Review, 27(5), 952–965.
-
-**Evidence:** 1, 2, 3.
-
-[Open case file](case-multilingualism.qmd){.case-button}
-:::
-
-::: {.case-card}
-![](images/little-girl-detective.png){.case-icon}
-
-### Case #3  
-## Are large language models like humans?
-
-Tuckute, G., Kanwisher, N., & Fedorenko, E. (2024). Language in brains, minds, and machines. Annual Review of Neuroscience, 47(1), 277–301.
-
-**Evidence:** 1, 2, 3.
-
-[Open case file](case-llms.qmd){.case-button}
-:::
-
-::: {.case-card}
-![](images/boy-detective-with-magnifying-glass.png){.case-icon}
-
-
-### Case #4  
-## What is the status of infants' language networks?
-
-Olson, H. A., Day, T. K. M., Hiersche, K. J., Manning, B. L., Bradley, H., Choi, S., Abdurokhmonova, G., McCormick, S. A., Conrad, A. L., Scheinost, D., & Vaughn, K. A. (2025). Utilizing functional neuroimaging to study early language development. Developmental Cognitive Neuroscience, 76(101641), 101641.
-
-**Evidence:** 1, 2, 3.
-
-[Open case file](case-sign-language.qmd){.case-button}
-:::
-
-:::
-
-
-
+<br>
 
 ## Project timeline
 
@@ -87,116 +23,177 @@ Olson, H. A., Day, T. K. M., Hiersche, K. J., Manning, B. L., Bradley, H., Choi,
 ::: {.timeline-date}
 Friday, 9/4
 :::
-::: {.timeline-content}
-### Select your case
-Form a group, identify the issue you'll investigate, and set up a shared Hypothes.is folder.
-:::
+
+Use the [sign-up sheet](https://docs.google.com/spreadsheets/d/17UFQqqh0q-MdIX-PkpcEkPZLdGvSFuJXIzyDlTQOjXQ/edit?gid=0#gid=0) to indicate which controversy you'd like to study. Max 3 students per group.
+
 :::
 
 ::: {.timeline-item}
 ::: {.timeline-date}
 Friday, 9/11
-:::
-::: {.timeline-content}
-### Orientation
-* Read the review/opinion piece for your issue and annotate the article in Hypothes.is.
-* Meet with your group to go over the article and identify the most important evidence.
+::: 
+Submit your **written AI policy** for my approval.  
+Submit a list of **two secondary sources** related to your topic (in APA style) as well as PDFs/links. At least one of these sources must be published in a peer-reviewed journal (e.g., review article, opinion piece). The other may be non-peer reviewed but must be approved by HRG (e.g., an episode of [*The Language Neuroscience Podcast*](https://langneurosci.org/podcast/)). 
 
 :::
-:::
-
 
 ::: {.timeline-item}
+
+::: {.timeline-date}
+Friday, 9/18
+:::
+Study for [Exam #1]{.exam}
+:::
+
+::: {.timeline-item}
+
 ::: {.timeline-date}
 Friday, 9/25
 :::
-::: {.timeline-content}
-### Source list
-* Submit a list of the 5 sources you want to study for yourselves. 
-* Include PDFs.
+*Recommendation:* Meet to discuss your secondary sources and start identifying the evidence you'd like to study for yourselves.
+
+
 :::
-:::
+
 
 ::: {.timeline-item}
 ::: {.timeline-date}
+Friday, 10/2
 :::
-
-::: {.timeline-content}
-### Article summary #1
-Submit a filled-out [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for Article #1.
+Submit a list of your **four primary sources** along with PDFs.
 
 :::
-:::
-
 
 ::: {.timeline-item}
 ::: {.timeline-date}
 Friday, 10/9
 :::
-
-::: {.timeline-content}
-### Article summary #2
-Submit a filled-out [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for Article #2.
-
-:::
-:::
-
-
-
-::: {.timeline-item}
-::: {.timeline-date}
-October, November
-:::
-
-::: {.timeline-content}
-### Review the evidence
-:::
+Study for [Exam #2]{.exam}
 :::
 
 
 ::: {.timeline-item}
 ::: {.timeline-date}
-Friday 11/13
+Friday, 10/16
 :::
-::: {.timeline-content}
-### Propose deliverable format
-Get my approval of the format of your final deliverable.
+
+Submit a filled-out [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for primary source #1
 :::
+
+
+::: {.timeline-item}
+::: {.timeline-date}
+Friday, 10/23
+:::
+
+Submit a filled-out [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for primary source #2
 :::
 
 ::: {.timeline-item}
 ::: {.timeline-date}
-December 8
+Friday, 10/30
 :::
-::: {.timeline-content}
-### Present the case
-Present your results to the class.
-:::
+
+Study for [Exam #3]{.exam}
 :::
 
 
+::: {.timeline-item}
+::: {.timeline-date}
+Friday, 11/6
+:::
 
+Submit a filled-out [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for primary source #3
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Friday, 11/13
+:::
+
+Submit a filled-out [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for primary source #4
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Friday, 11/20
+:::
+Get my approval of the format of your final deliverable
 
 :::
 
+::: {.timeline-item}
+::: {.timeline-date}
+Friday, 11/28
+:::
+
+*No class* 🦃 
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Friday, 12/4
+:::
+Work on your presentation
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Tuesday, 12/8
+:::
+
+Presentations!
+:::
+:::
+
+## Controversies
+
+Here are some examples of controversies. If you would like to study a controversy other than the ones listed below, please email me ASAP. I will need to confirm that (i) it's a real controversy and (ii) there exists enough relevant and accessible literature that you can do the project.
+
+<details>
+<summary>🔍 What is the function of Broca's area?</summary>
+(More info to be added)
+</details>
+
+<details>
+<summary>🔍 Does multilingualism protect the brain?</summary>
+(More info to be added)
+</details>
+
+<details>
+<summary>🔍 Are large language models anything like humans?</summary>
+(More info to be added)
+</details>
+
+<details>
+<summary>🔍 What is the status of infants' language networks?</summary>
+(More info to be added)
+</details>
+
+## Sources
+
+You will identify two **secondary sources** relevant to your topic. One of these must be published in a peer-reviewed journal (e.g., review article, opinion piece). The other may be non-peer reviewed but must be approved by HRG (e.g., an episode of [*The Language Neuroscience Podcast*](https://langneurosci.org/podcast/)). 
+
+Based on your secondary sources, you will identify the most important evidence on this topic, and the **primary sources** that report this evidence. You will then read the primary sources in order to evaluate the evidence for yourselves. All group members should read the paper independently and use Hypothes.is to annotate the paper and ask questions. If you still have questions after meeting in-person to try to figure it out, you may set up an appointment with me (ideally, all group members are present for this). Together, you will fill out a [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) to submit to me. 
+
+All references must be formatted in [APA style](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html).
+
+## Format
+
+I'm open to a variety of formats for your final deliverable. Some examples: a traditional slide-based presentation, a short-form video for TikTok or Youtube, a longer educational video, a podcast episode, or a mock (scripted) debate among scientists. 
 
 
-## Final deliverable
+## Use of AI
 
-I'm open to a variety of formats for your final deliverable. Some examples: a short-form video for TikTok or Youtube, a longer educational video, a podcast episode, or a mock (scripted) debate among scientists. 
+In your small groups, you will come up with your own policy on AI use. You will submit your written AI policy to me, and I will either approve it or ask you to revise the policy. I am open to a range of policies (including no AI use at all).
 
+If you would like to amend your group's AI policy throughout the semester, you may do so. Before you use AI in a way that is not consistent with your written policy, you must submit a revised AI policy to me and get my approval. 
 
-Your final project may take several forms. Regardless of format, it must clearly explain the controversy, summarize competing evidence, propose a follow-up study, and explain how that study would move the debate forward.
+If your small group decides to allow any AI use:
 
-## AI use
-In class, we will decide together what kinds of AI use, if any, are permissible for your final project. If we decide that some AI use is permissible, you must include an AI use statement with your submission. 
-
-
-
-
-
-
-
+* You must include an AI use statement with every single submission, detailing exactly how AI was used. 
+* You must keep records of AI use, including prompts and AI output. I reserve the right to request to see these if there is a question about whether your use of AI is consistent with your group's policy.
+* At the end of the semester, you must submit individual reflections (*not* generated by AI) on whether/how you think your group's use of AI affected your learning in this class.
 
 
 
@@ -206,6 +203,5 @@ In class, we will decide together what kinds of AI use, if any, are permissible 
 
 
 ::: {.credit}
-Detective graphics from [MyCuteGraphics](https://www.mycutegraphics.com/graphics/detective-images.html). Visual layout of this page by ChatGPT and HRG.
+Image credit: [MyCuteGraphics](https://www.mycutegraphics.com/graphics/detective-images.html)
 :::
-
