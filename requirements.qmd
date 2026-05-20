@@ -11,8 +11,7 @@ title: "Course Requirements"
 | 4%| [Researcher interview](#interview)  |
 | 1%| [Researcher panel](#panel)|
 
-<br>
-
+<p>
 
 ## Readings {#reading}
 There will be two types of readings. The specific readings are listed on that unit's page on the course site (see [Schedule](schedule.md)).
@@ -35,13 +34,13 @@ During class, I'll occasionally ask you to respond to questions in real time usi
 
 ## Exams {#exams}
 
-There will be four short in-person exams, each worth 12% of your grade. These are designed to assess your mastery of course content; your ability to map scientific evidence about language and the brain to theoretical claims; and your ability to interpret new evidence about language and the brain. Exams will cover lecture material, background readings, and the scientific articles that we worked through in class. 
+There will be four short in-person exams, each worth 12% of your grade. Tentative exam dates for each unit are listed on the corresponding unit page (see [schedule](schedule.md)). The exact timing of the exams may be adjusted depending on course needs.
 
 During exams, you are allowed to reference the hard copies of the scientific articles we covered during that unit. This includes any notes you have written on the copies.
 
-::: {.callout-important}
-# Exam dates
-**Tentative exam dates for each unit are listed on the corresponding unit page (see [schedule](schedule.md)).** The exact timing of the exams may be adjusted depending on course needs.
+::: {.callout-note}
+# What's on the exams? 
+**The exams are designed to measure your progress towards the specific learning goals that are listed on each unit's page.** In general, they are meant to assess your knowledge of foundational concepts, your ability to map scientific evidence about language and the brain to theoretical claims, and your ability to interpret new evidence. They will cover lecture material, background readings, and the scientific articles that we worked through in class. 
 :::
 
 ## Group work on scientific papers {#papers}
