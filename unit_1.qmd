@@ -35,22 +35,22 @@ Describe scientific evidence for the following claim:
 :::
 
 
-
+{{< include _includes/legend.qmd >}}
 
 | Date | Class Topic | Due |
 | -- | -- | -- | -- |
-| Thurs 8/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) <br> What is language?[][1]{.slides} |  [Baggio 2022](https://thereader.mitpress.mit.edu/finding-language-in-the-brain/) | 
-| Tues 9/1 | Localiation of function, phrenology [][2]{.slides} | [SGN p. 1-17]{.reading}  |
-| Thurs 9/3 | Brain geography [][3]{.slides} |  [SGN p. 18-25]{.reading}
-| Fri 9/4 || [](controversy.qmd#project-timeline){.controversy}
+| Thurs 8/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) <br> What is language? [][1]{.slides} |  [Baggio 2022](https://thereader.mitpress.mit.edu/finding-language-in-the-brain/) | 
+| Tues 9/1 | [Localization of function, phrenology]{.slides-text} [][2]{.slides} | [SGN p. 1-17]{.reading}  |
+| Thurs 9/3 | [Brain geography]{.slides-text} [][3]{.slides} |  [SGN p. 18-25]{.reading}
+| Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
 | Thurs 9/10 | Lesion/deficit mapping; classical model [][4]{.slides} | [SGN p. 27-31]{.reading} |
-| Fri 9/11 || [](controversy.qmd#project-timeline){.controversy}
+| Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.controversy}
 | Tues 9/15 | Sign language aphasia [][5]{.slides} | [Hickok et al. 1998]{.reading}
 | Thurs 9/17 |  Lateralization [][6]{.slides} | [TBD]{.reading} |
+| Friday 9/19 | | [Secondary sources](controversy.qmd#project-timeline){.controversy}
 | Tues 9/22 | [Exam #1]{.exam} |
 
-{{< include _includes/legend.qmd >}}
 
 [1]:https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit
 [2]:https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit
@@ -59,8 +59,7 @@ Describe scientific evidence for the following claim:
 [5]:https://docs.google.com/presentation/d/1b5J07ecFhEIT58eD0hmq3WWEVxPnfBgvdifn58McDXs/edit?slide=id.p#slide=id.p
 [6]: https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?slide=id.p#slide=id.p
 
-
-
+<br>
 
 **Resources**
 

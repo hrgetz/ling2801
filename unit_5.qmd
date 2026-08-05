@@ -5,12 +5,12 @@ title: "Wrapping up"
 # Learning Goals: Wrapping up
 (To be added)
 :::
-
-| Date | Topic | Slides | Due |
-| -- | -- | -- | -- |
-| Tues 12/1 | Frameworks | |[Embick & Poeppel 2014]{.reading}
-| Thurs 12/3 | Researcher panel | | [Submit questions](https://www.menti.com/bldf9ra1coas)
-| Friday 12/4 || | [Panel reflection]{.due}
-| Tues 12/8 | [Presentations]{.controversy} | 
-| TBD | [Exam #4]{.exam}
 {{< include _includes/legend.qmd >}}
+
+| Date | Topic |Due |
+| -- | -- |  -- |
+| Tues 12/1 | Frameworks | [Embick & Poeppel 2014]{.reading}
+| Thurs 12/3 | Researcher panel |  [Submit questions](https://www.menti.com/bldf9ra1coas)
+| Friday 12/4 ||  [Panel reflection]{.due}
+| Tues 12/8 || [Presentations](controversy.qmd#project-timeline){.controversy} |
+| TBD | [Exam #4]{.exam}
