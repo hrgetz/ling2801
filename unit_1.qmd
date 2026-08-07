@@ -29,9 +29,10 @@ Describe scientific evidence for the following claim:
 
 **Brain Geography**
 
-1. Be able to roughly locate Broca's area and Wernicke's area on a side view of the brain
-2. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain; for each view, be able to tell which way the brain is "facing"
-3. "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
+1. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain
+2. Tell which way a brain is "facing" in each of the three views
+3. Be able to roughly locate Broca's area and Wernicke's area on a side view of the brain
+4. (In progress) "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
 :::
 
 
@@ -39,8 +40,8 @@ Describe scientific evidence for the following claim:
 
 | Date | Class Topic | Due |
 | -- | -- | -- | -- |
-| Thurs 8/27 | [Syllabus](index.qmd), [assignments](requirements.qmd), [schedule](schedule.md) <br> What is language? [][1]{.slides} |  [Baggio 2022](https://thereader.mitpress.mit.edu/finding-language-in-the-brain/) | 
-| Tues 9/1 | [Localization of function, phrenology]{.slides-text} [][2]{.slides} | [SGN p. 1-17]{.reading}  |
+| Thurs 8/27 | Course Introduction [][1]{.slides} |  [Baggio 2022](https://drive.google.com/file/d/1N_GbrPWy_zkyM8BYVG33PeRk2NOkZm27/view?usp=drive_link){.reading} | 
+| Tues 9/1 | [Localization of function, phrenology]{.slides-text} [][2]{.slides} | [Morse 1997](https://drive.google.com/file/d/134F1_b1Tj3d4hOBl8t4Ww8-m9LYVy77P/view?usp=drive_link){.reading}  |
 | Thurs 9/3 | [Brain geography]{.slides-text} [][3]{.slides} |  [SGN p. 18-25]{.reading}
 | Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
