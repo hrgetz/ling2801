@@ -1,9 +1,15 @@
 ---
 title: "Foundation"
 ---
-::: {.callout-tip collapse=true}
-# Learning Goals: Foundation
+
+::: {.unit-card .goals-card}
+<details class="custom-details">
+<summary>
+Learning goals for this unit
+</summary>
+
 **Course**
+
 
 1. Know who your professor is  
 2. Know how I will assess your mastery of course content
@@ -33,34 +39,34 @@ Describe scientific evidence for the following claim:
 2. Tell which way a brain is "facing" in each of the three views
 3. Be able to roughly locate Broca's area and Wernicke's area on a side view of the brain
 4. (In progress) "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
+</details>
 :::
-
-
-{{< include _includes/legend.qmd >}}
 
 | Date | Class Topic | Due |
 | -- | -- | -- | -- |
 | Thurs 8/27 | Course Introduction [][1]{.slides} |  [Baggio 2022](https://drive.google.com/file/d/1N_GbrPWy_zkyM8BYVG33PeRk2NOkZm27/view?usp=drive_link){.reading} | 
-| Tues 9/1 | [Localization of function, phrenology]{.slides-text} [][2]{.slides} | [Morse 1997](https://drive.google.com/file/d/134F1_b1Tj3d4hOBl8t4Ww8-m9LYVy77P/view?usp=drive_link){.reading}  |
-| Thurs 9/3 | [Brain geography]{.slides-text} [][3]{.slides} |  [SGN p. 18-25]{.reading}
+| Tues 9/1 | Localization of function [][2]{.slides} | [Morse 1997](https://drive.google.com/file/d/134F1_b1Tj3d4hOBl8t4Ww8-m9LYVy77P/view?usp=drive_link){.reading}  |
+| Thurs 9/3 | Brain geography [][3]{.slides} |  [SGN p. 18-25]{.reading}
 | Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Lesion/deficit mapping; classical model [][4]{.slides} | [SGN p. 27-31]{.reading} |
+| Thurs 9/10 | Classical model [][4]{.slides} | [SGN p. 27-31]{.reading} |
 | Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.controversy}
-| Tues 9/15 | Sign language aphasia [][5]{.slides} | [Hickok et al. 1998]{.reading}
+| Tues 9/15 | Aphasia [][5]{.slides} | [Hickok et al. 1998]{.reading}
 | Thurs 9/17 |  Lateralization [][6]{.slides} | [TBD]{.reading} |
-| Friday 9/19 | | [Secondary sources](controversy.qmd#project-timeline){.controversy}
+| Friday 9/19 | | *Nothing due* 
 | Tues 9/22 | [Exam #1]{.exam} |
-
 
 [1]:https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit
 [2]:https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit
 [3]:https://docs.google.com/presentation/d/1jyQqxVLcxgUTMdSuKAvVXysoGkv5phrmmoFLspAKKng/edit
 [4]:https://docs.google.com/presentation/d/1-ezBcrR7-fW8k9VVZgU28ZpjAFoxlYTB2a67PofzSqo/edit?slide=id.p#slide=id.p
-[5]:https://docs.google.com/presentation/d/1b5J07ecFhEIT58eD0hmq3WWEVxPnfBgvdifn58McDXs/edit?slide=id.p#slide=id.p
-[6]: https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?slide=id.p#slide=id.p
+[5]:https://docs.google.com/presentation/d/1b5J07ecFhEIT58eD0hmq3WWEVxPnfBgvdifn58McDXs/edit?usp=drive_link
+[6]:https://docs.google.com/presentation/d/1aS6poppc09Fypp4Ub3aRg-zq64Uw7RE2-BWze0dV_30/edit?usp=drive_link
 
-<br>
+
+{{< include _includes/legend.qmd >}}
+
+::: {.unit-card}
 
 **Resources**
 
@@ -69,3 +75,4 @@ Describe scientific evidence for the following claim:
 * [UBC: The Cortex](https://www.neuroanatomy.ca/modules/Cortex/story.html)
 * [Dichotic listening task](https://learninglink.oup.com/access/content/sedivy-2e-student-resources/sedivy2e-chapter-3-web-activity-1?previousFilter=tag_chapter-03)
 * [UBC Aphasia Videos](https://neuroanatomy.ca/modules/Language/story.html)
+:::

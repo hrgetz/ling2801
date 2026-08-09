@@ -80,24 +80,18 @@ Submit your written AI policy for my approval.
 
 ::: {.timeline-item}
 ::: {.timeline-date}
-Identify secondary sources
+Secondary sources
 :::
 
-Submit a list of two secondary sources related to your topic (in APA style) as well as PDFs/links. 
-:::
-
-::: {.timeline-item}
-::: {.timeline-date}
-Notes on secondary sources
-:::
-Submit some informal notes from your secondary sources (further instructions will be provided).
+Study two secondary sources related to your topic. Submit a document that includes the references (in APA style) and some informal notes (further instructions will be provided). Please also submit PDFs/links for the sources.
 :::
 
 ::: {.timeline-item}
 ::: {.timeline-date}
-Identify primary sources
+Primary sources
 :::
-Submit a list of your four primary sources along with PDFs.
+Submit a list of 5-10 primary sources along with PDFs. Include a sentence about each source explaining its importance/relevance. You will choose four of these to review closely.
+
 :::
 
 
@@ -105,22 +99,22 @@ Submit a list of your four primary sources along with PDFs.
 ::: {.timeline-date}
 Paper summaries
 :::
-Submit a filled-out [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for each of your primary sources.
+Submit a filled-out [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for each of your four primary sources.
 :::
 
 ::: {.timeline-item}
 ::: {.timeline-date}
 Format
 :::
-Get my approval of the format of your final deliverable
+Get HRG's approval of the format of your final deliverable.
 :::
 
 
 ::: {.timeline-item}
 ::: {.timeline-date}
-Presentations!
+Presentations
 :::
-Present your final deliverable in class
+Present your final deliverable in class!
 :::
 
 

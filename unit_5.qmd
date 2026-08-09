@@ -9,8 +9,11 @@ title: "Wrapping up"
 
 | Date | Topic |Due |
 | -- | -- |  -- |
-| Tues 12/1 | Frameworks | [Embick & Poeppel 2014]{.reading}
+| Tues 12/1 | Frameworks [][21]{.slides} | [Embick & Poeppel 2014]{.reading}
 | Thurs 12/3 | Researcher panel |  [Submit questions](https://www.menti.com/bldf9ra1coas)
 | Friday 12/4 ||  [Panel reflection]{.due}
 | Tues 12/8 || [Presentations](controversy.qmd#project-timeline){.controversy} |
 | TBD | [Exam #4]{.exam}
+
+
+[21]:https://docs.google.com/presentation/d/1DO98RvebDiw2ZDgDk9Au0ipXh8stk_DfqESRdY19kZI/edit?usp=drive_link

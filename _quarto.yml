@@ -29,14 +29,12 @@ website:
   page-navigation: true
 
 
-#briteq
-#united
-#yeti
-# journal
+# brite
+# yeti
 # cerulean
 
 format:
   html:
-    theme: brite
+    theme: cerulean
     css: styles.css
     toc: true
