@@ -2,13 +2,10 @@
 title: "Processing"
 ---
 
-::: {.callout-tip collapse=true appearance=simple}
-# Learning Goals
-(To be added)
 
+::: {.callout-tip collapse=true}
+# Learning goals for this unit
 :::
-
-{{< include _includes/legend.qmd >}}
 
 | Date | Topic |  Due |
 | - | --- | --- |
@@ -21,16 +18,19 @@ title: "Processing"
 | Tues 11/24 | TBD
 
 
-
 [17]:https://docs.google.com/presentation/d/1WHyxYBx8tDZfwiO8XIs77jw_PCBqKFoNibh1i5dPj3o/edit?usp=drive_link
 [18]:https://docs.google.com/presentation/d/1FfvsOfZnnThNHKty7tkGnkX0VTXNP52T9S1FzzPCRr8/edit?usp=drive_link
 [19]:https://docs.google.com/presentation/d/1uazlg7TY-kE46UZHPluNJzPfIBowFjMZvQwKtYUP7ls/edit?usp=drive_link
 [20]:https://docs.google.com/presentation/d/14ts_qWc8MWS1DKYGt7pTv5ol86jUo7lbpXWExmrhVAY/edit?usp=drive_link
-[21]:https://docs.google.com/presentation/d/1DO98RvebDiw2ZDgDk9Au0ipXh8stk_DfqESRdY19kZI/edit?usp=drive_link
 
+
+{{< include _includes/legend.qmd >}}
+
+::: {.unit-card}
 
 **Resources** 
 
 * [Categorical Perception stimuli](https://splab.net/apd/u100/)
 * [The McGurk effect](https://www.intro2psycholing.net/resources/McGurk/McGurk1.php)
 * [The phoneme restoration effect](https://learninglink.oup.com/access/content/sedivy-2e-student-resources/sedivy2e-chapter-7-web-activity-4?previousFilter=tag_activities)
+:::

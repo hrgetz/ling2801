@@ -2,9 +2,9 @@
 title: "Development"
 ---
 
-::: {.callout-tip collapse=true appearance=simple}
+::: {.callout-tip collapse=true}
+# Learning goals for this unit
 
-# Learning Goals
 1. Describe evidence for the following claims:  
     a) Children’s language networks develop gradually
     b) Language experience early in life is necessary for the development of the language network in the brain
@@ -15,8 +15,6 @@ title: "Development"
    b) language networks in multilinguals
 
 :::
-
-{{< include _includes/legend.qmd >}}
 
 | Date | Topic | Due |
 | - | -- | -- |
@@ -35,8 +33,15 @@ title: "Development"
 [15]:https://docs.google.com/presentation/d/154B6Gz0wpxkSapXlS-dOMPQTWUcXguw0kJwa6YpRaQg/edit?usp=drive_link
 [16]:https://docs.google.com/presentation/d/155LyzzqRiBYFCaDmzmEqvVo46FVq99VSZCBX-1Cjup8/edit?usp=drive_link
 
+
+{{< include _includes/legend.qmd >}}
+
+::: {.unit-card}
+
 **Resources**
 
 * [BrainFacts.org: Critical periods](https://www.brainfacts.org/archives/2012/critical-periods)
 * [PBS: Deaf advocates say learning sign language early is crucial](https://www.pbs.org/video/deaf-learning-1687030137/)
 * [Stroke.org: Perinatal stroke](https://www.stroke.org.uk/stroke/childhood/stroke-unborn-newborn-babies-perinatal-stroke)
+
+:::

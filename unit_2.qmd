@@ -1,11 +1,10 @@
 ---
 title: "The language network"
 ---
-::: {.unit-card .goals-card}
-<details class="custom-details">
-<summary>
-Learning goals for this unit
-</summary>
+
+::: {.callout-tip collapse=true}
+# Learning goals for this unit
+
  
 **The toolbox**
 

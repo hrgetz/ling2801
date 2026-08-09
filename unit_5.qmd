@@ -5,7 +5,7 @@ title: "Wrapping up"
 # Learning Goals: Wrapping up
 (To be added)
 :::
-{{< include _includes/legend.qmd >}}
+
 
 | Date | Topic |Due |
 | -- | -- |  -- |
@@ -15,5 +15,7 @@ title: "Wrapping up"
 | Tues 12/8 || [Presentations](controversy.qmd#project-timeline){.controversy} |
 | TBD | [Exam #4]{.exam}
 
-
 [21]:https://docs.google.com/presentation/d/1DO98RvebDiw2ZDgDk9Au0ipXh8stk_DfqESRdY19kZI/edit?usp=drive_link
+
+
+{{< include _includes/legend.qmd >}}
