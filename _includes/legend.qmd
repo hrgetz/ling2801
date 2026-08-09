@@ -1,25 +1,25 @@
 
 ::: {.unit-card .legend-card}
 
-**Symbols and color-coding**
+**Legend**
 
 <div class="legend-grid">
 
   <div>[]{.slides}</div>
   <div>Lecture slides</div>
   <div>[]{.reading}</div>
-  <div>Read normally. SGN = the textbook.</div>
+  <div>Read normally (SGN = the textbook)</div>
 
   <div>[]{.article}</div>
-  <div>Read [like this](https://hrgetz.github.io/guide.html) and [take notes](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0).
+  <div>[Study the article](https://hrgetz.github.io/guide.html) and [take notes](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0)
   </div>
   <div>[]{.controversy}</div>
-  <div>Something is due for your [group project](https://hrgetz.github.io/ling2801/controversy.html#project-timeline).</div>
+  <div>Project deadline</div>
 
   <div>[]{.due}</div>
-  <div>Some other thing is due.</div>
+  <div>Some other thing is due</div>
   <div>[]{.exam}</div>
-  <div>Exam. Bring hard copies of the articles.</div>
+  <div>Exam</div>
 
 </div>
 :::

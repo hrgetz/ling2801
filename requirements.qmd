@@ -20,7 +20,8 @@ There will be two types of readings. The specific readings are listed on that un
 
 2. Scientific articles: We'll also read some primary literature (real scientific papers). These will be dense and technical. It is very important to review these papers before class; otherwise, you will struggle to contribute to your group's in-class work. But don't worry if (when) there are parts you don't understand. We will work through the papers together in class.
 
-Hard copies of the articles will be handed out in class. You may reference these hard copies, along with any notes you've written on them, during in-class exams.
+Hard copies of the articles will be handed out in class. You may reference these hard copies, along with any notes you've written on them, during in-class [exams](#exams).
+
 
 ::: {.callout-tip}
 # Tips for reading scientific papers
@@ -36,7 +37,7 @@ During class, I'll occasionally ask you to respond to questions in real time usi
 
 There will be four short in-person exams, each worth 12% of your grade. Tentative exam dates for each unit are listed on the corresponding unit page (see [schedule](schedule.md)). The exact timing of the exams may be adjusted depending on course needs.
 
-During exams, you are allowed to reference the hard copies of the scientific articles we covered during that unit. This includes any notes you have written on the copies.
+During exams, you are allowed to reference the printed copies of the scientific articles we covered during that unit, including any notes you have written on those copies. You are also allowed to reference a printed [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0).
 
 ::: {.callout-note}
 # What's on the exams? 
@@ -49,7 +50,7 @@ A significant portion of class will be dedicated to small group work. The groups
 
 Sometimes, you will work together to practice applying concepts from the readings/lectures. That work will not be graded. 
 
-Other times, you will work with your group members to understand and summarize the scientific papers on the reading list. For example, you may be asked to create a visual aid showing how a study worked, or to use a brain atlas to visualize which brain regions were active during a particular experiment. This work will be graded. 
+Other times, you will work with your group members to understand and interpret evidence from the scientific papers on the reading list. For example, you may be asked to create a visual aid showing how a study worked, or to use a brain atlas to visualize which brain regions were active during a particular experiment. This work will be graded. 
 
 I'll always try to make clear whether a particular group assignment will be graded or not, but feel free to ask if I forget.
 

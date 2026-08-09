@@ -5,43 +5,43 @@ title: "The language network"
 ::: {.callout-tip collapse=true}
 # Learning goals for this unit
 
- 
 **The toolbox**
 
-1. Explain in general terms what is measured by fMRI and PET studies
-2. Explain the logic of the subtraction method used in fMRI and PET studies
-3. Orient to a figure showing brain activation in an fMRI or PET study and explain which view(s) of the brain are being shown and what the colors represent
+1. Explain in simple terms what is measured by fMRI and PET studies
+2. Explain the logic of the subtraction method
+3. Given a figure showing brain activation in an fMRI or PET study:
+    a) State which view of the brain is being shown
+    b) Indicate which way the brain is "facing"
+    c) Explain what the colors represent
 4. Use a brain atlas to translate between XYZ coordinates and anatomical landmarks
 
 **Claim-evidence mapping**
 
 1. Describe evidence for the following claims:  
-    a) The same specific network of brain regions underlies language processing in all healthy individuals
-    b) Spoken languages and signed languages are processed by the same general language network
+    a) The specific brain regions used for language processing are the same for all healthy adults
+    b) Spoken languages and signed languages are processed by the same language network
 
-2. Interpret new evidence that bears on the following issue:
-    a) functional localization vs. functional specialization vs. functional specificity
+2. Given new evidence from an fMRI or PET study, indicate whether the evidence supports functional localization, functional specialization, or functional specificity
 
 **Brain geography**
 
-1. State the main regions of the brain that are involved in language processing, using neuroanatomical and directional terms, and locate these regions on saggital, coronal, and axial slices of the brain
+1. "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
+2. State the main regions of the brain that are involved in language processing, using neuroanatomical and directional terms, and locate these regions on saggital, coronal, and axial slices of the brain
 
-</details>
 :::
-
 
 
 | Date | Topic | Due |
 | -- | -- |  -- |
-| Thurs 9/24 | Research design: hemodynamic methods [][7]{.slides}| [SGN p. 25-27; 31-34]{.reading} 
+| Thurs 9/24 | Hemodynamic imaging [][7]{.slides}| [SGN p. 25-27; 31-34]{.reading} 
 | Friday 9/25 || [Secondary sources](controversy.qmd#project-timeline){.controversy}
-| Tues 9/29 | Tour [CFMI](https://cfmi.georgetown.edu/) |
-| Thurs 10/1 | fMRI: experimental design [][8]{.slides}| [Binder et al. 1997]{.article}
+| Tues 9/29 | Tour of [CFMI](https://cfmi.georgetown.edu/) |
+| Thurs 10/1 | The subtraction method [][8]{.slides}| [Binder et al. 1997]{.article}
 | Friday 10/2 || [Primary sources](controversy.qmd#project-timeline){.controversy}
-| Tues 10/6 | fMRI: interpreting activation maps [][9]{.slides} || 
-| Thurs 10/8 | Sign language [][10]{.slides}|  [Petitto et al. 2000]{.article}
+| Tues 10/6 | Brain activity maps [][9]{.slides} || 
+| Thurs 10/8 | The supramodal language network [][10]{.slides}|  [Petitto et al. 2000]{.article}
 | Friday 10/9 || [Summary #1](controversy.qmd#project-timeline){.controversy}
-| Tues 10/13 | Sign language [][11]{.slides}|  
+| Tues 10/13 | Activation in 3D [][11]{.slides}|  
 | Thurs 10/15 | [Exam #2]{.exam} | 
 
 

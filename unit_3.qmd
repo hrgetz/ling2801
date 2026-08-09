@@ -10,9 +10,8 @@ title: "Development"
     b) Language experience early in life is necessary for the development of the language network in the brain
     c) Damage to the left-hemisphere language network during infancy causes language to be processed in a mirror-image right-hemisphere network
     d) In multilinguals, brain processing of language is affected by (i) the age at which the person began acquiring the language and also (ii) the person's proficiency level in the language
-2. Interpret new evidence that is relevant to understanding: 
-   a) language networks in infancy
-   b) language networks in multilinguals
+
+2. Based on a description of a new study of language network development, interpret an unfamiliar brain activation figure and state a claim that is supported by the evidence
 
 :::
 

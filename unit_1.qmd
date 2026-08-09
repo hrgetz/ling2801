@@ -8,7 +8,6 @@ title: "Foundation"
 
 **Course**
 
-
 1. Know who your professor is  
 2. Know how I will assess your mastery of course content
 
@@ -16,9 +15,8 @@ title: "Foundation"
 
 1. Recognize that there are multiple scientifically valid ways to study human language; identify scientific evidence relevant to understanding (i) how languages are organized structurally, (ii) how humans perceive and process language in real time, and (iii) the brain basis of language
 2. Define the following terms: *localization*, *lateralization*, *aphasia*
-3. Explain the difference between *functional specialization* and *functional specificity*
-4. Summarize the approach of 19th-century phrenology, identify unscientific aspects of this approach, and give an example of how this approach was used to cause societal harm 
-5. Summarize the classical model of language in the brain and describe the original evidence for that model
+3. Compare the methodology of Franz Joseph Gall and Paul Broca; give an example of how Gall's approach caused societal harm
+4. Summarize the classical model of language in the brain and describe the original evidence for that model
 
 **The toolbox**
 
@@ -36,7 +34,6 @@ Describe scientific evidence for the following claim:
 1. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain
 2. Tell which way a brain is "facing" in each of the three views
 3. Be able to roughly locate Broca's area and Wernicke's area on a side view of the brain
-4. (In progress) "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
 </details>
 :::
 

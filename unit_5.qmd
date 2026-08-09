@@ -11,7 +11,7 @@ title: "Wrapping up"
 | -- | -- |  -- |
 | Tues 12/1 | Researcher panel |  [Submit questions](https://www.menti.com/bldf9ra1coas)
 | Thurs 12/3 | Wrap up
-| Friday 12/4 ||  [Panel reflection]{.due}
+| Friday 12/4 ||  [Panel reflection](requirements.qmd#panel){.due}
 | Tues 12/8 | | [Presentations](controversy.qmd#project-timeline){.controversy} |
 | TBD | [Exam #4]{.exam}
 
