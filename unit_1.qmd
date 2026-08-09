@@ -62,6 +62,8 @@ Describe scientific evidence for the following claim:
 [6]:https://docs.google.com/presentation/d/1aS6poppc09Fypp4Ub3aRg-zq64Uw7RE2-BWze0dV_30/edit?usp=drive_link
 
 
+:::: {.unit-card-row}
+
 {{< include _includes/legend.qmd >}}
 
 ::: {.unit-card}
@@ -74,3 +76,5 @@ Describe scientific evidence for the following claim:
 * [Dichotic listening task](https://learninglink.oup.com/access/content/sedivy-2e-student-resources/sedivy2e-chapter-3-web-activity-1?previousFilter=tag_chapter-03)
 * [UBC Aphasia Videos](https://neuroanatomy.ca/modules/Language/story.html)
 :::
+
+::::

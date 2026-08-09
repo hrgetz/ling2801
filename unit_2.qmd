@@ -51,8 +51,10 @@ title: "The language network"
 [10]:https://docs.google.com/presentation/d/1fe8GV5iBIoJfMWF1bk2yDWBOqVyg3Esz9ZkA-qvKJ9I/edit?usp=drive_link
 [11]:https://docs.google.com/presentation/d/1VcpT2mQG-eJe2xaEpM2LhYLInEsmlXOksULvLj1TvVQ/edit?usp=drive_link
 
-{{< include _includes/legend.qmd >}}
 
+:::: {.unit-card-row}
+
+{{< include _includes/legend.qmd >}}
 
 ::: {.unit-card}
 
@@ -66,3 +68,5 @@ title: "The language network"
 * [BrainMap](https://www.brainmap.org/)
 
 :::
+
+::::

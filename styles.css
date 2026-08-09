@@ -230,6 +230,26 @@
   margin-bottom: 0;
 }
 
-.goals-card {
-  max-width: 80rem;
+
+/* Legend and Resources side by side */
+.unit-card-row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  align-items: stretch;
+  margin: 1.5rem 0;
+}
+
+.unit-card-row .unit-card {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Stack the cards on smaller screens */
+@media (max-width: 768px) {
+  .unit-card-row {
+    grid-template-columns: 1fr;
+  }
 }
