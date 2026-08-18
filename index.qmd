@@ -47,7 +47,7 @@ Unit-specific learning goals are listed on their respective pages; see [schedule
 I used ChatGPT to:  
 
 * Help me create this course website by generating or revising Quarto/Markdown code, suggesting visual design elements, and creating CSS styles
-* Search for human-created teaching resources online, such as grading rubrics and small group activities
+* Search for human-created teaching resources online, such as small group activities and discussion questions
 * Identify new tools I can use in class, like Mentimeter
 * Brainstorm ideas for class logistics, such as making your small group work products accessible to each other
 * Generate the first draft of this AI use statement
