@@ -11,24 +11,6 @@ title: "Foundation"
 1. Know who your professor is  
 2. Know how I will assess your mastery of course content
 
-**Scientific Foundations**
-
-1. Distinguish evidence, inferences, and ideas in scientific text
-2. Define the following terms: *localization*, *lateralization*, *aphasia*
-3. Compare the methodology of Franz Joseph Gall and Paul Broca; give an example of how Gall's approach caused societal harm
-4. Summarize the classical model of language in the brain and describe the original evidence for that model
-
-**The toolbox**
-
-1. Explain the logic of the lesion/deficit mapping method
-2. Describe two methods that can be used to assess lateralization
-
-**Claim-evidence mapping**
-
-Describe scientific evidence for the following claim:  
-
-1. Language processing in humans is lateralized to the left hemisphere.
-
 **Brain Anatomy**
 
 1. Name and identify
@@ -40,7 +22,21 @@ Describe scientific evidence for the following claim:
 4. On a coronal cross-section of the brain, identify the following: gyri, sulci, white matter, grey matter
 5. (In progress) "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
 
-</details>
+**Scientific Foundations**
+
+1. Distinguish evidence, inferences, and ideas in scientific text
+2. Define the following terms: *localization*, *lateralization*, *aphasia*
+3. Compare the methodology of Franz Joseph Gall and Paul Broca; give an example of how Gall's approach caused societal harm
+4. Summarize the classical model of language in the brain and describe the original evidence for that model
+
+**The toolbox**
+
+1. Explain the logic of the lesion/deficit mapping method
+2. Describe two methods that can be used to assess lateralization of language
+
+**Claim-evidence mapping**
+
+Describe scientific evidence for the following claim:  Language processing in humans is lateralized to the left hemisphere.
 :::
 
 | Date | Class Topic | Due |
