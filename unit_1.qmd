@@ -13,7 +13,7 @@ title: "Foundation"
 
 **Scientific Foundations**
 
-1. Recognize that there are multiple scientifically valid ways to study human language; identify scientific evidence relevant to understanding (i) how languages are organized structurally, (ii) how humans perceive and process language in real time, and (iii) the brain basis of language
+1. Distinguish evidence, inferences, and ideas in scientific text
 2. Define the following terms: *localization*, *lateralization*, *aphasia*
 3. Compare the methodology of Franz Joseph Gall and Paul Broca; give an example of how Gall's approach caused societal harm
 4. Summarize the classical model of language in the brain and describe the original evidence for that model
@@ -40,20 +40,20 @@ Describe scientific evidence for the following claim:
 | Date | Class Topic | Due |
 | -- | -- | -- | -- |
 | Thurs 8/27 | Course Introduction [][1]{.slides} |  [Baggio 2022](https://drive.google.com/file/d/1N_GbrPWy_zkyM8BYVG33PeRk2NOkZm27/view?usp=drive_link){.reading} | 
-| Tues 9/1 | Localization of function [][2]{.slides} | [Morse 1997](https://drive.google.com/file/d/134F1_b1Tj3d4hOBl8t4Ww8-m9LYVy77P/view?usp=drive_link){.reading}  |
-| Thurs 9/3 | Brain geography [][3]{.slides} |  [SGN p. 18-25]{.reading}
+| Tues 9/1 | Brain geography [][2]{.slides} |  [SGN p. 18-25]{.reading}
+| Thurs 9/3 | Localization of function [][3]{.slides} | [Morse 1997](https://drive.google.com/file/d/134F1_b1Tj3d4hOBl8t4Ww8-m9LYVy77P/view?usp=drive_link){.reading}  |
 | Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Classical model [][4]{.slides} | [SGN p. 27-31]{.reading} |
+| Thurs 9/10 | Classical model, aphasia [][4]{.slides} | [SGN p. 27-31]{.reading} |
 | Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.controversy}
-| Tues 9/15 | Aphasia [][5]{.slides} | [Hickok et al. 1998]{.reading}
+| Tues 9/15 | Aphasia, continued [][5]{.slides} | [Hickok et al. 1998]{.reading}
 | Thurs 9/17 |  Lateralization [][6]{.slides} | [TBD]{.reading} |
 | Friday 9/19 | | *Nothing due* 
 | Tues 9/22 | [Exam #1]{.exam} |
 
 [1]:https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit
-[2]:https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit
-[3]:https://docs.google.com/presentation/d/1jyQqxVLcxgUTMdSuKAvVXysoGkv5phrmmoFLspAKKng/edit
+[2]:https://docs.google.com/presentation/d/1jyQqxVLcxgUTMdSuKAvVXysoGkv5phrmmoFLspAKKng/edit
+[3]:https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit
 [4]:https://docs.google.com/presentation/d/1-ezBcrR7-fW8k9VVZgU28ZpjAFoxlYTB2a67PofzSqo/edit?slide=id.p#slide=id.p
 [5]:https://docs.google.com/presentation/d/1b5J07ecFhEIT58eD0hmq3WWEVxPnfBgvdifn58McDXs/edit?usp=drive_link
 [6]:https://docs.google.com/presentation/d/1aS6poppc09Fypp4Ub3aRg-zq64Uw7RE2-BWze0dV_30/edit?usp=drive_link
@@ -72,6 +72,7 @@ Describe scientific evidence for the following claim:
 * [UBC: The Cortex](https://www.neuroanatomy.ca/modules/Cortex/story.html)
 * [Dichotic listening task](https://learninglink.oup.com/access/content/sedivy-2e-student-resources/sedivy2e-chapter-3-web-activity-1?previousFilter=tag_chapter-03)
 * [UBC Aphasia Videos](https://neuroanatomy.ca/modules/Language/story.html)
+* [Neuroscientifically Challenged](https://www.youtube.com/@neurochallenged)
 :::
 
 ::::
