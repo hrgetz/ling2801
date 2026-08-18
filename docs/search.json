@@ -86,7 +86,7 @@
     "href": "policies.html#use-of-ai",
     "title": "Policies",
     "section": "Use of AI",
-    "text": "Use of AI\nI expect you to complete all of your assignments without the aid of generative AI, unless I specifically say otherwise. In this course, presenting AI-generated work (including text and ideas) as your own constitutes a violation of academic integrity. It is ok to use basic copy-editing/spell-checking tools like the ones provided by Grammarly, Microsoft Word, and Google Docs.",
+    "text": "Use of AI\nSome use of generative AI is permitted in this class, with several important constraints. (Please note that I often use generative AI myself, personally and professionally. See here for a summary of how I used Chat GPT as I developed materials for this course.)\n\nFor ALL work in this course, presenting AI-generated work (including text and ideas) as your own constitutes a violation of academic integrity. Any use of AI must be acknowledged and cited with in-text citations as shown here and/or through an AI use statement like the one that I’ll ask for as part of your final project.\nIn general it is fine to use basic copy-editing/spell-checking tools like the ones provided by Grammarly, Microsoft Word, and Google Docs. You do not need to include an AI use statement.\nExams: The use of AI tools during exams is not permitted and will be considered a violation of academic integrity. (Exams will be pen and paper anyway.)\nGroup projects: Your group will decide on your own AI use policy (see here. Any use of AI must be consistent with your group’s written policy. If any group members use AI in a way that is not consistent with your policy, that will be considered a violation of academic integrity for whoever is responsible, or for the whole group if individual responsibility cannot be determined.\nReadings: I strongly discourage you from using AI to summarize the readings. The whole point of asking you to read scientific articles is so that you learn to understand and evaluate evidence for yourself, instead of taking someone else’s word for it.",
     "crumbs": [
       "Policies"
     ]
@@ -360,7 +360,7 @@
     "href": "controversy.html#project-timeline",
     "title": "Neuroscience of Language",
     "section": "Project timeline",
-    "text": "Project timeline\nYou’ll have something due for your project most Fridays. Wherever possible, I have avoided major deadlines around the same time as exams. See the schedule for tentative deadlines.\nIn your written submissions, all references must be formatted in APA style.\n\n\n\nTopic\n\nSign up to study a particular controversy. Max 4 students per group. Multiple groups may study the same controversy.\n\n\n\nAI policy\n\nSubmit your written AI policy for my approval (see below).\n\n\n\nSecondary sources\n\nIdentify and study two secondary sources related to your topic. At least one of these sources must be published in a peer-reviewed journal (e.g., review article, opinion piece). The other does not have to be peer reviewed, but must be approved by me (HRG) (e.g., an episode of The Language Neuroscience Podcast). Submit a document that includes the references (in APA style) and some informal notes (further instructions will be provided in class). Please also submit PDFs or links for the sources.\n\n\n\nPrimary sources\n\nBased on your secondary sources, identify the most important evidence on this topic, and the primary sources that report this evidence. Submit a list of 5-10 primary sources along with PDFs. Include a sentence about each source explaining its importance/relevance. You will choose four of these to review closely.\n\n\n\nSummarize primary sources\n\nChoose four primary sources to read for yourselves. These should be scientific articles reporting studies that have been particularly important or controversial. Your job is to understand and evaluate the evidence for yourselves. All group members should read the paper independently, and then you should meet as a group to discuss the paper and try to answer any questions that came up during your independent reading. After this discussion, your group should submit a summary sheet for a grade.\n\n\n\nFormat\n\nGet HRG’s approval of the format of your final deliverable. I’m open to a variety of formats. Some examples: a traditional slide-based presentation, a short-form video for TikTok or Youtube, a longer educational video, a podcast episode, or a mock (scripted) debate among scientists.\n\n\n\nPresentations\n\nPresent your final deliverable in class!"
+    "text": "Project timeline\nYou’ll have something due for your project most Fridays. Wherever possible, I have avoided major deadlines around the same time as exams. See the schedule for tentative deadlines.\nIn your written submissions, all references must be formatted in APA style.\n\n\n\nTopic\n\nSign up to study a particular controversy. Max 4 students per group. Multiple groups may study the same controversy.\n\n\n\nAI policy\n\nSubmit your written AI Use Policy for my approval.\n\n\n\nSecondary sources\n\nIdentify and study two secondary sources related to your topic. At least one of these sources must be published in a peer-reviewed journal (e.g., review article, opinion piece). The other does not have to be peer reviewed, but must be approved by me (HRG) (e.g., an episode of The Language Neuroscience Podcast). Submit a document that includes the references (in APA style) and some informal notes (further instructions will be provided in class). Please also submit PDFs or links for the sources.\n\n\n\nPrimary sources\n\nBased on your secondary sources, identify the most important evidence on this topic, and the primary sources that report this evidence. Submit a list of 5-10 primary sources along with PDFs. Include a sentence about each source explaining its importance/relevance. You will choose four of these to review closely.\n\n\n\nSummarize primary sources\n\nChoose four primary sources to read for yourselves. These should be scientific articles reporting studies that have been particularly important or controversial. Your job is to understand and evaluate the evidence for yourselves. All group members should read the paper independently, and then you should meet as a group to discuss the paper and try to answer any questions that came up during your independent reading. After this discussion, your group should submit a summary sheet for a grade.\n\n\n\nFormat\n\nGet HRG’s approval of the format of your final deliverable. I’m open to a variety of formats. Some examples: a traditional slide-based presentation, a short-form video for TikTok or Youtube, a longer educational video, a podcast episode, or a mock (scripted) debate among scientists.\n\n\n\nPresentations\n\nPresent your final deliverable in class!"
   },
   {
     "objectID": "unit_3.html",
@@ -415,6 +415,53 @@
     "crumbs": [
       "Schedule",
       "Foundation"
+    ]
+  },
+  {
+    "objectID": "controversy.html#ai",
+    "href": "controversy.html#ai",
+    "title": "Neuroscience of Language",
+    "section": "Use of Generative AI",
+    "text": "Use of Generative AI\nIn your small groups, you will come up with your own policy on the use of generative AI for your class project. I am open to a range of AI use policies, including no AI use at all, with two constraints:\n\nYou are not allowed to use AI in ways that might jeopardize your progress towards the course’s learning goals. (I will be the ultimate judge of this.)\nYou are not allowed to use AI to manipulate or create images of real people, even yourself.\n\nEarly in the semester, you will submit to me (a) a written statement of your group’s AI policy, including any specific tools you intend to use, and (b) a brief explanation, written by you (the humans), for why you decided on this policy. I will review your policy and either approve it or ask you to revise it.\nYou may amend your group’s AI policy throughout the semester, if your group members unanimously agree to do so. You must amend your policy and get my approval of the revised policy before using AI in a new way.\nIf your small group decides to allow any AI use:\n\nYou must include an AI use statement with every single submission, listing which AI tools were used and explaining exactly how you used them.\nYou must keep records of all of your AI use, including prompts and AI output. I reserve the right to request to see these if there is a question about whether your use of AI is consistent with your group’s policy and/or is jeopardizing your progress towards the course’s learning goals.\nI may request to see in-text citations to AI tools, as shown here.\nAt the end of the semester, you must submit individual reflections (not generated by AI) on whether/how you think your group’s use of AI contributed to your learning in this class.\n\nConsider whether you will allow AI use for any of the following: * Identifying secondary and/or primary sources * Understanding or explaining sources * Summarizing sources * Brainstorming ideas for your final project * Creating visuals for your final deliverable"
+  },
+  {
+    "objectID": "index.html#credits",
+    "href": "index.html#credits",
+    "title": "LING-2801: Neuroscience of Language",
+    "section": "Credits",
+    "text": "Credits\n\nImages\nThe cute clipart that appears throughout this course website and in my slides was created by illustrator Laura Strickland of MyCuteGraphics.com. Images are not AI-generated.\n\n\nAI use statement\nI used ChatGPT to:\n\nHelp me create this course website by generating or revising Quarto/Markdown code, suggesting visual design elements, and creating CSS styles\nSearch for human-created teaching resources online, such as small group activities and brain atlases\nIdentify and teaching tools like Mentimeter\nBrainstorm ways to present course content\nTest out assignments and discussion questions\nGenerate the first draft of this AI use statement\n\nI did not use AI to develop any substantive aspects of the course, such as the course learning goals, reading list, lecture material, assignments, or exam questions. I do gratefully acknowledge our textbook (authored by Jon Brennan), on which some of my lecture content is based, as well as colleagues at other universities who developed syllabi that I looked to for inspiration, incuding Katie Schuler, Jon Brennan, and Ellen Lau.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "policies.html#use-of-generative-ai",
+    "href": "policies.html#use-of-generative-ai",
+    "title": "Policies",
+    "section": "Use of Generative AI",
+    "text": "Use of Generative AI\nSome use of generative AI is permitted in this class, with several important constraints.\nPlease note that I occasionally use generative AI myself in my work. I do not ever use it to write, for many reasons (among others: (a) that’s dishonest, (b) writing helps me think, (c) I can write better than AI can, and (d) I want to sound like me.) But I do use AI in other ways. See here for a summary of how I used Chat GPT as I developed this course.\n\n\n\n\n\n\nNoteAll use of AI must be acknowledged.\n\n\n\nFor ALL work in this course, presenting AI-generated work (including text and ideas) as your own constitutes a violation of academic integrity. Any use of AI must be acknowledged and cited with in-text citations as shown here and/or through an AI use statement like the one that I’ll ask for as part of your final project.\n\n\nHere are some additional rules for this class:\n\nYou may NOT use generative AI to write. It is ok to make limited use of copy-editing/spell-checking tools like the ones provided by Google Docs and Microsoft Word, but you may not use AI to re-phrase your writing or to generate completely new text.\nYou may NOT use generative AI on exams. Exams will be pen and paper anyway.\nI strongly discourage you from using AI to summarize the readings. The whole point of asking you to read scientific articles is so that you learn to understand and evaluate evidence for yourself, instead of taking someone else’s word for it.\nFor your group project, your group will decide on your own AI use policy (see here). Any use of AI must be consistent with your group’s written policy. If any group members use AI in a way that is not consistent with your policy, that will be considered a violation of academic integrity.",
+    "crumbs": [
+      "Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#dates",
+    "href": "policies.html#dates",
+    "title": "Policies",
+    "section": "Dates",
+    "text": "Dates",
+    "crumbs": [
+      "Policies"
+    ]
+  },
+  {
+    "objectID": "policies.html#course-schedule",
+    "href": "policies.html#course-schedule",
+    "title": "Policies",
+    "section": "Course schedule",
+    "text": "Course schedule\nYes, we have class the Tuesday before Thanksgiving, and yes, we expect you to attend as usual.",
+    "crumbs": [
+      "Policies"
     ]
   }
 ]
