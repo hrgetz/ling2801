@@ -60,6 +60,7 @@ title: "The language network"
 
 **Resources**
 
+* [HRG's guide to reading scientific papers](https://hrgetz.github.io/guide.html)
 * [Abbreviations](abbreviations.qmd)
 * [Understanding fMRI](https://www.youtube.com/watch?v=4UOeBM5BwdY)
 * [MNI <-> Talairach Converter](https://bioimagesuiteweb.github.io/webapp/mni2tal.html)

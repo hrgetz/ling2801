@@ -29,18 +29,24 @@ Describe scientific evidence for the following claim:
 
 1. Language processing in humans is lateralized to the left hemisphere.
 
-**Brain Geography**
+**Brain Anatomy**
 
-1. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain
-2. Tell which way a brain is "facing" in each of the three views
-3. Be able to roughly locate Broca's area and Wernicke's area on a side view of the brain
+1. Name and identify
+    a) the components of the Central Nervous System
+    b) the two cerebral hemishperes
+    c) the four lobes of the brain
+2. Be able to roughly locate Broca's area and Wernicke's area on a side view of the brain
+3. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain and tell which way a brain is "facing" on each view
+4. On a coronal cross-section of the brain, identify the following: gyri, sulci, white matter, grey matter
+5. (In progress) "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
+
 </details>
 :::
 
 | Date | Class Topic | Due |
 | -- | -- | -- | -- |
 | Thurs 8/27 | Course Introduction [][1]{.slides} |  [Baggio 2022](https://drive.google.com/file/d/1N_GbrPWy_zkyM8BYVG33PeRk2NOkZm27/view?usp=drive_link){.reading} | 
-| Tues 9/1 | Brain geography [][2]{.slides} |  [SGN p. 18-25]{.reading}
+| Tues 9/1 | Brain anatomy [][2]{.slides} |  [SGN p. 18-25]{.reading}
 | Thurs 9/3 | Localization of function [][3]{.slides} | [Morse 1997](https://drive.google.com/file/d/134F1_b1Tj3d4hOBl8t4Ww8-m9LYVy77P/view?usp=drive_link){.reading}  |
 | Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
