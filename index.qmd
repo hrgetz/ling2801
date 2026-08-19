@@ -54,7 +54,7 @@ I used ChatGPT to:
 
 * Help me create this course website by generating or revising Quarto/Markdown code, suggesting visual design elements, and creating CSS styles
 * Search for human-created teaching resources online, such as small group activities and brain atlases
-* Identify and teaching tools like Mentimeter
+* Identify teaching tools like Mentimeter
 * Brainstorm ways to present course content
 * Test out drafts of assignments and discussion questions
 * Generate the first draft of this AI use statement
