@@ -15,6 +15,12 @@ Nope. This is the full course bibliography, meaning that it lists all of the sou
 :::
 
 ## Course Bibliography
+
+:::{.callout-warning}
+The reading list below is not up to date. It'll be updated prior to the first day of class.
+:::
+
+
 ::: {.references}
 Antoniou, M. (2019). The advantages of bilingualism debate. *Annual Review of Linguistics*, *5*(1), 395–415.
 

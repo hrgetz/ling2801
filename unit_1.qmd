@@ -24,10 +24,11 @@ title: "Foundation"
 
 **Scientific Foundations**
 
-1. Distinguish evidence, inferences, and ideas in scientific text
-2. Define the following terms: *localization*, *lateralization*, *aphasia*
-3. Compare the methodology of Franz Joseph Gall and Paul Broca; give an example of how Gall's approach caused societal harm
-4. Summarize the classical model of language in the brain and describe the original evidence for that model
+1. Understand how the scientific method differs from other ways of observing the world
+2. Distinguish evidence, inferences, and ideas in scientific text
+3. Define the following terms: *localization*, *lateralization*, *aphasia*
+4. Compare the methodology of Franz Joseph Gall and Paul Broca; give an example of how Gall's approach caused societal harm
+5. Summarize the classical model of language in the brain and describe the original evidence for that model
 
 **The toolbox**
 
@@ -36,7 +37,7 @@ title: "Foundation"
 
 **Claim-evidence mapping**
 
-Describe scientific evidence for the following claim:  Language processing in humans is lateralized to the left hemisphere.
+1. Describe scientific evidence for the following claim: Language processing in humans is lateralized to the left hemisphere.
 :::
 
 | Date | Class Topic | Due |
@@ -51,7 +52,7 @@ Describe scientific evidence for the following claim:  Language processing in hu
 | Tues 9/15 | Aphasia, continued [][5]{.slides} | [Hickok et al. 1998]{.reading}
 | Thurs 9/17 |  Lateralization [][6]{.slides} | [TBD]{.reading} |
 | Friday 9/19 | | *Nothing due* 
-| Tues 9/22 | [Exam #1]{.exam} |
+| Tues 9/22 | [Exam #1]{.exam} *exam date is tentative, may change* |
 
 [1]:https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit
 [2]:https://docs.google.com/presentation/d/1jyQqxVLcxgUTMdSuKAvVXysoGkv5phrmmoFLspAKKng/edit
@@ -59,7 +60,6 @@ Describe scientific evidence for the following claim:  Language processing in hu
 [4]:https://docs.google.com/presentation/d/1-ezBcrR7-fW8k9VVZgU28ZpjAFoxlYTB2a67PofzSqo/edit?slide=id.p#slide=id.p
 [5]:https://docs.google.com/presentation/d/1b5J07ecFhEIT58eD0hmq3WWEVxPnfBgvdifn58McDXs/edit?usp=drive_link
 [6]:https://docs.google.com/presentation/d/1aS6poppc09Fypp4Ub3aRg-zq64Uw7RE2-BWze0dV_30/edit?usp=drive_link
-
 
 :::: {.unit-card-row}
 

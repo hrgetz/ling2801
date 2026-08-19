@@ -4,9 +4,9 @@ title: "Course Requirements"
 | Weight | Assignment |
 | -- | -- | -- | -- | -- |
 | Ungraded | [Readings](#reading) |
-| 5% | [In-class participation](#participation) |
+| 4% | [In-class participation](#participation) |
 | 48%| [Exams](#exams) |
-| 15%| [Group work on scientific papers](#papers)  |
+| 16%| [Group work in class](#papers)  |
 | 32% |[Controversy Investigation](#paper) |
 | 4%| [Researcher interview](#interview)  |
 | 1%| [Researcher panel](#panel)|
@@ -28,9 +28,11 @@ Hard copies of the articles will be handed out in class. You may reference these
 When reviewing the scientific articles, I strongly recommend following the process here: [**Guide to reading scientific papers**](https://hrgetz.github.io/guide.html). We'll go over this in class.
 :::
 
-## Participation {#participation}
+## Attendance & participation {#participation}
 
-During class, I'll occasionally ask you to respond to questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but repeated failure to participate in the polls will affect your participation grade.
+We will take formal attendance. Multiple unexcused absences will affect your individual participation grade *and also your individual grade for your small group's in-class work during that unit*, see below. 
+
+During class, I'll occasionally ask you to respond to questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but repeated failure to participate in the polls will affect your participation grade. 
 
 
 ## Exams {#exams}
@@ -46,18 +48,19 @@ During exams, you are allowed to reference the printed copies of the scientific 
 
 ## Group work on scientific papers {#papers}
 
-A significant portion of class will be dedicated to small group work. The groups will be different for each of the four main course units (see [schedule](schedule.md)).
+A significant portion of class will be dedicated to small group work.
 
-Sometimes, you will work together to practice applying concepts from the readings/lectures. That work will not be graded. 
+Sometimes, you will work together to practice applying concepts from the readings/lectures. Other times, you will work with your group members to understand and interpret evidence from the scientific papers on the reading list. For example, you may be asked to create a visual aid showing how a study worked, or to use a brain atlas to visualize which brain regions were active during a particular experiment. 
 
-Other times, you will work with your group members to understand and interpret evidence from the scientific papers on the reading list. For example, you may be asked to create a visual aid showing how a study worked, or to use a brain atlas to visualize which brain regions were active during a particular experiment. This work will be graded. 
+Some of the work will be graded as complete/incomplete. Other work will be graded on a standard letter grade scale. I'll try to let you know ahead of time how grading will work for a particular activity, but if it's not clear, just ask.
 
-I'll always try to make clear whether a particular group assignment will be graded or not, but feel free to ask if I forget.
+For each of the four main course units (see [schedule](schedule.md)), you'll be in a different group. At the end of that unit the group will receive a grade for their work during that unit. Each of your small group grades is worth 4% of your course grade (4% x 4 units = 16% total). 
+
+Everyone in the group gets the same grade, unless there are consistent issues with an individual member's contributions. Examples of issues that would affect an individual member's grade include unexcused absences, failure to prepare for group work by doing the readings, or lack of engagement in the group's discussion. If there is an issue with any student's contributions, please let us know as soon as possible so that we can help address it. 
 
 ## Controversy Investigation {#paper}
 
 See [here](controversy.qmd). 
-
 
 ## Researcher Interview {#interview}
 

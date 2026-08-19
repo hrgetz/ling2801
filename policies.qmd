@@ -3,25 +3,25 @@ title: "Policies"
 ---
 ## Names
 
-To help me learn your name, please consider using [this link](https://www.speakpipe.com/HeidiGetz) to record yourself saying your name the way you’d like me to pronounce it.
+To help us learn your name, please consider using [this link](https://www.speakpipe.com/HeidiGetz) to record yourself saying your name the way you’d like us to pronounce it.
 
 ## Use of Generative AI
 
 Some use of generative AI is permitted in this class, with several important constraints. 
 
-Please note that I occasionally use generative AI myself in my work. I do not ever use it to write, for many reasons (among others: (a) that's dishonest, (b) writing helps me think, (c) I can write better than AI can, and (d) I want to sound like me.) But I do use AI in other ways. See [here](index.qmd#ai-use-statement) for a summary of how I used Chat GPT as I developed this course.
-
-::: {.callout-note}
+::: {.callout-warning}
 ### All use of AI must be acknowledged.
-For ALL work in this course, **presenting AI-generated work (including text and ideas) as your own constitutes a [violation of academic integrity](https://honorcouncil.georgetown.edu/honor-system-policies-2/honor-system-policies/#iii-standards-of-conduct)**. Any use of AI must be acknowledged and cited with in-text citations as shown [here](https://guides.library.georgetown.edu/ai/citing) and/or through an AI use statement like the one that I'll ask for as part of your final project.
+In this course, **presenting as your own any work that was generated with the help of AI (including text, ideas, and diagrams) constitutes a [**violation of academic integrity**](https://honorcouncil.georgetown.edu/honor-system-policies-2/honor-system-policies/#iii-standards-of-conduct)**. Any use of AI must be acknowledged and cited as shown [here](https://guides.library.georgetown.edu/ai/citing) and/or through an AI use statement like the one that I'll ask for as part of your [final project](controversy.qmd#use-of-generative-ai-ai).
+
+See [here](index.qmd#ai-use-statement) for my own acknowledgment of how I used ChatGPT as I developed this website and the course. I have not found generative AI useful for scholarly work in general, and I absolutely never use it for writing or summarizing articles (in part because I am much better at these things than AI, though I believe there are integrity and ethical reasons to avoid using AI for this as well). But I do find it helpful for technical tasks (like setting up this website) and for identifying teaching resources.
 :::
 
 Here are some additional rules for this class:
 
-* **You may NOT use generative AI to write.** It is ok to make limited use of copy-editing/spell-checking tools like the ones provided by Google Docs and Microsoft Word, but you may not use AI to re-phrase your writing or to generate completely new text.
+* **You may NOT use generative AI to write.** It is ok to make limited use of classic copy-editing/spell-checking tools like the ones provided by Google Docs and Microsoft Word, but you may not use AI to re-phrase your writing or to generate completely new text.
 * **You may NOT use generative AI on exams.** Exams will be pen and paper anyway.
-* **I strongly discourage you from using AI to summarize the readings.** The whole point of asking you to read scientific articles is so that you learn to understand and evaluate evidence for yourself, instead of taking someone else's word for it. 
-* For your group project, your group will decide on your own AI use policy (see [here](controversy.qmd#use-of-generative-ai-ai)). Any use of AI must be consistent with your group's written policy. If any group members use AI in a way that is not consistent with your policy, that will be considered a violation of academic integrity.
+* **I strongly discourage you from using AI to summarize the readings.** The whole point of asking you to read scientific articles is so that you learn to understand and evaluate evidence for yourself, instead of taking someone else's word for it. (Also, in my experience, genAI summaries of academic articles are often wildly inaccurate.)
+* For your group project, your group will decide on your own AI use policy (see [here](controversy.qmd#use-of-generative-ai-ai)). **Any use of AI must be consistent with your group's written policy.** If any group members use AI in a way that is not consistent with your policy, that will be considered a violation of academic integrity.
 
 ## Course schedule
 
