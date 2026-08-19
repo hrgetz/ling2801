@@ -5,7 +5,7 @@ title: "LING-2801: Neuroscience of Language"
 | | | 
 | --- | --- |
 | **Professor** | Heidi Getz, Ph.D. [heidi.getz@georgetown.edu](mailto:heidi.getz@georgetown.edu) <br> Poulton Hall 223 (Linguistics), Building D Suite 145 (Neurology) <br> Office Hours: TBD| 
-| **Teaching Assistant** | Sunwoo (Sunny) Lee [sl2127@georgetown.edu](mailto:sl2127@georgetown.edu) <br> Office hours: TBD |
+| **Teaching Assistant** | Sunwoo (Sunny) Lee [sl2127@georgetown.edu](mailto:sl2127@georgetown.edu) <br> Office hours: Tuesdays 11am-12pm, Poulton Hall lounge |
 | **Class schedule** | Tues/Thurs 9:30-10:45  | 
 | **Prerequisites** | None  | 
 | **Required texts** | Brennan, J. R. (2022). *Language and the brain: a slim guide to neurolinguistics*. Oxford University Press. [Link to purchase text at bookstore](https://georgetown.bncollege.com/course-material-listing-page?utm_campaign=storeId=88131_langId=-1_courseData=LING_2801_01_F26&utm_source=wcs&utm_medium=registration_integration) <br>Additional readings are linked [here](readings.md).

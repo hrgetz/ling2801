@@ -42,15 +42,15 @@ title: "Foundation"
 
 | Date | Class Topic | Due |
 | -- | -- | -- | -- |
-| Thurs 8/27 | Course Introduction [][1]{.slides} |  [Baggio 2022](https://drive.google.com/file/d/1N_GbrPWy_zkyM8BYVG33PeRk2NOkZm27/view?usp=drive_link){.reading} | 
-| Tues 9/1 | Brain anatomy [][2]{.slides} |  [SGN p. 18-25]{.reading}
-| Thurs 9/3 | Localization of function [][3]{.slides} | [Morse 1997](https://drive.google.com/file/d/134F1_b1Tj3d4hOBl8t4Ww8-m9LYVy77P/view?usp=drive_link){.reading}  |
+| Thurs 8/27 | Course Introduction [][1]{.slides} |  Read [Baggio 2022](https://drive.google.com/file/d/1N_GbrPWy_zkyM8BYVG33PeRk2NOkZm27/view?usp=drive_link){.reading} | 
+| Tues 9/1 | Brain anatomy [][2]{.slides} |  Read [SGN p. 18-25]{.reading}
+| Thurs 9/3 | Localization of function [][3]{.slides} | Watch [Dr. Walker's video](https://www.youtube.com/watch?v=sLKTS6dZ7Bw&t=469s)<br> Read [Morse 1997](https://drive.google.com/file/d/134F1_b1Tj3d4hOBl8t4Ww8-m9LYVy77P/view?usp=drive_link){.reading}  |
 | Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Classical model, aphasia [][4]{.slides} | [SGN p. 27-31]{.reading} |
+| Thurs 9/10 | Classical model, aphasia [][4]{.slides} | Read [SGN p. 27-31]{.reading} |
 | Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.controversy}
-| Tues 9/15 | Aphasia, continued [][5]{.slides} | [Hickok et al. 1998]{.reading}
-| Thurs 9/17 |  Lateralization [][6]{.slides} | [TBD]{.reading} |
+| Tues 9/15 | Aphasia, continued [][5]{.slides} | Read [Hickok et al. 1998]{.reading}
+| Thurs 9/17 |  Lateralization [][6]{.slides} | TBD |
 | Friday 9/19 | | *Nothing due* 
 | Tues 9/22 | [Exam #1]{.exam} *exam date is tentative, may change* |
 
