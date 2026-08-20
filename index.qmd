@@ -43,11 +43,18 @@ The course is designed to achieve the following overall learning outcomes:
 
 Unit-specific learning goals are listed on their respective pages; see [schedule](schedule.md).
 
-## Credits
+## Acknowledgements
 
 ### Images
 
 The cute clipart that appears throughout this course website and in my slides was created by illustrator Laura Strickland of [MyCuteGraphics.com](https://www.mycutegraphics.com/). Images are not AI-generated.
+
+### Teaching resources
+
+I gratefully acknowledge our textbook, authored by [Jon Brennan](https://jobrenn.gitlab.io/), on which some of my lecture content is based. I also gratefully acknowledge my colleagues at other universities who developed syllabi that I looked to for inspiration, incuding [Katie Schuler](https://kschuler.github.io/ling104/), [Jon Brennan](https://jobrenn.gitlab.io/teaching/Syllabus_IntroNeuro_W25.html), and [Ellen Lau](https://ellenlau.net/).
+
+Additional teaching resources that I drew on are linked on the relevant course unit pages (see [schedule](schedule.md)).
+
 
 ### AI use statement
 
@@ -60,4 +67,4 @@ I used ChatGPT to:
 * Test out drafts of assignments and discussion questions
 * Generate the first draft of this AI use statement
 
-I did not use AI to develop any substantive aspects of the course, such as the course learning goals, reading list, lecture material, assignments, or exam questions. I do gratefully acknowledge our textbook (authored by [Jon Brennan](https://jobrenn.gitlab.io/)), on which some of my lecture content is based, as well as colleagues at other universities who developed syllabi that I looked to for inspiration, incuding [Katie Schuler](https://kschuler.github.io/ling104/), [Jon Brennan](https://jobrenn.gitlab.io/teaching/Syllabus_IntroNeuro_W25.html), and [Ellen Lau](https://ellenlau.net/).
+I did not use AI to develop any substantive aspects of the course, such as the course learning goals, reading list, lecture material, assignments, or exam questions.
