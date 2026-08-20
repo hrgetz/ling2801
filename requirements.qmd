@@ -37,7 +37,9 @@ During class, I'll occasionally ask you to respond to questions in real time usi
 
 ## Exams {#exams}
 
-There will be four short in-person exams, each worth 12% of your grade. Tentative exam dates for each unit are listed on the corresponding unit page (see [schedule](schedule.md)). The exact timing of the exams may be adjusted depending on course needs.
+There will be four short in-person exams, each worth roughly 12% of your grade. Exam dates and grade percentages are tentative. If one exam ends up covering a longer span of the course than others, grade weighting will be adjusted accordingly. I will tell you ahead of time about any changes.
+
+Tentative exam dates for each unit are listed on the corresponding unit page (see [schedule](schedule.md)). The exact timing of the exams may be adjusted depending on course needs.
 
 During exams, you are allowed to reference the printed copies of the scientific articles we covered during that unit, including any notes you have written on those copies. You are also allowed to reference a printed [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0).
 

@@ -12,20 +12,17 @@ title: "Processing"
 
 | Date | Topic |  Due |
 | - | --- | --- |
-| Tues 11/10 |  Phonemes; categorical perception [][17]{.slides} | [SGN p. 39-40; p. 51-77]{.reading}
-| Thurs 11/12 | TMS; motor and speech [][18]{.slides}| [Möttönen & Watkins (2009)]{.article}
-| Friday 11/13 || [Summary #4](controversy.qmd#project-timeline){.controversy}
-| Tues 11/17 | Constituency in psycholinguistics [][19]{.slides}| [SGN p. 139-155]{.reading}
-| Thurs 11/19 | Constituency in the brain [][20]{.slides} | [Pallier et al. (2011)]{.article}
-| Fri 11/20 | | [Researcher interview](requirements.qmd#interview){.due}
-| Tues 11/24 | Frameworks [][21]{.slides} | [Embick & Poeppel 2014]{.reading}
-
+| Thurs 11/12 | Phonemes; categorical perception [][17]{.my-badge .slides} | [SGN p. 39-40; p. 51-77]{.my-badge .reading}
+| Friday 11/13 || [Summary #4](controversy.qmd#project-timeline){.my-badge .controversy}
+| Tues 11/17 | TMS; motor and speech [][18]{.my-badge .slides}| [Möttönen & Watkins 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
+| Thurs 11/19 | Constituency in psycholinguistics [][19]{.my-badge .slides}| [SGN p. 139-155]{.my-badge .reading}
+| Fri 11/20 | | [Researcher interview](requirements.qmd#interview){.my-badge .due}
+| Tues 11/24 | Constituency in the brain [][20]{.my-badge .slides} | [Pallier et al. 2011](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 
 [17]:https://docs.google.com/presentation/d/1WHyxYBx8tDZfwiO8XIs77jw_PCBqKFoNibh1i5dPj3o/edit?usp=drive_link
 [18]:https://docs.google.com/presentation/d/1FfvsOfZnnThNHKty7tkGnkX0VTXNP52T9S1FzzPCRr8/edit?usp=drive_link
 [19]:https://docs.google.com/presentation/d/1uazlg7TY-kE46UZHPluNJzPfIBowFjMZvQwKtYUP7ls/edit?usp=drive_link
 [20]:https://docs.google.com/presentation/d/14ts_qWc8MWS1DKYGt7pTv5ol86jUo7lbpXWExmrhVAY/edit?usp=drive_link
-[21]:https://docs.google.com/presentation/d/1DO98RvebDiw2ZDgDk9Au0ipXh8stk_DfqESRdY19kZI/edit?usp=drive_link
 
 
 :::: {.unit-card-row}

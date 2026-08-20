@@ -5,26 +5,29 @@ title: "Development"
 ::: {.callout-tip collapse=true}
 # Learning goals for this unit
 
-1. Describe evidence for the following claims:  
-    a) Children’s language networks develop gradually
-    b) Language experience early in life is necessary for the development of the language network in the brain
-    c) Damage to the left-hemisphere language network during infancy causes language to be processed in a mirror-image right-hemisphere network
-    d) In multilinguals, brain processing of language is affected by (i) the age at which the person began acquiring the language and also (ii) the person's proficiency level in the language
+**Scientific explanation**
+
+1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to your grandparents why anyone should care.
+
+* The language network is lateralized in children
+* Children's language networks develop gradually
+* Language experience early in life is necessary for the normal development of the brain's language network
+* Damage to the left-hemisphere language regions during infancy causes language to be processed in the mirror-image right-hemisphere regions of the brain
+* In multilinguals, brain processing of language is affected by (i) the age at which the person began acquiring the language and also (ii) the person's proficiency level in the language
 
 2. Based on a description of a new study of language network development, interpret an unfamiliar brain activation figure and state a claim that is supported by the evidence
-
 :::
 
 | Date | Topic | Due |
 | - | -- | -- |
-| Tues 10/20 | Children's language networks [][12]{.slides}| [Newport & Getz 2025]{.reading}
-| Thurs 10/22 | Critical periods & language deprivation [][13]{.slides} | 
-| Friday 10/23 || [Summary #2](controversy.qmd#project-timeline){.controversy}
-| Tues 10/27 | Perinatal stroke [][14]{.slides}| [Newport et al. 2022]{.article} | 
-| Thurs 10/29 | Bilingualism [][15]{.slides}| [TBD]{.reading}
-| Friday 10/30 || [Summary #3](controversy.qmd#project-timeline){.controversy}
-| Tues 11/3 | Bilingualism [][16]{.slides}||[Wartenburger et al. 2003]{.article}
-| Thurs 11/5 | [Exam #3]{.exam}
+| Thurs 10/22 | Children's language networks [][12]{.my-badge .slides}| [Newport & Getz 2025](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
+| Friday 10/23 || [Summary #2](controversy.qmd#project-timeline){.my-badge .controversy}
+| Tues 10/27 | Critical periods & language deprivation [][13]{.my-badge .slides} | TBD
+| Thurs 10/29 | Perinatal stroke [][14]{.my-badge .slides}| [Elissa Newport on TLNP](https://langneurosci.org/podcast/){.my-badge .podcast} | 
+| Friday 10/30 || [Summary #3](controversy.qmd#project-timeline){.my-badge .controversy}
+| Tues 11/3 | Bilingualism [][15]{.my-badge .slides}| [Wartenburger et al. 2003](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
+| Thurs 11/5 | Bilingualism [][16]{.my-badge .slides}| TBD
+| Tues 11/10 | [Exam #3]{.exam}
 
 [12]:https://docs.google.com/presentation/d/17lZzHZe0HFpVxne9vD_WBngnSxhRwL6ujtAinhx3ULc/edit?usp=drive_link
 [13]:https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?usp=drive_link
@@ -32,9 +35,7 @@ title: "Development"
 [15]:https://docs.google.com/presentation/d/154B6Gz0wpxkSapXlS-dOMPQTWUcXguw0kJwa6YpRaQg/edit?usp=drive_link
 [16]:https://docs.google.com/presentation/d/155LyzzqRiBYFCaDmzmEqvVo46FVq99VSZCBX-1Cjup8/edit?usp=drive_link
 
-
 :::: {.unit-card-row}
-
 {{< include _includes/legend.qmd >}}
 
 ::: {.unit-card}

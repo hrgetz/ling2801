@@ -1,8 +1,6 @@
 ---
 title: "Foundation"
 ---
-
-
 ::: {.callout-tip collapse=true}
 # Learning goals for this unit
 
@@ -11,46 +9,48 @@ title: "Foundation"
 1. Know who your professor is  
 2. Know how I will assess your mastery of course content
 
-**Brain Anatomy**
+**Brain anatomy**
 
 1. Name and identify
     a) the components of the Central Nervous System
     b) the two cerebral hemishperes
     c) the four lobes of the brain
-2. Be able to roughly locate Broca's area and Wernicke's area on a side view of the brain
-3. Identify and distinguish *coronal*, *axial*, and *sagittal* views of the human brain and tell which way a brain is "facing" on each view
-4. On a coronal cross-section of the brain, identify the following: gyri, sulci, white matter, grey matter
-5. (In progress) "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
+2. Locate Broca's area and Wernicke's area on a side view of the brain
+3. Identify *coronal*, *axial*, and *sagittal* views of the human brain and tell which way a brain is "facing" on each view
+4. Identify gyri, sulci, white matter, and grey matter on a brain cross-section
+5. Locate the following major sulci: longitudinal, central, lateral 
+6. "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
 
-**Scientific Foundations**
+**Basic principles & foundational evidence**
 
-1. Understand how the scientific method differs from other ways of observing the world
-2. Distinguish evidence, inferences, and ideas in scientific text
-3. Define the following terms: *localization*, *lateralization*, *aphasia*
-4. Compare the methodology of Franz Joseph Gall and Paul Broca; give an example of how Gall's approach caused societal harm
-5. Summarize the classical model of language in the brain and describe the original evidence for that model
+1. Define the following terms: *localization*, *lateralization*, *aphasia*
+2. Compare the methodology of Franz Joseph Gall and Paul Broca; give an example of how Gall's approach caused societal harm
+3. Summarize the classical model of language in the brain and describe the original evidence for that model
 
 **The toolbox**
 
 1. Explain the logic of the lesion/deficit mapping method
 2. Describe two methods that can be used to assess lateralization of language
 
-**Claim-evidence mapping**
+**Scientific explanation**
 
-1. Describe scientific evidence for the following claim: Language processing in humans is lateralized to the left hemisphere.
+1. Understand how the scientific method differs from other ways of observing the world
+2. Distinguish evidence, inferences, and ideas in scientific text
+3. For the following claim, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to your grandparents why anyone should care
+    * Language processing in humans is lateralized to the left hemisphere.
 :::
 
 | Date | Class Topic | Due |
 | -- | -- | -- | -- |
-| Thurs 8/27 | Course Introduction [][1]{.slides} |  Read [Baggio 2022](https://drive.google.com/file/d/1N_GbrPWy_zkyM8BYVG33PeRk2NOkZm27/view?usp=drive_link){.reading} | 
-| Tues 9/1 | Brain anatomy [][2]{.slides} |  Read [SGN p. 18-25]{.reading}
-| Thurs 9/3 | Localization of function [][3]{.slides} | Watch [Dr. Walker's video](https://www.youtube.com/watch?v=sLKTS6dZ7Bw&t=469s)<br> Read [Morse 1997](https://drive.google.com/file/d/134F1_b1Tj3d4hOBl8t4Ww8-m9LYVy77P/view?usp=drive_link){.reading}  |
-| Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.controversy}
+| Thurs 8/27 | Course Introduction [][1]{.my-badge .slides} |  Read [Baggio 2022](https://drive.google.com/file/d/1N_GbrPWy_zkyM8BYVG33PeRk2NOkZm27/view?usp=drive_link){.my-badge .reading} | 
+| Tues 9/1 | Brain anatomy [][2]{.my-badge .slides} |  Read [SGN p. 18-25]{.my-badge .reading}
+| Thurs 9/3 | Localization of function [][3]{.my-badge .slides} | Watch [Dr. Walker's video](https://www.youtube.com/watch?v=sLKTS6dZ7Bw&t=469s)<br> Read [Morse 1997](https://drive.google.com/file/d/134F1_b1Tj3d4hOBl8t4Ww8-m9LYVy77P/view?usp=drive_link){.my-badge .reading}  |
+| Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Classical model, aphasia [][4]{.slides} | Read [SGN p. 27-31]{.reading} |
-| Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.controversy}
-| Tues 9/15 | Aphasia, continued [][5]{.slides} | Read [Hickok et al. 1998]{.reading}
-| Thurs 9/17 |  Lateralization [][6]{.slides} | TBD |
+| Thurs 9/10 | Classical model, aphasia [][4]{.my-badge .slides} | Read [SGN p. 27-31]{.my-badge .reading} |
+| Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.my-badge .controversy}
+| Tues 9/15 | Aphasia, continued [][5]{.my-badge .slides} | Read [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
+| Thurs 9/17 |  Lateralization [][6]{.my-badge .slides} | TBD |
 | Friday 9/19 | | *Nothing due* 
 | Tues 9/22 | [Exam #1]{.exam} *exam date is tentative, may change* |
 
@@ -62,7 +62,6 @@ title: "Foundation"
 [6]:https://docs.google.com/presentation/d/1aS6poppc09Fypp4Ub3aRg-zq64Uw7RE2-BWze0dV_30/edit?usp=drive_link
 
 :::: {.unit-card-row}
-
 {{< include _includes/legend.qmd >}}
 
 ::: {.unit-card}

@@ -38,6 +38,7 @@ The course is designed to achieve the following overall learning outcomes:
 * Knowledge of the basic principles, foundational evidence, and current research challenges in the field of language and the brain  
 * Understanding of the scientific process through which researchers learn about this field  
 * The ability to understand and interpret scientific evidence about language in the brain  
+* The ability to construct clear, coherent, and evidence-based scientific explanations about language in the brain
 * An understanding of how research on language and the brain relates to broader societal issues
 
 Unit-specific learning goals are listed on their respective pages; see [schedule](schedule.md).
