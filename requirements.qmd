@@ -3,8 +3,8 @@ title: "Course Requirements"
 ---
 | Weight | Assignment |
 | -- | -- | -- | -- | -- |
-| Ungraded | [Readings](#reading) |
-| 4% | [In-class participation](#participation) |
+| Ungraded | [Preparation](#reading) |
+| 4% | [Attendance & participation](#participation) |
 | 48%| [Exams](#exams) |
 | 16%| [Group work in class](#papers)  |
 | 32% |[Controversy Investigation](#paper) |
@@ -13,7 +13,9 @@ title: "Course Requirements"
 
 <p>
 
-## Readings {#reading}
+## Preparation {#reading}
+You will pretty much always need to do something to prepare for class. Usually, this is a reading, though I'll also occasionally ask you to listen to an episode of [The Language Neuroscience Podcast](https://langneurosci.org/podcast/) or watch a video. 
+
 There will be two types of readings. The specific readings are listed on that unit's page on the course site (see [Schedule](schedule.md)).
 
 1. Background readings: I'll assign chapters from the Brennan text, encyclopedia articles, or similar sources to provide general background on a topic. Some of the material in these readings will be reinforced in class, but *all* of the material is fair game for the exams.

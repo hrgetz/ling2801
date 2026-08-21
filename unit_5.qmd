@@ -10,7 +10,7 @@ title: "Wrapping up"
 | Date | Topic |Due |
 | -- | -- |  -- |
 | Tues 12/1 | Frameworks [][21]{.my-badge .slides} | [Embick & Poeppel 2014](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
-| Thurs 12/3 | Researcher panel |  [Submit questions](https://www.menti.com/bldf9ra1coas)
+| Thurs 12/3 | Researcher panel |  [Submit questions](https://www.menti.com/bldf9ra1coas){.my-badge .due}
 | Friday 12/4 ||  [Panel reflection](requirements.qmd#panel){.my-badge .due}
 | Tues 12/8 | Group projects| [Presentations](controversy.qmd#project-timeline){.my-badge .controversy} |
 | TBD | [Exam #4]{.exam}

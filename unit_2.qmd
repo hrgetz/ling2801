@@ -25,7 +25,6 @@ title: "The language network"
     * The specific brain regions used for language processing are the same for all healthy adults
     * Spoken languages and signed languages are processed by the same language network
 
-2. Given a written summary of the results of a hemodynamic imaging study, (a) indicate whether the evidence as described supports functional localization, functional specialization, or functional specificity, or none of these; (b) explain why; and (c) explain to your grandparents why anyone should care.
 :::
 
 | Date | Topic | Due |
@@ -39,8 +38,7 @@ title: "The language network"
 | Thurs 10/8 | The supramodal language network [][10]{.my-badge .slides}|  [Petitto et al. 2000](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Friday 10/9 || [Summary #1](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 10/13 | Activation in 3D [][11]{.my-badge .slides}|  
-| Thurs 10/15 | Localization, specialization, & specificity | [Cathy Price on TLNP](https://podcasts.apple.com/mx/podcast/imaging-the-language-network-with-cathy-price/id1550649018?i=1000546234154){.my-badge .podcast}
-| Tues 10/20 | [Exam #2]{.exam} | 
+| Thurs 10/15 | [Exam #2]{.exam} | 
 
 [7]: https://docs.google.com/presentation/d/1E6KJ8ZANM8UWZCWrT2yUDB9bsuFqEFv2FSDQAYcYaSs/edit?usp=drive_link
 [8]: https://docs.google.com/presentation/d/1OF3vQvqHdez7yOyLC89PxaUPbzD0EITDRsRl_dkVMsc/edit?usp=drive_link

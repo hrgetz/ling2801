@@ -68,12 +68,11 @@ title: "Foundation"
 
 **Resources**
 
-* [Allen Brain Reference Atlases](https://atlas.brain-map.org/)
-* [Neurotorium Brain Atlas](https://neurotorium.org/tool/brain-atlas/)
+* [BrainFacts.org Interactive 3D Brain Viewer](https://www.brainfacts.org/3d-brain)
 * [UBC: The Cortex](https://www.neuroanatomy.ca/modules/Cortex/story.html)
-* [Dichotic listening task](https://learninglink.oup.com/access/content/sedivy-2e-student-resources/sedivy2e-chapter-3-web-activity-1?previousFilter=tag_chapter-03)
-* [UBC Aphasia Videos](https://neuroanatomy.ca/modules/Language/story.html)
 * [Neuroscientifically Challenged](https://www.youtube.com/@neurochallenged)
-:::
+* [UBC Aphasia Videos](https://neuroanatomy.ca/modules/Language/story.html)
+* [Showercap Mindmap activity](https://journals.physiology.org/doi/full/10.1152/advan.00095.2011)
 
+:::
 ::::

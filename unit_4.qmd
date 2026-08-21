@@ -1,23 +1,30 @@
 ---
-title: "Processing"
+title: "Development"
 ---
-
-
 ::: {.callout-tip collapse=true}
 # Learning goals for this unit
 
-(In development)
+**Scientific explanation**
+
+1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to your grandparents why anyone should care.
+    * The language network is lateralized in children
+    * Children's language networks develop gradually
+    * Language experience early in life is necessary for the normal development of the brain's language network
+    * Damage to the left-hemisphere language regions during infancy causes language to be processed in the mirror-image right-hemisphere regions of the brain
+    * In multilinguals, brain processing of language is affected by (i) the age at which the person began acquiring the language and also (ii) the person's proficiency level in the language
+
+2. Based on a description of a new study of language network development, interpret an unfamiliar brain activation figure and state a claim that is supported by the evidence
 
 :::
 
 | Date | Topic |  Due |
 | - | --- | --- |
-| Thurs 11/12 | Phonemes; categorical perception [][17]{.my-badge .slides} | [SGN p. 39-40; p. 51-77]{.my-badge .reading}
+| Thurs 11/12 | Children's language networks [][17]{.my-badge .slides}| [Newport & Getz 2025](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
 | Friday 11/13 || [Summary #4](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/17 | TMS; motor and speech [][18]{.my-badge .slides}| [Möttönen & Watkins 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
-| Thurs 11/19 | Constituency in psycholinguistics [][19]{.my-badge .slides}| [SGN p. 139-155]{.my-badge .reading}
+| Tues 11/17 | Critical periods & language deprivation [][18]{.my-badge .slides} | [Cheng et al. 2023](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
+| Thurs 11/19 | Perinatal stroke [][19]{.my-badge .slides}| [Elissa Newport on TLNP](https://langneurosci.org/podcast/){.my-badge .podcast} | 
 | Fri 11/20 | | [Researcher interview](requirements.qmd#interview){.my-badge .due}
-| Tues 11/24 | Constituency in the brain [][20]{.my-badge .slides} | [Pallier et al. 2011](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
+| Tues 11/24 |  Multilingualism [][20]{.my-badge .slides}| [Wartenburger et al. 2003](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 
 [17]:https://docs.google.com/presentation/d/1WHyxYBx8tDZfwiO8XIs77jw_PCBqKFoNibh1i5dPj3o/edit?usp=drive_link
 [18]:https://docs.google.com/presentation/d/1FfvsOfZnnThNHKty7tkGnkX0VTXNP52T9S1FzzPCRr8/edit?usp=drive_link
@@ -33,8 +40,8 @@ title: "Processing"
 
 **Resources** 
 
-* [Categorical Perception stimuli](https://splab.net/apd/u100/)
-* [The McGurk effect](https://www.intro2psycholing.net/resources/McGurk/McGurk1.php)
-* [The phoneme restoration effect](https://learninglink.oup.com/access/content/sedivy-2e-student-resources/sedivy2e-chapter-7-web-activity-4?previousFilter=tag_activities)
+* [BrainFacts.org: Critical periods](https://www.brainfacts.org/archives/2012/critical-periods)
+* [PBS: Deaf advocates say learning sign language early is crucial](https://www.pbs.org/video/deaf-learning-1687030137/)
+* [Stroke.org: Perinatal stroke](https://www.stroke.org.uk/stroke/childhood/stroke-unborn-newborn-babies-perinatal-stroke)
 :::
 ::::
