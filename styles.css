@@ -2,6 +2,10 @@
    Badges
    ======================================== */
 
+table td {
+  vertical-align: middle;
+}
+
 /* Shared badge styling */
 
 .my-badge {
@@ -13,13 +17,13 @@
   line-height: 1;
   color: rgba(0, 0, 0, 0.843);
   border: 1px solid #655a7c46;
+  margin-bottom: 0.3rem;
 }
 
 a.my-badge:hover {
   text-decoration: none;
   background-color: #ffffff;
 }
-
 
 /* Slides */
 

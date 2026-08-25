@@ -65,5 +65,4 @@ Interpreting brain activation maps:
 [BrainMap](https://www.brainmap.org/)  
 [MNI <-> Talairach Converter](https://bioimagesuiteweb.github.io/webapp/mni2tal.html)  
 :::
-
 ::::
