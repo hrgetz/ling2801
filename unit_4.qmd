@@ -17,8 +17,6 @@ title: "Development"
 
 :::
 
-
-
 | Date | Topic |  Due |
 | - | --- | --- |
 | Thurs 11/12 | Children's language networks [][17]{.my-badge .slides}| [Newport & Getz 2025](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}<br>

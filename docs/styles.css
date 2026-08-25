@@ -19,6 +19,7 @@ table td {
   color: rgba(0, 0, 0, 0.843);
   border: 1px solid #655a7c46;
   margin-bottom: 0.3rem;
+
 }
 
 a.my-badge:hover {
@@ -35,17 +36,28 @@ a.my-badge:hover {
 /* Slides */
 
 .slides {
-  color: rgba(38, 38, 38, 0.623);
+  color: rgba(29, 116, 0, 0.623);
+  background-color: #f1f1f162;
 }
 
 .slides::after {
- content: "  ↗ ";
+ content: "↗";
 }
+
+.group {
+  color: rgba(29, 116, 0, 0.623);
+  background-color: #f1f1f162;
+}
+
+.group::after {
+ content: "+";
+}
+
 
 /* Reading */
 
 .reading {
-  background-color: #f1f1f1b8;
+  background-color: #f1f1f162;
 }
 
 .reading::before {

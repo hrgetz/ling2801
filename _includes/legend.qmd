@@ -6,6 +6,8 @@
 <div class="legend-grid">
   <div>[]{.my-badge .slides}</div>
   <div>Lecture slides</div>
+  <div>[]{.my-badge .group}</div>
+  <div>Group work in class</div>
   <div>[]{.my-badge .reading}</div>
   <div>Read normally</div>
   <div>[]{.my-badge .article}</div>

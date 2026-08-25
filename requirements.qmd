@@ -39,15 +39,18 @@ During class, I'll occasionally ask you to respond to questions in real time usi
 
 ## Exams {#exams}
 
-There will be four short in-person exams, each worth roughly 12% of your grade. Exam dates and grade percentages are tentative. If one exam ends up covering a longer span of the course than others, grade weighting will be adjusted accordingly. I will tell you ahead of time about any changes.
+There will be four in-person exams (including the final), each worth roughly 12% of your grade. Exam dates and grade percentages are tentative. If one exam ends up covering a longer span of the course than others, grade weighting will be adjusted accordingly. I will tell you ahead of time about any changes.
 
-Tentative exam dates for each unit are listed on the corresponding unit page (see [schedule](schedule.md)). The exact timing of the exams may be adjusted depending on course needs.
+Tentative exam dates for each unit are listed on the corresponding unit page (see [schedule](schedule.md)). The exact timing of the exams may be adjusted depending on course needs. The fourth exam will take place on the date that the Registrar has set for our class.
 
-During exams, you are allowed to reference the printed copies of the scientific articles we covered during that unit, including any notes you have written on those copies. You are also allowed to reference a printed [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0).
+During exams, you are allowed to reference the printed copies of any primary sources (scientific articles)[^primarylit] that we covered during that unit, including any notes you have written on those copies. You are also allowed to reference a printed [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0).
+
+[^primarylit]: Primary sources are indicated on the schedule pages with this icon: []{.my-badge .article}
 
 ::: {.callout-note}
 # What's on the exams? 
-**The exams are designed to measure your progress towards the specific learning goals that are listed on each unit's page.** In general, they are meant to assess your knowledge of foundational concepts, your ability to map scientific evidence about language and the brain to theoretical claims, and your ability to interpret new evidence. They will cover lecture material, background readings, and the scientific articles that we worked through in class. 
+**The exams are designed to measure your progress towards the specific learning goals that are listed on each unit's page.** In general, they are meant to assess your knowledge of foundational concepts, your ability to evaluate and interpret scientific evidence about language and the brain. 
+They will cover lecture material, background readings, and the primay literature that we worked through in class.
 :::
 
 ## Group work on scientific papers {#papers}
