@@ -8,13 +8,13 @@ title: "Functions of the language network"
 :::
 | Date | Topic | Due |
 | - | -- | -- |
-| Tues 10/20 | Language sounds [][13]{.my-badge .slides} | [SGN p. 39-40; p. 51-77]{.my-badge .reading}
+| Tues 10/20 | Language sounds [][13]{.my-badge .slides} | [<u>SGN</u> p. 39-40; p. 51-77]{.my-badge .reading}
 | Thurs 10/22 | Motor and speech (TMS) [][14]{.my-badge .slides}| [Möttönen & Watkins 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Friday 10/23 || [Summary #2](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 10/27 | Words and sentences [][15]{.my-badge .slides}| [SGN p. 139-155]{.my-badge .reading}
+| Tues 10/27 | Words and sentences [][15]{.my-badge .slides}| [<u>SGN</u> p. 139-155]{.my-badge .reading}
 | Thurs 10/29 | Grammar and meaning [][16]{.my-badge .slides} | [Pallier et al. 2011](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Friday 10/30 || [Summary #3](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/3 | Localization, specialization, & specificity [][12]{.my-badge .slides}| [Cathy Price on TLNP](https://podcasts.apple.com/mx/podcast/imaging-the-language-network-with-cathy-price/id1550649018?i=1000546234154){.my-badge .podcast}
+| Tues 11/3 | Localization, specialization, & specificity [][12]{.my-badge .slides}| [TLNP #18: Dr. Price](https://podcasts.apple.com/mx/podcast/imaging-the-language-network-with-cathy-price/id1550649018?i=1000546234154){.my-badge .podcast}
 | Thurs 11/5 | 
 | Tues 11/10 | [Exam #3]{.exam}
 

@@ -13,6 +13,7 @@
   line-height: 1;
   color: rgba(0, 0, 0, 0.843);
   border: 1px solid #655a7c46;
+  margin: 0.1rem 0;
 }
 
 a.my-badge:hover {

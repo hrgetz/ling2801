@@ -20,7 +20,7 @@
   <div>Some other thing is due</div>
   <div>[]{.exam}</div>
   <div>Exam</div>
-  <div>SGN</div>
+  <div><u>SGN</u></div>
   <div>Our textbook</div>
   <div>TLNP</div>
   <div>The Language Neuroscience Podcast</div>

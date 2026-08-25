@@ -24,7 +24,7 @@ title: "Development"
 | Thurs 11/12 | Children's language networks [][17]{.my-badge .slides}| [Newport & Getz 2025](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}<br>
 | Friday 11/13 || [Summary #4](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 11/17 | Critical periods, multilingualism [][20]{.my-badge .slides}| [Wartenburger et al. 2003](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
-| Thurs 11/19 | Perinatal stroke [][19]{.my-badge .slides}| [Elissa Newport on TLNP](https://langneurosci.org/podcast/){.my-badge .podcast} | 
+| Thurs 11/19 | Perinatal stroke [][19]{.my-badge .slides}| [TLNP #17: Dr. Newport](https://langneurosci.org/podcast/){.my-badge .podcast} | 
 | Fri 11/20 | | [Researcher interview](requirements.qmd#interview){.my-badge .due}
 | Tues 11/24 |  Early language deprivation [][18]{.my-badge .slides} | [Cheng et al. 2023](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 
