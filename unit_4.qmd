@@ -6,7 +6,7 @@ title: "Development"
 
 **Scientific explanation**
 
-1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to your grandparents why anyone should care.
+1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to Oliver (age 6) why anyone should care
     * The language network is lateralized in children
     * Children's language networks develop gradually
     * Language experience early in life is necessary for the normal development of the brain's language network

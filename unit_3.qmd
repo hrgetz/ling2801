@@ -16,7 +16,7 @@ title: "Functions of the language network"
 | Friday 10/30 || [Summary #3](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 11/3 | Localization, specialization, & specificity [][12]{.my-badge .slides}| [TLNP #18: Dr. Price](https://podcasts.apple.com/mx/podcast/imaging-the-language-network-with-cathy-price/id1550649018?i=1000546234154){.my-badge .podcast}
 | Thurs 11/5 | 
-| Tues 11/10 | [Exam #3]{.exam}
+| Tues 11/10 | [Exam #3]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 
 [12]:https://docs.google.com/presentation/d/17lZzHZe0HFpVxne9vD_WBngnSxhRwL6ujtAinhx3ULc/edit?usp=drive_link
 [13]:https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?usp=drive_link

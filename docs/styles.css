@@ -3,13 +3,14 @@
    ======================================== */
 
 table td {
-  vertical-align: middle;
+  vertical-align: top;
 }
 
 /* Shared badge styling */
 
 .my-badge {
   display: inline-block;
+  vertical-align: top;
   padding: 0.35rem 0.5rem;
   border-radius: 999px;
   text-decoration: none;
@@ -23,6 +24,12 @@ table td {
 a.my-badge:hover {
   text-decoration: none;
   background-color: #ffffff;
+}
+
+.hidden-notes {
+  color: transparent !important;
+  background: transparent !important;
+  border-color: transparent !important;
 }
 
 /* Slides */

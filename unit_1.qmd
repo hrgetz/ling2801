@@ -17,14 +17,15 @@ title: "Foundation"
     c) the four lobes of the brain
 2. Roughly locate Broca's area and Wernicke's area on a side view of the brain
 3. Identify *coronal*, *axial*, and *sagittal* views of the human brain and tell which way a brain is "facing" on each view
-4. Identify gyri, sulci, white matter, and grey matter on a brain cross-section
-5. Locate the following major sulci: longitudinal, central, lateral 
+4. Identify *gyri*, *sulci*, *white matter*, and *grey matter* on a brain cross-section
+5. Locate the following major sulci on an image of the brain's surface: *longitudinal*, *central*, *lateral* 
 6. (In progress) "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
 
 **Basic principles & foundational evidence**
 
 1. Define the following terms: *localization*, *lateralization*, *aphasia*
-2. Summarize the classical model of language in the brain and describe the original evidence for that model
+1. Describe Broca's observations about his patients' speech and the approximate location of their brain damage; state the inference that he drew based on these observations
+2. Describe Wernicke's observations about his patients' speech and the approximate location of their brain damage; state the inference that he drew based on these observations
 
 **The toolbox**
 
@@ -36,9 +37,10 @@ title: "Foundation"
 1. List the basic steps in the scientific method
 2. Describe the difference between confirmatory evidence and counter-evidence; explain the importance of seeking out counter-evidence
 3. Distinguish evidence, inferences, and ideas in scientific text
-4. For the following claim, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to your grandparents why anyone should care
+4. For the following claim, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to Oliver (age 6) why anyone should care
     * Language processing in humans is lateralized to the left hemisphere.
 :::
+
 
 | Date | Class Topic | Due |
 | -- | -- | -- | -- |
@@ -47,12 +49,12 @@ title: "Foundation"
 | Thurs 9/3 | Scientific inquiry; localization of function [][3]{.my-badge .slides} | [<u>SGN</u> p. 10-15]{.my-badge .reading}<br>Video: [Race & Popular Science in Early America](https://www.youtube.com/watch?v=sLKTS6dZ7Bw)  
 | Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Classical model, aphasia [][4]{.my-badge .slides} | [<u>SGN</u> p. 27-31]{.my-badge .reading} |
+| Thurs 9/10 | Classical model, aphasia [][4]{.my-badge .slides} | [<u>SGN</u> p. 27-31]{.my-badge .reading} <br>[Geschwind 1970](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}|
 | Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 9/15 | Sign languages [][5]{.my-badge .slides} | [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
+| Tues 9/15 | Sign languages [][5]{.my-badge .slides}<br>Dr. Carolyn Gershman, Gallaudet University | [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
 | Thurs 9/17 |  Lateralization [][6]{.my-badge .slides} | TBD |
 | Friday 9/19 | | *Nothing due* 
-| Tues 9/22 | [Exam #1]{.exam} *exam date is tentative, may change* |
+| Tues 9/22 | [Exam #1]{.exam} *exam date is tentative, may change* | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 
 [1]:https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit
 [2]:https://docs.google.com/presentation/d/1jyQqxVLcxgUTMdSuKAvVXysoGkv5phrmmoFLspAKKng/edit
