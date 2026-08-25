@@ -13,7 +13,6 @@
   line-height: 1;
   color: rgba(0, 0, 0, 0.843);
   border: 1px solid #655a7c46;
-  margin: 0.1rem 0;
 }
 
 a.my-badge:hover {
@@ -262,10 +261,6 @@ a.my-badge:hover {
     grid-template-columns: 1fr;
   }
 }
-
-
-
-
 
 .references p {
   margin-left: 2em;
