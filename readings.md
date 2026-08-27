@@ -17,7 +17,7 @@ Nope. This is the full course bibliography, meaning that it lists all of the sou
 ## Course Bibliography
 
 :::{.callout-warning}
-The reading list below is not up to date. It'll be updated prior to the first day of class.
+The reading list below is not up to date. It'll be updated soon! In the meantime, check the [schedule](schedule.md) for Unit 1's readings.
 :::
 
 

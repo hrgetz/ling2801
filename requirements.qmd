@@ -4,11 +4,11 @@ title: "Course Requirements"
 | Weight | Assignment |
 | -- | -- | -- | -- | -- |
 | Ungraded | [Preparation](#reading) |
-| 4% | [Attendance & participation](#participation) |
+| 2% | [Attendance & participation](#participation) |
 | 48%| [Exams](#exams) |
 | 16%| [Group work in class](#papers)  |
-| 32% |[Controversy Investigation](#paper) |
-| 4%| [Researcher interview](#interview)  |
+| 30% |[Controversy Investigation](#paper) |
+| 3%| [Researcher interview](#interview)  |
 | 1%| [Researcher panel](#panel)|
 
 <p>

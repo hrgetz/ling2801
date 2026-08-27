@@ -21,7 +21,7 @@ title: "The language network"
 
 **Scientific explanation**
 
-1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to Oliver (age 6) why anyone should care
+1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to someone's grandparents why anyone should care
     * The specific brain regions used for language processing are the same for all healthy adults
     * Spoken languages and signed languages are processed by the same language network
 :::

@@ -37,7 +37,7 @@ title: "Foundation"
 1. List the basic steps in the scientific method
 2. Describe the difference between confirmatory evidence and counter-evidence; explain the importance of seeking out counter-evidence
 3. Distinguish evidence, inferences, and ideas in scientific text
-4. For the following claim, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to Oliver (age 6) why anyone should care
+4. For the following claim, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to someone's grandparents why anyone should care
     * Language processing in humans is lateralized to the left hemisphere.
 :::
 
