@@ -56,7 +56,7 @@ title: "Foundation"
 | Friday 9/19 | | *Nothing due* 
 | Tues 9/22 | [Exam #1]{.exam} *exam date is tentative, may change* | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 
-[1]:https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit\
+[1]:https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit
 [2]:https://docs.google.com/presentation/d/1jyQqxVLcxgUTMdSuKAvVXysoGkv5phrmmoFLspAKKng/edit
 [3]:https://docs.google.com/presentation/d/1-DlaIOIvnQBYJNo8rJH51RvTGDmv6JFJAnk2MSbpzUQ/edit
 [4]:https://docs.google.com/presentation/d/1-ezBcrR7-fW8k9VVZgU28ZpjAFoxlYTB2a67PofzSqo/edit?slide=id.p#slide=id.p
