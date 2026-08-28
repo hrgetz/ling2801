@@ -13,7 +13,7 @@ title: "Wrapping up"
 | Thurs 12/3 | Researcher panel |  [Submit questions](https://www.menti.com/bldf9ra1coas){.my-badge .due}
 | Friday 12/4 ||  [Panel reflection](requirements.qmd#panel){.my-badge .due}
 | Tues 12/8 | Group projects| [Presentations](controversy.qmd#project-timeline){.my-badge .controversy} |
-| TBD | [Exam #4]{.exam}
+| Tues 12/15 | [Exam #4: 9-11am]{.exam}
 
 [21]:https://docs.google.com/presentation/d/1DO98RvebDiw2ZDgDk9Au0ipXh8stk_DfqESRdY19kZI/edit?usp=drive_link
 

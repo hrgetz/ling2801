@@ -46,13 +46,13 @@ title: "Foundation"
 | -- | -- | -- | -- |
 | Thurs 8/27 | Course Introduction [][1]{.my-badge .slides} [][1b]{.my-badge .group}|  [Baggio 2022](https://drive.google.com/file/d/1N_GbrPWy_zkyM8BYVG33PeRk2NOkZm27/view?usp=drive_link){.my-badge .reading} | 
 | Tues 9/1 | Brain anatomy [][2]{.my-badge .slides} |  [<u>SGN</u> p. 18-25]{.my-badge .reading}
-| Thurs 9/3 | Scientific inquiry; localization of function [][3]{.my-badge .slides} | [<u>SGN</u> p. 10-15]{.my-badge .reading}<br>Video: [Race & Popular Science in Early America](https://www.youtube.com/watch?v=sLKTS6dZ7Bw)  
+| Thurs 9/3 | Scientific inquiry; localization of function [][3]{.my-badge .slides} | [Janik 2014](https://drive.google.com/file/d/1x5OpnQHH5CW1vtyHDTPRJNudxvZqU6_a/view?usp=drive_link){.my-badge .reading}<br>Video: [Race & Popular Science in Early America](https://www.youtube.com/watch?v=sLKTS6dZ7Bw)  
 | Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Classical model, aphasia [][4]{.my-badge .slides} [][aphasia-lab]{.my-badge .group}| [<u>SGN</u> p. 27-31]{.my-badge .reading} <br>[Geschwind 1970](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}|
+| Thurs 9/10 | Classical model, aphasia [][4]{.my-badge .slides} [][aphasia-lab]{.my-badge .group}| [<u>SGN</u> p. 10-15, 27-31]{.my-badge .reading} <br>[Geschwind 1970](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}|
 | Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 9/15 | Sign language aphasia [][5]{.my-badge .slides} [][sign-aphasia]{.my-badge .group}<br>Dr. Carolyn Gershman, Gallaudet University | [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
-| Thurs 9/17 |  Lateralization [][6]{.my-badge .slides} [][lateralization]{.my-badge .group}| TBD |
+| Thurs 9/17 |  Lateralization [][6]{.my-badge .slides} [][lateralization]{.my-badge .group}| [MacNeilage et al. 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading} |
 | Friday 9/19 | | *Nothing due* 
 | Tues 9/22 | [Exam #1]{.exam} *exam date is tentative, may change* | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 
