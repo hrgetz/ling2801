@@ -108,17 +108,6 @@ a.my-badge:hover {
   content: "📝 ";
 }
 
-.exam::before {
-  content: "✏️ ";
-}
-
-
-/* ========================================
-   Legend
-   ======================================== */
-
-
-
 .exam {
   display: inline-block;
   padding: 0.1rem 0.62rem;
@@ -127,7 +116,13 @@ a.my-badge:hover {
   background-color: #fffbc1;
 }
 
+.exam::before {
+  content: "✏️ ";
+}
 
+/* ========================================
+   Legend
+   ======================================== */
 
 .legend-grid {
   display: grid;
@@ -137,6 +132,66 @@ a.my-badge:hover {
   align-items: start;
   color: #4f5152
 }
+
+
+/* Cards on unit pages */
+.unit-card {
+  max-width: 25rem;
+  margin: 1.5rem 0;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid rgba(80, 88, 66, 0.25);
+  border-radius: 0.75rem;
+  background-color: rgba(236, 236, 236, 0.025);
+  box-shadow: 0 0.15rem 0.4rem rgba(0, 0, 0, 0.05);
+}
+
+.unit-card details {
+  margin: 0;
+}
+
+.unit-card summary {
+  font-size: 1.05rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.unit-card details[open] summary {
+  margin-bottom: 1rem;
+}
+
+.unit-card h3 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.unit-card > :last-child {
+  margin-bottom: 0;
+}
+
+
+/* Legend and Resources side by side */
+.unit-card-row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  align-items: stretch;
+  margin: 1.5rem 0;
+}
+
+.unit-card-row .unit-card {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Stack the cards on smaller screens */
+@media (max-width: 768px) {
+  .unit-card-row {
+    grid-template-columns: 1fr;
+  }
+}
+
 
 
 /* ========================================
@@ -227,66 +282,80 @@ a.my-badge:hover {
 }
 
 
-/* Cards on unit pages */
-.unit-card {
-  max-width: 25rem;
-  margin: 1.5rem 0;
-  padding: 1.25rem 1.5rem;
-  border: 1px solid rgba(80, 88, 66, 0.25);
-  border-radius: 0.75rem;
-  background-color: rgba(236, 236, 236, 0.025);
-  box-shadow: 0 0.15rem 0.4rem rgba(0, 0, 0, 0.05);
+/* ========================================
+   Mentis
+   ======================================== */
+
+.menti-card {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
-.unit-card details {
-  margin: 0;
-}
-
-.unit-card summary {
-  font-size: 1.05rem;
-  font-weight: 600;
+.menti-card summary {
   cursor: pointer;
+  font-weight: 600;
+  font-size: 1.05rem;
+  padding: 0.25rem 0;
 }
 
-.unit-card details[open] summary {
+.menti-card[open] summary {
   margin-bottom: 1rem;
 }
 
-.unit-card h3 {
+.menti-card h3 {
   margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-.unit-card > :last-child {
-  margin-bottom: 0;
 }
 
 
-/* Legend and Resources side by side */
-.unit-card-row {
+.menti-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.25rem;
-  align-items: stretch;
-  margin: 1.5rem 0;
+  gap: 1.5rem;
+  align-items: start;
 }
 
-.unit-card-row .unit-card {
-  width: 100%;
-  max-width: none;
-  margin: 0;
-  box-sizing: border-box;
-}
-
-/* Stack the cards on smaller screens */
 @media (max-width: 768px) {
-  .unit-card-row {
+  .menti-grid {
     grid-template-columns: 1fr;
   }
 }
+
+.menti-button {
+  display: inline-block;
+  padding: 0.25rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  line-height: 1;
+  text-decoration: none;
+  color: #555;
+  background-color: #fcfafa;
+  border: 1px solid #ccc;
+}
+
+.menti-button:hover {
+  color: #333;
+  background-color: #fff;
+  border-color: #999;
+  text-decoration: none;
+}
+
+
+/* ========================================
+   Misc
+   ======================================== */
 
 .references p {
   margin-left: 2em;
   text-indent: -2em;
   margin-bottom: 0.75em;
+}
+
+mark,
+.mark {
+  background-color: #fff3bf;
 }
