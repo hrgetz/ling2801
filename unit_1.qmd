@@ -49,7 +49,7 @@ title: "Foundation"
 | Thurs 9/3 | Scientific inquiry; localization of function [][3]{.my-badge .slides} | [Janik 2014](https://drive.google.com/file/d/1x5OpnQHH5CW1vtyHDTPRJNudxvZqU6_a/view?usp=drive_link){.my-badge .reading}<br>Video: [Race & Popular Science in Early America](https://www.youtube.com/watch?v=sLKTS6dZ7Bw)  
 | Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Classical model, aphasia [][4]{.my-badge .slides} [][aphasia-lab]{.my-badge .group}| [<u>SGN</u> p. 10-15, 27-31]{.my-badge .reading} <br>[Geschwind 1970](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}|
+| Thurs 9/10 | Classical model, aphasia [][4]{.my-badge .slides} [][aphasia-lab]{.my-badge .group}| [<u>SGN</u> p. 10-15, 27-31]{.my-badge .reading} <br>[Geschwind 1970 p. 940-941](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading} (until "Pure Alexia without Agraphia")|
 | Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 9/15 | Sign language aphasia [][5]{.my-badge .slides} [][sign-aphasia]{.my-badge .group}<br>Dr. Carolyn Gershman, Gallaudet University | [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
 | Thurs 9/17 |  Lateralization [][6]{.my-badge .slides} [][lateralization]{.my-badge .group}| [MacNeilage et al. 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading} |
