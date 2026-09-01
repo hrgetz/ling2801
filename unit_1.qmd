@@ -25,31 +25,29 @@ title: "Foundation"
 
 1. Define the following terms: *localization*, *lateralization*, *aphasia*
 1. Describe Broca's observations about his patients' speech and the approximate location of their brain damage; state the inference that he drew based on these observations
-2. Describe Wernicke's observations about his patients' speech and the approximate location of their brain damage; state the inference that he drew based on these observations
+1. Describe Wernicke's observations about his patients' speech and the approximate location of their brain damage; state the inference that he drew based on these observations
 
 **The toolbox**
 
 1. Explain the logic of the lesion/deficit mapping method
-2. Describe two methods that can be used to assess lateralization of language
+1. Describe two methods that can be used to assess lateralization of language
 
 **Scientific inquiry**
 
-1. List the basic steps in the scientific method
-2. Describe the difference between confirmatory evidence and counter-evidence; explain the importance of seeking out counter-evidence
-3. Distinguish evidence, inferences, and ideas in scientific text
-4. For the following claim, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to someone's grandparents why anyone should care
+1. Distinguish evidence, inferences, and ideas in scientific text
+1. For the following claim, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to someone's grandparents why anyone should care
     * Language processing in humans is lateralized to the left hemisphere.
 :::
 
 
 | Date | Class Topic | Due |
 | -- | -- | -- | -- |
-| Thurs 8/27 | Course Introduction [][1]{.my-badge .slides} [][1b]{.my-badge .group}|  [Baggio 2022](https://drive.google.com/file/d/1N_GbrPWy_zkyM8BYVG33PeRk2NOkZm27/view?usp=drive_link){.my-badge .reading} | 
-| Tues 9/1 | Brain anatomy [][2]{.my-badge .slides} |  [<u>SGN</u> p. 18-25]{.my-badge .reading}
-| Thurs 9/3 | Scientific inquiry; localization of function [][3]{.my-badge .slides} | [Janik 2014](https://drive.google.com/file/d/1x5OpnQHH5CW1vtyHDTPRJNudxvZqU6_a/view?usp=drive_link){.my-badge .reading}<br>Video: [Race & Popular Science in Early America](https://www.youtube.com/watch?v=sLKTS6dZ7Bw)  
+| Thurs 8/27 | Course Introduction [][1]{.my-badge .slides} |  [Baggio 2022](https://drive.google.com/file/d/1N_GbrPWy_zkyM8BYVG33PeRk2NOkZm27/view?usp=drive_link){.my-badge .reading} | 
+| Tues 9/1 | Language as computation [][2]{.my-badge .slides} [][1b]{.my-badge .group}|
+| Thurs 9/3 | Brain anatomy [][3]{.my-badge .slides} |  [<u>SGN</u> p. 18-25]{.my-badge .reading}
 | Fri 9/4 || [Pick a controversy](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 9/8 | *No class (Monday schedule)* | | 
-| Thurs 9/10 | Classical model, aphasia [][4]{.my-badge .slides} [][aphasia-lab]{.my-badge .group}| [<u>SGN</u> p. 10-15, 27-31]{.my-badge .reading} <br>[Geschwind 1970 p. 940-941](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading} (until "Pure Alexia without Agraphia")|
+| Thurs 9/10 | Localization of function, classical model [][4]{.my-badge .slides} [][aphasia-lab]{.my-badge .group}| [<u>SGN</u> p. 10-15, 27-31]{.my-badge .reading} <br>[Geschwind 1970 p. 940-941](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading} (until "Pure Alexia without Agraphia")|
 | Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 9/15 | Sign language aphasia [][5]{.my-badge .slides} [][sign-aphasia]{.my-badge .group}<br>Dr. Carolyn Gershman, Gallaudet University | [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
 | Thurs 9/17 |  Lateralization [][6]{.my-badge .slides} [][lateralization]{.my-badge .group}| [MacNeilage et al. 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading} |
