@@ -23,9 +23,10 @@ title: "Foundation"
 
 **Basic principles & foundational evidence**
 
+1. Understand the sense in which language is a type of computation and give an example
 1. Define the following terms: *localization*, *lateralization*, *aphasia*
-1. Describe Broca's observations about his patients' speech and the approximate location of their brain damage; state the inference that he drew based on these observations
-1. Describe Wernicke's observations about his patients' speech and the approximate location of their brain damage; state the inference that he drew based on these observations
+1. Describe the characteristics of language production and comprehension that are traditionally associated with non-fluent and fluent aphasia
+1. Describe the "Classic Model" of language in the brain and explain the 19th-century evidence for this model
 
 **The toolbox**
 
