@@ -52,7 +52,7 @@ title: "Foundation"
 | Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 9/15 | Sign language aphasia [][5]{.my-badge .slides} [][sign-aphasia]{.my-badge .group}<br>Dr. Carolyn Gershman, Gallaudet University | [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
 | Thurs 9/17 |  Lateralization [][6]{.my-badge .slides} [][lateralization]{.my-badge .group}| [MacNeilage et al. 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading} |
-| Friday 9/19 | | *Nothing due* 
+| Friday 9/19 | | [Aphasia Lab]{.my-badge .due}
 | Tues 9/22 | [Exam #1]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 
 [1]:https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit
