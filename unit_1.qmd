@@ -51,7 +51,7 @@ title: "Foundation"
 | Thurs 9/10 | Localization of function, classical model [][4]{.my-badge .slides} [][aphasia-lab]{.my-badge .group}| [<u>SGN</u> p. 10-15, 27-31]{.my-badge .reading} <br>[Geschwind 1970 p. 940-942](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading} (until "Pure Alexia without Agraphia")|
 | Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 9/15 | Sign language aphasia [][5]{.my-badge .slides} [][sign-aphasia]{.my-badge .group}<br>Dr. Carolyn Gershman, Gallaudet University | [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
-| Thurs 9/17 |  Lateralization [][6]{.my-badge .slides} [][lateralization]{.my-badge .group}| [MacNeilage et al. 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading} |
+| Thurs 9/17 |  Lateralization [][6]{.my-badge .slides} [][lateralization]{.my-badge .group}| [MacNeilage et al. 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}<br>[Left brain/right brain myths](https://www.youtube.com/watch?v=ZMSbDwpIyF4) |
 | Friday 9/19 | | [Aphasia Lab]{.my-badge .due}
 | Tues 9/22 | [Exam #1]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 
