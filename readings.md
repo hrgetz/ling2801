@@ -6,7 +6,7 @@ toc: false
 # Where do I get the readings?
 The textbook for this course is *Language and the Brain: A slim guide to neurolinguistics* by [Jon Brennan](https://jobrenn.gitlab.io/). You can purchase it [through the bookstore](https://georgetown.bncollege.com/course-material-listing-page?utm_campaign=storeId=88131_langId=-1_courseData=LING_2801_01_F26&utm_source=wcs&utm_medium=registration_integration).
 
-PDFs of the articles below are available for download [here](https://drive.google.com/drive/folders/1RTxKdvKZ8guRjKT1kCD_4qMnbVujafMW?usp=drive_link). Articles that are assigned as reading are also linked on the [schedule](schedule.md).
+PDFs of the articles below are available for download [here](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB). Articles that are assigned as reading are also linked on the [schedule](schedule.md).
 :::
 
 

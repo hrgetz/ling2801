@@ -23,8 +23,7 @@ title: "The language network"
 
 **Scientific explanation**
 
-1. Describe a finding from Binder et al. (1997) that is *consistent with* the classical model of language in the brain, state which aspect(s) of the model are supported by the evidence, and explain your reasoning. 
-1. Describe a finding from Binder et al. (1997) that is *not consistent with* some aspect of the classical model of language in the brain, state which aspect(s) of the model are inconsistent with the evidence, and explain your reasoning.
+1. Explain how the classical model of language in the brain would need to be expanded and revised in order to account for the evidence presented in Binder et al. (1997) and Petitto et al (2001).
 1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain why anyone cares.
     * The general brain regions used for language processing are consistent across individuals.
     * The neural organization of language is similar for spoken and signed languages.
@@ -46,7 +45,6 @@ title: "The language network"
 | Friday 10/16 | |[Summary #1](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 10/20 | Visit anatomy lab |
 | Thurs 10/22 | [Exam #2]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
-| Friday 10/23 || [Summary #2](controversy.qmd#project-timeline){.my-badge .controversy}
 
 [7]: https://docs.google.com/presentation/d/1E6KJ8ZANM8UWZCWrT2yUDB9bsuFqEFv2FSDQAYcYaSs/edit?usp=drive_link
 [8]: https://docs.google.com/presentation/d/1OF3vQvqHdez7yOyLC89PxaUPbzD0EITDRsRl_dkVMsc/edit?usp=drive_link
