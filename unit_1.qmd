@@ -15,18 +15,16 @@ title: "Foundation"
     a) the components of the Central Nervous System
     b) the two cerebral hemishperes
     c) the four lobes of the brain
-2. Roughly locate Broca's area and Wernicke's area on a side view of the brain
-3. Identify *coronal*, *axial*, and *sagittal* views of the human brain and tell which way a brain is "facing" on each view
-4. Identify *gyri*, *sulci*, *white matter*, and *grey matter* on a brain cross-section
-5. Locate the following major sulci on an image of the brain's surface: *longitudinal*, *central*, *lateral* 
-6. (In progress) "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
+1. Roughly locate Broca's area and Wernicke's area on a side view of the brain
+1. Locate the following major sulci on an image of the brain's surface: *longitudinal*, *central*, *lateral* 
+1. (In progress) "Navigate" to a region of the brain using the following neuroanatomical and directional terms: *frontal*, *temporal*, *parietal*, *occipital*, *anterior*, *posterior*, *inferior*, *superior*, *lateral*, *medial*, *sulcus*, *gyrus*, *left*, *right*
 
 **Basic principles & foundational evidence**
 
 1. Understand the sense in which language is a type of computation and give an example
 1. Define the following terms: *localization*, *lateralization*, *aphasia*
 1. Describe the characteristics of language production and comprehension that are traditionally associated with non-fluent and fluent aphasia
-1. Describe the "Classic Model" of language in the brain and explain the 19th-century evidence for this model
+1. Describe the "Classical Model" of language in the brain and explain the 19th-century evidence for this model
 
 **The toolbox**
 
@@ -36,7 +34,7 @@ title: "Foundation"
 **Scientific inquiry**
 
 1. Distinguish evidence, inferences, and ideas in scientific text
-1. For the following claim, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to someone's grandparents why anyone should care.
+1. For the following claim, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain why anyone cares.
     * Language processing in humans is lateralized to the left hemisphere.
 :::
 
@@ -52,7 +50,7 @@ title: "Foundation"
 | Fri 9/11 || [AI use policy](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 9/15 | Sign language aphasia [][5]{.my-badge .slides} [][sign-aphasia]{.my-badge .group}<br>Dr. Carolyn Gershman, Gallaudet University | [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
 | Weds 9/16 | | [Aphasia Lab]{.my-badge .due}
-| Thurs 9/17 |  Lateralization [][6]{.my-badge .slides} [][lateralization]{.my-badge .group} <br>Natalya Vladyko, Georgetown University| [MacNeilage et al. 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}<br>[Left brain/right brain myths](https://www.youtube.com/watch?v=ZMSbDwpIyF4) |
+| Thurs 9/17 |  Lateralization [][6]{.my-badge .slides} [][lateralization]{.my-badge .group} <br>Natalya Vladyko, Georgetown University| [MacNeilage et al. 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}<br>Optional: [The left brain vs. right brain myth](https://www.youtube.com/watch?v=ZMSbDwpIyF4) |
 | Friday 9/19 | 
 | Tues 9/22 | [Exam #1]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 

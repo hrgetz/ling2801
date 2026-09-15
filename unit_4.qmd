@@ -6,7 +6,7 @@ title: "Development"
 
 **Scientific explanation**
 
-1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain to someone's grandparents why anyone should care.
+1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain why anyone cares.
     * Children's language networks mature over development.
     * In multilinguals, brain processing of language is affected by (i) the age at which the person began acquiring the language and also (ii) the person's proficiency level in the language.
 
