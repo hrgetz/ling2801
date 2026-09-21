@@ -17,14 +17,14 @@ title: "The language network"
 
 **Brain anatomy**
 
-1. Identify *coronal*, *axial*, and *sagittal* views of the human brain and tell which way a brain is "facing" on each view
 1. Identify *gyri*, *sulci*, *white matter*, and *grey matter* on a brain cross-section
+1. Identify *coronal*, *axial*, and *sagittal* views of the human brain and tell which way a brain is "facing" on each view
 1. State the main regions of the brain that are involved in language processing, using neuroanatomical and directional terms, and locate these regions on saggital, coronal, and axial slices of the brain
 
 **Scientific explanation**
 
-1. Explain how the classical model of language in the brain would need to be expanded and revised in order to account for the evidence presented in Binder et al. (1997) and Petitto et al (2001).
-1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain why anyone cares.
+1. Explain how the classical model of language in the brain would need to be expanded and revised in order to account for the evidence presented in Binder et al. (1997) and Petitto et al (2001)
+1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain why anyone cares
     * The general brain regions used for language processing are consistent across individuals.
     * The neural organization of language is similar for spoken and signed languages.
 :::
@@ -33,13 +33,13 @@ title: "The language network"
 | Date | Topic | Due |
 | -- | -- |  -- |
 | Thurs 9/24 | Methods [][7]{.my-badge .slides}| [<u>SGN</u> p. 25-27; 31-34]{.my-badge .reading} <br>[*Understanding fMRI* [Video], 17:18-28:46](https://youtu.be/eN-zCoI_Ejc?si=9aW_mQXIhsTvH1Vm&t=1038){.my-badge}
-| Friday 9/25 || [Secondary sources](controversy.qmd#project-timeline){.my-badge .controversy}
+| Friday 9/25 || <small>Suggestion: Start working on your secondary sources</small>
 | Tues 9/29 | Tour of [CFMI](https://cfmi.georgetown.edu/) |
 | Thurs 10/1 | Expanding the classical model;<br>the subtraction method [][8]{.my-badge .slides} [][binder-design]{.my-badge .group}| [Binder et al. 1997 p. 353-355](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Abstract, Introduction, Materials and Methods)
-| Friday 10/2 || [Primary sources](controversy.qmd#project-timeline){.my-badge .controversy}
+| Friday 10/2 || [Secondary sources](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 10/6 | Expanding the classical model;<br>WATB (What Are The Blobs?) [][9]{.my-badge .slides} [][binder-results]{.my-badge .group}| [Binder et al. 1997 p. 355-362](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Results, Discussion)
 | Thurs 10/8 | Scientific explanation;<br>sign language aphasia [][sign-aphasia]{.my-badge .group} |[Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
-| Friday 10/9 | | 
+| Friday 10/9 | | [Primary sources](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 10/13 | Expanding the classical model;<br>Speech vs. sign [][10]{.my-badge .slides} [][petitto-design]{.my-badge .group}|  [Petitto et al. 2000 p. 13961-13963](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Abstract, Introduction, Methods)
 | Thurs 10/15 |  Activation in 3D [][11]{.my-badge .slides} [][petitto-results]{.my-badge .group} |[Petitto et al. 2000 p. 13963-13966](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Results, Discussion)|  
 | Friday 10/16 | |[Summary #1](controversy.qmd#project-timeline){.my-badge .controversy}

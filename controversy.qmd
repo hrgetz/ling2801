@@ -21,10 +21,10 @@ Image credit: [MyCuteGraphics](https://www.mycutegraphics.com/graphics/detective
 
 Here are four major controversies in the field of language neuroscience right now. You may study any of these controversies, or an additional controversy approved by me (HRG). If you would like to study a controversy other than the ones listed below, please email me ASAP. I will need to confirm that (i) it's a real controversy (as opposed to an issue on which the science is not controversial, even if public opinion hasn't caught up) and (ii) there exists enough relevant and accessible literature to allow you to do the project.
 
-* Is the language network dedicated exclusively to language?
+* Are there brain regions dedicated exclusively to language processing?
 * Does multilingualism protect the brain?
 * Are there any similarities between human brains and large language models like ChatGPT?
-* What is the "language network" like in infants who haven't yet learned a language?
+* What is the "language network" like in infants and young children?
 
 
 ## Project timeline
@@ -56,11 +56,7 @@ Submit your written [AI Use Policy](#ai) for my approval.
 ::: {.timeline-date}
 Secondary sources
 :::
-
-1. Identify two secondary sources related to your topic. At least one of these sources must be published in a peer-reviewed journal (e.g., review article, opinion piece). The other does not have to be peer reviewed, but must be approved by me (HRG) (e.g., an episode of [*The Language Neuroscience Podcast*](https://langneurosci.org/podcast/)). 
-1. Read/watch/listen to your sources individually.
-1. As a group, complete this assignment: [Secondary Sources](https://docs.google.com/document/d/1jGpd6un_N9Mf-MSJrjFJn-brLjzY3z1ER3sMgLrG7u4/edit?usp=sharing)
-1. On Canvas, submit the assignment as well as PDFs or links for the sources. 
+Secondary sources for each topic are [here](https://docs.google.com/document/d/1MOirW2NTZhXV2_64YnjlMU2ogg2b7s006KA4r_oIykI/edit?usp=sharing). Individually, listen to the assigned podcast and read the review article, then discuss as a group. Complete the [Secondary Sources](https://docs.google.com/document/d/1jGpd6un_N9Mf-MSJrjFJn-brLjzY3z1ER3sMgLrG7u4/edit?usp=sharing) assignment and submit it on Canvas by the deadline.
 :::
 
 ::: {.timeline-item}
