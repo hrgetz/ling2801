@@ -34,7 +34,7 @@ title: "The language network"
 | -- | -- |  -- |
 | Thurs 9/24 | Methods [][7]{.my-badge .slides}| [<u>SGN</u> p. 25-27; 31-34]{.my-badge .reading} <br>[*Understanding fMRI* [Video], 17:18-28:46](https://youtu.be/eN-zCoI_Ejc?si=9aW_mQXIhsTvH1Vm&t=1038){.my-badge}
 | Friday 9/25 || <small>Suggestion: Start working on your secondary sources</small>
-| Tues 9/29 | Tour of [CFMI](https://cfmi.georgetown.edu/) |
+| Tues 9/29 | Tour of CFMI ([directions](https://docs.google.com/document/d/1TFNeQo3ZBpecKO4Rt8vWOjVTcJjtHRThEA1pjFFz5Y0/edit?usp=sharing/))|
 | Thurs 10/1 | Expanding the classical model;<br>the subtraction method [][8]{.my-badge .slides} [][binder-design]{.my-badge .group}| [Binder et al. 1997 p. 353-355](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Abstract, Introduction, Materials and Methods)
 | Friday 10/2 || [Secondary sources](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 10/6 | Expanding the classical model;<br>WATB (What Are The Blobs?) [][9]{.my-badge .slides} [][binder-results]{.my-badge .group}| [Binder et al. 1997 p. 355-362](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Results, Discussion)
