@@ -5,21 +5,21 @@ title: "The language network"
 ::: {.callout-tip collapse=true}
 # Learning goals for this unit
 
-**The toolbox**
-
-1. Explain in simple terms what is measured by fMRI and PET studies
-2. Explain the logic of the subtraction method
-3. Given a figure showing brain activation in an fMRI or PET study:
-    a) State which view of the brain is being shown
-    b) Indicate which way the brain is "facing"
-    c) Explain what the colors represent
-4. Use a brain atlas to translate between XYZ coordinates and anatomical landmarks
-
 **Brain anatomy**
 
 1. Identify *gyri*, *sulci*, *white matter*, and *grey matter* on a brain cross-section
 1. Identify *coronal*, *axial*, and *sagittal* views of the human brain and tell which way a brain is "facing" on each view
 1. State the main regions of the brain that are involved in language processing, using neuroanatomical and directional terms, and locate these regions on saggital, coronal, and axial slices of the brain
+
+**The toolbox**
+
+1. Explain in simple terms what is measured by fMRI and PET studies
+1. Explain the logic of the subtraction method
+1. Given a figure showing brain activation in an fMRI or PET study:
+    a) State which view of the brain is being shown
+    b) Indicate which way the brain is "facing"
+    c) Explain what the colors represent
+1. Use a brain atlas to translate between XYZ coordinates and anatomical landmarks
 
 **Scientific explanation**
 
