@@ -32,9 +32,9 @@ When reviewing the scientific articles, I strongly recommend following the proce
 
 ## Attendance & participation {#participation}
 
-We will take formal attendance. Multiple unexcused absences will affect your individual participation grade *and also your individual grade for your small group's in-class work during that unit*, see below. 
+We will take formal attendance. Unexcused absences will affect your individual participation grade *and also your individual grade for your small group's in-class work during that unit*, see below. 
 
-During class, I'll occasionally ask you to respond to questions in real time using a polling tool like Mentimeter. Your answers to these questions will not be graded for correctness, but repeated failure to participate in the polls will affect your participation grade. 
+There are additional penalties for students who are repeatedly absent from class. For every four unexcused absences, the course grade will be dropped by one full letter (e.g., four unexcused absences: A --> B, eight unexcused absences: A --> C). 
 
 
 ## Exams {#exams}
