@@ -8,9 +8,9 @@ title: "Open questions"
 
 | Date | Topic |  Due |
 | - | --- | --- |
-| Thurs 11/19 | 
+| Thurs 11/19 | TBD
 | Fri 11/20 | | [Researcher interview](requirements.qmd#interview){.my-badge .due}
-| Tues 11/24 | 
+| Tues 11/24 | TBD
 | Tues 12/1 | Frameworks [][21]{.my-badge .slides} | [Embick & Poeppel 2014](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
 | Thurs 12/3 | Researcher panel |  [Submit questions](https://www.menti.com/bldf9ra1coas){.my-badge .due}
 | Friday 12/4 ||  [Panel reflection](requirements.qmd#panel){.my-badge .due}
