@@ -1,32 +1,28 @@
 ---
-title: "Development"
+title: "Open questions"
 ---
 ::: {.callout-tip collapse=true}
 # Learning goals for this unit
-
-**Scientific explanation**
-
-1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain why anyone cares.
-    * Children's language networks mature over development.
-    * In multilinguals, brain processing of language is affected by (i) the age at which the person began acquiring the language and also (ii) the person's proficiency level in the language.
-
-2. Based on a description of a new study of language network development, interpret an unfamiliar brain activation figure and state a claim that is supported by the evidence.
-
+(To be added)
 :::
 
 | Date | Topic |  Due |
 | - | --- | --- |
-| Tues 11/17 | Children's language networks [][17]{.my-badge .slides}| [Newport & Getz 2025](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}<br>
-| Thurs 11/19 | Critical periods, multilingualism [][20]{.my-badge .slides}| [Wartenburger et al. 2003](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
-| Fri 11/20 | | [Researcher interview](requirements.qmd#interview){.my-badge .due}<br>[Summary #4](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/24 | Early language deprivation [][18]{.my-badge .slides} | [Cheng et al. 2023](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
-
+| Thurs 11/19 | 
+| Fri 11/20 | | [Researcher interview](requirements.qmd#interview){.my-badge .due}
+| Tues 11/24 | 
+| Tues 12/1 | Frameworks [][21]{.my-badge .slides} | [Embick & Poeppel 2014](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
+| Thurs 12/3 | Researcher panel |  [Submit questions](https://www.menti.com/bldf9ra1coas){.my-badge .due}
+| Friday 12/4 ||  [Panel reflection](requirements.qmd#panel){.my-badge .due}
+| Tues 12/8 | Group projects| [Presentations](controversy.qmd#project-timeline){.my-badge .controversy} |
+| Tues 12/15 | [Exam #4: 9-11am]{.exam}
 
 
 [17]:https://docs.google.com/presentation/d/1WHyxYBx8tDZfwiO8XIs77jw_PCBqKFoNibh1i5dPj3o/edit?usp=drive_link
 [18]:https://docs.google.com/presentation/d/1FfvsOfZnnThNHKty7tkGnkX0VTXNP52T9S1FzzPCRr8/edit?usp=drive_link
 [19]:https://docs.google.com/presentation/d/1uazlg7TY-kE46UZHPluNJzPfIBowFjMZvQwKtYUP7ls/edit?usp=drive_link
 [20]:https://docs.google.com/presentation/d/14ts_qWc8MWS1DKYGt7pTv5ol86jUo7lbpXWExmrhVAY/edit?usp=drive_link
+[21]:https://docs.google.com/presentation/d/1DO98RvebDiw2ZDgDk9Au0ipXh8stk_DfqESRdY19kZI/edit?usp=drive_link
 
 
 
