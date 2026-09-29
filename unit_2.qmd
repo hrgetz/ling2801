@@ -13,9 +13,9 @@ title: "The language network"
 
 **The toolbox**
 
-1. Explain in simple terms what is measured by fMRI and PET studies
+1. Explain in simple terms what is measured by fMRI studies
 1. Explain the logic of the subtraction method
-1. Given a figure showing brain activation in an fMRI or PET study:
+1. Given a figure showing brain activation in an fMRI study:
     a) State which view of the brain is being shown
     b) Indicate which way the brain is "facing"
     c) Explain what the colors represent
@@ -23,9 +23,9 @@ title: "The language network"
 
 **Scientific explanation**
 
-1. Explain how the classical model of language in the brain would need to be expanded and revised in order to account for the evidence presented in Binder et al. (1997) and Petitto et al (2001)
-1. For the following claims, (a) describe scientific evidence that supports the claim; (b) explain why the evidence supports the claim; and (c) explain why anyone cares
-    * The general brain regions used for language processing are consistent across individuals.
+1. Distinguish evidence, inferences, and ideas in scientific text
+1. Explain how the classical model of language in the brain needed to be expanded and revised in order to account for the brain imaging data presented in Binder et al. (1997).
+1. For the following claim, (a) describe scientific evidence from studies of aphasia (Hickok et al., 1998) and brain imaging (Neville et al., 1998) that supports the claim; (b) explain why the evidence supports the claim; and (c) explain why this matters for theories of language in the brain.
     * The neural organization of language is similar for spoken and signed languages.
 :::
 
@@ -40,8 +40,8 @@ title: "The language network"
 | Tues 10/6 | WATB (What Are The Blobs?) [][9]{.my-badge .slides} [][binder-results]{.my-badge .group}| 
 | Thurs 10/8 | Updating the classical model|[Binder et al. 1997 p. 355-362](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Results, Discussion)
 | Friday 10/9 | | [Primary sources](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 10/13 | Speech vs. sign [][10]{.my-badge .slides} [][petitto-design]{.my-badge .group}|  [Petitto et al. 2000 p. 13961-13963](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Abstract, Introduction, Methods)
-| Thurs 10/15 |  Activation in 3D [][11]{.my-badge .slides} [][petitto-results]{.my-badge .group} |[Petitto et al. 2000 p. 13963-13966](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Results, Discussion)|  
+| Tues 10/13 | Speech vs. sign [][10]{.my-badge .slides} [][neville-design]{.my-badge .group}|  [Neville et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
+| Thurs 10/15 |  Activation in 3D [][11]{.my-badge .slides} [][neville-results]{.my-badge .group} |
 | Friday 10/16 | |[Summary #1](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 10/20 | **Visit anatomy lab** |
 | Thurs 10/22 | Scientific explanation [][sign-aphasia]{.my-badge .group} |[Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
@@ -57,8 +57,8 @@ title: "The language network"
 
 [binder-design]:https://docs.google.com/document/d/1tB7TSaKqlnxp8rVoyu9QKd5sbeMeGPO9fPZZspR7lYE/edit?usp=sharing
 [binder-results]:https://docs.google.com/document/d/1Euw5AG_98JECPEHlOdrIktrR7o-zulq7j3cE4pust0M/edit?usp=sharing
-[petitto-design]:https://docs.google.com/document/d/1v8hgEy7usRbeEEq1ZRp5XTxtIywYwN2DdrpUUENIWbY/edit?usp=sharing
-[petitto-results]:https://docs.google.com/document/d/1kayVgqPngIeSWhMT4GvK6mtzJVOho3TyFN12stMG5Lc/edit?usp=sharing
+[neville-design]:https://docs.google.com/document/d/1v8hgEy7usRbeEEq1ZRp5XTxtIywYwN2DdrpUUENIWbY/edit?usp=sharing
+[neville-results]:https://docs.google.com/document/d/1kayVgqPngIeSWhMT4GvK6mtzJVOho3TyFN12stMG5Lc/edit?usp=sharing
 
 
 :::: {.unit-card-row}
