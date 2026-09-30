@@ -8,9 +8,10 @@ title: "Functional organization"
 :::
 | Date | Topic | Due |
 | - | -- | -- |
-| Thurs 10/29 | Language sounds [][14]{.my-badge .slides}| 
+| Tues 10/27 | Language sounds [][14]{.my-badge .slides} [][categorical-perception]{.my-badge .group}| 
+| Thurs 10/29 | Language sounds | [Mesgarani et al. 2014](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Friday 10/30 | |[Summary #3](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/3 | Language sounds | [Möttönen & Watkins 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
+| Tues 11/3 | 
 | Thurs 11/5 | Words and sentences [][15]{.my-badge .slides}| [<u>SGN</u> p. 139-155]{.my-badge .reading}
 | Friday 11/6 | | [Summary #4](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 11/10 | Words and sentences [][16]{.my-badge .slides} | [Pallier et al. 2011](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
@@ -18,11 +19,16 @@ title: "Functional organization"
 | Fri 11/13 | 
 | Tues 11/17 | [Exam #3]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 
-[12]:https://docs.google.com/presentation/d/17lZzHZe0HFpVxne9vD_WBngnSxhRwL6ujtAinhx3ULc/edit?usp=drive_link
-[13]:https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?usp=drive_link
+
+| Fri 10/23 | |[Summary #2](controversy.qmd#project-timeline){.my-badge .controversy}
+
+
+
 [14]:https://docs.google.com/presentation/d/1bxWYIUxzYSOlG_zuyWXFf_vdAwgnB3ufjztYZLuYNnk/edit?usp=drive_link
 [15]:https://docs.google.com/presentation/d/154B6Gz0wpxkSapXlS-dOMPQTWUcXguw0kJwa6YpRaQg/edit?usp=drive_link
 [16]:https://docs.google.com/presentation/d/155LyzzqRiBYFCaDmzmEqvVo46FVq99VSZCBX-1Cjup8/edit?usp=drive_link
+[categorical-perception]:https://docs.google.com/document/d/1kayVgqPngIeSWhMT4GvK6mtzJVOho3TyFN12stMG5Lc/edit?usp=sharing
+
 
 :::: {.unit-card-row}
 {{< include _includes/legend.qmd >}}
