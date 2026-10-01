@@ -32,19 +32,20 @@ title: "The language network"
 
 | Date | Topic | Due |
 | -- | -- |  -- |
-| Thurs 9/24 | Brain Imaging Methods [][7]{.my-badge .slides}| [<u>SGN</u> p. 25-27; 31-34]{.my-badge .reading} <br>[*Understanding fMRI* [Video], 17:18-28:46](https://youtu.be/eN-zCoI_Ejc?si=9aW_mQXIhsTvH1Vm&t=1038){.my-badge}
+| Thurs 9/24 | Brain imaging methods [][7]{.my-badge .slides}| [<u>SGN</u> p. 25-27; 31-34]{.my-badge .reading} <br>[*Understanding fMRI* [Video], 17:18-28:46](https://youtu.be/eN-zCoI_Ejc?si=9aW_mQXIhsTvH1Vm&t=1038){.my-badge}
 | Friday 9/25 || <small>Suggestion: Start working on your secondary sources</small>
 | Tues 9/29 | **Tour of CFMI** ([directions](https://docs.google.com/document/d/1TFNeQo3ZBpecKO4Rt8vWOjVTcJjtHRThEA1pjFFz5Y0/edit?usp=sharing/))|
-| Thurs 10/1 | The subtraction method [][8]{.my-badge .slides} [][binder-design]{.my-badge .group}| [Binder et al. 1997 p. 353-355](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Abstract, Introduction, Materials and Methods)
+| Thurs 10/1 | Experimental design in fMRI studies [][8]{.my-badge .slides} [][binder-design]{.my-badge .group}| [Binder et al. 1997 p. 353-355](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Abstract, Introduction, Materials and Methods)
 | Friday 10/2 || [Secondary sources](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 10/6 | WATB (What Are The Blobs?) [][9]{.my-badge .slides} [][binder-results]{.my-badge .group}| 
-| Thurs 10/8 | Updating the classical model [][10]{.my-badge .slides} |[Binder et al. 1997 p. 355-362](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Results, Discussion)
+| Tues 10/6 | Understanding brain activation results [][9]{.my-badge .slides}| 
+| Thurs 10/8 | Updating the classical model [][10]{.my-badge .slides} |[Binder et al. 1997 p. 357-362](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Discussion)
 | Friday 10/9 | | [Primary sources](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 10/13 | Sign language in the brain  [][11]{.my-badge .slides} [][neville]{.my-badge .group}|  [Neville et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Thurs 10/15 |  Scientific explanation [][12]{.my-badge .slides} [][sign-aphasia]{.my-badge .group}| [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
 | Friday 10/16 | |[Summary #1](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 10/20 | **Visit anatomy lab** |
 | Thurs 10/22 | [Exam #2]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
+| Friday 10/23 | | *Nothing due*
 
 [7]: https://docs.google.com/presentation/d/1E6KJ8ZANM8UWZCWrT2yUDB9bsuFqEFv2FSDQAYcYaSs/edit?usp=drive_link
 [8]: https://docs.google.com/presentation/d/1OF3vQvqHdez7yOyLC89PxaUPbzD0EITDRsRl_dkVMsc/edit?usp=drive_link
@@ -52,13 +53,10 @@ title: "The language network"
 [10]:https://docs.google.com/presentation/d/1fe8GV5iBIoJfMWF1bk2yDWBOqVyg3Esz9ZkA-qvKJ9I/edit?usp=drive_link
 [11]:https://docs.google.com/presentation/d/1VcpT2mQG-eJe2xaEpM2LhYLInEsmlXOksULvLj1TvVQ/edit?usp=drive_link
 [12]:https://docs.google.com/presentation/d/17lZzHZe0HFpVxne9vD_WBngnSxhRwL6ujtAinhx3ULc/edit?usp=drive_link
-[13]:https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?usp=drive_link
-
 
 
 [sign-aphasia]:https://docs.google.com/document/d/1lqhqWg9VGqi6wzA5ZMdcxttDT20q3hTus7QmmpZhFNA/edit?usp=sharing
 [binder-design]:https://docs.google.com/document/d/1tB7TSaKqlnxp8rVoyu9QKd5sbeMeGPO9fPZZspR7lYE/edit?usp=sharing
-[binder-results]:https://docs.google.com/document/d/1Euw5AG_98JECPEHlOdrIktrR7o-zulq7j3cE4pust0M/edit?usp=sharing
 [neville]:https://docs.google.com/document/d/1v8hgEy7usRbeEEq1ZRp5XTxtIywYwN2DdrpUUENIWbY/edit?usp=sharing
 
 
