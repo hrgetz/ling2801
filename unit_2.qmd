@@ -13,19 +13,15 @@ title: "The language network"
 
 **The toolbox**
 
-1. Explain in simple terms what is measured by fMRI studies
-1. Explain the logic of the subtraction method
-1. Given a figure showing brain activation in an fMRI study:
-    a) State which view of the brain is being shown
-    b) Indicate which way the brain is "facing"
-    c) Explain what the colors represent
-1. Use a brain atlas to translate between XYZ coordinates and anatomical landmarks
+1. Understand what is measured by fMRI studies
+1. Understand the logic of the subtraction method
+1. Given an image showing brain activation in an fMRI or PET study, be able to identify major activation foci using neuroanatomical and directional terms
+1. Use a brain atlas to translate between XYZ coordinates and anatomical landmarks *(not on the exam)*
 
 **Scientific explanation**
 
-1. Distinguish evidence, inferences, and ideas in scientific text
-1. Describe three scientific results from the 20th century (from lesion or brain imaging studies) that required scientists to expand and/or revise the classical model of language in the brain. For each result, be sure to (a) clearly describe the evidence, (b) explain why the evidence required revisions to the model, (c) state a new/revised inference that is supported by the result, and (d) explain why the evidence supports the new/revised inference. 
-1. For the following claim, (a) describe scientific evidence from studies of aphasia (Hickok et al., 1998) and brain imaging (Neville et al., 1998) that supports the claim; (b) explain why the evidence supports the claim; and (c) explain why this matters for theories of language in the brain.
+1. Interpret scientific evidence from 20th-century lesion and brain imaging studies in the context of the classical model of language and the brain. Be able to: (a) state predictions of the classical model; (b) describe specific scientific results that are relevant to those predictions; (c) state whether the evidence is consistent with those predictions, is not consistent with those predictions, or is not relevant to those predictions; and (d) explain your reasoning. 
+1. For the following claim, (a) describe scientific evidence from lesion and brain imaging studies that is relevant to this claim; (b) state whether the evidence suports the claim; (c) explain your reasoning; and (d) explain the significance of this claim for theories of language in the brain.
     * The neural organization of language is similar for spoken and signed languages.
 :::
 
@@ -37,15 +33,16 @@ title: "The language network"
 | Tues 9/29 | **Tour of CFMI** ([directions](https://docs.google.com/document/d/1TFNeQo3ZBpecKO4Rt8vWOjVTcJjtHRThEA1pjFFz5Y0/edit?usp=sharing/))|
 | Thurs 10/1 | Experimental design in fMRI studies [][8]{.my-badge .slides} [][binder-design]{.my-badge .group}| [Binder et al. 1997 p. 353-355](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Abstract, Introduction, Materials and Methods)
 | Friday 10/2 || [Secondary sources](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 10/6 | Understanding brain activation results [][9]{.my-badge .slides}| <small>Suggestion: Start on your [summary](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.3e2be0fpor2m) of Binder et al.;<br>review brain directional terms</br>
-| Thurs 10/8 | Updating the classical model [][10]{.my-badge .slides} |[Binder et al. 1997 p. 357-362](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Discussion)
+| Tues 10/6 | Experimental design; fMRI analysis| <small>Suggestion: Start on your [summary](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.3e2be0fpor2m) of Binder et al.;<br>review brain directional terms</br>
+| Thurs 10/8 | Reading brain activation maps [][9]{.my-badge .slides}
 | Friday 10/9 | | [Primary sources](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 10/13 | Sign language in the brain  [][11]{.my-badge .slides} [][neville]{.my-badge .group}|  [Neville et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
-| Thurs 10/15 |  Scientific explanation [][12]{.my-badge .slides} [][sign-aphasia]{.my-badge .group}| [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
+| Tues 10/13 | Interpretation; classical model updates [][10]{.my-badge .slides} |[Binder et al. 1997 p. 357-362](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Discussion)
+| Thurs 10/15 |  Sign language in the brain  [][11]{.my-badge .slides} [][neville]{.my-badge .group}|  [Petitto et al. 2000](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Friday 10/16 | |[Summary #1](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 10/20 | **Visit anatomy lab** |
-| Thurs 10/22 | [Exam #2]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
+| Thurs 10/22 | Scientific explanation [][12]{.my-badge .slides} [][sign-aphasia]{.my-badge .group}| [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
 | Friday 10/23 | | *Nothing due*
+| Tues 10/27 | [Exam #2]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 
 [7]: https://docs.google.com/presentation/d/1E6KJ8ZANM8UWZCWrT2yUDB9bsuFqEFv2FSDQAYcYaSs/edit?usp=drive_link
 [8]: https://docs.google.com/presentation/d/1OF3vQvqHdez7yOyLC89PxaUPbzD0EITDRsRl_dkVMsc/edit?usp=drive_link
