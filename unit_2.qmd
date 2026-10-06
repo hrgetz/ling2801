@@ -20,7 +20,7 @@ title: "The language network"
 
 **Scientific explanation**
 
-1. Interpret scientific evidence from 20th-century lesion and brain imaging studies in the context of the classical model of language and the brain. Be able to: (a) state predictions of the classical model; (b) describe specific scientific results that are relevant to those predictions; (c) state whether the evidence is consistent with those predictions, is not consistent with those predictions, or is not relevant to those predictions; and (d) explain your reasoning. 
+1. Interpret and discuss scientific evidence from 20th-century lesion and brain imaging studies in the context of the classical model of language and the brain. Be able to: (a) state predictions made by the classical model (b) describe specific scientific results that are relevant to those predictions; (c) state whether the evidence is consistent with those predictions, is not consistent with those predictions, or is not relevant to those predictions; and (d) explain your reasoning. 
 1. For the following claim, (a) describe scientific evidence from lesion and brain imaging studies that is relevant to this claim; (b) state whether the evidence suports the claim; (c) explain your reasoning; and (d) explain the significance of this claim for theories of language in the brain.
     * The neural organization of language is similar for spoken and signed languages.
 :::
