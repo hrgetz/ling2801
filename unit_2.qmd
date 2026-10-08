@@ -36,11 +36,11 @@ title: "The language network"
 | Tues 10/6 | Experimental design; fMRI analysis [][9]{.my-badge .slides}| <small>Suggestion: Start on your [summary](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.3e2be0fpor2m) of Binder et al.;<br>review brain directional terms</br>
 | Thurs 10/8 | Reading brain activation maps [][10]{.my-badge .slides}
 | Friday 10/9 | | [Primary sources](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 10/13 | Interpretation; classical model updates  |[Binder et al. 1997 p. 357-362](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Discussion)
-| Thurs 10/15 |  Sign language in the brain  [][11]{.my-badge .slides} [][neville]{.my-badge .group}|  [Petitto et al. 2000](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
+| Tues 10/13 | Interpretation; classical model updates [][11]{.my-badge .slides}|[Binder et al. 1997 p. 357-362](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Discussion)
+| Thurs 10/15 |  Sign language in the brain [][12]{.my-badge .slides} [][petitto]{.my-badge .group}|  [Petitto et al. 2000](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Friday 10/16 | |[Summary #1](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 10/20 | **Visit anatomy lab** |
-| Thurs 10/22 | Scientific explanation [][12]{.my-badge .slides} [][sign-aphasia]{.my-badge .group}| [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
+| Thurs 10/22 | Scientific explanation  [][sign-aphasia]{.my-badge .group}| [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
 | Friday 10/23 | | *Nothing due*
 | Tues 10/27 | [Exam #2]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 
@@ -54,7 +54,7 @@ title: "The language network"
 
 [sign-aphasia]:https://docs.google.com/document/d/1lqhqWg9VGqi6wzA5ZMdcxttDT20q3hTus7QmmpZhFNA/edit?usp=sharing
 [binder-design]:https://docs.google.com/document/d/1tB7TSaKqlnxp8rVoyu9QKd5sbeMeGPO9fPZZspR7lYE/edit?usp=sharing
-[neville]:https://docs.google.com/document/d/1v8hgEy7usRbeEEq1ZRp5XTxtIywYwN2DdrpUUENIWbY/edit?usp=sharing
+[petitto]:https://docs.google.com/document/d/1v8hgEy7usRbeEEq1ZRp5XTxtIywYwN2DdrpUUENIWbY/edit?usp=sharing
 
 
 :::: {.unit-card-row}
