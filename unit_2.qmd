@@ -20,7 +20,7 @@ title: "The language network"
 
 **Scientific explanation**
 
-1. Describe, interpret, and discuss scientific evidence from 20th-century lesion and brain imaging studies in the context of the classical model of language and the brain. Be able to: (a) state predictions made by the classical model; (b) describe specific scientific results that are relevant to those predictions; (c) state whether the evidence is consistent with those predictions, is not consistent with those predictions, or is not relevant to those predictions; and (d) explain your reasoning. 
+1. Describe, interpret, and discuss scientific evidence from 20th-century lesion and brain imaging studies in the context of the classical model of language and the brain. Be able to: (a) state predictions made by the classical model;  (b) describe specific scientific results that are relevant to those predictions; (c) state whether the evidence is consistent with those predictions, is not consistent with those predictions, or is not relevant to those predictions; and (d) explain your reasoning. 
 1. For the following claim, (a) describe scientific evidence from lesion and brain imaging studies that is relevant to this claim; (b) state whether the evidence suports the claim; (c) explain your reasoning; and (d) explain the significance of this claim for theories of language in the brain.
     * The neural organization of language is similar for spoken and signed languages.
 :::
@@ -37,10 +37,10 @@ title: "The language network"
 | Thurs 10/8 | Reading brain activation maps [][10]{.my-badge .slides}
 | Friday 10/9 | | [Primary sources](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 10/13 | Interpretation; classical model updates [][11]{.my-badge .slides}|[Binder et al. 1997 p. 357-362](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Discussion)
-| Thurs 10/15 |  Sign language in the brain [][12]{.my-badge .slides} [][petitto]{.my-badge .group}|  [Petitto et al. 2000](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
-| Friday 10/16 | |[Summary #1](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 10/20 | **Visit anatomy lab** |
-| Thurs 10/22 | Scientific explanation  [][sign-aphasia]{.my-badge .group}| [Hickok et al. 1998](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
+| Thurs 10/15 |  Sign language in the brain [][12]{.my-badge .slides} [][petitto]{.my-badge .group}|  [Petitto et al. 2000](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Abstract, Introduction, Methods)
+| Friday 10/16 | | *Nothing due*
+| Tues 10/20 | **Visit anatomy lab** | [Petitto et al. conditions table][petitto]{.my-badge .due} 
+| Thurs 10/22 | Scientific explanation  [][sign-aphasia]{.my-badge .group}| [Petitto et al. 2000](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>(Discussion)
 | Friday 10/23 | | *Nothing due*
 | Tues 10/27 | [Exam #2]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 
