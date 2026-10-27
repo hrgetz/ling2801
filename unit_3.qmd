@@ -10,7 +10,7 @@ title: "Functional organization"
 | Date | Topic | Due |
 | - | -- | -- |
 | Thurs 10/29 | Language sounds [][14]{.my-badge .slides} [][categorical-perception]{.my-badge .group} | [Speech Perception Experiment](https://docs.google.com/document/d/1lzCX_SzdS1Ottvs-v_i4TQwiTqCNI_jTqqcrs_ZyIyk/edit?tab=t.0){.my-badge .due}
-| Friday 10/30 | | [TBD](controversy.qmd#project-timeline){.my-badge .controversy}
+| Friday 10/30 | | <i>Nothing due</i>
 | Tues 11/3 | Language sounds | [<u>SGN</u> p. 44-61]{.my-badge .reading}<br>[TLNP #23: Dr. Chang](https://langneurosci.org/podcast/){.my-badge .podcast} (optional)
 | Thurs 11/5 | Words | [<u>SGN</u> p. 82-93]{.my-badge .reading}
 | Friday 11/6 | | [TBD](controversy.qmd#project-timeline){.my-badge .controversy}
