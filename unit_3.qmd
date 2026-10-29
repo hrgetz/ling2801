@@ -11,7 +11,7 @@ title: "Functional organization"
 
 **Scientific explanation**
 
-1. Describe evidence from linguistic and psycholinguistic research for (i) categorical perception of language sounds and (ii) mental representations of phrasal constituents
+1. Describe behavioral evidence for (i) categorical perception of language sounds and (ii) mental representations of phrasal constituents
 1. Interpret charts showing classic categorical perception effects (discrimination and identification)
 1. For the following claims, describe scientific evidence from linguistic, psycholinguistic, and/or neurolinguistic studies that is relevant to this claim; (b) state whether/how the evidence suports the claim; (c) evaluate the strength of the evidence; and (d) explain your reasoning
     * The brain represents language sounds in terms of contrastive phonetic features
