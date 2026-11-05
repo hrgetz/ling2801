@@ -11,13 +11,12 @@ title: "Functional organization"
 
 **Scientific explanation**
 
-1. Describe behavioral evidence for (i) categorical perception of language sounds and (ii) mental representations of phrasal constituents
-1. Interpret charts showing classic categorical perception effects (discrimination and identification)
-1. For the following claims, describe scientific evidence from linguistic, psycholinguistic, and/or neurolinguistic studies that is relevant to this claim; (b) state whether/how the evidence suports the claim; (c) evaluate the strength of the evidence; and (d) explain your reasoning
+1. Describe behavioral evidence for (i) categorical perception of language sounds and (ii) mental representations of phrasal constituents; be able to interpret charts showing classic categorical perception effects (discrimination and identification)
+1. For the following claims, describe scientific evidence from linguistic, psycholinguistic, and/or neurolinguistic studies that is relevant to the claim; (b) state whether/how the evidence suports the claim; (c) evaluate the strength of the evidence; and (d) explain your reasoning
     * The brain represents language sounds in terms of contrastive phonetic features
-    * Spoken, written, and signed words words activate a shared lexical-semantic processing system in the brain
-    * The brain regions involved in analyzing the constituent structure of sentences are at least partially distinct from the brain regions invovled in computing sentence meaning
-1. Explain how viewing language as computation has informed and advanced our understanding of language in the brain, with reference to specific research questions and scientific findings
+    * Spoken and written words activate a shared lexical-semantic processing system in the brain
+    * The brain regions responsible for analyzing the constituent structure of sentences are at least partially distinct from the brain regions responsible for computing sentence meaning
+1. Explain how viewing language as a computational system has informed and advanced our understanding of language in the brain, with reference to specific research questions and scientific findings
 
 :::
 | Date | Topic | Due |
@@ -25,15 +24,17 @@ title: "Functional organization"
 | Thurs 10/29 | Language sounds [][14]{.my-badge .slides} | [Speech Perception Experiment](https://docs.google.com/document/d/1lzCX_SzdS1Ottvs-v_i4TQwiTqCNI_jTqqcrs_ZyIyk/edit?tab=t.0){.my-badge .due}
 | Friday 10/30 | | <i>Nothing due</i>
 | Tues 11/3 | Language sounds [][15]{.my-badge .slides}| [<u>SGN</u> p. 44-54]{.my-badge .reading}<br>[Mesgarani et al. (2014) p. 1006](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article} <br>[TLNP #23: Dr. Chang](https://langneurosci.org/podcast/){.my-badge .podcast} (optional)
-| Thurs 11/5 | Language sounds;<br>Words [][16]{.my-badge .slides} | [Grodzinsky & Nelken (2014)](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>[<u>SGN</u> p. 82-89]{.my-badge .reading}
+| Thurs 11/5 | Language sounds [][16]{.my-badge .slides} | [Grodzinsky & Nelken (2014)](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>[<u>SGN</u> p. 82-89]{.my-badge .reading}
 | Friday 11/6 | | [Research Summary (draft)](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/10 | Sentences [][17]{.my-badge .slides}| [<u>SGN</u> p. 116-119; 139-143]{.my-badge .reading}<br>[Pallier et al. 2011: Introduction, Materials](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
+| Tues 11/10 | Words; Sentences [][17]{.my-badge .slides}| [<u>SGN</u> p. 116-119; 139-143]{.my-badge .reading}<br>[Pallier et al. 2011: Introduction, Materials](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Thurs 11/12 | Sentences [][18]{.my-badge .slides} | [Pallier et al. 2011: Results, Discussion](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Fri 11/13 | |[Research Summary (final)](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/17 | Specialization & specificity [][19]{.my-badge .slides} | [TLNP #18: Dr. Price](https://podcasts.apple.com/mx/podcast/imaging-the-language-network-with-cathy-price/id1550649018?i=1000546234154){.my-badge .podcast}
-| Thurs 11/19 | Development of language in the brain [][20]{.my-badge .slides}| [Newport & Getz (2025)](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
+| Tues 11/17 | Sentences; Specialization & specificity [][19]{.my-badge .slides} | [TLNP #18: Dr. Price](https://podcasts.apple.com/mx/podcast/imaging-the-language-network-with-cathy-price/id1550649018?i=1000546234154){.my-badge .podcast}
+| Thurs 11/19 | [Exam #3]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 | Fri 11/20 | | [Proposal for follow-up study (draft)](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/24 | [Exam #3]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
+| Tues 11/24 | Development of language in the brain [][20]{.my-badge .slides}| [Newport & Getz (2025)](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
+
+
 
 [13]:https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?usp=drive_link
 [14]:https://docs.google.com/presentation/d/1bxWYIUxzYSOlG_zuyWXFf_vdAwgnB3ufjztYZLuYNnk/edit?usp=drive_link
@@ -52,6 +53,7 @@ title: "Functional organization"
 
 **Resources**
 
+* [Phonetic Segments and Features](https://open.maricopa.edu/essentialsoflinguistics/chapter/4-4-phonetic-segments-and-features/)
 * [Categorical Perception stimuli](https://splab.net/apd/u100/)
 * [The McGurk effect](https://www.intro2psycholing.net/resources/McGurk/McGurk1.php)
 * [The phoneme restoration effect](https://learninglink.oup.com/access/content/sedivy-2e-student-resources/sedivy2e-chapter-7-web-activity-4?previousFilter=tag_activities)
