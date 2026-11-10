@@ -7,7 +7,7 @@ Scientists don't fully understand how language works in the brain, and there are
 
 * choose an area of controversy to investigate;
 * learn about the controversy from secondary sources;
-* study the evidence yourself by reading primary sources;
+* closely study some of the evidence yourself by reading primary sources;
 * think of a follow-up study that would move the debate forward; and
 * present your findings and ideas to the class. 
 :::
@@ -40,14 +40,14 @@ In your written submissions, all references must be formatted in [APA style](htt
 ::: {.timeline-date}
 Topic
 :::
-[Sign up](https://docs.google.com/spreadsheets/d/17UFQqqh0q-MdIX-PkpcEkPZLdGvSFuJXIzyDlTQOjXQ/edit?gid=0#gid=0) to study a particular controversy. Max 4 students per group. Multiple groups may study the same controversy.
+[Sign up](https://docs.google.com/spreadsheets/d/17UFQqqh0q-MdIX-PkpcEkPZLdGvSFuJXIzyDlTQOjXQ/edit?gid=0#gid=0) to study a particular controversy. Max 4 students per group. Multiple groups may study the same controversy. **Not graded.**
 :::
 
 ::: {.timeline-item}
 ::: {.timeline-date}
 AI policy
 :::
-Submit your written [AI Use Policy](#ai) for my approval.
+Submit your written [AI Use Policy](#ai) for my approval. **Grading: Complete/incomplete (1 point).**
 
 
 :::
@@ -56,14 +56,14 @@ Submit your written [AI Use Policy](#ai) for my approval.
 ::: {.timeline-date}
 Secondary sources
 :::
-Secondary sources for each topic are [here](https://docs.google.com/document/d/1MOirW2NTZhXV2_64YnjlMU2ogg2b7s006KA4r_oIykI/edit?usp=sharing). Individually, listen to the assigned podcast and read the review article, then discuss as a group. Complete the [Secondary Sources](https://docs.google.com/document/d/1jGpd6un_N9Mf-MSJrjFJn-brLjzY3z1ER3sMgLrG7u4/edit?usp=sharing) assignment and submit it on Canvas by the deadline.
+Secondary sources for each topic are [here](https://docs.google.com/document/d/1MOirW2NTZhXV2_64YnjlMU2ogg2b7s006KA4r_oIykI/edit?usp=sharing). Individually, listen to the assigned podcast and read the review article, then discuss as a group. Complete the [Secondary Sources](https://docs.google.com/document/d/1jGpd6un_N9Mf-MSJrjFJn-brLjzY3z1ER3sMgLrG7u4/edit?usp=sharing) assignment and submit it on Canvas by the deadline. **Grading: Complete/incomplete (10 points).**
 :::
 
 ::: {.timeline-item}
 ::: {.timeline-date}
 Primary sources
 :::
-Based on your secondary sources, identify the most important evidence on this topic, and the primary sources that report this evidence. Submit a list of 5-10 primary sources along with PDFs. Include a sentence about each source explaining its importance/relevance. You will choose four of these to review closely. On your list should be at least two or three highly influential articles, as determined by citation count; at least one study by any of the notable researchers/labs you listed on the Secondary Sources assignment; and at least one study that is quite recent (published in 2025 or 2026). See [here](https://docs.google.com/document/d/1zczG-L8eZYPdRKrmnFZwNUgQOA-wsVe5BR4rmBWd2Qw/edit?usp=sharing) for additional guidance on identifying primary sources.
+Based on your secondary sources, identify the most important evidence on this topic, and the primary sources that report this evidence. Submit a list of 5-10 primary sources along with PDFs. Include a sentence about each source explaining its importance/relevance. You will choose four of these to review closely. On your list should be at least two or three highly influential articles, as determined by citation count; at least one study by any of the notable researchers/labs you listed on the Secondary Sources assignment; and at least one study that is quite recent (published in 2025 or 2026). See [here](https://docs.google.com/document/d/1zczG-L8eZYPdRKrmnFZwNUgQOA-wsVe5BR4rmBWd2Qw/edit?usp=sharing) for additional guidance on identifying primary sources. **Grading: Complete/incomplete (10 points).**
 :::
 
 
@@ -71,14 +71,23 @@ Based on your secondary sources, identify the most important evidence on this to
 ::: {.timeline-date}
 Summarize primary sources
 :::
-Choose four primary sources to read for yourselves. These should be scientific articles reporting studies that have been particularly important or controversial. Your job is to understand and evaluate the evidence for yourselves. All group members should read the paper independently, and then you should meet as a group to discuss the paper and try to answer any questions that came up during your independent reading. After this discussion, your group should submit a [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) for a grade.
+Based on your list of primary sources, I will select a paper or papers for you to read closely. Your job is to understand and evaluate the evidence for yourselves. All group members should read the paper independently, and then you should meet as a group to discuss the paper and try to answer any questions that came up during your independent reading. After this discussion, your group should work together to submit a summary sheet for a grade.<br><br>
+<u>Draft (11/6)</u>: Fill out a [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) with information about the study. **Grading: Complete/incomplete (10 points).** <br><br>
+<u>Final (11/13)</u>: Address any feedback from me. In addition, add a new section called *Evaluation* underneath Conclusion. In this new section, include clear written explanations regarding the relationship between the evidence presented and each of the claims listed in Conclusions. As part of this, you should evaluate the evidence for yourselves. Do you think that the evidence supports the researchers' conclusions? Why or why not? Fully explain your reasoning using the [AEOC (Alternative-Expectation-Observation-Conclusion) logic](https://docs.google.com/document/d/1XJGQNH8ONQqZp-Rs3zYY-BkrsTu-aAYnRxH6xlMngRI/edit?tab=t.0) we have been practicing in class. **Grading: Complete/incomplete (10 points).**
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Proposal (draft)
+:::
+Submit a draft proposal for a follow-up study, in the format of the summary sheet you filled out for the article. Under Data, describe at least two possible results that you might observe. Under Conclusions, state a conclusion that could be drawn from each result and explain why the result would support that conclusion, using AEOC logic.  **Grading: Complete/incomplete (10 points).**
 :::
 
 ::: {.timeline-item}
 ::: {.timeline-date}
 Format
 :::
-Get HRG's approval of the format of your final deliverable. I'm open to a variety of formats. Some examples: a traditional slide-based presentation, a short-form video for TikTok or Youtube, a longer educational video, a podcast episode, or a mock (scripted) debate among scientists. 
+Get HRG's approval of the format of your final deliverable. I'm open to a variety of formats. Some examples: a traditional slide-based presentation, a short-form video for TikTok or Youtube, a longer educational video, a podcast episode, or a mock (scripted) debate among scientists. **Grading: Complete/incomplete (1 point).**
 
 :::
 
@@ -88,6 +97,7 @@ Get HRG's approval of the format of your final deliverable. I'm open to a variet
 Presentations
 :::
 Present your final deliverable in class!
+**Grading: Letter grade (100 points).**
 :::
 
 
