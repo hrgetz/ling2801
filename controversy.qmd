@@ -27,7 +27,17 @@ Here are four major controversies in the field of language neuroscience right no
 * What is the "language network" like in infants and young children?
 
 
-## Project timeline
+## Project details
+
+### Format
+
+Your final deliverable needs to be some kind of presentation, either live (presented in class on 12/8) or pre-recorded (submitted by the start of class on 12/8). For live presentations, the time limit is 10 minutes. For pre-recorded presentations, there is no time limit. I’m open to a range of formats, including a traditional slide-based presentation, a short-form video for TikTok or Youtube, a longer educational video, a podcast episode, a mock/scripted debate among scientists, or anything else you come up with. 
+
+### Content
+
+; see [Timeline](#timeline).
+
+## Project timeline {#timeline}
 
 You'll have something due for your project most Fridays. Wherever possible, I have avoided major deadlines around the same time as exams. See the [schedule](schedule.md) for tentative deadlines.
 
@@ -71,23 +81,23 @@ Based on your secondary sources, identify the most important evidence on this to
 ::: {.timeline-date}
 Summarize primary sources
 :::
-Based on your list of primary sources, I will select a paper or papers for you to read closely. Your job is to understand and evaluate the evidence for yourselves. All group members should read the paper independently, and then you should meet as a group to discuss the paper and try to answer any questions that came up during your independent reading. After this discussion, your group should work together to submit a summary sheet for a grade.<br><br>
+Based on your list of primary sources, I will select a paper or papers for you to read closely. Your job is to understand and evaluate the evidence for yourselves. All group members should read the paper independently, and then you should meet as a group to discuss the paper and try to answer any questions that came up during your independent reading. After this discussion, your group should work together on a summary sheet.<br><br>
 <u>Draft (11/6)</u>: Fill out a [summary sheet](https://docs.google.com/document/d/1a4gz3wIFyBtgsPicKq_pLwk5VNVqK_yg-sUg-GYwf7A/edit?tab=t.0) with information about the study. **Grading: Complete/incomplete (10 points).** <br><br>
-<u>Final (11/13)</u>: Address any feedback from me. In addition, add a new section called *Evaluation* underneath Conclusion. In this new section, include clear written explanations regarding the relationship between the evidence presented and each of the claims listed in Conclusions. As part of this, you should evaluate the evidence for yourselves. Do you think that the evidence supports the researchers' conclusions? Why or why not? Fully explain your reasoning using the [AEOC (Alternative-Expectation-Observation-Conclusion) logic](https://docs.google.com/document/d/1XJGQNH8ONQqZp-Rs3zYY-BkrsTu-aAYnRxH6xlMngRI/edit?tab=t.0) we have been practicing in class. **Grading: Complete/incomplete (10 points).**
+<u>Final (11/13)</u>: Submit a revised summary sheet in which you (a) address any feedback from me and (b) add a section in which you evaluate the evidence yourself. In this new section, include clear written explanations regarding the relationship between the evidence presented and each of the claims listed in Conclusions. As part of this, you should evaluate the evidence for yourselves. Do you think that the evidence supports the researchers' conclusions? Why or why not? Fully explain your reasoning using the Alternative-Expectation-Observation-Conclusion logic we've been practicing in class (see [Tips for Scientific Explanations](https://docs.google.com/document/d/1XJGQNH8ONQqZp-Rs3zYY-BkrsTu-aAYnRxH6xlMngRI/edit?tab=t.0)). **Grading: Complete/incomplete (10 points).**
 :::
 
 ::: {.timeline-item}
 ::: {.timeline-date}
 Proposal (draft)
 :::
-Submit a draft proposal for a follow-up study, in the format of the summary sheet you filled out for the article. Under Data, describe at least two possible results that you might observe. Under Conclusions, state a conclusion that could be drawn from each result and explain why the result would support that conclusion, using AEOC logic.  **Grading: Complete/incomplete (10 points).**
+Submit a draft [proposal](https://docs.google.com/document/d/1r_rrB-ARrP-RR8IqOJ3jJZg_JxS19QzbgBlXDcIb8ZU/edit?usp=sharing) for a follow-up study. **Grading: Complete/incomplete (10 points).**
 :::
 
 ::: {.timeline-item}
 ::: {.timeline-date}
 Format
 :::
-Get HRG's approval of the format of your final deliverable. I'm open to a variety of formats. Some examples: a traditional slide-based presentation, a short-form video for TikTok or Youtube, a longer educational video, a podcast episode, or a mock (scripted) debate among scientists. **Grading: Complete/incomplete (1 point).**
+Get HRG's approval of the format of your final deliverable.  **Grading: Complete/incomplete (1 point).**
 
 :::
 
