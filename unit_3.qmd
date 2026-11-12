@@ -40,8 +40,7 @@ title: "Functional organization"
 [17]:https://docs.google.com/presentation/d/1WHyxYBx8tDZfwiO8XIs77jw_PCBqKFoNibh1i5dPj3o/edit?usp=drive_link
 [18]:https://docs.google.com/presentation/d/1FfvsOfZnnThNHKty7tkGnkX0VTXNP52T9S1FzzPCRr8/edit?usp=drive_link
 [19]:https://docs.google.com/presentation/d/1uazlg7TY-kE46UZHPluNJzPfIBowFjMZvQwKtYUP7ls/edit?usp=drive_link
-
-[model-groups]:(https://docs.google.com/document/d/18LRIjrWCDZ3l8KxocG2lspuPIucQliFyYOjJlGjZSBU/edit?tab=t.0) 
+[model-groups]:https://docs.google.com/document/d/18LRIjrWCDZ3l8KxocG2lspuPIucQliFyYOjJlGjZSBU/edit?tab=t.0
 
 
 :::: {.unit-card-row}
