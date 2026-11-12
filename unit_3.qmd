@@ -31,8 +31,7 @@ title: "Functional organization"
 | Fri 11/13 | |[Research Summary (final)](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 11/17 | Sentences; Specialization & specificity [][19]{.my-badge .slides} | [TLNP #18: Dr. Price](https://podcasts.apple.com/mx/podcast/imaging-the-language-network-with-cathy-price/id1550649018?i=1000546234154){.my-badge .podcast}
 | Thurs 11/19 | [Exam #3]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
-| Fri 11/20 | | [Proposal for follow-up study (draft)](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/24 | Development of language in the brain [][20]{.my-badge .slides}| [Newport & Getz (2025)](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
+| Sunday 11/22 | | [Proposal for follow-up study (draft)](controversy.qmd#project-timeline){.my-badge .controversy}
 
 
 
@@ -43,8 +42,6 @@ title: "Functional organization"
 [17]:https://docs.google.com/presentation/d/1WHyxYBx8tDZfwiO8XIs77jw_PCBqKFoNibh1i5dPj3o/edit?usp=drive_link
 [18]:https://docs.google.com/presentation/d/1FfvsOfZnnThNHKty7tkGnkX0VTXNP52T9S1FzzPCRr8/edit?usp=drive_link
 [19]:https://docs.google.com/presentation/d/1uazlg7TY-kE46UZHPluNJzPfIBowFjMZvQwKtYUP7ls/edit?usp=drive_link
-[20]:https://docs.google.com/presentation/d/14ts_qWc8MWS1DKYGt7pTv5ol86jUo7lbpXWExmrhVAY/edit?usp=drive_link
-
 
 :::: {.unit-card-row}
 {{< include _includes/legend.qmd >}}
