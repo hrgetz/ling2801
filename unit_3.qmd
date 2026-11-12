@@ -29,10 +29,9 @@ title: "Functional organization"
 | Tues 11/10 | Words; Sentences [][17]{.my-badge .slides}| [<u>SGN</u> p. 116-119; 139-143]{.my-badge .reading}<br>[Pallier et al. 2011: Introduction, Materials](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Thurs 11/12 | Sentences [][18]{.my-badge .slides} | [Pallier et al. 2011: Results, Discussion](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Fri 11/13 | |[Research Summary (final)](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/17 | Sentences; Specialization & specificity [][19]{.my-badge .slides} | [TLNP #18: Dr. Price](https://podcasts.apple.com/mx/podcast/imaging-the-language-network-with-cathy-price/id1550649018?i=1000546234154){.my-badge .podcast}
+| Tues 11/17 | Sentences; Specialization & specificity [][19]{.my-badge .slides} | [TLNP #35: Greg Hickok](https://langneurosci.org/podcast/){.my-badge .podcast} 52:35-end
 | Thurs 11/19 | [Exam #3]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 | Sunday 11/22 | | [Proposal for follow-up study (draft)](controversy.qmd#project-timeline){.my-badge .controversy}
-
 
 
 [13]:https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?usp=drive_link
