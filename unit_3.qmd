@@ -7,16 +7,16 @@ title: "Functional organization"
 **The toolbox**
 
 1. Define the following terms: *phoneme*, *phonetic feature*, *contrastive*, *morpheme*, *constituent*
-1. Explain what is measured by each of these research tools and identify pros and cons of each method: fMRI, PET, (a)MEG, ECoG, classical speech perception experiments, constituency tests
+1. Explain what is measured by each of these research tools, list characteristics of each method, and identify pros and cons: fMRI, PET, (a)MEG, ECoG, classical speech perception experiments
 
 **Scientific explanation**
 
-1. Describe behavioral evidence for (i) categorical perception of language sounds and (ii) mental representations of phrasal constituents; be able to interpret charts showing classic categorical perception effects (discrimination and identification)
-1. For the following claims, describe scientific evidence from linguistic, psycholinguistic, and/or neurolinguistic studies that is relevant to the claim; (b) state whether/how the evidence suports the claim; (c) evaluate the strength of the evidence; and (d) explain your reasoning
+1. Describe linguistic and psycholinguistic evidence for (i) categorical perception of language sounds and (ii) mental representations of phrasal constituents; be able to interpret charts showing classic categorical perception effects (discrimination and identification)
+1. For the following claims, describe scientific evidence from linguistic, psycholinguistic, and/or neurolinguistic studies that is relevant to the claim; (b) state whether/how the evidence suports the claim; and (c) explain your reasoning
     * The brain represents language sounds in terms of contrastive phonetic features
     * Spoken and written words activate a shared lexical-semantic processing system in the brain
     * The brain regions responsible for analyzing the constituent structure of sentences are at least partially distinct from the brain regions responsible for computing sentence meaning
-1. Explain how viewing language as a computational system has informed and advanced our understanding of language in the brain, with reference to specific research questions and scientific findings
+1. Give examples of evidence from neuroscience that align with the view of language as a computational system
 
 :::
 | Date | Topic | Due |
@@ -29,7 +29,7 @@ title: "Functional organization"
 | Tues 11/10 | Words; Sentences [][17]{.my-badge .slides}| [<u>SGN</u> p. 116-119; 139-143]{.my-badge .reading}<br>[Pallier et al. 2011: Introduction, Materials](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Thurs 11/12 | Sentences [][18]{.my-badge .slides} | [Pallier et al. 2011: Results, Discussion](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Fri 11/13 | |[Summary (final)](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/17 | Frameworks [][19]{.my-badge .slides} |[SGN p. 44-54, 82-89, 139-143]{.my-badge .reading} (re-read)
+| Tues 11/17 | Frameworks [][19]{.my-badge .slides} [][model-groups]{.my-badge .group} |[SGN p. 44-54, 82-89, 139-143]{.my-badge .reading} (re-read)
 | Thurs 11/19 | [Exam #3]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
 | Sunday 11/22 | | [Draft study proposal](controversy.qmd#project-timeline){.my-badge .controversy} [Idea for format](controversy.qmd#project-timeline){.my-badge .controversy}
 
@@ -40,6 +40,9 @@ title: "Functional organization"
 [17]:https://docs.google.com/presentation/d/1WHyxYBx8tDZfwiO8XIs77jw_PCBqKFoNibh1i5dPj3o/edit?usp=drive_link
 [18]:https://docs.google.com/presentation/d/1FfvsOfZnnThNHKty7tkGnkX0VTXNP52T9S1FzzPCRr8/edit?usp=drive_link
 [19]:https://docs.google.com/presentation/d/1uazlg7TY-kE46UZHPluNJzPfIBowFjMZvQwKtYUP7ls/edit?usp=drive_link
+
+[model-groups]:(https://docs.google.com/document/d/18LRIjrWCDZ3l8KxocG2lspuPIucQliFyYOjJlGjZSBU/edit?tab=t.0) 
+
 
 :::: {.unit-card-row}
 {{< include _includes/legend.qmd >}}
