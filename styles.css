@@ -10,7 +10,7 @@ table td {
 
 .my-badge {
   display: inline-block;
-  vertical-align: top;
+  vertical-align: middle;
   padding: 0.35rem 0.5rem;
   border-radius: 999px;
   text-decoration: none;

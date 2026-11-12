@@ -6,14 +6,15 @@ title: "Open questions"
 (To be added)
 :::
 
+
 | Date | Topic |  Due |
 | - | --- | --- |
-| Tues 11/24 | Development of language in the brain [][20]{.my-badge .slides}| [Newport & Getz (2025)](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
-| Tues 12/1 | Frameworks [][21]{.my-badge .slides} | [Embick & Poeppel 2014](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}
+| Tues 11/24 | Open questions [][20]{.my-badge .slides} | [TLNP #35 Greg Hickok: 52:35-end](https://langneurosci.org/podcast/){.my-badge .podcast}
+| Tues 12/1 | Language acquisition and the brain [][21]{.my-badge .slides}| [Newport & Getz 2025](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}<br>[TLNP #17 Elissa Newport]{.my-badge .podcast} (optional)
 | Thurs 12/3 | Researcher panel |  [Submit questions](https://www.menti.com/bldf9ra1coas){.my-badge .due}
-| Friday 12/4 ||  [Panel reflection](requirements.qmd#panel){.my-badge .due}
-| Tues 12/8 | Group projects| [Presentations](controversy.qmd#project-timeline){.my-badge .controversy} |
-| Tues 12/15 | [Exam #4: 9-11am]{.exam}
+| Friday 12/4 ||  [Reflection](requirements.qmd#panel){.my-badge .due}
+| Tues 12/8 | Projects| [Presentations](controversy.qmd#project-timeline){.my-badge .controversy} |
+| Tues 12/15 | [Exam #4: 9-11am WGR 202]{.exam}
 
 [20]:https://docs.google.com/presentation/d/14ts_qWc8MWS1DKYGt7pTv5ol86jUo7lbpXWExmrhVAY/edit?usp=drive_link
 [21]:https://docs.google.com/presentation/d/1DO98RvebDiw2ZDgDk9Au0ipXh8stk_DfqESRdY19kZI/edit?usp=drive_link
@@ -37,7 +38,7 @@ title: "Open questions"
 
 * [BrainFacts.org: Critical periods](https://www.brainfacts.org/archives/2012/critical-periods)
 * [PBS: Deaf advocates say learning sign language early is crucial](https://www.pbs.org/video/deaf-learning-1687030137/)
-* [Stroke.org: Perinatal stroke](https://www.stroke.org.uk/stroke/childhood/stroke-unborn-newborn-babies-perinatal-stroke)
-* [TLNP: Dr. Elissa Newport on perinatal stroke](https://langneurosci.org/podcast/)
+* [Stroke.org: Perinatal stroke](https://www.stroke.org.uk/stroke/childhood/stroke-unborn-newborn-babies-perinatal-stroke)  
+* [TLNP: Dr. Elissa Newport on perinatal stroke](https://langneurosci.org/podcast/){.my-badge .podcast}
 :::
 ::::

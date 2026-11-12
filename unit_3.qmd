@@ -23,16 +23,15 @@ title: "Functional organization"
 | - | -- | -- |
 | Thurs 10/29 | Language sounds [][14]{.my-badge .slides} | [Speech Perception Experiment](https://docs.google.com/document/d/1lzCX_SzdS1Ottvs-v_i4TQwiTqCNI_jTqqcrs_ZyIyk/edit?tab=t.0){.my-badge .due}
 | Friday 10/30 | | <i>Nothing due</i>
-| Tues 11/3 | Language sounds [][15]{.my-badge .slides}| [<u>SGN</u> p. 44-54]{.my-badge .reading}<br>[Mesgarani et al. (2014) p. 1006](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article} <br>[TLNP #23: Dr. Chang](https://langneurosci.org/podcast/){.my-badge .podcast} (optional)
-| Thurs 11/5 | Language sounds [][16]{.my-badge .slides} | [Grodzinsky & Nelken (2014)](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>[<u>SGN</u> p. 82-89]{.my-badge .reading}
-| Friday 11/6 | | [Research Summary (draft)](controversy.qmd#project-timeline){.my-badge .controversy}
+| Tues 11/3 | Language sounds [][15]{.my-badge .slides}| [<u>SGN</u> p. 44-54]{.my-badge .reading}<br>[Mesgarani et al. 2014 p. 1006](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article} <br>[TLNP #23: Dr. Chang](https://langneurosci.org/podcast/){.my-badge .podcast} (optional)
+| Thurs 11/5 | Language sounds [][16]{.my-badge .slides} | [Grodzinsky & Nelken 2014](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}<br>[<u>SGN</u> p. 82-89]{.my-badge .reading}
+| Friday 11/6 | | [Summary (draft)](controversy.qmd#project-timeline){.my-badge .controversy}
 | Tues 11/10 | Words; Sentences [][17]{.my-badge .slides}| [<u>SGN</u> p. 116-119; 139-143]{.my-badge .reading}<br>[Pallier et al. 2011: Introduction, Materials](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Thurs 11/12 | Sentences [][18]{.my-badge .slides} | [Pallier et al. 2011: Results, Discussion](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
-| Fri 11/13 | |[Research Summary (final)](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/17 | Sentences; Specialization & specificity [][19]{.my-badge .slides} | [TLNP #35: Greg Hickok](https://langneurosci.org/podcast/){.my-badge .podcast} 52:35-end
+| Fri 11/13 | |[Summary (final)](controversy.qmd#project-timeline){.my-badge .controversy}
+| Tues 11/17 | Frameworks [][19]{.my-badge .slides} |[SGN p. 44-54, 82-89, 139-143]{.my-badge .reading} (re-read)
 | Thurs 11/19 | [Exam #3]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
-| Sunday 11/22 | | [Proposal for follow-up study (draft)](controversy.qmd#project-timeline){.my-badge .controversy}
-
+| Sunday 11/22 | | [Draft study proposal](controversy.qmd#project-timeline){.my-badge .controversy} [Idea for format](controversy.qmd#project-timeline){.my-badge .controversy}
 
 [13]:https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?usp=drive_link
 [14]:https://docs.google.com/presentation/d/1bxWYIUxzYSOlG_zuyWXFf_vdAwgnB3ufjztYZLuYNnk/edit?usp=drive_link
@@ -51,6 +50,8 @@ title: "Functional organization"
 
 * [Phonetic Segments and Features](https://open.maricopa.edu/essentialsoflinguistics/chapter/4-4-phonetic-segments-and-features/)
 * [Categorical Perception stimuli](https://splab.net/apd/u100/)
+* [Voice Onset Time (VOT) explanation](https://www.youtube.com/watch?is=A2ESSrYqZXDIMa-q&v=7BUcgA_KcL4&feature=youtu.be)
+* [VOT cross-linguistically](https://www.youtube.com/watch?v=7BUcgA_KcL4)
 * [The McGurk effect](https://www.intro2psycholing.net/resources/McGurk/McGurk1.php)
 * [The phoneme restoration effect](https://learninglink.oup.com/access/content/sedivy-2e-student-resources/sedivy2e-chapter-7-web-activity-4?previousFilter=tag_activities)
 * [TMS Demonstration](https://nancysbraintalks.mit.edu/video_page/watch-nancys-brain-get-zapped-transcranial-magnetic-stimulation/)
