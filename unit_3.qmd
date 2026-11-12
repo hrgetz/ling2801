@@ -42,7 +42,6 @@ title: "Functional organization"
 [19]:https://docs.google.com/presentation/d/1uazlg7TY-kE46UZHPluNJzPfIBowFjMZvQwKtYUP7ls/edit?usp=drive_link
 [model-groups]:https://docs.google.com/document/d/18LRIjrWCDZ3l8KxocG2lspuPIucQliFyYOjJlGjZSBU/edit?tab=t.0
 
-
 :::: {.unit-card-row}
 {{< include _includes/legend.qmd >}}
 
