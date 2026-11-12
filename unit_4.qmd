@@ -9,17 +9,16 @@ title: "Open questions"
 
 | Date | Topic |  Due |
 | - | --- | --- |
-| Tues 11/24 | Open questions [][20]{.my-badge .slides} | [TLNP #35 Greg Hickok: 52:35-end](https://langneurosci.org/podcast/){.my-badge .podcast}
+| Tues 11/24 | Open questions [][20]{.my-badge .slides} [][model-groups]{.my-badge .group}| [TLNP #35 Greg Hickok: 52:35-end](https://langneurosci.org/podcast/){.my-badge .podcast}
 | Tues 12/1 | Language acquisition and the brain [][21]{.my-badge .slides}| [Submit questions for panelists](https://www.menti.com/bldf9ra1coas){.my-badge .due}<br>[Newport & Getz 2025](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}<br>[TLNP #17 Elissa Newport](https://langneurosci.org/podcast/){.my-badge .podcast} (optional)
 | Thurs 12/3 | Researcher panel |
-| Friday 12/4 ||  [Schematic & comments](https://docs.google.com/document/d/18LRIjrWCDZ3l8KxocG2lspuPIucQliFyYOjJlGjZSBU/edit?tab=t.0){.my-badge .due}<br>[Reflection](requirements.qmd#panel){.my-badge .due}
-| Tues 12/8 | Presentations & wrap up| [Final project](controversy.qmd#project-timeline){.my-badge .controversy} |
+| Friday 12/4 ||  [Schematic & comments](https://docs.google.com/document/d/18LRIjrWCDZ3l8KxocG2lspuPIucQliFyYOjJlGjZSBU/edit?tab=t.0){.my-badge .due}<br>[Reflection](https://docs.google.com/document/d/1hSWGBl0IwcP4XMsamgb3blFk5L_GU0vvLM0jkOqXGYA/edit?tab=t.0){.my-badge .due}
+| Tues 12/8 | Presentations & wrap up| [Course project](controversy.qmd#project-timeline){.my-badge .controversy} |
 | Tues 12/15 | [Exam #4: 9-11am WGR 202]{.exam}
 
 [20]:https://docs.google.com/presentation/d/14ts_qWc8MWS1DKYGt7pTv5ol86jUo7lbpXWExmrhVAY/edit?usp=drive_link
 [21]:https://docs.google.com/presentation/d/1DO98RvebDiw2ZDgDk9Au0ipXh8stk_DfqESRdY19kZI/edit?usp=drive_link
-
-
+[model-groups]:https://docs.google.com/document/d/18LRIjrWCDZ3l8KxocG2lspuPIucQliFyYOjJlGjZSBU/edit?tab=t.0
 
 
 :::: {.unit-card-row}
