@@ -30,7 +30,7 @@ title: "Foundation"
 1. Explain the logic of the lesion/deficit mapping method
 1. Describe two methods that can be used to assess lateralization of language
 
-**Scientific inquiry**
+**Scientific explanation**
 
 1. Distinguish evidence, inferences, and ideas in scientific text
 1. For the following claim, (a) describe scientific evidence that supports the claim and (b) explain why the evidence supports the claim
@@ -51,7 +51,7 @@ title: "Foundation"
 | Weds 9/16 | | [Aphasia Lab]{.my-badge .due}
 | Thurs 9/17 |  Lateralization <br>Natalya Vladyko, Georgetown University| [MacNeilage et al. 2009](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .reading}<br>Optional: [The left brain vs. right brain myth](https://www.youtube.com/watch?v=ZMSbDwpIyF4) |
 | Friday 9/19 | 
-| Tues 9/22 | [Exam #1]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
+| Tues 9/22 | [Exam #1]{.exam} | [EXAM](https://docs.google.com/document/d/1u0OsU0bOLQfIRre5RjqEfQLD6AQwlvSHS93TEbkkUqM/edit?tab=t.0){.hidden-notes}
 
 [1]:https://docs.google.com/presentation/d/1S-twq_R9KZWHKwUxCgpskvh7g66OaMdo1Z-OYOKt820/edit
 [2]:https://docs.google.com/presentation/d/1jyQqxVLcxgUTMdSuKAvVXysoGkv5phrmmoFLspAKKng/edit

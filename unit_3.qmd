@@ -29,8 +29,8 @@ title: "Functional organization"
 | Tues 11/10 | Words; Sentences [][17]{.my-badge .slides}| [<u>SGN</u> p. 116-119; 139-143]{.my-badge .reading}<br>[Pallier et al. 2011: Introduction, Materials](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Thurs 11/12 | Sentences [][18]{.my-badge .slides} | [Pallier et al. 2011: Results, Discussion](https://drive.google.com/drive/folders/1pZBhxxiW7N0s8KQqUXg5bnKWopzKVloB){.my-badge .article}
 | Fri 11/13 | |[Summary (final)](controversy.qmd#project-timeline){.my-badge .controversy}
-| Tues 11/17 | Frameworks [][19]{.my-badge .slides} [][model-groups]{.my-badge .group} |[SGN p. 44-54, 82-89, 139-143]{.my-badge .reading} (re-read)
-| Thurs 11/19 | [Exam #3]{.exam} | [EXAM](https://docs.google.com/document/d/1xqyKwzCgk0IGJtY-chgaHPRHnAcvainx24OzlT1st_Y/edit?usp=sharing){.hidden-notes}
+| Tues 11/17 | Review [][19]{.my-badge .slides} [][model-groups]{.my-badge .group} |[SGN p. 44-54, 82-89, 139-143]{.my-badge .reading} (re-read)
+| Thurs 11/19 | [Exam #3]{.exam} | [EXAM](https://docs.google.com/document/d/1YjFZnWCzJ1nCg1HEwAlWM5xE2Bu1qgPgJMOO4K0i1Ow/edit?usp=drive_web&ouid=116455203139637484332){.hidden-notes}
 | Sunday 11/22 | | [Draft study proposal](controversy.qmd#project-timeline){.my-badge .controversy} [Idea for format](controversy.qmd#project-timeline){.my-badge .controversy}
 
 [13]:https://docs.google.com/presentation/d/1AjYvk7ckzUOj0pFkItxFlR4eAeioK25fLUiPUwgR_9k/edit?usp=drive_link
