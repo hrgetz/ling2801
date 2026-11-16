@@ -6,7 +6,7 @@ title: "Functional organization"
 
 **The toolbox**
 
-1. Define the following terms: *phoneme*, *phonetic feature*, *contrastive*, *morpheme*, *constituent*
+1. Define the following terms: *phoneme*, *phonetic feature*, *contrastive*, *constituent*
 1. Explain what is measured by each of these research tools, list characteristics of each method, and identify pros and cons: fMRI, PET, (a)MEG, ECoG, classical speech perception experiments
 
 **Scientific explanation**
